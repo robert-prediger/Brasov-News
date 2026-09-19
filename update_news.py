@@ -145,7 +145,101 @@ def words(title):
         w for w in simple(title).split()
         if len(w) >= 4 and w not in STOPWORDS
     }
+def event_fingerprint(title):
+    """
+    Creează o amprentă semantică simplă a evenimentului.
+    Normalizează forme apropiate ale aceluiași cuvânt,
+    astfel încât titlurile formulate diferit să poată
+    fi recunoscute ca aceeași știre.
+    """
+    ws = words(title)
+    normalized = set()
 
+    stems = {
+        "sechestrat": "sechestr",
+        "sechestrare": "sechestr",
+        "sechestrului": "sechestr",
+        "retinut": "retin",
+        "retinere": "retin",
+        "arestat": "retin",
+        "arestare": "retin",
+        "copilul": "copil",
+        "copilului": "copil",
+        "copii": "copil",
+        "tatal": "tata",
+        "tatalui": "tata",
+        "parcari": "parcare",
+        "parcarilor": "parcare",
+        "sofer": "sofer",
+        "soferi": "sofer",
+        "soferilor": "sofer",
+        "sanctionat": "sanctiune",
+        "sanctionati": "sanctiune",
+        "sanctiuni": "sanctiune",
+        "reabilitata": "reabilitare",
+        "reabilitat": "reabilitare",
+        "modernizata": "modernizare",
+        "modernizat": "modernizare",
+    }
+
+    for w in ws:
+        normalized.add(stems.get(w, w))
+
+    # Numerele sunt foarte utile pentru identificarea
+    # aceluiași eveniment: 2 ani, 58 șoferi etc.
+    # Transformă și numerele scrise cu litere în aceeași
+    # formă ca numerele scrise cu cifre.
+    number_words = {
+        "un": "1",
+        "unu": "1",
+        "una": "1",
+        "doi": "2",
+        "doua": "2",
+        "trei": "3",
+        "patru": "4",
+        "cinci": "5",
+        "sase": "6",
+        "sapte": "7",
+        "opt": "8",
+        "noua": "9",
+        "zece": "10",
+    }
+
+    clean_title = simple(title)
+
+    for word, number in number_words.items():
+        if re.search(r"\b" + re.escape(word) + r"\b", clean_title):
+            normalized.add("#" + number)
+
+    # Transformă și numerele scrise cu litere în aceeași
+    # formă ca numerele scrise cu cifre.
+    number_words = {
+        "un": "1",
+        "unu": "1",
+        "una": "1",
+        "doi": "2",
+        "doua": "2",
+        "trei": "3",
+        "patru": "4",
+        "cinci": "5",
+        "sase": "6",
+        "sapte": "7",
+        "opt": "8",
+        "noua": "9",
+        "zece": "10",
+    }
+
+    clean_title = simple(title)
+
+    for word, number in number_words.items():
+        if re.search(r"\b" + re.escape(word) + r"\b", clean_title):
+            normalized.add("#" + number)
+
+    for n in re.findall(r"\b\d+\b", clean_title):
+        normalized.add("#" + n)
+
+    return normalized
+  
 
 def numbers(title):
     return set(
@@ -399,6 +493,7 @@ def similarity_values(a, b):
     return seq, containment, jaccard, len(common)
 
 def same_story(a, b):
+    # Exact același URL.
     if canonical_url(a["url"]) == canonical_url(b["url"]):
         return True
 
@@ -407,29 +502,41 @@ def same_story(a, b):
         b["title"]
     )
 
-    wa = words(a["title"])
-    wb = words(b["title"])
-    common = wa & wb
-
     na = numbers(a["title"])
     nb = numbers(b["title"])
-
     same_numbers = bool(na and nb and na & nb)
 
-    # 1. Titluri aproape identice.
+    # Amprenta evenimentului.
+    fa = event_fingerprint(a["title"])
+    fb = event_fingerprint(b["title"])
+    fingerprint_common = fa & fb
+
+    if fa and fb:
+        fingerprint_containment = (
+            len(fingerprint_common) / min(len(fa), len(fb))
+        )
+        fingerprint_jaccard = (
+            len(fingerprint_common) / len(fa | fb)
+        )
+    else:
+        fingerprint_containment = 0
+        fingerprint_jaccard = 0
+
+    # 1. Titluri foarte asemănătoare.
     if seq >= 0.72:
         return True
 
-    # 2. Un site folosește un titlu mult mai lung.
+    # 2. Un titlu este practic o versiune mai lungă
+    # a celuilalt.
     if containment >= 0.68 and common_count >= 4:
         return True
 
-    # 3. Vocabular foarte apropiat.
+    # 3. Vocabular comun suficient de puternic.
     if jaccard >= 0.44 and common_count >= 4:
         return True
 
-    # 4. Același număr important + același context.
-    # Exemplu: "58 de șoferi..."
+    # 4. Același număr important + context comun.
+    # Exemplu: 58 de șoferi.
     if (
         same_numbers
         and common_count >= 3
@@ -437,39 +544,32 @@ def same_story(a, b):
     ):
         return True
 
-    # 5. Multe cuvinte distinctive comune.
-    if common_count >= 5 and containment >= 0.50:
+    # 5. Amprentă foarte apropiată.
+    if (
+        len(fingerprint_common) >= 4
+        and fingerprint_containment >= 0.60
+    ):
         return True
 
-    # 6. Entități / expresii distinctive.
-    # Prinde aceeași poveste chiar dacă publicațiile
-    # construiesc titlurile foarte diferit.
-    distinctive_groups = (
-        {"copil", "tata", "sechestrat"},
-        {"copil", "tata", "doi"},
-        {"parcari", "regulament", "brasov"},
-        {"parcare", "regulament", "brasov"},
-        {"psihiatrie", "zarnesti", "sectia"},
-        {"adrian", "ilie", "brasov"},
-        {"bolile", "mitocondriale", "verde"},
-        {"castelul", "bran", "europa"},
-    )
+    # 6. Număr comun + amprentă semantică.
+    # Foarte util pentru formulări precum:
+    # "copil ținut 2 ani" / "copil sechestrat timp de doi ani".
+    if (
+        same_numbers
+        and len(fingerprint_common) >= 3
+        and fingerprint_containment >= 0.45
+    ):
+        return True
 
-    for group in distinctive_groups:
-        if (
-            len(group & wa) >= 2
-            and len(group & wb) >= 2
-            and len(common) >= 2
-        ):
-            return True
-
-    # 7. Titluri diferite, dar cu cel puțin patru
-    # cuvinte semnificative comune și acoperire bună.
-    if common_count >= 4 and containment >= 0.52:
+    # 7. Amprente cu multe elemente comune,
+    # chiar dacă titlurile sunt construite diferit.
+    if (
+        len(fingerprint_common) >= 5
+        and fingerprint_jaccard >= 0.35
+    ):
         return True
 
     return False
-
 
 def collect_links(source):
     found = []
