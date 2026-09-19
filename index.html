@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1220">
+<title>Brașov News — Daily Brief</title>
+<style>
+:root{--bg:#08101d;--card:#111c2d;--card2:#16243a;--text:#f5f7fb;--muted:#9eabc0;--accent:#57a7ff;--line:#24334a}
+*{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:linear-gradient(180deg,#08101d,#0c1626);color:var(--text)}
+.wrap{max-width:760px;margin:auto;padding:24px 16px 50px}
+header{padding:18px 4px 12px}.brand{font-size:13px;letter-spacing:.16em;color:#83bdff;font-weight:800}.title{font-size:34px;margin:7px 0 5px}.sub{color:var(--muted);font-size:16px}
+.status{display:flex;gap:8px;align-items:center;color:#9ee6b0;font-size:13px;margin-top:12px}.dot{width:8px;height:8px;border-radius:50%;background:#54d879}
+.card{background:rgba(17,28,45,.96);border:1px solid var(--line);border-radius:20px;padding:18px;margin:15px 0;box-shadow:0 10px 30px #0003}
+.card h2{margin:0 0 10px;font-size:20px}.brief{font-size:16px;line-height:1.55;color:#e6ebf4}
+.tabs{display:flex;gap:8px;overflow:auto;padding:4px 0 8px}.tab{white-space:nowrap;background:var(--card2);border:1px solid var(--line);padding:9px 12px;border-radius:999px;color:#dce7f7;font-size:13px}
+.story{padding:16px 0;border-top:1px solid var(--line)}.story:first-of-type{border-top:0}.meta{font-size:12px;color:#88a0be;margin-bottom:6px}.story h3{font-size:18px;line-height:1.28;margin:0 0 7px}.story p{margin:0 0 10px;color:#bdc8d8;line-height:1.45}.story a{color:var(--accent);text-decoration:none;font-weight:700}
+.empty{text-align:center;color:var(--muted);padding:22px 8px}
+footer{text-align:center;color:#718099;font-size:12px;padding:20px}
+</style>
+</head>
+<body>
+<main class="wrap">
+<header>
+<div class="brand">BRAȘOV NEWS</div>
+<h1 class="title">Daily Brief</h1>
+<div class="sub" id="today">Știrile care contează. Fără zgomot.</div>
+<div class="status"><span class="dot"></span><span id="updated">Pagina este pregătită pentru fluxul automat de știri</span></div>
+</header>
+
+<section class="card">
+<h2>⚡ Brașov în 60 de secunde</h2>
+<div class="brief" id="brief">Aici va apărea automat rezumatul celor mai importante știri ale zilei din Brașov, după conectarea surselor și a actualizării automate.</div>
+</section>
+
+<div class="tabs">
+<span class="tab">🔥 Top</span><span class="tab">🏙️ Oraș</span><span class="tab">🚗 Trafic</span>
+<span class="tab">🚨 Evenimente</span><span class="tab">💰 Economie</span><span class="tab">🏗️ Dezvoltare</span>
+<span class="tab">⚽ Sport</span><span class="tab">🎭 Timp liber</span>
+</div>
+
+<section class="card">
+<h2>🔥 Top știri</h2>
+<div id="stories" class="empty">Fluxul de știri va fi conectat în pasul următor.</div>
+</section>
+
+<footer>Sursele originale vor fi indicate pentru fiecare articol • Brașov News</footer>
+</main>
+<script>
+const d=new Date();
+document.getElementById("today").textContent=d.toLocaleDateString("ro-RO",{weekday:"long",day:"numeric",month:"long",year:"numeric"})+" • Știrile care contează. Fără zgomot.";
+</script>
+</body>
+</html>
