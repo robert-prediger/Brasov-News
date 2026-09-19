@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "name": "BizBrașov",
+      "url": "https://bizbrasov.ro/",
+      "type": "press"
+    },
+    {
+      "name": "MyTex",
+      "url": "https://mytex.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Bună Ziua Brașov",
+      "url": "https://bzb.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Brașov.net",
+      "url": "https://www.brasov.net/",
+      "type": "press"
+    },
+    {
+      "name": "NewsBV",
+      "url": "https://newsbv.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Monitorul Expres",
+      "url": "https://www.monitorulexpres.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Brașov Știri",
+      "url": "https://brasovstiri.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Radio România Brașov FM",
+      "url": "https://www.radiobrasovfm.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Ziarul Metropolitan Brașov",
+      "url": "https://www.zmbv.ro/",
+      "type": "press"
+    },
+    {
+      "name": "Transilvania365",
+      "url": "https://transilvania365.ro/",
+      "type": "press"
+    }
+  ]
+}
