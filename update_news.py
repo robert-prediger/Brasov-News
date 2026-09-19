@@ -13,19 +13,15 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
 UA = {
-    "User-Agent":
-    "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/5.0)"
+    "User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/6.0)"
 }
 
 TZ = ZoneInfo("Europe/Bucharest")
 NOW = datetime.now(TZ)
 
-# Păstrăm numai articolele publicate în ultimele 36 de ore.
 MAX_AGE_HOURS = 36
-
-# Numărul de articole verificate simultan.
-# 12 este suficient de rapid fără să bombardăm site-urile.
 MAX_WORKERS = 12
+
 
 LOCAL = (
     "brasov", "poiana brasov", "rasnov", "sacele",
@@ -35,12 +31,16 @@ LOCAL = (
     "bod", "budila", "cincu", "prejmer"
 )
 
+
 BAD = (
     "cookie", "privacy", "contact", "publicitate",
     "termeni", "facebook", "instagram", "youtube",
     "whatsapp", "abonare", "newsletter",
-    "despre noi", "politica de confidentialitate"
+    "despre noi", "politica de confidentialitate",
+    "copyright", "toate drepturile rezervate",
+    "ziarul metropolitan brasov"
 )
+
 
 STOPWORDS = {
     "a", "ai", "ale", "al", "am", "an", "are", "au",
@@ -49,20 +49,15 @@ STOPWORDS = {
     "in", "la", "mai", "o", "pe", "pentru", "prin",
     "sa", "se", "si", "sunt", "un", "una", "unei",
     "unui", "dintr", "intr", "spre", "sau", "iar",
-    "brasov", "brasovean", "brasoveni", "brasovului"
+    "brasov", "brasovean", "brasoveni", "brasovului",
+    "video", "foto", "astazi", "acum"
 }
 
 
 def safe_url(url):
-    """
-    Transformă caracterele Unicode din URL (ș, ț, ă etc.)
-    în forma percent-encoded acceptată de urllib.
-    """
     parts = urllib.parse.urlsplit(url)
 
-    host = parts.netloc.encode(
-        "idna"
-    ).decode("ascii")
+    host = parts.netloc.encode("idna").decode("ascii")
 
     path = urllib.parse.quote(
         urllib.parse.unquote(parts.path),
@@ -79,75 +74,37 @@ def safe_url(url):
         safe=""
     )
 
-    return urllib.parse.urlunsplit((
-        parts.scheme,
-        host,
-        path,
-        query,
-        fragment
-    ))
+    return urllib.parse.urlunsplit(
+        (parts.scheme, host, path, query, fragment)
+    )
 
 
 def fetch(url, timeout=10):
-    url = safe_url(url)
-
     req = urllib.request.Request(
-        url,
+        safe_url(url),
         headers=UA
     )
 
-    with urllib.request.urlopen(
-        req,
-        timeout=timeout
-    ) as r:
-        return r.read().decode(
-            "utf-8",
-            "ignore"
-        )
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "ignore")
 
 
 def strip_accents(text):
     return "".join(
-        c
-        for c in unicodedata.normalize(
-            "NFKD",
-            text
-        )
+        c for c in unicodedata.normalize("NFKD", text)
         if not unicodedata.combining(c)
     )
 
 
 def simple(text):
-    text = strip_accents(
-        html.unescape(text)
-    ).lower()
-
-    text = re.sub(
-        r"https?://\S+",
-        " ",
-        text
-    )
-
-    text = re.sub(
-        r"[^a-z0-9 ]+",
-        " ",
-        text
-    )
-
-    return re.sub(
-        r"\s+",
-        " ",
-        text
-    ).strip()
+    text = strip_accents(html.unescape(text)).lower()
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r"[^a-z0-9 ]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def clean(text):
-    text = re.sub(
-        r"<[^>]+>",
-        " ",
-        text
-    )
-
+    text = re.sub(r"<[^>]+>", " ", text)
     return re.sub(
         r"\s+",
         " ",
@@ -168,25 +125,15 @@ def canonical_url(url):
         for k, v in query
         if not k.lower().startswith("utm_")
         and k.lower() not in {
-            "fbclid",
-            "gclid",
-            "ref",
-            "source"
+            "fbclid", "gclid", "ref", "source"
         }
     ]
 
-    path = re.sub(
-        r"/+$",
-        "",
-        p.path
-    )
+    path = re.sub(r"/+$", "", p.path)
 
     return urllib.parse.urlunsplit((
         p.scheme.lower(),
-        p.netloc.lower().replace(
-            "www.",
-            ""
-        ),
+        p.netloc.lower().replace("www.", ""),
         path,
         urllib.parse.urlencode(query),
         ""
@@ -195,303 +142,149 @@ def canonical_url(url):
 
 def words(title):
     return {
-        w
-        for w in simple(title).split()
-        if len(w) >= 4
-        and w not in STOPWORDS
+        w for w in simple(title).split()
+        if len(w) >= 4 and w not in STOPWORDS
     }
 
 
 def numbers(title):
     return set(
-        re.findall(
-            r"\b\d+\b",
-            simple(title)
-        )
+        re.findall(r"\b\d+\b", simple(title))
     )
 
 
-def similarity(a, b):
-    sa = simple(a)
-    sb = simple(b)
+def title_is_valid(title):
+    s = simple(title)
 
-    seq = SequenceMatcher(
-        None,
-        sa,
-        sb
-    ).ratio()
+    if len(title) < 28 or len(title) > 240:
+        return False
 
-    wa = words(a)
-    wb = words(b)
+    if len(words(title)) < 3:
+        return False
 
-    if not wa or not wb:
-        return seq
+    if any(b in s for b in BAD):
+        return False
 
-    overlap = (
-        len(wa & wb)
-        / min(len(wa), len(wb))
-    )
+    # Elemente de navigație / branding.
+    junk_exact = {
+        "zmbv ro ziarul metropolitan brasov",
+        "ziarul metropolitan brasov",
+        "brasov net",
+        "biz brasov",
+        "transilvania365",
+        "stiri brasov"
+    }
 
-    union = (
-        len(wa & wb)
-        / len(wa | wb)
-    )
+    if s in junk_exact:
+        return False
 
-    return max(
-        seq,
-        overlap,
-        union
-    )
-
-
-def same_story(a, b):
-    if canonical_url(
-        a["url"]
-    ) == canonical_url(
-        b["url"]
-    ):
-        return True
-
-    score = similarity(
-        a["title"],
-        b["title"]
-    )
-
-    na = numbers(a["title"])
-    nb = numbers(b["title"])
-
-    common_numbers = bool(
-        na & nb
-    )
-
-    if score >= 0.78:
-        return True
-
-    if (
-        common_numbers
-        and score >= 0.55
-    ):
-        return True
-
-    wa = words(a["title"])
-    wb = words(b["title"])
-
-    common = wa & wb
-
-    if len(common) >= 4:
-        coverage = (
-            len(common)
-            / min(
-                len(wa),
-                len(wb)
-            )
-        )
-
-        if coverage >= 0.55:
-            return True
-
-    return False
+    return True
 
 
 def category(title):
     x = simple(title)
 
-    emergency = (
-        "accident",
-        "incend",
-        "pompier",
-        "smurd",
-        "salvamont",
-        "urgenta",
-        "interventie",
-        "disparut",
-        "perchezit",
-        "retinut",
-        "arest",
-        "politia",
-        "politisti",
-        "isu brasov"
-    )
+    groups = [
+        (
+            "🚨 Evenimente / urgențe",
+            (
+                "accident", "incend", "pompier", "smurd",
+                "salvamont", "urgenta", "interventie",
+                "disparut", "perchezit", "retinut",
+                "arest", "politia", "politisti", "crima"
+            )
+        ),
+        (
+            "⚽ Sport",
+            (
+                "fotbal", "hochei", "handbal", "baschet",
+                "volei", "schi", "atlet", "campionat",
+                "liga", "meci", "turneu", "cupa",
+                "corona brasov", "fc brasov"
+            )
+        ),
+        (
+            "🎭 Evenimente & timp liber",
+            (
+                "concert", "festival", "teatru", "opera",
+                "targ", "expozit", "spectacol", "cinema",
+                "muzeu", "eveniment cultural"
+            )
+        ),
+        (
+            "🏙️ Oraș & administrație",
+            (
+                "primaria", "consiliul local",
+                "consiliul judetean", "prefectura",
+                "municipiul", "primar", "spital",
+                "scoala", "administratie"
+            )
+        ),
+        (
+            "🏗️ Dezvoltare",
+            (
+                "construct", "santier", "moderniz",
+                "amenaj", "reabilit", "renov",
+                "infrastructur", "lucrari"
+            )
+        ),
+        (
+            "💰 Business & economie",
+            (
+                "business", "afaceri", "companie",
+                "fabrica", "investitie", "investitii",
+                "antreprenor", "economie", "angajari",
+                "salarii", "magazin", "hotel",
+                "restaurant"
+            )
+        )
+    ]
 
-    sport = (
-        "fotbal",
-        "hochei",
-        "handbal",
-        "baschet",
-        "volei",
-        "schi",
-        "atlet",
-        "campionat",
-        "liga",
-        "meci",
-        "turneu",
-        "cupa",
-        "corona brasov",
-        "fc brasov"
-    )
-
-    culture = (
-        "concert",
-        "festival",
-        "teatru",
-        "opera",
-        "targ",
-        "expozit",
-        "spectacol",
-        "cinema",
-        "muzeu",
-        "eveniment cultural"
-    )
-
-    administration = (
-        "primaria",
-        "consiliul local",
-        "consiliul judetean",
-        "prefectura",
-        "municipiul",
-        "primar",
-        "spital",
-        "scoala",
-        "administratie"
-    )
-
-    development = (
-        "construct",
-        "santier",
-        "moderniz",
-        "amenaj",
-        "reabilit",
-        "renov",
-        "infrastructur",
-        "lucrari"
-    )
-
-    business = (
-        "business",
-        "afaceri",
-        "companie",
-        "fabrica",
-        "investitie",
-        "investitii",
-        "antreprenor",
-        "economie",
-        "angajari",
-        "salarii",
-        "magazin",
-        "hotel",
-        "restaurant"
-    )
+    for name, keys in groups:
+        if any(k in x for k in keys):
+            return name
 
     traffic = (
-        "trafic rutier",
-        "circulatie",
-        "dn1",
-        "dn 1",
-        "autostrada",
-        "parcare",
-        "ratbv",
-        "autobuz",
-        "troleibuz",
-        "transport public",
-        "gara",
-        "restrictii de circulatie",
-        "drum inchis",
+        "trafic rutier", "circulatie", "dn1", "dn 1",
+        "autostrada", "parcare", "ratbv", "autobuz",
+        "troleibuz", "transport public", "gara",
+        "restrictii de circulatie", "drum inchis",
         "drum blocat"
     )
 
-    if any(
-        k in x
-        for k in emergency
-    ):
-        return "🚨 Evenimente / urgențe"
-
-    if any(
-        k in x
-        for k in sport
-    ):
-        return "⚽ Sport"
-
-    if any(
-        k in x
-        for k in culture
-    ):
-        return "🎭 Evenimente & timp liber"
-
-    if any(
-        k in x
-        for k in administration
-    ):
-        return "🏙️ Oraș & administrație"
-
-    if any(
-        k in x
-        for k in development
-    ):
-        return "🏗️ Dezvoltare"
-
-    if any(
-        k in x
-        for k in business
-    ):
-        return "💰 Business & economie"
-
     if (
         "trafic de influenta" not in x
-        and any(
-            k in x
-            for k in traffic
-        )
+        and any(k in x for k in traffic)
     ):
         return "🚗 Trafic & transport"
 
     return "🔥 Local"
 
 
-MONTHS = {
-    "ianuarie": 1,
-    "februarie": 2,
-    "martie": 3,
-    "aprilie": 4,
-    "mai": 5,
-    "iunie": 6,
-    "iulie": 7,
-    "august": 8,
-    "septembrie": 9,
-    "octombrie": 10,
-    "noiembrie": 11,
-    "decembrie": 12
-}
-
-
 def parse_date(value):
-    value = html.unescape(
-        value
-    ).strip()
+    if not value:
+        return None
 
+    value = html.unescape(value).strip()
+
+    # ISO 8601 - formatul folosit de metadata articolelor.
     try:
-        v = value.replace(
-            "Z",
-            "+00:00"
-        )
-
+        v = value.replace("Z", "+00:00")
         d = datetime.fromisoformat(v)
 
         if d.tzinfo is None:
-            d = d.replace(
-                tzinfo=TZ
-            )
+            d = d.replace(tzinfo=TZ)
         else:
             d = d.astimezone(TZ)
 
         return d
-
     except Exception:
         pass
 
+    # dd.mm.yyyy / dd-mm-yyyy / dd/mm/yyyy
     m = re.search(
-        r"\b(\d{1,2})[./-]"
-        r"(\d{1,2})[./-]"
-        r"(20\d{2})\b",
+        r"\b(\d{1,2})[./-](\d{1,2})[./-](20\d{2})"
+        r"(?:[ T,]+(\d{1,2}):(\d{2}))?",
         value
     )
 
@@ -501,26 +294,8 @@ def parse_date(value):
                 int(m.group(3)),
                 int(m.group(2)),
                 int(m.group(1)),
-                tzinfo=TZ
-            )
-        except Exception:
-            pass
-
-    x = simple(value)
-
-    m = re.search(
-        r"\b(\d{1,2})\s+("
-        + "|".join(MONTHS.keys())
-        + r")\s+(20\d{2})\b",
-        x
-    )
-
-    if m:
-        try:
-            return datetime(
-                int(m.group(3)),
-                MONTHS[m.group(2)],
-                int(m.group(1)),
+                int(m.group(4) or 12),
+                int(m.group(5) or 0),
                 tzinfo=TZ
             )
         except Exception:
@@ -530,60 +305,65 @@ def parse_date(value):
 
 
 def extract_date(page):
-    values = []
+    """
+    IMPORTANT:
+    Căutăm numai metadata asociată articolului.
+    Nu mai folosim orice <time> sau orice dată din HTML,
+    deoarece poate aparține sidebar-ului sau altui articol.
+    """
 
     patterns = (
-        r'property=["\']article:published_time'
-        r'["\'][^>]*content=["\']([^"\']+)',
+        # OpenGraph
+        r'<meta[^>]+property=["\']article:published_time["\']'
+        r'[^>]+content=["\']([^"\']+)["\']',
 
-        r'content=["\']([^"\']+)["\'][^>]*'
-        r'property=["\']article:published_time["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\']'
+        r'[^>]+property=["\']article:published_time["\']',
 
-        r'name=["\']date["\'][^>]*'
-        r'content=["\']([^"\']+)',
-
+        # Schema.org JSON-LD
         r'"datePublished"\s*:\s*"([^"]+)"',
 
-        r'datetime=["\']([^"\']+)["\']'
+        # Schema.org meta
+        r'<meta[^>]+itemprop=["\']datePublished["\']'
+        r'[^>]+content=["\']([^"\']+)["\']',
+
+        r'<meta[^>]+content=["\']([^"\']+)["\']'
+        r'[^>]+itemprop=["\']datePublished["\']',
+
+        # Alte meta-taguri comune
+        r'<meta[^>]+name=["\'](?:date|pubdate|publish-date|'
+        r'publication_date)["\'][^>]+content=["\']([^"\']+)["\']',
+
+        r'<meta[^>]+content=["\']([^"\']+)["\']'
+        r'[^>]+name=["\'](?:date|pubdate|publish-date|'
+        r'publication_date)["\']'
     )
+
+    dates = []
 
     for pattern in patterns:
-        for m in re.finditer(
-            pattern,
-            page,
-            re.I
-        ):
-            values.append(
-                m.group(1)
-            )
+        for m in re.finditer(pattern, page, re.I):
+            d = parse_date(m.group(1))
 
-    month_names = "|".join(
-        MONTHS.keys()
-    )
+            if d is None:
+                continue
 
-    for m in re.finditer(
-        r"\b\d{1,2}\s+(?:"
-        + month_names
-        + r")\s+20\d{2}\b",
-        simple(page)
-    ):
-        values.append(
-            m.group(0)
-        )
+            # Eliminăm date evident imposibile.
+            if d > NOW + timedelta(hours=3):
+                continue
 
-    valid_dates = []
+            if d < NOW - timedelta(days=3650):
+                continue
 
-    for value in values:
-        d = parse_date(value)
+            dates.append(d)
 
-        if d and d <= NOW + timedelta(days=1):
-            valid_dates.append(d)
-
-    if not valid_dates:
+    if not dates:
         return None
 
-    # Preferăm cea mai recentă dată validă găsită.
-    return max(valid_dates)
+    # Dacă există mai multe metadata, folosim prima dată
+    # validă din partea principală a documentului, nu cea
+    # mai recentă dată găsită în întreaga pagină.
+    return dates[0]
 
 
 def recent(date):
@@ -593,85 +373,116 @@ def recent(date):
     age = NOW - date
 
     return (
-        timedelta(hours=-2)
+        timedelta(hours=-3)
         <= age
-        <= timedelta(
-            hours=MAX_AGE_HOURS
-        )
+        <= timedelta(hours=MAX_AGE_HOURS)
     )
 
 
+def similarity_values(a, b):
+    sa = simple(a)
+    sb = simple(b)
+
+    seq = SequenceMatcher(None, sa, sb).ratio()
+
+    wa = words(a)
+    wb = words(b)
+
+    if not wa or not wb:
+        return seq, 0, 0, 0
+
+    common = wa & wb
+
+    containment = len(common) / min(len(wa), len(wb))
+    jaccard = len(common) / len(wa | wb)
+
+    return seq, containment, jaccard, len(common)
+
+
+def same_story(a, b):
+    if canonical_url(a["url"]) == canonical_url(b["url"]):
+        return True
+
+    seq, containment, jaccard, common_count = similarity_values(
+        a["title"],
+        b["title"]
+    )
+
+    na = numbers(a["title"])
+    nb = numbers(b["title"])
+
+    same_numbers = bool(na and nb and na & nb)
+
+    # Titluri aproape identice.
+    if seq >= 0.72:
+        return True
+
+    # Un site scrie titlul mult mai lung decât altul.
+    if containment >= 0.70 and common_count >= 4:
+        return True
+
+    # Aceleași cuvinte esențiale.
+    if jaccard >= 0.48 and common_count >= 4:
+        return True
+
+    # Numere identice + context foarte asemănător.
+    # Exemplu: "58 de șoferi..."
+    if (
+        same_numbers
+        and common_count >= 3
+        and containment >= 0.50
+    ):
+        return True
+
+    # Detectăm titluri care împart multe cuvinte rare.
+    if common_count >= 6 and containment >= 0.55:
+        return True
+
+    return False
+
+
 def collect_links(source):
-    """
-    Citește pagina principală a unei surse și întoarce
-    articolele locale candidate, fără a deschide încă
-    fiecare articol.
-    """
     found = []
 
     try:
-        home = fetch(
-            source["url"],
-            timeout=10
-        )
+        home = fetch(source["url"], timeout=10)
 
         source_host = (
-            urllib.parse.urlparse(
-                source["url"]
-            )
-            .netloc
-            .lower()
+            urllib.parse.urlparse(source["url"])
+            .netloc.lower()
             .replace("www.", "")
         )
 
         seen_source_urls = set()
 
         for m in re.finditer(
-            r'<a\b[^>]*href=["\']'
-            r'([^"\']+)["\'][^>]*>'
+            r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>'
             r'(.*?)</a>',
             home,
             re.I | re.S
         ):
             url = urllib.parse.urljoin(
                 source["url"],
-                html.unescape(
-                    m.group(1)
-                )
+                html.unescape(m.group(1))
             )
 
-            title = clean(
-                m.group(2)
-            )
+            title = clean(m.group(2))
+
+            if not title_is_valid(title):
+                continue
 
             low = simple(title)
 
-            if (
-                len(title) < 28
-                or len(title) > 240
-            ):
-                continue
-
-            if any(
-                b in low
-                for b in BAD
-            ):
-                continue
-
             article_host = (
                 urllib.parse.urlparse(url)
-                .netloc
-                .lower()
+                .netloc.lower()
                 .replace("www.", "")
             )
 
             if source_host != article_host:
                 continue
 
-            if not any(
-                place in low
-                for place in LOCAL
-            ):
+            if not any(place in low for place in LOCAL):
                 continue
 
             cu = canonical_url(url)
@@ -688,28 +499,19 @@ def collect_links(source):
             })
 
     except Exception as e:
-        print(
-            "SOURCE ERROR:",
-            source["name"],
-            e
-        )
+        print("SOURCE ERROR:", source["name"], e)
 
     return found
 
 
 def check_article(article):
-    """
-    Deschide un articol și verifică data publicării.
-    Funcția aceasta va rula în paralel.
-    """
     try:
-        page = fetch(
-            article["url"],
-            timeout=10
-        )
+        page = fetch(article["url"], timeout=10)
 
         published = extract_date(page)
 
+        # Fără dată de publicare verificabilă nu intră
+        # în Daily Brief.
         if not recent(published):
             return None
 
@@ -717,11 +519,8 @@ def check_article(article):
             "title": article["title"],
             "url": article["url"],
             "source": article["source"],
-            "category": category(
-                article["title"]
-            ),
-            "published":
-                published.isoformat()
+            "category": category(article["title"]),
+            "published": published.isoformat()
         }
 
     except Exception as e:
@@ -731,37 +530,27 @@ def check_article(article):
             article["url"],
             e
         )
-
         return None
 
 
 cfg = json.loads(
-    Path("sources.json").read_text(
-        encoding="utf-8"
-    )
+    Path("sources.json").read_text(encoding="utf-8")
 )
 
 
-# -------------------------------------------------
-# 1. Colectăm linkurile de pe toate sursele.
-# -------------------------------------------------
-
+# 1. Colectăm candidații de pe toate sursele.
 links = []
 
 for source in cfg["sources"]:
-    links.extend(
-        collect_links(source)
-    )
+    links.extend(collect_links(source))
 
 
-# Eliminăm URL-urile duplicate înainte să deschidem articolele.
+# 2. Eliminăm URL-urile duplicate înainte de download.
 unique_links = []
 seen_urls = set()
 
 for article in links:
-    cu = canonical_url(
-        article["url"]
-    )
+    cu = canonical_url(article["url"])
 
     if cu in seen_urls:
         continue
@@ -777,73 +566,70 @@ print(
 )
 
 
-# -------------------------------------------------
-# 2. Verificăm datele articolelor ÎN PARALEL.
-# -------------------------------------------------
-
+# 3. Verificăm data articolelor în paralel.
 candidates = []
 
-with ThreadPoolExecutor(
-    max_workers=MAX_WORKERS
-) as executor:
-
-    futures = [
-        executor.submit(
-            check_article,
-            article
-        )
+with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    future_map = {
+        executor.submit(check_article, article): article
         for article in unique_links
-    ]
+    }
 
-    for future in as_completed(futures):
-        result = future.result()
+    for future in as_completed(future_map):
+        try:
+            result = future.result()
 
-        if result is not None:
-            candidates.append(result)
+            if result is not None:
+                candidates.append(result)
+
+        except Exception as e:
+            article = future_map[future]
+
+            print(
+                "WORKER ERROR:",
+                article["source"],
+                article["url"],
+                e
+            )
 
 
-# Cele mai noi primele.
+# Cele mai recente primele.
 candidates.sort(
     key=lambda x: x["published"],
     reverse=True
 )
 
 
-# -------------------------------------------------
-# 3. Eliminăm aceeași știre publicată de mai multe site-uri.
-# -------------------------------------------------
-
+# 4. Deduplicare între publicații.
 out = []
 
 for article in candidates:
     duplicate = False
 
     for existing in out:
-        if same_story(
-            article,
-            existing
-        ):
+        if same_story(article, existing):
             duplicate = True
+            print(
+                "DUPLICATE:",
+                article["source"],
+                article["title"],
+                "==",
+                existing["source"],
+                existing["title"]
+            )
             break
 
     if not duplicate:
         out.append(article)
 
 
-# -------------------------------------------------
-# 4. Salvăm news.json.
-# -------------------------------------------------
-
+# 5. Salvăm rezultatul.
 Path("news.json").write_text(
     json.dumps(
         {
-            "updated":
-                NOW.strftime(
-                    "%d.%m.%Y, %H:%M"
-                ),
+            "updated": NOW.strftime("%d.%m.%Y, %H:%M"),
             "count": len(out),
-            "raw_count":
-                len(candidates),
+            "raw_count": len(candidates),
             "items": out
         },
         ensure_ascii=False,
@@ -858,7 +644,7 @@ print(
     len(out),
     "unique recent Brasov stories from",
     len(candidates),
-    "recent candidates and",
+    "verified recent candidates and",
     len(cfg["sources"]),
     "sources"
 )
