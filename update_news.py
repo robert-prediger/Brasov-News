@@ -16,9 +16,12 @@ NOW = datetime.now(TZ)
 MAX_AGE_HOURS = 36
 MAX_WORKERS = 12
 
-LOCAL = ("brasov","poiana brasov","rasnov","sacele","ghimbav","codlea","zarnesti",
-         "fagaras","cristian","sanpetru","harman","predeal","bran","rupea","victoria",
-         "feldioara","bod","budila","cincu","prejmer")
+LOCAL = ("brasov",)
+
+# Focus: municipiul Brașov. Articolele exclusiv despre alte localități
+# din județ nu sunt colectate. Dacă titlul leagă explicit evenimentul
+# de Brașov, articolul poate intra în continuare.
+
 BAD = ("cookie","privacy","contact","publicitate","termeni","facebook","instagram",
        "youtube","whatsapp","abonare","newsletter","despre noi",
        "politica de confidentialitate","copyright","toate drepturile rezervate",
