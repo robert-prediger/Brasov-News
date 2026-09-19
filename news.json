@@ -1,6 +1,6 @@
 {
-  "updated": "19.09.2026, 18:32",
-  "count": 65,
+  "updated": "19.09.2026, 18:54",
+  "count": 67,
   "raw_count": 83,
   "items": [
     {
@@ -88,13 +88,6 @@
       "published": "2026-09-19T11:17:43+03:00"
     },
     {
-      "title": "Fapt divers acum 5 ore Acțiune a poliției rutiere în Brașov: 58 de șoferi prinși cu viteza peste limita legală",
-      "url": "https://www.brasov.net/actiune-a-politiei-rutiere-in-brasov-58-de-soferi-prinsi-cu-viteza-peste-limita-legala/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-19T11:00:06+03:00"
-    },
-    {
       "title": "Reconfigurare totală pe strada Ioan Socec din Brașov: Trafic mai sigur și parcare nouă pentru viitorul campus preșcolar din Tractorul",
       "url": "https://mytex.ro/expres/reconfigurare-totala-pe-strada-ioan-socec-din-brasov-trafic-mai-sigur-si-parcare-noua-pentru-viitorul-campus-prescolar-din-tractorul/",
       "source": "MyTex",
@@ -179,13 +172,6 @@
       "published": "2026-09-18T21:14:34+03:00"
     },
     {
-      "title": "Brașov: Bărbat reținut după ce și-ar fi ținut copilul la domiciliu timp de peste doi ani, încălcând programul stabilit de instanță",
-      "url": "https://newsbv.ro/brasov-barbat-retinut-copil-program-vizita/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-18T19:37:42+03:00"
-    },
-    {
       "title": "Etapa 4 Liga 3 | Kids Tâmpa Brașov continuă seria neagră. Înfrângere pe terenul liderului Sepsi OSK II",
       "url": "https://www.monitorulexpres.ro/2026/09/18/etapa-4-liga-3-kids-tampa-brasov-continua-seria-neagra-infrangere-pe-terenul-liderului-sepsi-osk-ii/",
       "source": "Monitorul Expres",
@@ -219,6 +205,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-18T15:41:43+03:00"
+    },
+    {
+      "title": "Brașov se colorează în verde pentru bolile mitocondriale. Primăria Brașov și...",
+      "url": "https://transilvania365.ro/brasov-se-coloreaza-in-verde-pentru-bolile-mitocondriale-primaria-brasov-si-literele-brasov-de-pe-tampa-vor-fi-iluminate-pe-19-septembrie/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-18T15:20:26+03:00"
     },
     {
       "title": "Peste 50 de șoferi vitezomani au fost sancționați de Poliția Brașov într-o singură zi (VIDEO)",
@@ -298,6 +291,13 @@
       "published": "2026-09-18T13:25:12+03:00"
     },
     {
+      "title": "Primăria și sigla Brașovului de pe Tâmpa se vor lumina în verde pentru a atrage atenția asupra bolilor mitocondriale",
+      "url": "https://bizbrasov.ro/2026/09/18/primaria-sigla-brasov-verde-boli/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-18T13:21:38+03:00"
+    },
+    {
       "title": "Peste 7.400 de șomeri în evidențele AJOFM Brașov",
       "url": "https://brasovstiri.ro/peste-7-400-de-someri-in-evidentele-ajofm-brasov/",
       "source": "Brașov Știri",
@@ -338,6 +338,13 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-09-18T11:58:45+03:00"
+    },
+    {
+      "title": "Adrian Ilie și șansele de a prelua conducerea FCM Brașov: Planul „Cobrei” pentru readucerea fotbalului de sub Tâmpa în Superligă",
+      "url": "https://mytex.ro/sport/adrian-ilie-si-sansele-de-a-prelua-conducerea-fcm-brasov-planul-cobrei-pentru-readucerea-fotbalului-de-sub-tampa-in-superliga/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-18T11:30:05+03:00"
     },
     {
       "title": "Un Maserati decapotabil înmatriculat în străinătate a ajuns în râpă, pe Transfăgărășan",
@@ -422,6 +429,13 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-18T08:51:42+03:00"
+    },
+    {
+      "title": "Secția de Psihiatrie Zărnești a fost complet reabilitată și renovată energetic. Investiţie de aproape 14 milioane de lei (FOTO&VIDEO)",
+      "url": "https://newsbv.ro/sectia-de-psihiatrie-zarnesti-reabilitata-renovata/",
+      "source": "NewsBV",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-09-18T08:42:19+03:00"
     },
     {
       "title": "VIDEO. Marian Constantinescu, despre obiectivul Coronei Brașov: „Dacă reușim să ajungem...",
