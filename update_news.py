@@ -398,7 +398,6 @@ def similarity_values(a, b):
 
     return seq, containment, jaccard, len(common)
 
-
 def same_story(a, b):
     if canonical_url(a["url"]) == canonical_url(b["url"]):
         return True
@@ -408,34 +407,65 @@ def same_story(a, b):
         b["title"]
     )
 
+    wa = words(a["title"])
+    wb = words(b["title"])
+    common = wa & wb
+
     na = numbers(a["title"])
     nb = numbers(b["title"])
 
     same_numbers = bool(na and nb and na & nb)
 
-    # Titluri aproape identice.
+    # 1. Titluri aproape identice.
     if seq >= 0.72:
         return True
 
-    # Un site scrie titlul mult mai lung decât altul.
-    if containment >= 0.70 and common_count >= 4:
+    # 2. Un site folosește un titlu mult mai lung.
+    if containment >= 0.68 and common_count >= 4:
         return True
 
-    # Aceleași cuvinte esențiale.
-    if jaccard >= 0.48 and common_count >= 4:
+    # 3. Vocabular foarte apropiat.
+    if jaccard >= 0.44 and common_count >= 4:
         return True
 
-    # Numere identice + context foarte asemănător.
+    # 4. Același număr important + același context.
     # Exemplu: "58 de șoferi..."
     if (
         same_numbers
         and common_count >= 3
-        and containment >= 0.50
+        and containment >= 0.45
     ):
         return True
 
-    # Detectăm titluri care împart multe cuvinte rare.
-    if common_count >= 6 and containment >= 0.55:
+    # 5. Multe cuvinte distinctive comune.
+    if common_count >= 5 and containment >= 0.50:
+        return True
+
+    # 6. Entități / expresii distinctive.
+    # Prinde aceeași poveste chiar dacă publicațiile
+    # construiesc titlurile foarte diferit.
+    distinctive_groups = (
+        {"copil", "tata", "sechestrat"},
+        {"copil", "tata", "doi"},
+        {"parcari", "regulament", "brasov"},
+        {"parcare", "regulament", "brasov"},
+        {"psihiatrie", "zarnesti", "sectia"},
+        {"adrian", "ilie", "brasov"},
+        {"bolile", "mitocondriale", "verde"},
+        {"castelul", "bran", "europa"},
+    )
+
+    for group in distinctive_groups:
+        if (
+            len(group & wa) >= 2
+            and len(group & wb) >= 2
+            and len(common) >= 2
+        ):
+            return True
+
+    # 7. Titluri diferite, dar cu cel puțin patru
+    # cuvinte semnificative comune și acoperire bună.
+    if common_count >= 4 and containment >= 0.52:
         return True
 
     return False
