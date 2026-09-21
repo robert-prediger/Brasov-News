@@ -1,8 +1,50 @@
 {
-  "updated": "21.09.2026, 13:07",
-  "count": 47,
-  "raw_count": 52,
+  "updated": "21.09.2026, 13:34",
+  "count": 56,
+  "raw_count": 68,
   "items": [
+    {
+      "title": "Unde mai poți face analize și imagistică decontate în Brașov: Lista furnizorilor care mai au fonduri CAS",
+      "url": "https://www.monitorulexpres.ro/2026/09/21/unde-mai-poti-face-analize-si-imagistica-decontate-in-brasov-lista-furnizorilor-care-mai-au-fonduri-cas/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-21T13:30:52+03:00"
+    },
+    {
+      "title": "Brașovenii, sfătuiți de pompieri să evite anumite zone, în contextul atenționării de vânt puternic",
+      "url": "https://mytex.ro/expres/brasovenii-sfatuiti-de-pompieri-sa-evite-anumite-zone-in-contextul-atentionarii-de-vant-puternic/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-21T13:30:01+03:00"
+    },
+    {
+      "title": "Dr. Max va prelua controlul mai multor farmacii din județul Brașov, operate de un grup de firme buzoian",
+      "url": "https://bizbrasov.ro/2026/09/21/dr-max-control-farmacii-brasov-grup/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-21T13:28:50+03:00"
+    },
+    {
+      "title": "Alzheimerul nu mai e doar boala vârstnicilor! Peste 1.900 de brașoveni sunt afectați. DSP: „Diagnosticul precoce face diferența”",
+      "url": "https://transilvania365.ro/alzheimerul-nu-mai-e-doar-boala-varstnicilor-peste-1-900-de-brasoveni-sunt-afectati-dsp-diagnosticul-precoce-face-diferenta/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-21T13:14:32+03:00"
+    },
+    {
+      "title": "Mașină răsturnată pe drumul spre Poiana Brașov! Șofer de 60 de ani, rănit în accident",
+      "url": "https://transilvania365.ro/masina-rasturnata-pe-drumul-spre-poiana-brasov-sofer-de-60-de-ani-ranit-in-accident/",
+      "source": "Transilvania365",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-21T13:10:59+03:00"
+    },
+    {
+      "title": "Râșnovul devine scena marilor campioni canini! Expoziție internațională pe 26 și 27 septembrie",
+      "url": "https://transilvania365.ro/rasnovul-devine-scena-marilor-campioni-canini-expozitie-internationala-pe-26-si-27-septembrie/",
+      "source": "Transilvania365",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-21T13:06:04+03:00"
+    },
     {
       "title": "Creștere alarmantă a cazurilor de Alzheimer în județul Brașov: Aproape 2.000 de pacienți în evidențele medicilor de familie în 2026",
       "url": "https://bizbrasov.ro/2026/09/21/alzheimer-brasov-crestere-alarmanta/",
@@ -16,20 +58,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-21T12:46:57+03:00"
-    },
-    {
-      "title": "Mașină răsturnată pe DN1E, între Poiana Brașov și Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/09/21/masina-rasturnata-pe-dn1e-intre-poiana-brasov-si-brasov/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-21T12:46:13+03:00"
-    },
-    {
-      "title": "Fapt divers acum 2 minute Accident pe drumul de Poiana Brașov: Un autoturism s-a răsturnat, traficul este îngreunat Un accident rutier a dat peste cap circulația pe drumul care leagă municipiul Brașov de stațiunea Poiana Brașov, după ce...",
-      "url": "https://www.brasov.net/accident-pe-drumul-de-poiana-brasov-un-autoturism-s-a-rasturnat-traficul-este-ingreunat/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-21T12:40:31+03:00"
     },
     {
       "title": "BRAȘOV | Autoturism răsturnat pe Drumul Poienii!",
@@ -60,13 +88,6 @@
       "published": "2026-09-21T12:30:48+03:00"
     },
     {
-      "title": "Autoturism răsturnat pe drumul Brașov – Poiana Brașov. Banda de urcare spre stațiune este blocată",
-      "url": "https://newsbv.ro/autoturism-rasturnat-drum-brasov-poiana-brasov-trafic/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-21T12:30:46+03:00"
-    },
-    {
       "title": "HOCHEI: Corona Brașov a învins pe e ACS Sapientia U23",
       "url": "https://newsbv.ro/corona-brasov-a-invins-pe-e-acs-sapientia-u23/",
       "source": "NewsBV",
@@ -79,13 +100,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-21T12:29:24+03:00"
-    },
-    {
-      "title": "Mașină răsturnată pe drumul spre Poiana Brașov. Traficul în zonă se desfășoară îngreunat",
-      "url": "https://bizbrasov.ro/2026/09/21/masina-rasturnata-poiana-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-21T12:26:58+03:00"
     },
     {
       "title": "172 de dosare soluționate prin rechizitoriu, la parchetele din BRAȘOV, în august. 63 de persoane reținute",
@@ -130,11 +144,11 @@
       "published": "2026-09-21T11:37:34+03:00"
     },
     {
-      "title": "Unde mai pot face brașovenii investigații medicale gratuite: Lista furnizorilor care mai au fonduri de la CAS",
-      "url": "https://bizbrasov.ro/2026/09/21/brasovenii-investigatii-medicale-lista/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-21T11:12:47+03:00"
+      "title": "Bărbat accidentat în Munţii Făgăraş, preluat de elicopterul SMURD",
+      "url": "https://newsbv.ro/barbat-accidentat-muntii-fagaras-elicopterul-smurd/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-21T11:29:38+03:00"
     },
     {
       "title": "COD GALBEN de vreme rece la Brașov. ANM anunță că temperaturile scad cu până la 12 grade. Lapoviță și ninsoare la munte",
@@ -142,6 +156,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-09-21T11:01:41+03:00"
+    },
+    {
+      "title": "Spectacol total la Râșnov: Anna Twardosz a reușit dubla în Grand Prix-ul de Vară!",
+      "url": "https://www.monitorulexpres.ro/2026/09/21/spectacol-total-la-rasnov-anna-twardosz-a-reusit-dubla-in-grand-prix-ul-de-vara/",
+      "source": "Monitorul Expres",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-21T10:53:01+03:00"
     },
     {
       "title": "Vine frigul peste Brașov! Vântul lovește cu rafale de 90 km/h,...",
@@ -184,6 +205,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-21T09:36:48+03:00"
+    },
+    {
+      "title": "Campanie de colectare a deșeurilor electrice, la Săcele. Cinci puncte de predare și ridicare gratuită de la domiciliu",
+      "url": "https://www.monitorulexpres.ro/2026/09/21/campanie-de-colectare-a-deseurilor-electrice-la-sacele-cinci-puncte-de-predare-si-ridicare-gratuita-de-la-domiciliu/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-21T09:19:58+03:00"
     },
     {
       "title": "Intervenții la rețeaua de apă din Brașov. Lucrări programate în mai...",
@@ -249,6 +277,27 @@
       "published": "2026-09-21T04:50:00+03:00"
     },
     {
+      "title": "Apă și canalizare pentru singura mănăstire din Țara Bârsei. Ce investiție pregătește Primăria Cristian",
+      "url": "https://bizbrasov.ro/2026/09/21/apa-canalizare-manastire-cristian/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-21T04:46:00+03:00"
+    },
+    {
+      "title": "Intervenție Salvamont pentru evacuarea unui bărbat accidentat în Munții Făgăraș",
+      "url": "https://www.monitorulexpres.ro/2026/09/20/interventie-salvamont-pentru-evacuarea-unui-barbat-accidentat-in-muntii-fagaras/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-20T19:11:50+03:00"
+    },
+    {
+      "title": "Anna Twardosz a semnat o dublă istorică la Râșnov / Cum s-au comportat săritorii români",
+      "url": "https://mytex.ro/sport/anna-twardosz-a-semnat-o-dubla-istorica-la-rasnov-cum-s-au-comportat-saritorii-romani/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-20T18:51:05+03:00"
+    },
+    {
       "title": "Vremea se schimbă radical la Brașov: Temperaturi în scădere cu până la 12 grade, vânt puternic și ninsori pe crestele montane",
       "url": "https://mytex.ro/expres/vremea-se-schimba-radical-la-brasov-temperaturi-in-scadere-cu-pana-la-12-grade-vant-puternic-si-ninsori-pe-crestele-montane/",
       "source": "MyTex",
@@ -298,18 +347,18 @@
       "published": "2026-09-20T14:35:31+03:00"
     },
     {
+      "title": "Căsuțele Hobbit din Făgăraș, de vânzare pentru 600.000 euro",
+      "url": "https://www.zmbv.ro/casutele-hobbit-din-fagaras-de-vanzare-pentru-600-000-euro/20/09/2026/117963/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-20T11:14:38+03:00"
+    },
+    {
       "title": "Corona Brașov II, victorie pe teren propriu: Elevele Mihaelei Ciobotaru s-au impus în fața celor de la ACS HC Harghita",
       "url": "https://mytex.ro/sport/corona-brasov-ii-victorie-pe-teren-propriu-elevele-mihaelei-ciobotaru-s-au-impus-in-fata-celor-de-la-acs-hc-harghita/",
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-20T10:04:29+03:00"
-    },
-    {
-      "title": "Căsuțele Hobbit de la poalele munților Făgăraș, scoase la vânzare. Cât costă complexul inspirat de „Stăpânul Inelelor” aflat la 80 de kilometri de Brașov",
-      "url": "https://bizbrasov.ro/2026/09/20/casutele-hobbit-fagaras-stapanul-inelelor/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-20T09:57:34+03:00"
     },
     {
       "title": "Poliția Brașov caută un bărbat în vârstă de 79 de ani plecat voluntar de la domiciliu",
@@ -324,6 +373,20 @@
       "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-20T08:52:56+03:00"
+    },
+    {
+      "title": "„Tortul bate trofeul!” – Declarația simpatică a japonezului Naoki Nakamura după ce a împlinit 30 de ani și a câștigat la Râșnov",
+      "url": "https://mytex.ro/sport/tortul-bate-trofeul-declaratia-simpatica-a-japonezului-naoki-nakamura-dupa-ce-a-implinit-30-de-ani-si-a-castigat-la-rasnov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-20T08:37:00+03:00"
+    },
+    {
+      "title": "Zboruri spectaculoase pe Valea Cărbunării – Râșnov: Daniela Toth în Top 20, Naoki Nakamura victorie memorabilă chiar de ziua lui!",
+      "url": "https://mytex.ro/sport/zboruri-spectaculoase-pe-valea-carbunarii-rasnov-daniela-toth-in-top-20-naoki-nakamura-victorie-memorabila-chiar-de-ziua-lui/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-20T08:11:30+03:00"
     },
     {
       "title": "Corona Brașov Triumfă cu 7-0 împotriva Carpați Covasna",
