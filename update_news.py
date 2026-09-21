@@ -10,18 +10,15 @@ from zoneinfo import ZoneInfo
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/7.0)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/8.0)"}
 TZ = ZoneInfo("Europe/Bucharest")
 NOW = datetime.now(TZ)
 MAX_AGE_HOURS = 36
 MAX_WORKERS = 12
 
-LOCAL = ("brasov",)
-
-# Focus: municipiul Brașov. Articolele exclusiv despre alte localități
-# din județ nu sunt colectate. Dacă titlul leagă explicit evenimentul
-# de Brașov, articolul poate intra în continuare.
-
+LOCAL = ("brasov","poiana brasov","rasnov","sacele","ghimbav","codlea","zarnesti",
+         "fagaras","cristian","sanpetru","harman","predeal","bran","rupea","victoria",
+         "feldioara","bod","budila","cincu","prejmer")
 BAD = ("cookie","privacy","contact","publicitate","termeni","facebook","instagram",
        "youtube","whatsapp","abonare","newsletter","despre noi",
        "politica de confidentialitate","copyright","toate drepturile rezervate",
@@ -42,7 +39,14 @@ STEMS = {
     "parcarilor":"parcare","soferi":"sofer","soferilor":"sofer",
     "sanctionat":"sanctiune","sanctionati":"sanctiune","sanctiuni":"sanctiune",
     "reabilitata":"reabilitare","reabilitat":"reabilitare",
-    "modernizata":"modernizare","modernizat":"modernizare"
+    "modernizata":"modernizare","modernizat":"modernizare",
+    "masina":"autoturism","masini":"autoturism","autovehicul":"autoturism",
+    "autovehicule":"autoturism","vehicul":"autoturism","vehicule":"autoturism",
+    "rasturnata":"rasturnat","rasturnate":"rasturnat","rasturnare":"rasturnat",
+    "circulatia":"trafic","circulatie":"trafic","traficul":"trafic",
+    "ingreunat":"trafic","blocata":"trafic","blocat":"trafic",
+    "incendiu":"incend","incendiul":"incend","incendii":"incend",
+    "pompieri":"pompier","politisti":"politie","politistii":"politie"
 }
 
 def safe_url(url):
@@ -88,10 +92,23 @@ def numbers(title):
             result.add(NUMBER_WORDS[token])
     return result
 
+def normalized_words(title):
+    return {STEMS.get(w,w) for w in words(title)}
+
 def event_fingerprint(title):
-    result={STEMS.get(w,w) for w in words(title)}
+    result=normalized_words(title)
     result.update("#"+n for n in numbers(title))
     return result
+
+def event_core(title):
+    w=normalized_words(title)
+    event_terms={"accident","autoturism","rasturnat","trafic","incend","pompier","politie",
+                 "retin","sechestr","copil","parcare","sofer","sanctiune","meci","corona",
+                 "spital","reabilitare","modernizare","aeroport","drum","transport",
+                 "tampa","poiana","dn1e","ghimbav","sacele","rasnov","codlea","zarnesti"}
+    core=w & event_terms
+    core.update("#"+n for n in numbers(title))
+    return core
 
 def title_is_valid(title):
     s=simple(title)
@@ -174,6 +191,10 @@ def same_story(a,b):
     fp_containment=len(common_fp)/min(len(fa),len(fb)) if fa and fb else 0
     fp_jaccard=len(common_fp)/len(fa|fb) if fa and fb else 0
     same_numbers=bool(numbers(a["title"]) & numbers(b["title"]))
+    ca,cb=event_core(a["title"]),event_core(b["title"])
+    common_core=ca&cb
+
+    # Original text/fingerprint checks.
     if seq>=0.72: return True
     if containment>=0.68 and common_count>=4: return True
     if jaccard>=0.44 and common_count>=4: return True
@@ -181,6 +202,11 @@ def same_story(a,b):
     if len(common_fp)>=4 and fp_containment>=0.58: return True
     if same_numbers and len(common_fp)>=3 and fp_containment>=0.38: return True
     if len(common_fp)>=5 and fp_jaccard>=0.32: return True
+
+    # Event-aware checks: recognize the same event even when publishers
+    # use different wording (e.g. masina/autoturism, blocat/trafic).
+    if len(common_core)>=3 and len(common_fp)>=3: return True
+    if len(common_core)>=2 and len(common_fp)>=4 and fp_containment>=0.40: return True
     return False
 
 def collect_links(source):
