@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#08101d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Brașov News">
 <title>Brașov News</title>
 
 <style>
@@ -64,19 +67,25 @@ Selecție automată din publicații locale • Link direct către sursa original
 
 <script>
 let DATA=[];
+let ACTIVE_CATEGORY="Toate";
+let LAST_UPDATED=null;
 
 const E=s=>String(s??"").replace(
   /[&<>"']/g,
   c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])
 );
 
-document.getElementById("date").textContent=
-new Date().toLocaleDateString(
-  "ro-RO",
-  {weekday:"long",day:"numeric",month:"long",year:"numeric"}
-)+" • Știrile care contează. Fără zgomot.";
+function updateDate(){
+  document.getElementById("date").textContent=
+    new Date().toLocaleDateString(
+      "ro-RO",
+      {weekday:"long",day:"numeric",month:"long",year:"numeric"}
+    )+" • Știrile care contează. Fără zgomot.";
+}
 
-function draw(cat="Toate"){
+function draw(cat=ACTIVE_CATEGORY){
+  ACTIVE_CATEGORY=cat;
+
   let a=cat==="Toate"
     ? DATA
     : DATA.filter(x=>x.category===cat);
@@ -104,14 +113,12 @@ function draw(cat="Toate"){
     || '<p class="muted">Nicio știre în această categorie.</p>';
 }
 
-fetch("news.json?"+Date.now())
-.then(r=>r.json())
-.then(x=>{
-
+function render(x){
   DATA=x.items||[];
+  LAST_UPDATED=x.updated||null;
 
   document.getElementById("status").textContent=
-    "● Ultima actualizare: "+x.updated;
+    "● Ultima actualizare: "+(x.updated||"necunoscută");
 
   document.getElementById("brief").innerHTML=
     DATA.length
@@ -134,6 +141,10 @@ fetch("news.json?"+Date.now())
     ...new Set(DATA.map(x=>x.category))
   ];
 
+  if(!cats.includes(ACTIVE_CATEGORY)){
+    ACTIVE_CATEGORY="Toate";
+  }
+
   document.getElementById("filters").innerHTML=
     cats.map(c=>`
       <button data-cat="${E(c)}">
@@ -150,11 +161,67 @@ fetch("news.json?"+Date.now())
       );
     });
 
-  draw();
-})
-.catch(()=>{
-  document.getElementById("status").textContent=
-    "● Așteaptă prima actualizare automată";
+  draw(ACTIVE_CATEGORY);
+}
+
+async function loadNews(showLoading=false){
+  if(showLoading && !DATA.length){
+    document.getElementById("status").textContent="● Se încarcă…";
+  }
+
+  try{
+    const r=await fetch(
+      "news.json?t="+Date.now(),
+      {cache:"no-store"}
+    );
+
+    if(!r.ok){
+      throw new Error("HTTP "+r.status);
+    }
+
+    const x=await r.json();
+
+    if(!LAST_UPDATED || x.updated!==LAST_UPDATED){
+      render(x);
+    }else{
+      document.getElementById("status").textContent=
+        "● Ultima actualizare: "+x.updated;
+    }
+  }catch(e){
+    if(!DATA.length){
+      document.getElementById("status").textContent=
+        "● Nu s-a putut verifica actualizarea";
+    }
+  }
+}
+
+updateDate();
+loadNews(true);
+
+/* Verifică automat la fiecare 5 minute cât timp pagina este deschisă. */
+setInterval(()=>{
+  if(!document.hidden){
+    loadNews(false);
+  }
+},5*60*1000);
+
+/* Când revii în pagină/aplicație după ce a stat în background,
+   verifică imediat dacă news.json s-a schimbat. */
+document.addEventListener("visibilitychange",()=>{
+  if(!document.hidden){
+    updateDate();
+    loadNews(false);
+  }
+});
+
+/* iOS poate restaura pagina din memorie fără reload complet. */
+window.addEventListener("pageshow",()=>{
+  updateDate();
+  loadNews(false);
+});
+
+window.addEventListener("focus",()=>{
+  loadNews(false);
 });
 </script>
 
