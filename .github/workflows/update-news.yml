@@ -3,7 +3,7 @@ name: Update Brasov News
 on:
   workflow_dispatch:
   schedule:
-  - cron: '17 7,12,17,21 * * *'
+  - cron: '23 * * * *'
     timezone: "Europe/Bucharest"
 
 permissions:
