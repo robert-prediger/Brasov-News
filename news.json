@@ -1,7 +1,7 @@
 {
-  "updated": "22.09.2026, 03:00",
-  "count": 67,
-  "raw_count": 85,
+  "updated": "22.09.2026, 04:00",
+  "count": 63,
+  "raw_count": 79,
   "items": [
     {
       "title": "Alocații Reluate pentru Elevii Majorii din Brașov",
@@ -60,13 +60,6 @@
       "published": "2026-09-21T19:23:19+03:00"
     },
     {
-      "title": "VIDEO / Sărbătoare cu dosar penal la Predeal: Un bărbat a oprit traficul pe DN 1 pentru a aprinde artificii în mijlocul drumului",
-      "url": "https://www.brasov.net/video-sarbatoare-cu-dosar-penal-la-predeal-un-barbat-a-oprit-traficul-pe-dn-1-pentru-a-aprinde-artificii-in-mijlocul-drumului/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-21T18:32:30+03:00"
-    },
-    {
       "title": "Educația timpurie în Braşov înseamnă oameni, nu doar ziduri: Părinții așteaptă fapte concretizate în bugete, nu doar declarații de intenție",
       "url": "https://mytex.ro/expres/educatia-timpurie-in-brasov-inseamna-oameni-nu-doar-ziduri-parintii-asteapta-fapte-concretizate-in-bugete-nu-doar-declaratii-de-intentie/",
       "source": "MyTex",
@@ -109,13 +102,6 @@
       "published": "2026-09-21T17:18:02+03:00"
     },
     {
-      "title": "Util acum 2 ore Săptămâna Prevenirii Criminalității, la Brașov. Cinci zile de acțiuni organizate de polițiști",
-      "url": "https://www.brasov.net/saptamana-prevenirii-criminalitatii-la-brasov-cinci-zile-de-actiuni-organizate-de-politisti/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-21T17:14:50+03:00"
-    },
-    {
       "title": "Numărul bolnavilor de Alzheimer din județul Brașov, în creștere. DSP atrage atenția asupra importanței diagnosticului timpuriu",
       "url": "https://www.monitorulexpres.ro/2026/09/21/numarul-bolnavilor-de-alzheimer-din-judetul-brasov-in-crestere-dsp-atrage-atentia-asupra-importantei-diagnosticului-timpuriu/",
       "source": "Monitorul Expres",
@@ -128,13 +114,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-21T16:25:17+03:00"
-    },
-    {
-      "title": "Administrație acum 3 ore Istoria ascunsă a Canalului Graft: Primăria Brașov pregătește reabilitarea albiei după modelul secolului al XIX-lea",
-      "url": "https://www.brasov.net/istoria-ascunsa-a-canalului-graft-primaria-brasov-pregateste-reabilitarea-albiei-dupa-modelul-secolului-al-xix-lea/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-21T16:14:28+03:00"
     },
     {
       "title": "Braşov. Ocoluri uriașe sau intimitate privată? Zidul dintre Urban Plaza și Cartierul Astra stârnește dezbateri aprinse",
@@ -163,6 +142,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-21T15:02:16+03:00"
+    },
+    {
+      "title": "Dosar penal pentru un bărbat după ce a oprit traficul pe DN1, la Predeal, pentru un foc de artificii (VIDEO)",
+      "url": "https://www.monitorulexpres.ro/2026/09/21/dosar-penal-pentru-un-barbat-dupa-ce-a-oprit-traficul-pe-dn1-la-predeal-pentru-un-foc-de-artificii-video/",
+      "source": "Monitorul Expres",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-21T15:00:37+03:00"
     },
     {
       "title": "BRAȘOV | Update în cazul de la Dumbrăvița: Dosar penal pentru tăieri ilegale de arbori și furt de material lemnos",
@@ -382,13 +368,6 @@
       "published": "2026-09-21T10:49:46+03:00"
     },
     {
-      "title": "HealthTalk acum 8 ore Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
-      "url": "https://www.brasov.net/spitalul-clinic-judetean-de-urgenta-brasov-isi-mareste-echipa-lista-posturilor-scoase-la-concurs/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-21T10:47:14+03:00"
-    },
-    {
       "title": "Transformare urbană în cartierul Uzina 2 din Braşov: Asfaltare, zone de recreere noi și măsuri sporite de siguranță pentru locuitori",
       "url": "https://mytex.ro/expres/transformare-urbana-in-cartierul-uzina-2-din-brasov-asfaltare-zone-de-recreere-noi-si-masuri-sporite-de-siguranta-pentru-locuitori/",
       "source": "MyTex",
@@ -464,13 +443,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-20T17:06:05+03:00"
-    },
-    {
-      "title": "Brașovean dat dispărut! Update: A fost găsit",
-      "url": "https://mytex.ro/112/brasovean-dat-disparut-3/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-20T15:35:01+03:00"
     }
   ]
 }
