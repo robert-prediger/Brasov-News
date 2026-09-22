@@ -1,8 +1,15 @@
 {
-  "updated": "22.09.2026, 21:00",
-  "count": 109,
-  "raw_count": 131,
+  "updated": "22.09.2026, 22:00",
+  "count": 108,
+  "raw_count": 130,
   "items": [
+    {
+      "title": "Două cutremure în Vrancea, astăzi, la zeci de kilometri de Brașov",
+      "url": "https://mytex.ro/expres/doua-cutremure-in-vrancea-astazi-la-zeci-de-kilometri-de-brasov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-22T21:49:31+03:00"
+    },
     {
       "title": "Reacția lui Marian Constantinescu, după Tricolorul Breaza – Corona Brașov 0-0: „Nu a intrat!”",
       "url": "https://www.monitorulexpres.ro/2026/09/22/reactia-lui-marian-constantinescu-dupa-tricolorul-breaza-corona-brasov-0-0-nu-a-intrat/",
@@ -529,13 +536,6 @@
       "published": "2026-09-22T09:24:24+03:00"
     },
     {
-      "title": "Pe A13 de la Boița la Făgăraș din avion: Când vom circula pe cei 68 km de autostradă construiți de turcii de la Makyol",
-      "url": "https://mytex.ro/expres/pe-a13-de-la-boita-la-fagaras-din-avion-cand-vom-circula-pe-cei-68-km-de-autostrada-construiti-de-turcii-de-la-makyol/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-22T09:20:43+03:00"
-    },
-    {
       "title": "Programul Operei Brașov: Recital ANATOLY la AFI Mall, seară muzicală în foaier și musicalul „Sunetul muzicii”",
       "url": "https://www.monitorulexpres.ro/2026/09/22/programul-operei-brasov-recital-anatoly-la-afi-mall-seara-muzicala-in-foaier-si-musicalul-sunetul-muzicii/",
       "source": "Monitorul Expres",
@@ -758,13 +758,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-21T10:32:10+03:00"
-    },
-    {
-      "title": "Înfruntarea încălzirii globale: Cum pot stațiunile montane din judeţul Brașov și din țară să evite falimentul în lipsa zăpezii",
-      "url": "https://mytex.ro/turism/infruntarea-incalzirii-globale-cum-pot-statiunile-montane-din-judetul-brasov-si-din-tara-sa-evite-falimentul-in-lipsa-zapezii/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-21T09:12:36+03:00"
     }
   ]
 }
