@@ -1,8 +1,29 @@
 {
-  "updated": "22.09.2026, 14:00",
-  "count": 97,
-  "raw_count": 112,
+  "updated": "22.09.2026, 15:00",
+  "count": 102,
+  "raw_count": 120,
   "items": [
+    {
+      "title": "Proprietarul Teleferic Grand Hotel din Poiana Braşov anunţă finalizarea unui proiect rezidenţial de peste 10 milioane de euro în comuna Cristian",
+      "url": "https://bizbrasov.ro/2026/09/22/teleferic-poiana-brasov-rezidential/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-09-22T14:38:27+03:00"
+    },
+    {
+      "title": "Criza îngrijitoarelor din creșele din Brașov. Viceprimarul Lucian Pătrașcu cere modificări legislative: „Nu putem răspunde părinților doar cu «nu mai este în atribuția noastră»”",
+      "url": "https://mytex.ro/expres/criza-ingrijitoarelor-din-cresele-din-brasov-viceprimarul-lucian-patrascu-cere-modificari-legislative-nu-putem-raspunde-parintilor-doar-cu-nu-mai-este-in-atributia-noastra/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T14:35:38+03:00"
+    },
+    {
+      "title": "Protest de amploare anunțat la Brașov. Părinții cer autorităților răspunsuri clare privind numărul de îngrijitoare din creșe",
+      "url": "https://bizbrasov.ro/2026/09/22/brasov-protest-anuntat-parintii-clare/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-22T14:20:54+03:00"
+    },
     {
       "title": "Lucian Patrașcu: „Situația personalului din creșele Brașovului trebuie clarificată. Copiii au nevoie de suficienți oameni care să le asigure îngrijirea și siguranța”",
       "url": "https://newsbv.ro/lucian-patrascu-situatia-personalului-crese-brasov/",
@@ -30,13 +51,6 @@
       "source": "Monitorul Expres",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-22T13:41:52+03:00"
-    },
-    {
-      "title": "Proiect rezidenţial de 10 milioane de euro în Cristian, realizat de proprietarul hotelului Teleferic din Poiana Braşov",
-      "url": "https://newsbv.ro/proiect-rezidential-de-10-milioane-de-euro-in-cristian/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-09-22T13:25:38+03:00"
     },
     {
       "title": "BRAȘOV | Tânăr de 20 de ani, prins drogat la volan, în Sânpetru",
@@ -79,6 +93,13 @@
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-22T12:34:03+03:00"
+    },
+    {
+      "title": "Util acum 40 de minute Întreruperi de energie electrică în județul Brașov. Vezi localitățile și străzile afectate",
+      "url": "https://www.brasov.net/intreruperi-de-energie-electrica-in-judetul-brasov-vezi-localitatile-si-strazile-afectate/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-22T12:29:36+03:00"
     },
     {
       "title": "Brașovul își construiește traseul către reziliența climatică prin proiectul european CARMINE",
@@ -130,6 +151,20 @@
       "published": "2026-09-22T11:38:12+03:00"
     },
     {
+      "title": "Social acum 2 ore Arest preventiv pentru un bărbat care a „terorizat” benzinăriile și magazinele din zona Făgărașului",
+      "url": "https://www.brasov.net/arest-preventiv-pentru-un-barbat-care-a-terorizat-benzinariile-si-magazinele-din-zona-fagarasului/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T11:34:20+03:00"
+    },
+    {
+      "title": "Administrație acum 2 ore Lucrări de igienizare și modernizare în cartierul Timiș-Triaj din Brașov",
+      "url": "https://www.brasov.net/lucrari-de-igienizare-si-modernizare-in-cartierul-timis-triaj-din-brasov/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T11:29:16+03:00"
+    },
+    {
       "title": "2029 – Anul Doina Cornea. 100 de ani de la naşterea braşovencei care s-a opus regimului comunist şi s-a alăturat Revoltei din 1987",
       "url": "https://newsbv.ro/2029-anul-doina-cornea/",
       "source": "NewsBV",
@@ -170,6 +205,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-22T10:55:59+03:00"
+    },
+    {
+      "title": "Util acum 2 ore Amenzi de 18.000 de lei pentru nerespectarea restricțiilor de tonaj în Brașov",
+      "url": "https://www.brasov.net/amenzi-de-18-000-de-lei-pentru-nerespectarea-restrictiilor-de-tonaj-in-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-22T10:48:54+03:00"
     },
     {
       "title": "Cum se pregătește Brașovul pentru schimbările climatice. Planuri până în 2050...",
@@ -275,13 +317,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-22T09:49:03+03:00"
-    },
-    {
-      "title": "După ce a rămas fără prelungirea autorizației de mediu, Fabrica de var din Brașov mai face o încercare: un singur cuptor va produce până la 250 de tone de var pe zi",
-      "url": "https://bizbrasov.ro/2026/09/22/autorizatie-mediu-fabrica-var-brasov/",
-      "source": "BizBrașov",
-      "category": "💰 Business & economie",
-      "published": "2026-09-22T09:46:47+03:00"
     },
     {
       "title": "Zeci de percheziții în București și 15 județe, în urma violențelor de la protestul „ciobanilor”. Niciun brașovean nu este vizat în această etapă a anchetei",
@@ -494,13 +529,6 @@
       "published": "2026-09-21T21:13:59+03:00"
     },
     {
-      "title": "Săptămâna Prevenirii Criminalității a început la Brașov. Polițiștii au ajuns la elevi cu lecții de siguranță rutieră",
-      "url": "https://mytex.ro/educatie/saptamana-prevenirii-criminalitatii-a-inceput-la-brasov-politistii-au-ajuns-la-elevi-cu-lectii-de-siguranta-rutiera/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-21T19:46:03+03:00"
-    },
-    {
       "title": "Istoria la vedere: Cum va fi readus la viață vechiul Canal Graft din Brașov",
       "url": "https://mytex.ro/expres/istoria-la-vedere-cum-va-fi-readus-la-viata-vechiul-canal-graft-din-brasov/",
       "source": "MyTex",
@@ -653,6 +681,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-21T10:49:46+03:00"
+    },
+    {
+      "title": "HealthTalk acum o zi Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
+      "url": "https://www.brasov.net/spitalul-clinic-judetean-de-urgenta-brasov-isi-mareste-echipa-lista-posturilor-scoase-la-concurs/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-21T10:47:14+03:00"
     },
     {
       "title": "Întreg județul Brașov se află sub cod galben de vânt puternic, astăzi",
