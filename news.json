@@ -1,10 +1,108 @@
 {
-  "updated": "22.09.2026, 09:00",
-  "count": 75,
-  "raw_count": 93,
+  "updated": "22.09.2026, 10:00",
+  "count": 79,
+  "raw_count": 95,
   "items": [
     {
-      "title": "Părinții ies în stradă! Protest pentru siguranța copiilor din creșele Brașovului: „Nu vrem scandal. Vrem răspunsuri!”",
+      "title": "Ieri, în doar câteva ore, polițiștii locali au descoperit 10 camioane care circulau ilegal pe strada Avram Iancu din Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/politistii-locali-camioane-ilegal/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:57:55+03:00"
+    },
+    {
+      "title": "A venit prima ninsoare din acest sezon! A nins la Bâlea Lac, în munţii Făgăraş, au fost -2 grade FOTO",
+      "url": "https://newsbv.ro/a-nins-la-balea-lac-in-muntii-fagaras/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-22T09:51:28+03:00"
+    },
+    {
+      "title": "Garsoniere de pe Saturn, Violetelor, Oltului și Hărmanului, dar și un apartament pe Bogdan Alexandru, scoase la licitație pentru închiriere de Primăria Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/garsoniere-licitatie-primaria-brasov/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T09:51:20+03:00"
+    },
+    {
+      "title": "BRAȘOV | Țigări, alcool și amenințări cu pistolul. Șofer arestat preventiv după o noapte de furturi. Ce informează Parchetul",
+      "url": "https://mytex.ro/delicte/brasov-tigari-alcool-si-amenintari-cu-pistolul-sofer-arestat-preventiv-dupa-o-noapte-de-furturi-ce-informeaza-parchetul/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:49:03+03:00"
+    },
+    {
+      "title": "După ce a rămas fără prelungirea autorizației de mediu, Fabrica de var din Brașov mai face o încercare: un singur cuptor va produce până la 250 de tone de var pe zi",
+      "url": "https://bizbrasov.ro/2026/09/22/autorizatie-mediu-fabrica-var-brasov/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-09-22T09:46:47+03:00"
+    },
+    {
+      "title": "Zeci de percheziții în București și 15 județe, în urma violențelor de la protestul „ciobanilor”. Niciun brașovean nu este vizat în această etapă a anchetei",
+      "url": "https://bizbrasov.ro/2026/09/22/perchezitii-bucuresti-protestul-ciobanilor/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:42:58+03:00"
+    },
+    {
+      "title": "Noapte nebună la Făgăraș! Un bărbat ar fi amenințat angajatul unei benzinării cu un pistol și ar fi furat...",
+      "url": "https://transilvania365.ro/noapte-nebuna-la-fagaras-un-barbat-ar-fi-amenintat-angajatul-unei-benzinarii-cu-un-pistol-si-ar-fi-furat-50-de-pachete-de-tigari-ce-spun-procurorii/",
+      "source": "Transilvania365",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-22T09:39:49+03:00"
+    },
+    {
+      "title": "Individul care a jefuit două benzinării, un magazin și a condus beat prin Făgăraș a fost arestat pentru 30 de zile",
+      "url": "https://bizbrasov.ro/2026/09/22/individul-jefuit-magazin-arestat/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:36:09+03:00"
+    },
+    {
+      "title": "Urban Playfield încheie turul din 2026 la Brașov, în 26-27 septembrie: dans, fitness, karate, CrossFit și activități pentru toate vârstele",
+      "url": "https://brasovstiri.ro/urban-playfield-incheie-turul-din-2026-la-brasov-in-26-27-septembrie-dans-fitness-karate-crossfit-si-activitati-pentru-toate-varstele/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-09-22T09:33:26+03:00"
+    },
+    {
+      "title": "„Seri muzicale în foaier”, la Opera Brașov. Arii celebre, într-un recital cu opt soliști",
+      "url": "https://brasovstiri.ro/seri-muzicale-in-foaier-la-opera-brasov-arii-celebre-intr-un-recital-cu-opt-solisti/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-22T09:24:36+03:00"
+    },
+    {
+      "title": "Locomotive noi pe rutele care trec prin Brașov. Investiția se ridică la aproape 90 de milioane de euro",
+      "url": "https://transilvania365.ro/locomotive-noi-pe-rutele-care-trec-prin-brasov-investitia-se-ridica-la-aproape-90-de-milioane-de-euro/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-22T09:24:24+03:00"
+    },
+    {
+      "title": "Pe A13 de la Boița la Făgăraș din avion: Când vom circula pe cei 68 km de autostradă construiți de turcii de la Makyol",
+      "url": "https://mytex.ro/expres/pe-a13-de-la-boita-la-fagaras-din-avion-cand-vom-circula-pe-cei-68-km-de-autostrada-construiti-de-turcii-de-la-makyol/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-22T09:20:43+03:00"
+    },
+    {
+      "title": "„Sunetul muzicii”, spectacol reprogramat din luna iunie, în această sâmbătă, pe scena Operei Brașov",
+      "url": "https://brasovstiri.ro/sunetul-muzicii-spectacol-reprogramat-din-luna-iunie-in-aceasta-sambata-pe-scena-operei-brasov/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-22T09:20:15+03:00"
+    },
+    {
+      "title": "Programul Operei Brașov: Recital ANATOLY la AFI Mall, seară muzicală în foaier și musicalul „Sunetul muzicii”",
+      "url": "https://www.monitorulexpres.ro/2026/09/22/programul-operei-brasov-recital-anatoly-la-afi-mall-seara-muzicala-in-foaier-si-musicalul-sunetul-muzicii/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-22T09:05:16+03:00"
+    },
+    {
+      "title": "Părinții ies în stradă! Protest pentru siguranța copiilor din creșele Brașovului: „Nu vrem...",
       "url": "https://transilvania365.ro/parintii-ies-in-strada-protest-pentru-siguranta-copiilor-din-cresele-brasovului-nu-vrem-scandal-vrem-raspunsuri/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -151,20 +249,6 @@
       "published": "2026-09-22T02:14:56+03:00"
     },
     {
-      "title": "De la spectacol mediatic la tăcere totală: Ce se întâmplă cu Protecția Consumatorilor din Brașov?",
-      "url": "https://newsbv.ro/protectia-consumatorilor-brasov-spectacol-tacere/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-21T22:09:20+03:00"
-    },
-    {
-      "title": "La Predeal e o agenție de jocuri la fiecare 800 de locuitori, dar numerarul se depune în contul online doar la București și Iași",
-      "url": "https://newsbv.ro/predeal-agentie-jocuri-noroc/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-21T21:27:43+03:00"
-    },
-    {
       "title": "Spitalul Județean Brașov Angajează Personal prin Transfer",
       "url": "https://www.zmbv.ro/spitalul-judetean-brasov-angajeaza-personal-prin-transfer/21/09/2026/118013/",
       "source": "Ziarul Metropolitan Brașov",
@@ -242,7 +326,7 @@
       "published": "2026-09-21T17:18:02+03:00"
     },
     {
-      "title": "Util acum 14 ore Săptămâna Prevenirii Criminalității, la Brașov. Cinci zile de acțiuni organizate de polițiști",
+      "title": "Util acum 16 ore Săptămâna Prevenirii Criminalității, la Brașov. Cinci zile de acțiuni organizate de polițiști",
       "url": "https://www.brasov.net/saptamana-prevenirii-criminalitatii-la-brasov-cinci-zile-de-actiuni-organizate-de-politisti/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -263,7 +347,7 @@
       "published": "2026-09-21T16:25:17+03:00"
     },
     {
-      "title": "Administrație acum 15 ore Istoria ascunsă a Canalului Graft: Primăria Brașov pregătește reabilitarea albiei după modelul secolului al XIX-lea",
+      "title": "Administrație acum 17 ore Istoria ascunsă a Canalului Graft: Primăria Brașov pregătește reabilitarea albiei după modelul secolului al XIX-lea",
       "url": "https://www.brasov.net/istoria-ascunsa-a-canalului-graft-primaria-brasov-pregateste-reabilitarea-albiei-dupa-modelul-secolului-al-xix-lea/",
       "source": "Brașov.net",
       "category": "🏙️ Oraș & administrație",
@@ -282,20 +366,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-21T15:12:04+03:00"
-    },
-    {
-      "title": "Întoarcere prin poezie în orașul natal: O brașoveancă își lansează volumul bilingv „Gânduri în cuvinte”",
-      "url": "https://bizbrasov.ro/2026/09/21/poezie-orasul-natal-brasoveanca-volumul/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-21T15:02:16+03:00"
-    },
-    {
-      "title": "BRAȘOV | Update în cazul de la Dumbrăvița: Dosar penal pentru tăieri ilegale de arbori și furt de material lemnos",
-      "url": "https://mytex.ro/delicte/brasov-update-in-cazul-de-la-dumbravita-dosar-penal-pentru-taieri-ilegale-de-arbori-si-furt-de-material-lemnos/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-21T14:42:30+03:00"
     },
     {
       "title": "Spitalul Județean Brașov face angajări prin transfer. Sunt disponibile posturi pentru...",
@@ -324,13 +394,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-21T14:18:08+03:00"
-    },
-    {
-      "title": "„Regața Ghimbășel”, la Râșnov: Start la înscrieri pentru cursa bărcuțelor construite manual",
-      "url": "https://bizbrasov.ro/2026/09/21/rasnov-regata-ghimbasel-start-inscrieri/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-21T14:02:34+03:00"
     },
     {
       "title": "Mașină răsturnată pe drumul spre Poiana Brașov",
@@ -403,13 +466,6 @@
       "published": "2026-09-21T12:38:31+03:00"
     },
     {
-      "title": "Liga de Tineret | Etapa #9. Kids Tâmpa Brașov, înfrângere cu CFR Cluj",
-      "url": "https://www.monitorulexpres.ro/2026/09/21/liga-de-tineret-etapa-9-kids-tampa-brasov-infrangere-cu-cfr-cluj/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-09-21T12:30:48+03:00"
-    },
-    {
       "title": "HOCHEI: Corona Brașov a învins pe e ACS Sapientia U23",
       "url": "https://newsbv.ro/corona-brasov-a-invins-pe-e-acs-sapientia-u23/",
       "source": "NewsBV",
@@ -424,25 +480,11 @@
       "published": "2026-09-21T12:29:24+03:00"
     },
     {
-      "title": "Revelionul în Poiana Braşov şi la Bran se rezervă din toamnă. Cât sunt dispuși românii să plătească pentru 3 nopți „de lux”",
-      "url": "https://newsbv.ro/revelionul-poiana-brasov-bran-se-rezerva-din-toamna/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-21T12:14:47+03:00"
-    },
-    {
       "title": "VIDEO. Doi seniori au făcut senzație în Centrul Vechi din Brașov!",
       "url": "https://transilvania365.ro/video-doi-seniori-au-facut-senzatie-in-centrul-vechi-din-brasov/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-21T12:06:38+03:00"
-    },
-    {
-      "title": "Ateliere de lectură, scriere creativă și jurnalism pentru elevi, la Centrul Cultural „Reduta” din Brașov",
-      "url": "https://brasovstiri.ro/ateliere-de-lectura-scriere-creativa-si-jurnalism-pentru-elevi-la-centrul-cultural-reduta-din-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-09-21T11:49:47+03:00"
     },
     {
       "title": "Corona Brașov duce fotbalul în școli. Prima oprire, la Colegiul Național...",
@@ -466,7 +508,7 @@
       "published": "2026-09-21T10:49:46+03:00"
     },
     {
-      "title": "HealthTalk acum 20 de ore Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
+      "title": "HealthTalk acum 22 de ore Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
       "url": "https://www.brasov.net/spitalul-clinic-judetean-de-urgenta-brasov-isi-mareste-echipa-lista-posturilor-scoase-la-concurs/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -506,20 +548,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-21T08:15:33+03:00"
-    },
-    {
-      "title": "Cât calcar lasă apa de la robinet în Brașov? În ce localități sunt cele mai mari valori de duritate și ce probleme pot întâmpina consumatorii",
-      "url": "https://bizbrasov.ro/2026/09/21/calcar-apa-brasov-localitati-probleme/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-21T05:44:00+03:00"
-    },
-    {
-      "title": "Brașovenii pasionați de calisthenics primesc un nou „gym” în aer liber. Primăria alocă 260.000 de lei",
-      "url": "https://bizbrasov.ro/2026/09/21/brasov-calisthenics-gym-aer-liber/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-21T05:38:00+03:00"
     },
     {
       "title": "Apă și canalizare pentru singura mănăstire din Țara Bârsei. Ce investiție pregătește Primăria Cristian",
