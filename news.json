@@ -1,8 +1,36 @@
 {
-  "updated": "22.09.2026, 06:00",
-  "count": 66,
-  "raw_count": 84,
+  "updated": "22.09.2026, 07:00",
+  "count": 67,
+  "raw_count": 86,
   "items": [
+    {
+      "title": "Cutremur pe banca ultimei clasate din Superligă! Braşoveanul Laszlo Balint a refuzat Csikszereda, Istvan Szabo pleacă după 10 etape",
+      "url": "https://mytex.ro/sport/cutremur-pe-banca-ultimei-clasate-din-superliga-brasoveanul-laszlo-balint-a-refuzat-csikszereda-istvan-szabo-pleaca-dupa-10-etape/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-22T06:49:38+03:00"
+    },
+    {
+      "title": "Regața Ghimbășel revine la Râșnov, cu premii la 3 categorii: viteză, realizare artistică și inovare tehnică",
+      "url": "https://newsbv.ro/regata-ghimbasel-revine-la-rasnov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-22T06:33:32+03:00"
+    },
+    {
+      "title": "Investiție uriașă în centrul Brașovului: Peste 19 milioane de euro pentru transformarea fostului Hotel Capitol în Mercure",
+      "url": "https://mytex.ro/economic/investitie-uriasa-in-centrul-brasovului-peste-19-milioane-de-euro-pentru-transformarea-fostului-hotel-capitol-in-mercure/",
+      "source": "MyTex",
+      "category": "💰 Business & economie",
+      "published": "2026-09-22T06:31:29+03:00"
+    },
+    {
+      "title": "Predeal: Agenții de jocuri frecvente, depozite doar în mari orașe",
+      "url": "https://www.zmbv.ro/predeal-agentii-de-jocuri-frecvente-depozite-doar-in-mari-orase/22/09/2026/118052/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-09-22T06:15:52+03:00"
+    },
     {
       "title": "Primăria Brașov începe procedurile de expropriere pentru extinderea străzii 13 Decembrie. Un tronson de stradă din comuna Sânpetru va trece în administrarea Brașovului",
       "url": "https://bizbrasov.ro/2026/09/22/primari-brasov-expropriere-strazi-sanpetru/",
@@ -37,13 +65,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-22T04:15:11+03:00"
-    },
-    {
-      "title": "Incident Pirotehnic pe DN 1: Dosar Penal la Predeal",
-      "url": "https://www.zmbv.ro/incident-pirotehnic-pe-dn-1-dosar-penal-la-predeal/22/09/2026/118039/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-22T04:14:33+03:00"
     },
     {
       "title": "FOTO Moda copiilor din Brașov la cumpăna secolelor XIX-XX: Călătorie în universul vestimentar al copilăriei de altădată",
@@ -102,6 +123,13 @@
       "published": "2026-09-21T19:23:19+03:00"
     },
     {
+      "title": "VIDEO / Sărbătoare cu dosar penal la Predeal: Un bărbat a oprit traficul pe DN 1 pentru a aprinde artificii în mijlocul drumului",
+      "url": "https://www.brasov.net/video-sarbatoare-cu-dosar-penal-la-predeal-un-barbat-a-oprit-traficul-pe-dn-1-pentru-a-aprinde-artificii-in-mijlocul-drumului/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-21T18:32:30+03:00"
+    },
+    {
       "title": "Educația timpurie în Braşov înseamnă oameni, nu doar ziduri: Părinții așteaptă fapte concretizate în bugete, nu doar declarații de intenție",
       "url": "https://mytex.ro/expres/educatia-timpurie-in-brasov-inseamna-oameni-nu-doar-ziduri-parintii-asteapta-fapte-concretizate-in-bugete-nu-doar-declaratii-de-intentie/",
       "source": "MyTex",
@@ -144,7 +172,7 @@
       "published": "2026-09-21T17:18:02+03:00"
     },
     {
-      "title": "Util acum 2 ore Săptămâna Prevenirii Criminalității, la Brașov. Cinci zile de acțiuni organizate de polițiști",
+      "title": "Util acum 14 ore Săptămâna Prevenirii Criminalității, la Brașov. Cinci zile de acțiuni organizate de polițiști",
       "url": "https://www.brasov.net/saptamana-prevenirii-criminalitatii-la-brasov-cinci-zile-de-actiuni-organizate-de-politisti/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -165,7 +193,7 @@
       "published": "2026-09-21T16:25:17+03:00"
     },
     {
-      "title": "Administrație acum 3 ore Istoria ascunsă a Canalului Graft: Primăria Brașov pregătește reabilitarea albiei după modelul secolului al XIX-lea",
+      "title": "Administrație acum 15 ore Istoria ascunsă a Canalului Graft: Primăria Brașov pregătește reabilitarea albiei după modelul secolului al XIX-lea",
       "url": "https://www.brasov.net/istoria-ascunsa-a-canalului-graft-primaria-brasov-pregateste-reabilitarea-albiei-dupa-modelul-secolului-al-xix-lea/",
       "source": "Brașov.net",
       "category": "🏙️ Oraș & administrație",
@@ -191,13 +219,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-21T15:02:16+03:00"
-    },
-    {
-      "title": "VIDEO Petrecere ilegală cu artificii pe DN1, la Predeal. Un bărbat a aprins o baterie pirotehnică în mijlocul drumului",
-      "url": "https://newsbv.ro/petrecere-ilegala-cu-artificii-pe-dn1-la-predeal/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-21T14:50:25+03:00"
     },
     {
       "title": "BRAȘOV | Update în cazul de la Dumbrăvița: Dosar penal pentru tăieri ilegale de arbori și furt de material lemnos",
@@ -247,13 +268,6 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-09-21T13:54:48+03:00"
-    },
-    {
-      "title": "Regața Ghimbășel revine la Râșnov cu a 3-a ediție: construiește, navighează...",
-      "url": "https://transilvania365.ro/regata-ghimbasel-revine-la-rasnov-cu-a-3-a-editie-construieste-navigheaza-si-castiga/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-09-21T13:53:50+03:00"
     },
     {
       "title": "Compania Apa Brașov pregătește un împrumut de 25 de milioane de euro pentru investiții",
@@ -396,7 +410,7 @@
       "published": "2026-09-21T10:49:46+03:00"
     },
     {
-      "title": "HealthTalk acum 8 ore Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
+      "title": "HealthTalk acum 20 de ore Spitalul Clinic Județean de Urgență Brașov își mărește echipa: Lista posturilor scoase la concurs",
       "url": "https://www.brasov.net/spitalul-clinic-judetean-de-urgenta-brasov-isi-mareste-echipa-lista-posturilor-scoase-la-concurs/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -457,13 +471,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-21T04:46:00+03:00"
-    },
-    {
-      "title": "Anna Twardosz a semnat o dublă istorică la Râșnov / Cum s-au comportat săritorii români",
-      "url": "https://mytex.ro/sport/anna-twardosz-a-semnat-o-dubla-istorica-la-rasnov-cum-s-au-comportat-saritorii-romani/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-20T18:51:05+03:00"
     }
   ]
 }
