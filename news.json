@@ -1,8 +1,29 @@
 {
-  "updated": "23.09.2026, 15:17",
-  "count": 97,
-  "raw_count": 119,
+  "updated": "23.09.2026, 16:00",
+  "count": 88,
+  "raw_count": 110,
   "items": [
+    {
+      "title": "FOTE Brașov 2027. Start pentru Seminarul Șefilor de Misiune",
+      "url": "https://brasovstiri.ro/fote-brasov-2027-start-pentru-seminarul-sefilor-de-misiune/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-09-23T15:23:47+03:00"
+    },
+    {
+      "title": "Brașovul devine capitala culturală a toamnei: Nume mari ale literaturii mondiale vin la NOD Festival 2026",
+      "url": "https://bizbrasov.ro/2026/09/23/brasov-capitala-culturala-nod-festival/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-23T15:22:34+03:00"
+    },
+    {
+      "title": "Brașovul devine capitala literaturii timp de patru zile: Jonathan Coe, Maja Lunde și...",
+      "url": "https://transilvania365.ro/brasovul-devine-capitala-literaturii-timp-de-patru-zile-jonathan-coe-maja-lunde-si-matt-haig-la-nod-festival/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-23T15:20:44+03:00"
+    },
     {
       "title": "Gică Popescu, investiție de 3.000.000 de euro la hotelul pe care îl deține la Predeal",
       "url": "https://www.monitorulexpres.ro/2026/09/23/gica-popescu-investitie-de-3-000-000-de-euro-la-hotelul-pe-care-il-detine-la-predeal/",
@@ -44,13 +65,6 @@
       "source": "NewsBV",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-23T14:16:29+03:00"
-    },
-    {
-      "title": "Mai multă energie pentru salvarea montană. Investiții noi la bazele Salvamont Zărnești",
-      "url": "https://transilvania365.ro/mai-multa-energie-pentru-salvarea-montana-investitii-noi-la-bazele-salvamont-zarnesti/",
-      "source": "Transilvania365",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-23T14:08:48+03:00"
     },
     {
       "title": "Percheziții la fostul preot Cristian Pomohaci. Este anchetat într-un nou dosar de pornografie infantilă",
@@ -95,13 +109,6 @@
       "published": "2026-09-23T13:26:39+03:00"
     },
     {
-      "title": "HealthTalk acum 32 de minute Șase posturi de asistent medical șef, scoase la concurs la Spitalul Județean Brașov. Vezi secțiile și termenul-limită",
-      "url": "https://www.brasov.net/sase-posturi-de-asistent-medical-sef-scoase-la-concurs-la-spitalul-judetean-brasov-vezi-sectiile-si-termenul-limita/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-23T13:19:16+03:00"
-    },
-    {
       "title": "Într-o lume mereu grăbită, un polițist din Brașov ne reamintește ce înseamnă omenia",
       "url": "https://bizbrasov.ro/2026/09/23/lume-grabita-politist-brasov-omenia/",
       "source": "BizBrașov",
@@ -116,13 +123,6 @@
       "published": "2026-09-23T13:00:45+03:00"
     },
     {
-      "title": "VIDEO / Condiții de iarnă pe Transfăgărășan: Ninsori abundente și intervenții ale drumarilor la Bâlea Lac",
-      "url": "https://www.brasov.net/video-conditii-de-iarna-pe-transfagarasan-ninsori-abundente-si-interventii-ale-drumarilor-la-balea-lac/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-23T12:58:07+03:00"
-    },
-    {
       "title": "Aeroportul Brașov redistribuie fonduri pentru extinderea terminalului, securitate și noi dotări",
       "url": "https://brasovstiri.ro/aeroportul-brasov-redistribuie-fonduri-pentru-extinderea-terminalului-securitate-si-noi-dotari/",
       "source": "Brașov Știri",
@@ -135,6 +135,13 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-23T12:47:31+03:00"
+    },
+    {
+      "title": "Angajări la Spitalul Județean Brașov: șase posturi de asistent medical șef. Până când se depun dosarele",
+      "url": "https://brasovstiri.ro/angajari-la-spitalul-judetean-brasov-sase-posturi-de-asistent-medical-sef-pana-cand-se-depun-dosarele/",
+      "source": "Brașov Știri",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-23T12:45:12+03:00"
     },
     {
       "title": "Peste 1,5 milioane de lei pentru școala din containere: Elevii de la Gimnaziala 14 din Brașov se mută în module temporare, după doi ani de întârzieri pe șantier",
@@ -207,13 +214,6 @@
       "published": "2026-09-23T11:45:34+03:00"
     },
     {
-      "title": "Fapt divers acum 2 ore Regula care îi lasă pe pasagerii Aeroportului Brașov-Ghimbav fără Uber și Bolt. De ce nu îi mai pot prelua de la aeroport?",
-      "url": "https://www.brasov.net/regula-care-ii-lasa-pe-pasagerii-aeroportului-brasov-ghimbav-fara-uber-si-bolt-de-ce-nu-ii-mai-pot-prelua-de-la-aeroport/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-23T11:22:17+03:00"
-    },
-    {
       "title": "Polițiștii din Râșnov îi roagă pe șoferi să nu staționeze pe banda pentru îmbarcarea elevilor de la Școala Gimnazială Nr. 2",
       "url": "https://newsbv.ro/scoala-gimnaziala-rasnov-soferi/",
       "source": "NewsBV",
@@ -254,13 +254,6 @@
       "source": "NewsBV",
       "category": "🏗️ Dezvoltare",
       "published": "2026-09-23T10:33:24+03:00"
-    },
-    {
-      "title": "Social acum 3 ore Micro-păduri urbane la Aeroportul Brașov: Proiectele Universității Transilvania",
-      "url": "https://www.brasov.net/micro-paduri-urbane-la-aeroportul-brasov-proiectele-universitatii-transilvania/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-23T10:27:46+03:00"
     },
     {
       "title": "Poliţistul care a ucis cu maşina un tânăr de 21 de ani în Poiana Braşov, la ultimul termen al procesului",
@@ -438,13 +431,6 @@
       "published": "2026-09-23T05:14:48+03:00"
     },
     {
-      "title": "Voluntariat la FOTE Brașov 2027: Cum te poți alătura",
-      "url": "https://www.zmbv.ro/voluntariat-la-fote-brasov-2027-cum-te-poti-alatura/23/09/2026/118136/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-23T05:14:35+03:00"
-    },
-    {
       "title": "Activități de toamnă în Poiana Brașov",
       "url": "https://www.zmbv.ro/activitati-de-toamna-in-poiana-brasov-2/23/09/2026/118131/",
       "source": "Ziarul Metropolitan Brașov",
@@ -480,13 +466,6 @@
       "published": "2026-09-22T19:15:18+03:00"
     },
     {
-      "title": "Fapt divers acum 19 ore VIDEO / Captură DIICOT Brașov: Traficant prins în flagrant cu 21 de kilograme de canabis",
-      "url": "https://www.brasov.net/video-captura-diicot-brasov-traficant-prins-in-flagrant-cu-21-de-kilograme-de-canabis/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-22T18:33:02+03:00"
-    },
-    {
       "title": "Corona Brașov atacă calificarea în EHF European League după un start ezitant în campionat. Meciuri de foc cu Steaua Roșie Belgrad",
       "url": "https://mytex.ro/sport/corona-brasov-ataca-calificarea-in-ehf-european-league-dupa-un-start-ezitant-in-campionat-meciuri-de-foc-cu-steaua-rosie-belgrad/",
       "source": "MyTex",
@@ -506,20 +485,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-22T17:05:55+03:00"
-    },
-    {
-      "title": "Administrație acum 21 de ore „Luna curățeniei de toamnă” la Brașov",
-      "url": "https://www.brasov.net/luna-curateniei-de-toamna-la-brasov/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-22T16:55:17+03:00"
-    },
-    {
-      "title": "Se va întrerupe alimentarea cu energie electrică în Brașov și în alte localități din județ",
-      "url": "https://mytex.ro/expres/se-va-intrerupe-alimentarea-cu-energie-electrica-in-brasov-si-in-alte-localitati-din-judet-2/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-22T16:12:27+03:00"
     },
     {
       "title": "Paradoxul de la Aeroportul Brașov – Ghimbav! Uber și Bolt pot...",
@@ -564,13 +529,6 @@
       "published": "2026-09-22T13:56:48+03:00"
     },
     {
-      "title": "A început cea de-a 11-a ediție „Alpin Film Festival”: evenimentul aduce timp de șase zile, la Brașov, Râșnov și Bușteni, filme din întreaga lume și mari pasionați ai muntelui",
-      "url": "https://bizbrasov.ro/2026/09/22/alpin-film-festival-brasov-rasnov-busteni/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-22T13:55:36+03:00"
-    },
-    {
       "title": "Muzeul Naţional Cotroceni, parteneriat cu Muzeul de Artă Brașov. Expoziția „Fibră. Radiografia prezenței”",
       "url": "https://newsbv.ro/muzeul-cotroceni-parteneriat-muzeul-arta-brasov/",
       "source": "NewsBV",
@@ -592,32 +550,11 @@
       "published": "2026-09-22T13:00:00+03:00"
     },
     {
-      "title": "Util acum o zi Întreruperi de energie electrică în județul Brașov. Vezi localitățile și străzile afectate",
-      "url": "https://www.brasov.net/intreruperi-de-energie-electrica-in-judetul-brasov-vezi-localitatile-si-strazile-afectate/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-22T12:29:36+03:00"
-    },
-    {
-      "title": "37 de idei pentru Brașov. Proiectele Universității Transilvania care vor să...",
-      "url": "https://transilvania365.ro/37-de-idei-pentru-brasov-proiectele-universitatii-transilvania-care-vor-sa-transforme-cercetarea-in-solutii-pentru-comunitate/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-09-22T11:55:38+03:00"
-    },
-    {
       "title": "FOTO Maraton medical de 10 ore pentru salvarea a trei inimi la Spitalul Județean: Cazurile complexe au fost tratate printr-o colaborare de elită între medicii din Iași și Brașov",
       "url": "https://bizbrasov.ro/2026/09/22/maraton-medical-salvarea-spitalul/",
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-22T11:45:00+03:00"
-    },
-    {
-      "title": "VIDEO. Iarna și-a făcut apariția pe Transfăgărășan! Imagini cu prima ninsoare",
-      "url": "https://transilvania365.ro/video-iarna-si-a-facut-aparitia-pe-transfagarasan-imagini-cu-prima-ninsoare/",
-      "source": "Transilvania365",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-22T11:44:19+03:00"
     },
     {
       "title": "Universitatea Transilvania din Braşov a dezvoltat 37 de proiecte pentru comunitate. De la energie verde la sănătate și patrimoniu",
