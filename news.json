@@ -1,14 +1,105 @@
 {
-  "updated": "23.09.2026, 08:00",
-  "count": 64,
-  "raw_count": 78,
+  "updated": "23.09.2026, 09:00",
+  "count": 92,
+  "raw_count": 115,
   "items": [
+    {
+      "title": "Ninsoare abundentă pe Transfăgărășan",
+      "url": "https://www.monitorulexpres.ro/2026/09/23/ninsoare-abundenta-pe-transfagarasan/",
+      "source": "Monitorul Expres",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-23T08:59:57+03:00"
+    },
+    {
+      "title": "Piața imobiliară din Brașov, cea mai stabilă din țară. Peste 70% din locuințe sunt vândute prin intermediul profesioniștilor",
+      "url": "https://mytex.ro/economic/piata-imobiliara-din-brasov-cea-mai-stabila-din-tara-peste-70-din-locuinte-sunt-vandute-prin-intermediul-profesionistilor/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-23T08:54:40+03:00"
+    },
+    {
+      "title": "Lucrări anunţate de Compania Apa Brașov pentru astăzi, 23 septembrie 2026",
+      "url": "https://newsbv.ro/lucrari-anuntate-de-compania-apa-brasov-23-septembrie/",
+      "source": "NewsBV",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-09-23T08:47:12+03:00"
+    },
+    {
+      "title": "Ninsoare abundentă pe Transfăgărășan. DRDP Brașov: Se circulă în condiții de iarnă",
+      "url": "https://mytex.ro/expres/ninsoare-abundenta-pe-transfagarasan-drdp-brasov-se-circula-in-conditii-de-iarna/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-23T08:44:19+03:00"
+    },
+    {
+      "title": "Unirea Shopping Center devine „mall-ul păcănelelor” din Brașov. Încă o sală de jocuri își mută activitatea în spațiul comercial",
+      "url": "https://bizbrasov.ro/2026/09/23/unirea-shopping-center-brasov-jocuri/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-23T08:43:52+03:00"
+    },
+    {
+      "title": "Marian Constantinescu, sub presiune după pasul greșit de la Breaza! Meciul cu Săcele poate deveni decisiv – Variante pentru Corona Brașov",
+      "url": "https://mytex.ro/sport/marian-constantinescu-sub-presiune-dupa-pasul-gresit-de-la-breaza-meciul-cu-sacele-poate-deveni-decisiv-variante-pentru-corona-brasov/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-23T08:37:34+03:00"
+    },
+    {
+      "title": "Contesa Chiara Modica Dona dalle Rose, oaspete în Peștera Valea Cetății din Râșnov",
+      "url": "https://transilvania365.ro/contesa-chiara-modica-dona-dalle-rose-oaspete-in-pestera-valea-cetatii-din-rasnov/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-23T08:37:21+03:00"
+    },
+    {
+      "title": "Gică Popescu își face muzeu și SPA cu piscină la Hotelul Rozmarin din Predeal. Investiția se ridică la circa 3 milioane de euro",
+      "url": "https://newsbv.ro/gica-popescu-face-muzeu-hotelul-rozmarin-predeal/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-23T08:35:38+03:00"
+    },
+    {
+      "title": "Protest pentru siguranța copiilor din creșele Brașovului",
+      "url": "https://www.monitorulexpres.ro/2026/09/23/protest-pentru-siguranta-copiilor-din-cresele-brasovului/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-23T08:30:48+03:00"
+    },
+    {
+      "title": "Etapa 5 Liga 3 | Kids Tâmpa Brașov caută primele puncte cu Olimpic Zărnești. CSM Săcele, duel cu CSO Teleajenul",
+      "url": "https://www.monitorulexpres.ro/2026/09/23/etapa-5-liga-3-kids-tampa-brasov-cauta-primele-puncte-cu-olimpic-zarnesti-csm-sacele-duel-cu-cso-teleajenul/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-09-23T08:29:36+03:00"
+    },
+    {
+      "title": "„Brașov, orașul (in)vizibil”, o expoziție de artă contemporană a Muzeului de Artă Brașov,...",
+      "url": "https://transilvania365.ro/brasov-orasul-invizibil-o-expozitie-de-arta-contemporana-a-muzeului-de-arta-brasov-dincolo-de-imaginea-familiara-a-orasului/",
+      "source": "Transilvania365",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-23T08:06:56+03:00"
+    },
+    {
+      "title": "Aeroportul Ghimbav propulsează Brașovul pe locul 3 în topul turismului românesc: Record istoric de pasageri în 2026 și expansiune pe piața internațională",
+      "url": "https://mytex.ro/turism/aeroportul-ghimbav-propulseaza-brasovul-pe-locul-3-in-topul-turismului-romanesc-record-istoric-de-pasageri-in-2026-si-expansiune-pe-piata-internationala/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-23T08:05:39+03:00"
+    },
     {
       "title": "Programul „Bookster în Şcoli”, în unităţi de învăţământ din judeţul Braşov. Acces gratuit la cărţi, prin împrumut, pentru elevi şi profesori",
       "url": "https://newsbv.ro/programul-bookster-in-scoli-in-judetul-brasov/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-09-23T07:29:45+03:00"
+    },
+    {
+      "title": "Ultimul termen în procesul polițiștului ieșean care a ucis cu mașina un student de 21 de ani în Poiana Brașov: „Orice sentinţă voi lua, e prea mică faţă de fapta pe care am comis-o”",
+      "url": "https://bizbrasov.ro/2026/09/23/termen-politiost-student-poiana-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-23T07:28:28+03:00"
     },
     {
       "title": "Răvășitul Oilor la Bran: Tradiție și Gastronomie",
@@ -32,6 +123,13 @@
       "published": "2026-09-23T06:51:24+03:00"
     },
     {
+      "title": "Aeroportul Brașov își schimbă prioritățile în bugetul pe 2026. Un total de 38,8 milioane de lei pentru funcționare și investiții",
+      "url": "https://bizbrasov.ro/2026/09/23/aeroport-brasov-prioritati-buget/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-09-23T05:38:00+03:00"
+    },
+    {
       "title": "Regața Ghimbășel revine la Râșnov: Detalii și Înscrieri",
       "url": "https://www.zmbv.ro/regata-ghimbasel-revine-la-rasnov-detalii-si-inscrieri/23/09/2026/118138/",
       "source": "Ziarul Metropolitan Brașov",
@@ -44,6 +142,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-23T05:14:35+03:00"
+    },
+    {
+      "title": "Temad Brașov schimbă strategia în retail: Livreză direct în cele 65 de magazine Dedeman, după încheierea unui parteneriat istoric de 25 de ani",
+      "url": "https://bizbrasov.ro/2026/09/23/brasov-temad-retail-livreaza-dedeman/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-09-23T04:25:00+03:00"
     },
     {
       "title": "Activități de toamnă în Poiana Brașov",
@@ -72,13 +177,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-22T20:38:00+03:00"
-    },
-    {
-      "title": "Programul integral Răvășitul Oilor la Bran, 25 – 27 septembrie 2026. Nu rata Festivalul pastramei și brânzei",
-      "url": "https://newsbv.ro/program-ravasitul-oilor-bran/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-22T19:34:00+03:00"
     },
     {
       "title": "Scăpare neașteptată la Breaza: Corona Brașov s-a împiedicat de o codaşă, înaintea derby-ului cu Săcele",
@@ -130,7 +228,7 @@
       "published": "2026-09-22T17:58:27+03:00"
     },
     {
-      "title": "Brașovul are șef la ISJ și fost inspector ajuns parlamentar, dar nicio reacție oficială despre îngrijitoarele din creșe!",
+      "title": "Brașovul are șef la ISJ și fost inspector ajuns parlamentar, dar...",
       "url": "https://transilvania365.ro/brasovul-are-sef-la-isj-si-fost-inspector-ajuns-parlamentar-dar-nicio-reactie-oficiala-despre-ingrijitoarele-din-crese/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -142,6 +240,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-22T17:05:55+03:00"
+    },
+    {
+      "title": "Administrație acum 14 ore „Luna curățeniei de toamnă” la Brașov Distribuie Primăria Municipiului Brașov a dat startul campaniei anuale de salubrizare, denumită „Luna curățeniei de toamnă”, cu scopul de a...",
+      "url": "https://www.brasov.net/luna-curateniei-de-toamna-la-brasov/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T16:55:17+03:00"
     },
     {
       "title": "Sute de angajări într-o singură lună, prin AJOFM Brașov. Cine și-a găsit un loc de muncă",
@@ -158,21 +263,14 @@
       "published": "2026-09-22T16:12:27+03:00"
     },
     {
-      "title": "Paradoxul de la Aeroportul Brașov – Ghimbav! Uber și Bolt pot duce pasagerii...",
+      "title": "Paradoxul de la Aeroportul Brașov – Ghimbav! Uber și Bolt pot...",
       "url": "https://transilvania365.ro/paradoxul-de-la-aeroportul-brasov-ghimbav-uber-si-bolt-pot-duce-pasagerii-la-aeroport-dar-nu-ii-pot-lua-de-acolo-cum-ajung-tuistii-la-mana-taximetristilor/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-22T16:12:01+03:00"
     },
     {
-      "title": "Protest pentru siguranța copiilor din creșele Brașovului, în fața Inspectoratului Școlar",
-      "url": "https://brasovstiri.ro/protest-pentru-siguranta-copiilor-din-cresele-brasovului-in-fata-inspectoratului-scolar/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-09-22T16:00:06+03:00"
-    },
-    {
-      "title": "Trei reprezentanți USR Brașov în Guvern, niciun demers concret pentru mămicile care protestează...",
+      "title": "Trei reprezentanți USR Brașov în Guvern, niciun demers concret pentru mămicile...",
       "url": "https://transilvania365.ro/trei-reprezentanti-usr-brasov-in-guvern-niciun-demers-concret-pentru-mamicile-care-protesteaza-pentru-crese/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -235,6 +333,13 @@
       "published": "2026-09-22T15:01:33+03:00"
     },
     {
+      "title": "Proprietarul Teleferic Grand Hotel din Poiana Braşov anunţă finalizarea unui proiect rezidenţial de peste 10 milioane de euro în comuna Cristian",
+      "url": "https://bizbrasov.ro/2026/09/22/teleferic-poiana-brasov-rezidential/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-09-22T14:38:27+03:00"
+    },
+    {
       "title": "Criza îngrijitoarelor din creșele din Brașov. Viceprimarul Lucian Pătrașcu cere modificări legislative: „Nu putem răspunde părinților doar cu «nu mai este în atribuția noastră»”",
       "url": "https://mytex.ro/expres/criza-ingrijitoarelor-din-cresele-din-brasov-viceprimarul-lucian-patrascu-cere-modificari-legislative-nu-putem-raspunde-parintilor-doar-cu-nu-mai-este-in-atributia-noastra/",
       "source": "MyTex",
@@ -242,11 +347,25 @@
       "published": "2026-09-22T14:35:38+03:00"
     },
     {
+      "title": "Protest de amploare anunțat la Brașov. Părinții cer autorităților răspunsuri clare privind numărul de îngrijitoare din creșe",
+      "url": "https://bizbrasov.ro/2026/09/22/brasov-protest-anuntat-parintii-clare/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-22T14:20:54+03:00"
+    },
+    {
       "title": "Lucian Patrașcu: „Situația personalului din creșele Brașovului trebuie clarificată. Copiii au nevoie de suficienți oameni care să le asigure îngrijirea și siguranța”",
       "url": "https://newsbv.ro/lucian-patrascu-situatia-personalului-crese-brasov/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-09-22T13:56:48+03:00"
+    },
+    {
+      "title": "A început cea de-a 11-a ediție „Alpin Film Festival”: evenimentul aduce timp de șase zile, la Brașov, Râșnov și Bușteni, filme din întreaga lume și mari pasionați ai muntelui",
+      "url": "https://bizbrasov.ro/2026/09/22/alpin-film-festival-brasov-rasnov-busteni/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-22T13:55:36+03:00"
     },
     {
       "title": "Băncuțe din metal, reci și inconfortabile pentru pacienții Spitalului Județean Brașov. Sesizări rămase fără răspuns",
@@ -263,13 +382,6 @@
       "published": "2026-09-22T13:41:52+03:00"
     },
     {
-      "title": "Proiect rezidenţial de 10 milioane de euro în Cristian, realizat de proprietarul hotelului Teleferic din Poiana Braşov",
-      "url": "https://newsbv.ro/proiect-rezidential-de-10-milioane-de-euro-in-cristian/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-09-22T13:25:38+03:00"
-    },
-    {
       "title": "Muzeul Naţional Cotroceni, parteneriat cu Muzeul de Artă Brașov. Expoziția „Fibră. Radiografia prezenței”",
       "url": "https://newsbv.ro/muzeul-cotroceni-parteneriat-muzeul-arta-brasov/",
       "source": "NewsBV",
@@ -284,11 +396,18 @@
       "published": "2026-09-22T13:14:52+03:00"
     },
     {
-      "title": "Dosar penal pentru un tânăr de 20 de ani, prins drogat la volan în Sânpetru",
-      "url": "https://www.monitorulexpres.ro/2026/09/22/dosar-penal-pentru-un-tanar-de-20-de-ani-prins-drogat-la-volan-in-sanpetru/",
-      "source": "Monitorul Expres",
+      "title": "Un bărbat s-a întors la pompierii care i-au salvat viața pentru a le strânge mâna. Povestea unei intervenții contracronometru la Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/brasov-pompierii-salvat-viata-brasov/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T13:08:03+03:00"
+    },
+    {
+      "title": "La 20 de ani, drogat la volan, prin Sânpetru. Și-a „rezolvat” viitorul cu un dosar penal",
+      "url": "https://bizbrasov.ro/2026/09/22/drogat-la-volan-sanpetru/",
+      "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-09-22T12:40:36+03:00"
+      "published": "2026-09-22T13:00:00+03:00"
     },
     {
       "title": "Bărbați reținuți și arestați preventiv după o altercație în Săcele. Ambulanță vandalizată",
@@ -298,11 +417,25 @@
       "published": "2026-09-22T12:40:14+03:00"
     },
     {
+      "title": "Util acum 18 ore Întreruperi de energie electrică în județul Brașov. Vezi localitățile și străzile afectate",
+      "url": "https://www.brasov.net/intreruperi-de-energie-electrica-in-judetul-brasov-vezi-localitatile-si-strazile-afectate/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-22T12:29:36+03:00"
+    },
+    {
       "title": "37 de idei pentru Brașov. Proiectele Universității Transilvania care vor să...",
       "url": "https://transilvania365.ro/37-de-idei-pentru-brasov-proiectele-universitatii-transilvania-care-vor-sa-transforme-cercetarea-in-solutii-pentru-comunitate/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-22T11:55:38+03:00"
+    },
+    {
+      "title": "FOTO Maraton medical de 10 ore pentru salvarea a trei inimi la Spitalul Județean: Cazurile complexe au fost tratate printr-o colaborare de elită între medicii din Iași și Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/maraton-medical-salvarea-spitalul/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T11:45:00+03:00"
     },
     {
       "title": "VIDEO. Iarna și-a făcut apariția pe Transfăgărășan! Imagini cu prima ninsoare",
@@ -326,13 +459,6 @@
       "published": "2026-09-22T11:28:28+03:00"
     },
     {
-      "title": "Prima ninsoare pe Transfăgărășan",
-      "url": "https://www.monitorulexpres.ro/2026/09/22/prima-ninsoare-pe-transfagarasan/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-22T11:08:09+03:00"
-    },
-    {
       "title": "Situație alarmantă la Brașov! Cazurile noi de Alzheimer s-au dublat într-un singur an",
       "url": "https://newsbv.ro/cazurile-noi-de-alzheimer-s-au-dublat/",
       "source": "NewsBV",
@@ -347,11 +473,39 @@
       "published": "2026-09-22T10:56:47+03:00"
     },
     {
+      "title": "Aeroportul Internațional Brașov se reorganizează fără să crească numărul de posturi. Apar noi structuri administrative și comerciale",
+      "url": "https://bizbrasov.ro/2026/09/22/aeroport-brasov-reorganizeaza-administrativ/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-22T10:55:59+03:00"
+    },
+    {
+      "title": "DRDP Brașov: A nins pe Transfăgărășan!",
+      "url": "https://mytex.ro/expres/drdp-brasov-a-nins-pe-transfagarasan/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-22T10:53:59+03:00"
+    },
+    {
       "title": "Cum se pregătește Brașovul pentru schimbările climatice. Planuri până în 2050...",
       "url": "https://transilvania365.ro/cum-se-pregateste-brasovul-pentru-schimbarile-climatice-planuri-pana-in-2050-si-solutii-pentru-gestionarea-apei/",
       "source": "Transilvania365",
       "category": "⚽ Sport",
       "published": "2026-09-22T10:43:20+03:00"
+    },
+    {
+      "title": "Brașovul își proiectează viitorul verde și se pregătește pentru provocările climatice",
+      "url": "https://bizbrasov.ro/2026/09/22/brasov-viitor-verde-provocari-climatice/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-22T10:39:49+03:00"
+    },
+    {
+      "title": "VIDEO Autostrada Sibiu-Făgăraș văzută din avion. Lucrările ar trebui să fie terminate în 2028",
+      "url": "https://bizbrasov.ro/2026/09/22/autostrada-sibiu-fagaras-avion/",
+      "source": "BizBrașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-09-22T10:31:49+03:00"
     },
     {
       "title": "Brașovul își construiește traseul către reziliența climatică prin proiectul european CARMINE",
@@ -368,11 +522,11 @@
       "published": "2026-09-22T10:11:32+03:00"
     },
     {
-      "title": "Aeroportul Brașov aduce tot mai mulți turiști străini. Brașovul, pe locul 3 în turismul românesc",
-      "url": "https://newsbv.ro/aeroportul-brasov-aduce-tot-mai-multi-turisti-straini/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-22T10:10:41+03:00"
+      "title": "A venit iarna pe Transfăgărășan! Prima ninsoare din sezon, cu mai puțin de o lună înainte de perioada oficială de închidere",
+      "url": "https://bizbrasov.ro/2026/09/22/iaran-transfagarasan-prima-ninsoare/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-22T10:05:35+03:00"
     },
     {
       "title": "Fenomenul extrem Super El Niño lovește iarna 2026–2027: Ce urmează pentru Brașov, Europa și America de Nord",
@@ -382,11 +536,32 @@
       "published": "2026-09-22T10:02:14+03:00"
     },
     {
+      "title": "Ieri, în doar câteva ore, polițiștii locali au descoperit 10 camioane care circulau ilegal pe strada Avram Iancu din Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/politistii-locali-camioane-ilegal/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:57:55+03:00"
+    },
+    {
       "title": "A venit prima ninsoare din acest sezon! A nins la Bâlea Lac, în munţii Făgăraş, au fost -2 grade FOTO",
       "url": "https://newsbv.ro/a-nins-la-balea-lac-in-muntii-fagaras/",
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-22T09:51:28+03:00"
+    },
+    {
+      "title": "Garsoniere de pe Saturn, Violetelor, Oltului și Hărmanului, dar și un apartament pe Bogdan Alexandru, scoase la licitație pentru închiriere de Primăria Brașov",
+      "url": "https://bizbrasov.ro/2026/09/22/garsoniere-licitatie-primaria-brasov/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T09:51:20+03:00"
+    },
+    {
+      "title": "Zeci de percheziții în București și 15 județe, în urma violențelor de la protestul „ciobanilor”. Niciun brașovean nu este vizat în această etapă a anchetei",
+      "url": "https://bizbrasov.ro/2026/09/22/perchezitii-bucuresti-protestul-ciobanilor/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-22T09:42:58+03:00"
     },
     {
       "title": "Noapte nebună la Făgăraș! Un bărbat ar fi amenințat angajatul unei...",
@@ -396,11 +571,11 @@
       "published": "2026-09-22T09:39:49+03:00"
     },
     {
-      "title": "BRAȘOV | 18.000 de lei amenzi într-o singură zi, pe str. Avram Iancu. Ce au descoperit polițiștii locali",
-      "url": "https://mytex.ro/expres/brasov-18-000-de-lei-amenzi-intr-o-singura-zi-pe-str-avram-iancu-ce-au-descoperit-politistii-locali/",
-      "source": "MyTex",
+      "title": "Individul care a jefuit două benzinării, un magazin și a condus beat prin Făgăraș a fost arestat pentru 30 de zile",
+      "url": "https://bizbrasov.ro/2026/09/22/individul-jefuit-magazin-arestat/",
+      "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-22T09:24:39+03:00"
+      "published": "2026-09-22T09:36:09+03:00"
     },
     {
       "title": "Locomotive noi pe rutele care trec prin Brașov. Investiția se ridică...",
@@ -443,6 +618,27 @@
       "source": "MyTex",
       "category": "💰 Business & economie",
       "published": "2026-09-22T06:31:29+03:00"
+    },
+    {
+      "title": "Primăria Brașov începe procedurile de expropriere pentru extinderea străzii 13 Decembrie. Un tronson de stradă din comuna Sânpetru va trece în administrarea Brașovului",
+      "url": "https://bizbrasov.ro/2026/09/22/primari-brasov-expropriere-strazi-sanpetru/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-22T05:40:00+03:00"
+    },
+    {
+      "title": "Peste 11 milioane de lei tăiate din bugetul Spitalului Județean Brașov. Ce rectificări de sume va mai opera Consiliul Județean la capitolul Sănătate",
+      "url": "https://bizbrasov.ro/2026/09/22/buget-spital-judetean-brasov-rectifica/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-22T05:38:00+03:00"
+    },
+    {
+      "title": "Municipalitatea brașoveană, obligată de instanță să vândă un garaj din zona centrală cu 42.992 de lei, după ce RIAL a refuzat în 2023 dreptul chiriașului de a-l cumpăra",
+      "url": "https://bizbrasov.ro/2026/09/22/municipal-brasov-instanta-garaj/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-09-22T05:33:00+03:00"
     },
     {
       "title": "Opera Brașov, trei evenimente muzicale în perioada 23–26 septembrie. Recital la AFI Mall și „Sunetul muzicii”",
