@@ -1,8 +1,36 @@
 {
-  "updated": "23.09.2026, 18:00",
-  "count": 96,
-  "raw_count": 117,
+  "updated": "23.09.2026, 19:00",
+  "count": 95,
+  "raw_count": 116,
   "items": [
+    {
+      "title": "Brașovul, capitala sportului olimpic european: Seminarul Șefilor de Misiune dă startul pregătirilor finale pentru FOTE 2027",
+      "url": "https://mytex.ro/sport/brasovul-capitala-sportului-olimpic-european-seminarul-sefilor-de-misiune-da-startul-pregatirilor-finale-pentru-fote-2027/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-23T18:36:01+03:00"
+    },
+    {
+      "title": "Grădina Zoologică Brașov participă la Noaptea Cercetătorilor",
+      "url": "https://newsbv.ro/noaptea-cercetatorilor/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-23T18:24:39+03:00"
+    },
+    {
+      "title": "La Brașov începe a 2-a ediție NOD Festival. PROGRAMUL COMPLET",
+      "url": "https://newsbv.ro/nod-festival-programul/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-23T18:16:20+03:00"
+    },
+    {
+      "title": "De la cozi kilometrice la fluență între Brașov și Sânpetru: Ce se schimbă radical după extinderea Străzii 13 Decembrie și lărgirea podului peste Timiș",
+      "url": "https://mytex.ro/expres/de-la-cozi-kilometrice-la-fluenta-intre-brasov-si-sanpetru-ce-se-schimba-radical-dupa-extinderea-strazii-13-decembrie-si-largirea-podului-peste-timis/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-23T18:07:08+03:00"
+    },
     {
       "title": "Festivalul DrAMAtic Brașov, măr al discordiei la Teatrul „Sică Alexandrescu”: Săli goale și acuzații dure ale sindicaliștilor contra reluării istorice lăudate de conducere",
       "url": "https://mytex.ro/expres/festivalul-dramatic-brasov-mar-al-discordiei-la-teatrul-sica-alexandrescu-sali-goale-si-acuzatii-dure-ale-sindicalistilor-contra-reluarii-istorice-laudate-de-conducere/",
@@ -23,13 +51,6 @@
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-23T17:19:20+03:00"
-    },
-    {
-      "title": "Grădina Zoologică și Planetariul din Brașov, la Noaptea Cercetătorilor",
-      "url": "https://www.monitorulexpres.ro/2026/09/23/gradina-zoologica-si-planetariul-din-brasov-la-noaptea-cercetatorilor/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-23T16:56:58+03:00"
     },
     {
       "title": "„Săptămâna Prevenirii Criminalității” la Brașov: Întâlnire dedicată prevenirii violenței domestice și utilizării brățărilor electronice",
@@ -67,18 +88,11 @@
       "published": "2026-09-23T16:15:02+03:00"
     },
     {
-      "title": "Secretele Naturii și Cosmosului, Dezvăluite la Brașov",
-      "url": "https://www.zmbv.ro/secretele-naturii-si-cosmosului-dezvaluite-la-brasov/23/09/2026/118163/",
-      "source": "Ziarul Metropolitan Brașov",
+      "title": "Secretele naturii și ale cosmosului, dezvăluite la Brașov. Program special cu ocazia Nopții Cercetătorilor",
+      "url": "https://bizbrasov.ro/2026/09/23/naturi-cosmos-brasov-cercetatori/",
+      "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-09-23T16:14:20+03:00"
-    },
-    {
-      "title": "FOTE Brașov 2027. Start pentru Seminarul Șefilor de Misiune",
-      "url": "https://brasovstiri.ro/fote-brasov-2027-start-pentru-seminarul-sefilor-de-misiune/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-09-23T15:23:47+03:00"
+      "published": "2026-09-23T16:13:23+03:00"
     },
     {
       "title": "Brașovul devine capitala literaturii timp de patru zile: Jonathan Coe, Maja Lunde și...",
@@ -480,25 +494,11 @@
       "published": "2026-09-23T05:38:00+03:00"
     },
     {
-      "title": "Regața Ghimbășel revine la Râșnov: Detalii și Înscrieri",
-      "url": "https://www.zmbv.ro/regata-ghimbasel-revine-la-rasnov-detalii-si-inscrieri/23/09/2026/118138/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-23T05:14:48+03:00"
-    },
-    {
       "title": "EXCLUSIV Profesorul brașovean Peter Turcuș, analiză pentru NewsBV după PISA 2025: Problema școlii românești nu este numărul de ore, ci inegalitatea",
       "url": "https://newsbv.ro/peter-turcus-pisa-educatie-romania-inegalitati-scoli/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-09-22T22:14:06+03:00"
-    },
-    {
-      "title": "Două cutremure în Vrancea, astăzi, la zeci de kilometri de Brașov",
-      "url": "https://mytex.ro/expres/doua-cutremure-in-vrancea-astazi-la-zeci-de-kilometri-de-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-22T21:49:31+03:00"
     },
     {
       "title": "Scăpare neașteptată la Breaza: Corona Brașov s-a împiedicat de o codaşă, înaintea derby-ului cu Săcele",
@@ -667,13 +667,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-22T08:27:41+03:00"
-    },
-    {
-      "title": "Cutremur pe banca ultimei clasate din Superligă! Braşoveanul Laszlo Balint a refuzat Csikszereda, Istvan Szabo pleacă după 10 etape",
-      "url": "https://mytex.ro/sport/cutremur-pe-banca-ultimei-clasate-din-superliga-brasoveanul-laszlo-balint-a-refuzat-csikszereda-istvan-szabo-pleaca-dupa-10-etape/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-09-22T06:49:38+03:00"
     }
   ]
 }
