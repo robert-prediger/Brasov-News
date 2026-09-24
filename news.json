@@ -1,7 +1,7 @@
 {
-  "updated": "25.09.2026, 02:00",
-  "count": 89,
-  "raw_count": 110,
+  "updated": "25.09.2026, 02:31",
+  "count": 84,
+  "raw_count": 101,
   "items": [
     {
       "title": "Hochei: Corona Brașov a izbutit prima sa victorie în noul sezon de Erste Liga",
@@ -23,20 +23,6 @@
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-24T20:46:42+03:00"
-    },
-    {
-      "title": "Guvernul Avansează cu Autostrada Brașov-Făgăraș",
-      "url": "https://www.zmbv.ro/guvernul-avanseaza-cu-autostrada-brasov-fagaras/24/09/2026/118328/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-24T20:14:04+03:00"
-    },
-    {
-      "title": "Bărbat din Săcele, reținut pentru conducere ilegală și alcool",
-      "url": "https://www.zmbv.ro/barbat-din-sacele-retinut-pentru-conducere-ilegala-si-alcool/24/09/2026/118326/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-24T19:14:38+03:00"
     },
     {
       "title": "Guvernul a aprobat AZI indicatorii pentru Autostrada Brașov – Făgăraș: Investiție de 9,35 miliarde de lei și 36 de luni pentru execuție",
@@ -116,13 +102,6 @@
       "published": "2026-09-24T16:18:10+03:00"
     },
     {
-      "title": "Nosferatu, Proiectat la Brașov cu Blues Live",
-      "url": "https://www.zmbv.ro/nosferatu-proiectat-la-brasov-cu-blues-live/24/09/2026/118319/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-24T16:15:21+03:00"
-    },
-    {
       "title": "Tânără din Brașov, cercetată după o escrocherie bancară în dauna unei femei din Alba",
       "url": "https://mytex.ro/delicte/tanara-din-brasov-cercetata-dupa-o-escrocherie-bancara-in-dauna-unei-femei-din-alba/",
       "source": "MyTex",
@@ -200,6 +179,13 @@
       "published": "2026-09-24T15:15:35+03:00"
     },
     {
+      "title": "Eveniment acum 2 ore Fără permis, la volan și cu 2,17 g/l alcool în sânge. Bărbat din Săcele, reținut",
+      "url": "https://www.brasov.net/fara-permis-la-volan-si-cu-217-g-l-alcool-in-sange-barbat-din-sacele-retinut/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-24T15:07:01+03:00"
+    },
+    {
       "title": "Amintirile comunismului, prin ochii adolescenților de azi: Lectura performativă „CINECLUB ’87” la Brașov",
       "url": "https://bizbrasov.ro/2026/09/24/brasov-amintirile-comunismului-prin-ochii/",
       "source": "BizBrașov",
@@ -247,13 +233,6 @@
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-24T14:16:48+03:00"
-    },
-    {
-      "title": "CINECLUB ’87: Lecții de istorie prin teatru la Brașov",
-      "url": "https://www.zmbv.ro/cineclub-87-lectii-de-istorie-prin-teatru-la-brasov/24/09/2026/118292/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-24T14:16:23+03:00"
     },
     {
       "title": "Un român și un spaniol, arestați la Brașov, pentru trafic internațional de cocaină (FOTO, VIDEO)",
@@ -611,20 +590,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-23T16:08:13+03:00"
-    },
-    {
-      "title": "Prețul benzinei a trecut de 10 lei la stațiile de alimentare OMV din Brașov. Motorina nu s-a scumpit astăzi",
-      "url": "https://bizbrasov.ro/2026/09/23/pretul-benzinei-omv-brasov/",
-      "source": "BizBrașov",
-      "category": "💰 Business & economie",
-      "published": "2026-09-23T14:25:53+03:00"
-    },
-    {
-      "title": "Bucătăria „MasterChef” ajunge la Castelul Bran. Concurenţii vor găti pentru turişti",
-      "url": "https://newsbv.ro/bucataria-masterchef-ajunge-la-castelul-bran/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-23T14:07:14+03:00"
     }
   ]
 }
