@@ -1,8 +1,15 @@
 {
-  "updated": "24.09.2026, 20:00",
-  "count": 104,
-  "raw_count": 127,
+  "updated": "24.09.2026, 20:17",
+  "count": 100,
+  "raw_count": 120,
   "items": [
+    {
+      "title": "Guvernul Avansează cu Autostrada Brașov-Făgăraș",
+      "url": "https://www.zmbv.ro/guvernul-avanseaza-cu-autostrada-brasov-fagaras/24/09/2026/118328/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-24T20:14:04+03:00"
+    },
     {
       "title": "Bărbat din Săcele, reținut pentru conducere ilegală și alcool",
       "url": "https://www.zmbv.ro/barbat-din-sacele-retinut-pentru-conducere-ilegala-si-alcool/24/09/2026/118326/",
@@ -39,7 +46,7 @@
       "published": "2026-09-24T17:48:41+03:00"
     },
     {
-      "title": "VIDEO. Protest la Prefectura Brașov! Părinții își strigă nemulțumirea față de reducerea numărului de îngrijitoare din creșe",
+      "title": "VIDEO. Protest la Prefectura Brașov! Părinții își strigă nemulțumirea față de reducerea numărului...",
       "url": "https://transilvania365.ro/video-protest-la-prefectura-brasov-parintii-isi-striga-nemultumirea-fata-de-reducerea-numarului-de-ingrijitoare-din-crese/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
@@ -65,13 +72,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-24T17:14:49+03:00"
-    },
-    {
-      "title": "Acțiune a Poliției în Centrul Vechi din Brașov: Șoferi lăsați pietoni după ce au făcut drifturi",
-      "url": "https://www.brasov.net/actiune-a-politiei-in-centrul-vechi-din-brasov-soferi-lasati-pietoni-dupa-ce-au-facut-drifturi/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-24T17:09:30+03:00"
     },
     {
       "title": "Brașov: Șoferi prinși în timp ce efectuau derapaje intenționate în Centrul Vechi",
@@ -116,6 +116,13 @@
       "published": "2026-09-24T16:15:21+03:00"
     },
     {
+      "title": "Acțiune de amploare a Poliției în Centrul Vechi Brașov",
+      "url": "https://www.zmbv.ro/actiune-de-amploare-a-politiei-in-centrul-vechi-brasov/24/09/2026/118314/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-09-24T16:15:10+03:00"
+    },
+    {
       "title": "Tânără din Brașov, cercetată după o escrocherie bancară în dauna unei femei din Alba",
       "url": "https://mytex.ro/delicte/tanara-din-brasov-cercetata-dupa-o-escrocherie-bancara-in-dauna-unei-femei-din-alba/",
       "source": "MyTex",
@@ -149,6 +156,13 @@
       "source": "Transilvania365",
       "category": "💰 Business & economie",
       "published": "2026-09-24T16:03:13+03:00"
+    },
+    {
+      "title": "Poliția a făcut „curățenie” în Centrul Vechi al Brașovului: zeci de mașini trase pe dreapta, pietoni verificați și șoferi agresivi lăsați fără dreptul de a conduce, dar și cu mașinile pe dreapta",
+      "url": "https://bizbrasov.ro/2026/09/24/politia-centru-brasov-masini-pietoni/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-24T16:03:05+03:00"
     },
     {
       "title": "TP România își extinde echipele în Brașov și București/ 500 de oportunități pentru vorbitorii de germană, franceză și olandeză",
@@ -240,13 +254,6 @@
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-09-24T14:16:48+03:00"
-    },
-    {
-      "title": "Guvernul aprobă proiectul Autostrăzii Brașov-Făgăraș",
-      "url": "https://www.zmbv.ro/guvernul-aproba-proiectul-autostrazii-brasov-fagaras/24/09/2026/118294/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-24T14:16:35+03:00"
     },
     {
       "title": "CINECLUB ’87: Lecții de istorie prin teatru la Brașov",
@@ -382,13 +389,6 @@
       "published": "2026-09-24T12:02:14+03:00"
     },
     {
-      "title": "Eveniment acum 5 ore Ziua Mediului Marin la Zoo Brașov",
-      "url": "https://www.brasov.net/ziua-mediului-marin-la-zoo-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-24T11:59:58+03:00"
-    },
-    {
       "title": "Ziua Internațională a Mediului Marin, sărbătorită la Zoo Brașov",
       "url": "https://transilvania365.ro/ziua-internationala-a-mediului-marin-sarbatorita-la-zoo-brasov/",
       "source": "Transilvania365",
@@ -436,13 +436,6 @@
       "source": "MyTex",
       "category": "💰 Business & economie",
       "published": "2026-09-24T10:32:57+03:00"
-    },
-    {
-      "title": "Eveniment acum 7 ore Muntele Tâmpa, sărbătorit la Brașov: Trei zile de expoziții, ateliere și concerte",
-      "url": "https://www.brasov.net/muntele-tampa-sarbatorit-la-brasov-trei-zile-de-expozitii-ateliere-si-concerte/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-24T10:20:50+03:00"
     },
     {
       "title": "Ploi, vânt și lapoviță la munte: Vremea se schimbă radical în weekend. Prognoza pentru Brașov și întreaga țară",
@@ -655,20 +648,6 @@
       "published": "2026-09-23T13:48:08+03:00"
     },
     {
-      "title": "Util acum o zi VIDEO / Condiții de iarnă pe Transfăgărășan: Ninsori abundente și intervenții ale drumarilor la Bâlea Lac",
-      "url": "https://www.brasov.net/video-conditii-de-iarna-pe-transfagarasan-ninsori-abundente-si-interventii-ale-drumarilor-la-balea-lac/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-09-23T12:58:07+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Regula care îi lasă pe pasagerii Aeroportului Brașov-Ghimbav fără Uber și Bolt. De ce nu îi mai pot prelua de la aeroport?",
-      "url": "https://www.brasov.net/regula-care-ii-lasa-pe-pasagerii-aeroportului-brasov-ghimbav-fara-uber-si-bolt-de-ce-nu-ii-mai-pot-prelua-de-la-aeroport/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-23T11:22:17+03:00"
-    },
-    {
       "title": "Spitalul Clinic Județean de Urgență Brașov scoate la concurs 6 posturi de asistent medical șef pe perioadă nedeterminată",
       "url": "https://bizbrasov.ro/2026/09/23/spitalul-clinic-de-urgenta-brasov-concurs/",
       "source": "BizBrașov",
@@ -723,13 +702,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-23T08:37:34+03:00"
-    },
-    {
-      "title": "Aeroportul Ghimbav propulsează Brașovul pe locul 3 în topul turismului românesc: Record istoric de pasageri în 2026 și expansiune pe piața internațională",
-      "url": "https://mytex.ro/turism/aeroportul-ghimbav-propulseaza-brasovul-pe-locul-3-in-topul-turismului-romanesc-record-istoric-de-pasageri-in-2026-si-expansiune-pe-piata-internationala/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-23T08:05:39+03:00"
     }
   ]
 }
