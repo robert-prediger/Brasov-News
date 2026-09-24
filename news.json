@@ -1,28 +1,63 @@
 {
-  "updated": "24.09.2026, 11:00",
-  "count": 88,
-  "raw_count": 107,
+  "updated": "24.09.2026, 12:00",
+  "count": 95,
+  "raw_count": 114,
   "items": [
+    {
+      "title": "Eveniment acum 1 minut Ziua Mediului Marin la Zoo Brașov Grădina Zoologică Brașov invită publicul pe 25 septembrie să exploreze lumea fascinantă a oceanelor, cu ocazia Zilei Internaționale a Mediului...",
+      "url": "https://www.brasov.net/ziua-mediului-marin-la-zoo-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-24T11:59:58+03:00"
+    },
+    {
+      "title": "Turism acum 9 minute Baze de salvare montană mai sigure în Piatra Craiului: Investiții noi pentru Salvamont Zărnești",
+      "url": "https://www.brasov.net/baze-de-salvare-montana-mai-sigure-in-piatra-craiului-investitii-noi-pentru-salvamont-zarnesti/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-24T11:52:15+03:00"
+    },
+    {
+      "title": "Fapt divers acum 18 minute Trei pompieri brașoveni participă la Concursul Internațional „Scări” de la Satu Mare",
+      "url": "https://www.brasov.net/trei-pompieri-brasoveni-participa-la-concursul-international-scari-de-la-satu-mare/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-24T11:43:16+03:00"
+    },
+    {
+      "title": "Ziua Internațională a Mediului Marin, sărbătorită la Zoo Brașov",
+      "url": "https://transilvania365.ro/ziua-internationala-a-mediului-marin-sarbatorita-la-zoo-brasov/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-24T11:41:30+03:00"
+    },
+    {
+      "title": "Primul tren interregio PESA a intrat în circulație pe ruta Iaşi – Braşov",
+      "url": "https://newsbv.ro/primul-tren-interregio-pesa-a-intrat-in-circulatie/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-24T11:18:48+03:00"
+    },
+    {
+      "title": "Robert Ilyeș a semnat! Fostul căpitan al lui FC Brașov va antrena în Liga 2",
+      "url": "https://www.monitorulexpres.ro/2026/09/24/robert-ilyes-a-semnat-fostul-capitan-al-lui-fc-brasov-va-antrena-in-liga-2/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-09-24T11:16:23+03:00"
+    },
+    {
+      "title": "Tolea Ciumac rămâne în arest preventiv și ratează gala RXF de la Braşov",
+      "url": "https://newsbv.ro/tolea-ciumac-ramane-in-arest-preventiv/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-24T11:02:05+03:00"
+    },
     {
       "title": "Agentul AI pentru „Meșotă”: Cum a transformat un elev din Brașov site-ul Colegiului cu ajutorul unui asistent virtual inteligent",
       "url": "https://bizbrasov.ro/2026/09/24/brasov-agentul-mesota-un-elev-transformat/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-24T10:54:59+03:00"
-    },
-    {
-      "title": "Trei pompieri brașoveni, 210 trepte contra cronometru la Concursul Internațional „Scări”",
-      "url": "https://bizbrasov.ro/2026/09/24/pompieri-brasoveni-contra-cronometru/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-24T10:54:20+03:00"
-    },
-    {
-      "title": "Ziua Internațională a Mediului Marin, sărbătorită la Zoo Brașov pe 25 septembrie",
-      "url": "https://newsbv.ro/zoo-brasov-ziua-mediului-marin/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-24T10:53:20+03:00"
     },
     {
       "title": "Protest al părinţilor în Braşov! O îngrijitoare va avea peste 40 de copii de îngrijit la creşele din oraş, la mai multe grupe",
@@ -39,6 +74,13 @@
       "published": "2026-09-24T10:48:30+03:00"
     },
     {
+      "title": "Administrație acum o oră FOTE 2027 prinde contur: Zeci de delegați europeni analizează bazele sportive din Brașov și împrejurimi",
+      "url": "https://www.brasov.net/fote-2027-prinde-contur-zeci-de-delegati-europeni-analizeaza-bazele-sportive-din-brasov-si-imprejurimi/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-24T10:37:08+03:00"
+    },
+    {
       "title": "Siegfried Mureșan, reacție dură la atacul lui Grindeanu: „Lui Tomac nu i-a cerut să plece din Parlamentul European. Nici lui Veștea, de la Brașov”",
       "url": "https://newsbv.ro/siegfried-muresan-reactie-dura-la-atacul-lui-grindeanu/",
       "source": "NewsBV",
@@ -53,11 +95,11 @@
       "published": "2026-09-24T10:32:57+03:00"
     },
     {
-      "title": "Rețeaua de sănătate REGINA MARIA își extinde prezența în Brașov și deschide cea mai modernă clinică din oraș, Hub Medical Coresi",
-      "url": "https://newsbv.ro/regina-maria-isi-extinde-prezenta-in-brasov/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-09-24T10:28:31+03:00"
+      "title": "Muntele Tâmpa, sărbătorit la Brașov: Trei zile de expoziții, ateliere și concerte",
+      "url": "https://www.brasov.net/muntele-tampa-sarbatorit-la-brasov-trei-zile-de-expozitii-ateliere-si-concerte/",
+      "source": "Brașov.net",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-24T10:20:50+03:00"
     },
     {
       "title": "Ploi, vânt și lapoviță la munte: Vremea se schimbă radical în weekend. Prognoza pentru Brașov și întreaga țară",
@@ -88,6 +130,13 @@
       "published": "2026-09-24T09:49:38+03:00"
     },
     {
+      "title": "VIDEO. Rețeaua de sănătate REGINA MARIA își extinde prezența în Brașov...",
+      "url": "https://transilvania365.ro/video-reteaua-de-sanatate-regina-maria-isi-extinde-prezenta-in-brasov-si-deschide-cea-mai-moderna-clinica-din-oras-hub-medical-coresi/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-24T09:46:24+03:00"
+    },
+    {
       "title": "Săcelenii care se debarasează sâmbătă de electrocasnicele vechi pot câștiga premii",
       "url": "https://bizbrasov.ro/2026/09/24/sacele-electrocasnice-vechi-premii/",
       "source": "BizBrașov",
@@ -116,11 +165,18 @@
       "published": "2026-09-24T09:38:55+03:00"
     },
     {
-      "title": "Primăria Ghimbav scoate la licitație lucrări suplimentare de 2,37 milioane de lei pentru...",
+      "title": "Primăria Ghimbav scoate la licitație lucrări suplimentare de 2,37 milioane de...",
       "url": "https://transilvania365.ro/primaria-ghimbav-scoate-la-licitatie-lucrari-suplimentare-de-237-milioane-de-lei-pentru-modernizarea-sediului-institutiei/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-24T09:37:52+03:00"
+    },
+    {
+      "title": "REGINA MARIA deschide la Brașov Hub Medical Coresi. Clinica are 2.000 mp și 29 de specialități",
+      "url": "https://mytex.ro/sanatate/regina-maria-deschide-la-brasov-hub-medical-coresi-clinica-are-2-000-mp-si-29-de-specialitati/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-24T09:34:37+03:00"
     },
     {
       "title": "O nouă biserică și un cimitir în cartierul Stupini: Primăria Brașov a lansat proiectul în dezbatere publică",
@@ -221,13 +277,6 @@
       "published": "2026-09-24T07:25:59+03:00"
     },
     {
-      "title": "FOTE 2027 Brașov: A început Seminarul Șefilor de Misiune. Delegațiile europene inspectează bazele sportive înainte de marile competiții (VIDEO)",
-      "url": "https://newsbv.ro/fote-2027-brasov-a-inceput-seminarul-sefilor-de-misiune/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-24T06:14:42+03:00"
-    },
-    {
       "title": "Unul dintre simbolurile Brașovului intră în șantier, după ce a fost semnat contractul de lucrări. Strada Sforii va fi pusă în siguranță cu peste 2,1 milioane de lei",
       "url": "https://bizbrasov.ro/2026/09/24/simbol-brasov-santier-strada-sforii/",
       "source": "BizBrașov",
@@ -291,13 +340,6 @@
       "published": "2026-09-23T19:23:16+03:00"
     },
     {
-      "title": "Grădina Zoologică Brașov participă la Noaptea Cercetătorilor",
-      "url": "https://newsbv.ro/noaptea-cercetatorilor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-23T18:24:39+03:00"
-    },
-    {
       "title": "La Brașov începe a 2-a ediție NOD Festival. PROGRAMUL COMPLET",
       "url": "https://newsbv.ro/nod-festival-programul/",
       "source": "NewsBV",
@@ -326,11 +368,25 @@
       "published": "2026-09-23T17:37:48+03:00"
     },
     {
+      "title": "Grădina Zoologică și Planetariul din Brașov, la Noaptea Cercetătorilor",
+      "url": "https://www.monitorulexpres.ro/2026/09/23/gradina-zoologica-si-planetariul-din-brasov-la-noaptea-cercetatorilor/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-23T16:56:58+03:00"
+    },
+    {
       "title": "„Săptămâna Prevenirii Criminalității” la Brașov: Întâlnire dedicată prevenirii violenței domestice și utilizării brățărilor electronice",
       "url": "https://www.monitorulexpres.ro/2026/09/23/saptamana-prevenirii-criminalitatii-la-brasov-intalnire-dedicata-prevenirii-violentei-domestice-si-utilizarii-bratarilor-electronice/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-23T16:48:22+03:00"
+    },
+    {
+      "title": "Eveniment acum 19 ore Zoo Brașov și Planetariul participă vineri la „Noaptea Cercetătorilor”",
+      "url": "https://www.brasov.net/zoo-brasov-si-planetariul-participa-vineri-la-noaptea-cercetatorilor/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-23T16:46:54+03:00"
     },
     {
       "title": "Târg de obiecte cu poveste, în Piața Unirii din Râșnov",
@@ -445,6 +501,13 @@
       "published": "2026-09-23T13:00:45+03:00"
     },
     {
+      "title": "Util acum 23 de ore VIDEO / Condiții de iarnă pe Transfăgărășan: Ninsori abundente și intervenții ale drumarilor la Bâlea Lac",
+      "url": "https://www.brasov.net/video-conditii-de-iarna-pe-transfagarasan-ninsori-abundente-si-interventii-ale-drumarilor-la-balea-lac/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-23T12:58:07+03:00"
+    },
+    {
       "title": "Aeroportul Brașov redistribuie fonduri pentru extinderea terminalului, securitate și noi dotări",
       "url": "https://brasovstiri.ro/aeroportul-brasov-redistribuie-fonduri-pentru-extinderea-terminalului-securitate-si-noi-dotari/",
       "source": "Brașov Știri",
@@ -480,13 +543,6 @@
       "published": "2026-09-23T12:33:56+03:00"
     },
     {
-      "title": "Expoziția colectivă „Brașov, orașul (in)vizibil”, la Muzeul de Artă Brașov. Intrarea este liberă la vernisaj",
-      "url": "https://www.monitorulexpres.ro/2026/09/23/expozitia-colectiva-brasov-orasul-invizibil-la-muzeul-de-arta-brasov-intrarea-este-libera-la-vernisaj/",
-      "source": "Monitorul Expres",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-23T12:32:04+03:00"
-    },
-    {
       "title": "Protest la Inspectoratul Școlar Județean Brașov, joi. Părinții sunt nemulțumiți pentru că au aflat că numărul de îngrijitoare din creșe va fi drastic redus. Fostul viceprimar Flavia Boghiu vine cu soluții",
       "url": "https://bizbrasov.ro/2026/09/23/protest-ingrijitoare-flavia-boghiu/",
       "source": "BizBrașov",
@@ -494,18 +550,18 @@
       "published": "2026-09-23T12:30:26+03:00"
     },
     {
-      "title": "Investiții pentru salvatorii montani din Piatra Craiului. Două baze Salvamont Zărnești au primit echipamente noi",
-      "url": "https://brasovstiri.ro/investitii-pentru-salvatorii-montani-din-piatra-craiului-doua-baze-salvamont-zarnesti-au-primit-echipamente-noi/",
-      "source": "Brașov Știri",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-23T12:18:43+03:00"
-    },
-    {
       "title": "De la Șcheii Brașovului la marile scene ale lumii. Povestea sopranei...",
       "url": "https://transilvania365.ro/de-la-scheii-brasovului-la-marile-scene-ale-lumii-povestea-sopranei-lucia-stanescu/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-23T11:54:59+03:00"
+    },
+    {
+      "title": "Fapt divers acum o zi Regula care îi lasă pe pasagerii Aeroportului Brașov-Ghimbav fără Uber și Bolt. De ce nu îi mai pot prelua de la aeroport?",
+      "url": "https://www.brasov.net/regula-care-ii-lasa-pe-pasagerii-aeroportului-brasov-ghimbav-fara-uber-si-bolt-de-ce-nu-ii-mai-pot-prelua-de-la-aeroport/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-23T11:22:17+03:00"
     },
     {
       "title": "Polițiștii din Râșnov îi roagă pe șoferi să nu staționeze pe banda pentru îmbarcarea elevilor de la Școala Gimnazială Nr. 2",
@@ -597,13 +653,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-23T08:37:34+03:00"
-    },
-    {
-      "title": "„Brașov, orașul (in)vizibil”, o expoziție de artă contemporană a Muzeului de...",
-      "url": "https://transilvania365.ro/brasov-orasul-invizibil-o-expozitie-de-arta-contemporana-a-muzeului-de-arta-brasov-dincolo-de-imaginea-familiara-a-orasului/",
-      "source": "Transilvania365",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-23T08:06:56+03:00"
     },
     {
       "title": "Aeroportul Ghimbav propulsează Brașovul pe locul 3 în topul turismului românesc: Record istoric de pasageri în 2026 și expansiune pe piața internațională",
