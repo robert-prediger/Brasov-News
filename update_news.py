@@ -10,29 +10,37 @@ from zoneinfo import ZoneInfo
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/8.0)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/9.0)"}
 TZ = ZoneInfo("Europe/Bucharest")
 NOW = datetime.now(TZ)
 MAX_AGE_HOURS = 36
 MAX_WORKERS = 12
 
-LOCAL = ("brasov","poiana brasov","rasnov","sacele","ghimbav","codlea","zarnesti",
-         "fagaras","cristian","sanpetru","harman","predeal","bran","rupea","victoria",
-         "feldioara","bod","budila","cincu","prejmer")
+LOCAL = (
+    "brasov","poiana brasov","rasnov","sacele","ghimbav","codlea","zarnesti",
+    "fagaras","cristian","sanpetru","harman","predeal","bran","rupea","victoria",
+    "feldioara","bod","budila","cincu","prejmer"
+)
 
-BAD = ("cookie","privacy","contact","publicitate","termeni","facebook","instagram",
-       "youtube","whatsapp","abonare","newsletter","despre noi",
-       "politica de confidentialitate","copyright","toate drepturile rezervate",
-       "ziarul metropolitan brasov")
+BAD = (
+    "cookie","privacy","contact","publicitate","termeni","facebook","instagram",
+    "youtube","whatsapp","abonare","newsletter","despre noi",
+    "politica de confidentialitate","copyright","toate drepturile rezervate",
+    "ziarul metropolitan brasov"
+)
 
-STOPWORDS = {"a","ai","ale","al","am","an","are","au","ca","care","cat","ce","cei","cel",
-             "cele","cu","cum","de","din","dupa","este","fost","in","la","mai","o","pe",
-             "pentru","prin","sa","se","si","sunt","un","una","unei","unui","dintr",
-             "intr","spre","sau","iar","brasov","brasovean","brasoveni","brasovului",
-             "video","foto","astazi","acum"}
+STOPWORDS = {
+    "a","ai","ale","al","am","an","are","au","ca","care","cat","ce","cei","cel",
+    "cele","cu","cum","de","din","dupa","este","fost","in","la","mai","o","pe",
+    "pentru","prin","sa","se","si","sunt","un","una","unei","unui","dintr",
+    "intr","spre","sau","iar","brasov","brasovean","brasoveni","brasovului",
+    "video","foto","astazi","acum"
+}
 
-NUMBER_WORDS = {"un":"1","unu":"1","una":"1","doi":"2","doua":"2","trei":"3","patru":"4",
-                "cinci":"5","sase":"6","sapte":"7","opt":"8","noua":"9","zece":"10"}
+NUMBER_WORDS = {
+    "un":"1","unu":"1","una":"1","doi":"2","doua":"2","trei":"3","patru":"4",
+    "cinci":"5","sase":"6","sapte":"7","opt":"8","noua":"9","zece":"10"
+}
 
 STEMS = {
     "sechestrat":"sechestr","sechestrata":"sechestr","sechestrati":"sechestr",
@@ -94,11 +102,17 @@ def clean(text):
 
 def canonical_url(url):
     p = urllib.parse.urlsplit(url)
+
     q = [
         (k, v)
-        for k, v in urllib.parse.parse_qsl(p.query, keep_blank_values=False)
+        for k, v in urllib.parse.parse_qsl(
+            p.query,
+            keep_blank_values=False
+        )
         if not k.lower().startswith("utm_")
-        and k.lower() not in {"fbclid", "gclid", "ref", "source"}
+        and k.lower() not in {
+            "fbclid","gclid","ref","source"
+        }
     ]
 
     return urllib.parse.urlunsplit((
@@ -151,6 +165,7 @@ def event_core(title):
 
     core = w & event_terms
     core.update("#" + n for n in numbers(title))
+
     return core
 
 
@@ -175,38 +190,85 @@ def title_is_valid(title):
     }
 
 
+def has_word(wordset, *wanted):
+    return any(word in wordset for word in wanted)
+
+
+def has_phrase(text, *phrases):
+    return any(phrase in text for phrase in phrases)
+
+
 def category(title):
     x = simple(title)
     w = set(x.split())
 
-    # 🚨 EVENIMENTE / URGENȚE
-    emergency = (
-        "accident", "incend", "pompier", "smurd", "salvamont",
-        "urgenta", "interventie", "disparut", "perchezit",
-        "retinut", "arest", "politia", "politisti", "crima"
-    )
-
-    if any(k in x for k in emergency):
-        return "🚨 Evenimente / urgențe"
-
+    # ------------------------------------------------
     # 🌦️ METEO
-    weather = (
-        "vreme", "meteo", "temperatur", "ploi", "ploaie",
-        "ninsoare", "ninsori", "zapada", "lapovita",
-        "furtuna", "furtuni", "vant", "ger", "canicula",
-        "cod galben", "cod portocaliu", "cod rosu",
-        "prognoza", "grade celsius"
+    # Folosim cuvinte întregi și expresii meteo clare.
+    # "furtuna" singură NU este suficientă deoarece
+    # poate apărea metaforic: "furtună pe piața valutară".
+    # ------------------------------------------------
+
+    weather_words = {
+        "meteo",
+        "vreme",
+        "ploi",
+        "ploaie",
+        "lapovita",
+        "ninsoare",
+        "ninsori",
+        "zapada",
+        "viscol",
+        "canicula",
+        "ger",
+        "grindina"
+    }
+
+    weather_phrases = (
+        "prognoza meteo",
+        "prognoza pentru brasov",
+        "cod galben",
+        "cod portocaliu",
+        "cod rosu",
+        "avertizare meteo",
+        "avertizare meteorologica",
+        "temperaturi scazute",
+        "temperaturi ridicate",
+        "grade celsius",
+        "rafale de vant",
+        "vant puternic",
+        "conditii de iarna",
+        "vremea se schimba",
+        "vreme rea"
     )
 
-    if any(k in x for k in weather):
+    if (w & weather_words) or has_phrase(x, *weather_phrases):
         return "🌦️ Meteo"
 
+    # ------------------------------------------------
     # ⚽ SPORT
-    # Cuvintele generice sunt verificate ca WORDS, nu ca fragmente.
+    # ------------------------------------------------
+
     sport_words = {
-        "fotbal", "hochei", "handbal", "baschet", "volei",
-        "schi", "atlet", "atletism", "campionat",
-        "liga", "meci", "turneu", "cupa"
+        "fotbal",
+        "hochei",
+        "handbal",
+        "baschet",
+        "volei",
+        "schi",
+        "atletism",
+        "campionat",
+        "meci",
+        "turneu",
+        "cupa",
+        "antrenor",
+        "antrenorul",
+        "sportiv",
+        "sportive",
+        "sportivi",
+        "olimpismului",
+        "olimpism",
+        "playoff"
     }
 
     sport_phrases = (
@@ -216,6 +278,14 @@ def category(title):
         "liga 1",
         "liga 2",
         "liga 3",
+        "liga i",
+        "liga ii",
+        "liga iii",
+        "play off",
+        "fote 2027",
+        "festivalul olimpic",
+        "bazele sportive",
+        "competitii sportive",
         "echipa de fotbal",
         "echipa de handbal",
         "echipa de hochei",
@@ -223,66 +293,242 @@ def category(title):
         "echipa de volei"
     )
 
-    if (w & sport_words) or any(k in x for k in sport_phrases):
+    if (w & sport_words) or has_phrase(x, *sport_phrases):
         return "⚽ Sport"
 
-    # 🎭 EVENIMENTE & TIMP LIBER
-    leisure = (
-        "concert", "festival", "teatru", "opera", "targ",
-        "expozit", "spectacol", "cinema", "muzeu",
-        "eveniment cultural"
-    )
-
-    if any(k in x for k in leisure):
-        return "🎭 Evenimente & timp liber"
-
-    # 🏙️ ORAȘ & ADMINISTRAȚIE
-    administration = (
-        "primaria", "consiliul local", "consiliul judetean",
-        "prefectura", "municipiul", "primar",
-        "spital", "clinica", "medical", "medic",
-        "sanatate", "scoala", "administratie"
-    )
-
-    if any(k in x for k in administration):
-        return "🏙️ Oraș & administrație"
-
+    # ------------------------------------------------
     # 🚗 TRAFIC & TRANSPORT
-    traffic = (
-        "trafic rutier", "circulatie", "dn1", "dn 1",
-        "autostrada", "parcare", "ratbv", "autobuz",
-        "troleibuz", "transport public", "gara",
-        "restrictii de circulatie", "drum inchis",
-        "drum blocat"
+    # Înainte de urgențe, astfel încât articolele strict
+    # despre circulație să nu fie etichetate automat
+    # drept urgențe.
+    # ------------------------------------------------
+
+    traffic_words = {
+        "autostrada",
+        "parcare",
+        "parcari",
+        "ratbv",
+        "autobuz",
+        "autobuze",
+        "troleibuz",
+        "troleibuze",
+        "tren",
+        "trenuri",
+        "gara"
+    }
+
+    traffic_phrases = (
+        "trafic rutier",
+        "restrictii de circulatie",
+        "restrictie de circulatie",
+        "drum inchis",
+        "drum blocat",
+        "transport public",
+        "transport in comun",
+        "dn1",
+        "dn 1",
+        "dn10",
+        "dn 10",
+        "dn13",
+        "dn 13",
+        "aeroportul brasov",
+        "aeroportul ghimbav",
+        "aeroportul international brasov",
+        "zbor direct",
+        "ruta iasi brasov"
     )
 
     if (
         "trafic de influenta" not in x
-        and any(k in x for k in traffic)
+        and (
+            (w & traffic_words)
+            or has_phrase(x, *traffic_phrases)
+        )
     ):
         return "🚗 Trafic & transport"
 
-    # 🏗️ DEZVOLTARE
-    development = (
-        "construct", "santier", "moderniz", "amenaj",
-        "reabilit", "renov", "infrastructur", "lucrari"
+    # ------------------------------------------------
+    # 🚨 EVENIMENTE / URGENȚE
+    # Evităm termeni foarte generali precum "politia"
+    # sau "urgenta" folosiți singuri.
+    # ------------------------------------------------
+
+    emergency_words = {
+        "accident",
+        "incendiu",
+        "incendii",
+        "pompieri",
+        "smurd",
+        "disparut",
+        "disparuta",
+        "perchezitie",
+        "perchezitii",
+        "retinut",
+        "retinuta",
+        "arest",
+        "arestat",
+        "arestata",
+        "crima",
+        "cocaina",
+        "droguri"
+    }
+
+    emergency_phrases = (
+        "accident rutier",
+        "incendiu puternic",
+        "interventia pompierilor",
+        "interventie salvamont",
+        "operatiune de salvare",
+        "persoana disparuta",
+        "persoana disparuta",
+        "a fost retinut",
+        "a fost retinuta",
+        "a fost arestat",
+        "a fost arestata",
+        "arest preventiv",
+        "urmarire in trafic",
+        "fara permis",
+        "coma alcoolica",
+        "trafic de droguri",
+        "trafic international de cocaina",
+        "kilograme de cocaina"
     )
 
-    if any(k in x for k in development):
+    if (w & emergency_words) or has_phrase(x, *emergency_phrases):
+        return "🚨 Evenimente / urgențe"
+
+    # ------------------------------------------------
+    # 🎭 EVENIMENTE & TIMP LIBER
+    # ------------------------------------------------
+
+    leisure_words = {
+        "concert",
+        "festival",
+        "teatru",
+        "opera",
+        "targ",
+        "expozitie",
+        "expozitia",
+        "spectacol",
+        "cinema",
+        "muzeu",
+        "premiera"
+    }
+
+    leisure_phrases = (
+        "eveniment cultural",
+        "noaptea cercetatorilor",
+        "dracula film festival",
+        "nod festival",
+        "muzeul de etnografie",
+        "centrul cultural reduta"
+    )
+
+    if (w & leisure_words) or has_phrase(x, *leisure_phrases):
+        return "🎭 Evenimente & timp liber"
+
+    # ------------------------------------------------
+    # 🏙️ ORAȘ & ADMINISTRAȚIE
+    # ------------------------------------------------
+
+    admin_words = {
+        "primaria",
+        "prefectura",
+        "municipiul",
+        "primar",
+        "viceprimar",
+        "spital",
+        "spitalul",
+        "clinica",
+        "medical",
+        "sanatate",
+        "scoala",
+        "administratie"
+    }
+
+    admin_phrases = (
+        "consiliul local",
+        "consiliul judetean",
+        "politia locala",
+        "dezbatere publica",
+        "locuinta sociala",
+        "locuinte sociale",
+        "cresele din brasov",
+        "spitalul clinic judetean",
+        "spitalul de copii",
+        "regina maria",
+        "hub medical"
+    )
+
+    if (w & admin_words) or has_phrase(x, *admin_phrases):
+        return "🏙️ Oraș & administrație"
+
+    # ------------------------------------------------
+    # 🏗️ DEZVOLTARE
+    # ------------------------------------------------
+
+    development_words = {
+        "constructie",
+        "constructii",
+        "santier",
+        "modernizare",
+        "modernizari",
+        "amenajare",
+        "amenajari",
+        "reabilitare",
+        "renovare",
+        "infrastructura"
+    }
+
+    development_phrases = (
+        "lucrari de constructie",
+        "lucrari de modernizare",
+        "lucrari de reabilitare",
+        "proiect rezidential",
+        "intra in santier",
+        "contractul de lucrari"
+    )
+
+    if (w & development_words) or has_phrase(x, *development_phrases):
         return "🏗️ Dezvoltare"
 
+    # ------------------------------------------------
     # 💰 BUSINESS & ECONOMIE
-    business = (
-        "business", "afaceri", "companie", "fabrica",
-        "investitie", "investitii", "antreprenor",
-        "economie", "angajari", "salarii", "magazin",
-        "hotel", "restaurant"
+    # ------------------------------------------------
+
+    business_words = {
+        "business",
+        "afaceri",
+        "companie",
+        "fabrica",
+        "investitie",
+        "investitii",
+        "antreprenor",
+        "economie",
+        "economic",
+        "angajari",
+        "salarii",
+        "magazin",
+        "hotel",
+        "restaurant"
+    }
+
+    business_phrases = (
+        "piata valutara",
+        "fond de investitii",
+        "milioane de euro",
+        "milioane de lei",
+        "locuri de munca",
+        "al doilea job",
+        "part time",
+        "venituri suplimentare",
+        "pretul benzinei",
+        "pretul motorinei"
     )
 
-    if any(k in x for k in business):
+    if (w & business_words) or has_phrase(x, *business_phrases):
         return "💰 Business & economie"
 
-    # Tot ce nu se potrivește clar în categoriile de mai sus
     return "🔥 Local"
 
 
@@ -294,7 +540,13 @@ def parse_date(value):
 
     try:
         d = datetime.fromisoformat(value.replace("Z", "+00:00"))
-        return d.replace(tzinfo=TZ) if d.tzinfo is None else d.astimezone(TZ)
+
+        return (
+            d.replace(tzinfo=TZ)
+            if d.tzinfo is None
+            else d.astimezone(TZ)
+        )
+
     except Exception:
         pass
 
@@ -381,29 +633,36 @@ def same_story(a, b):
         return True
 
     seq, containment, jaccard, common_count = similarity_values(
-        a["title"], b["title"]
+        a["title"],
+        b["title"]
     )
 
-    fa, fb = event_fingerprint(a["title"]), event_fingerprint(b["title"])
+    fa = event_fingerprint(a["title"])
+    fb = event_fingerprint(b["title"])
 
     common_fp = fa & fb
 
     fp_containment = (
         len(common_fp) / min(len(fa), len(fb))
-        if fa and fb else 0
+        if fa and fb
+        else 0
     )
 
     fp_jaccard = (
         len(common_fp) / len(fa | fb)
-        if fa and fb else 0
+        if fa and fb
+        else 0
     )
 
-    same_numbers = bool(numbers(a["title"]) & numbers(b["title"]))
+    same_numbers = bool(
+        numbers(a["title"]) & numbers(b["title"])
+    )
 
-    ca, cb = event_core(a["title"]), event_core(b["title"])
+    ca = event_core(a["title"])
+    cb = event_core(b["title"])
+
     common_core = ca & cb
 
-    # Original text/fingerprint checks.
     if seq >= 0.72:
         return True
 
@@ -413,20 +672,36 @@ def same_story(a, b):
     if jaccard >= 0.44 and common_count >= 4:
         return True
 
-    if same_numbers and common_count >= 3 and containment >= 0.42:
+    if (
+        same_numbers
+        and common_count >= 3
+        and containment >= 0.42
+    ):
         return True
 
-    if len(common_fp) >= 4 and fp_containment >= 0.58:
+    if (
+        len(common_fp) >= 4
+        and fp_containment >= 0.58
+    ):
         return True
 
-    if same_numbers and len(common_fp) >= 3 and fp_containment >= 0.38:
+    if (
+        same_numbers
+        and len(common_fp) >= 3
+        and fp_containment >= 0.38
+    ):
         return True
 
-    if len(common_fp) >= 5 and fp_jaccard >= 0.32:
+    if (
+        len(common_fp) >= 5
+        and fp_jaccard >= 0.32
+    ):
         return True
 
-    # Event-aware checks.
-    if len(common_core) >= 3 and len(common_fp) >= 3:
+    if (
+        len(common_core) >= 3
+        and len(common_fp) >= 3
+    ):
         return True
 
     if (
@@ -476,7 +751,10 @@ def collect_links(source):
             ):
                 continue
 
-            if not any(place in simple(title) for place in LOCAL):
+            if not any(
+                place in simple(title)
+                for place in LOCAL
+            ):
                 continue
 
             cu = canonical_url(url)
@@ -493,7 +771,11 @@ def collect_links(source):
             })
 
     except Exception as e:
-        print("SOURCE ERROR:", source["name"], e)
+        print(
+            "SOURCE ERROR:",
+            source["name"],
+            e
+        )
 
     return found
 
@@ -527,13 +809,17 @@ def check_article(article):
 
 
 cfg = json.loads(
-    Path("sources.json").read_text(encoding="utf-8")
+    Path("sources.json").read_text(
+        encoding="utf-8"
+    )
 )
 
 links = []
 
 for source in cfg["sources"]:
-    links.extend(collect_links(source))
+    links.extend(
+        collect_links(source)
+    )
 
 
 unique_links = []
@@ -556,7 +842,9 @@ print(
 
 candidates = []
 
-with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+with ThreadPoolExecutor(
+    max_workers=MAX_WORKERS
+) as executor:
 
     future_map = {
         executor.submit(check_article, a): a
@@ -564,6 +852,7 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     }
 
     for future in as_completed(future_map):
+
         try:
             result = future.result()
 
@@ -596,6 +885,7 @@ for article in candidates:
     for existing in out:
 
         if same_story(article, existing):
+
             duplicate = True
 
             print(
@@ -616,7 +906,9 @@ for article in candidates:
 Path("news.json").write_text(
     json.dumps(
         {
-            "updated": NOW.strftime("%d.%m.%Y, %H:%M"),
+            "updated": NOW.strftime(
+                "%d.%m.%Y, %H:%M"
+            ),
             "count": len(out),
             "raw_count": len(candidates),
             "items": out
