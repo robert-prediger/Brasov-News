@@ -1,8 +1,15 @@
 {
-  "updated": "25.09.2026, 20:00",
-  "count": 88,
-  "raw_count": 109,
+  "updated": "25.09.2026, 21:00",
+  "count": 86,
+  "raw_count": 107,
   "items": [
+    {
+      "title": "Liga 3 etapa 6 | Surpriză la Dragoslavele. Carpați Covasna, la primul punct în Liga 3! Kids Tâmpa Brașov a preluat „lanterna roșie”",
+      "url": "https://www.monitorulexpres.ro/2026/09/25/liga-3-etapa-6-surpriza-la-dragoslavele-carpati-covasna-la-primul-punct-in-liga-3-kids-tampa-brasov-a-preluat-lanterna-rosie/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-09-25T20:41:30+03:00"
+    },
     {
       "title": "RATBV anunță modificări pe linia metropolitană Brașov – Zărnești",
       "url": "https://newsbv.ro/ratbv-modificari-brasov/",
@@ -282,13 +289,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-25T12:55:23+03:00"
-    },
-    {
-      "title": "Etapa 6 Liga 3 | Olimpic Zărnești, duel tare cu Inter Sibiu. Kids Tâmpa Brașov, deplasare la CSO Teleajenul. Corona Brașov – CSM Săcele,...",
-      "url": "https://www.monitorulexpres.ro/2026/09/25/etapa-6-liga-3-olimpic-zarnesti-duel-tare-cu-inter-sibiu-kids-tampa-brasov-deplasare-la-cso-teleajenul-corona-brasov-csm-sacele-derbi-in-nocturna-pe-carpati/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-09-25T12:49:25+03:00"
     },
     {
       "title": "Cal furat din Cristuru-Secuiesc, găsit în județul Brașov. Prejudiciu, 10.000 de lei",
@@ -604,20 +604,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-24T09:44:56+03:00"
-    },
-    {
-      "title": "Braşovul devine capitala olimpismului juvenil în 2027 / Avantaje pentru judeţ…",
-      "url": "https://mytex.ro/sport/brasovul-devine-capitala-olimpismului-juvenil-in-2027-avantaje-pentru-judet/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-09-24T08:30:52+03:00"
-    },
-    {
-      "title": "Adrian Veștea, mesaj ferm: Ușa mea rămâne deschisă pentru Siegfried Mureșan! Ce spune șeful CJ Brașov despre votul din Parlament",
-      "url": "https://mytex.ro/politic/adrian-vestea-mesaj-ferm-usa-mea-ramane-deschisa-pentru-siegfried-muresan-ce-spune-seful-cj-brasov-despre-votul-din-parlament/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-24T08:06:10+03:00"
     }
   ]
 }
