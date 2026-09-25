@@ -1,8 +1,15 @@
 {
-  "updated": "25.09.2026, 22:00",
-  "count": 83,
+  "updated": "25.09.2026, 23:00",
+  "count": 84,
   "raw_count": 103,
   "items": [
+    {
+      "title": "Podul Codlea-Vulcan, închis pentru reabilitare",
+      "url": "https://www.zmbv.ro/podul-codlea-vulcan-inchis-pentru-reabilitare/25/09/2026/118429/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-09-25T22:14:05+03:00"
+    },
     {
       "title": "Liga 3 etapa 6 | Surpriză la Dragoslavele. Carpați Covasna, la primul punct în Liga 3! Kids Tâmpa Brașov a preluat „lanterna roșie”",
       "url": "https://www.monitorulexpres.ro/2026/09/25/liga-3-etapa-6-surpriza-la-dragoslavele-carpati-covasna-la-primul-punct-in-liga-3-kids-tampa-brasov-a-preluat-lanterna-rosie/",
@@ -186,13 +193,6 @@
       "published": "2026-09-25T14:21:16+03:00"
     },
     {
-      "title": "Trafic închis timp de trei luni între Codlea și Vulcan: Podul de pe DJ 112A intră în reabilitare totală",
-      "url": "https://mytex.ro/expres/trafic-inchis-timp-de-trei-luni-intre-codlea-si-vulcan-podul-de-pe-dj-112a-intra-in-reabilitare-totala/",
-      "source": "MyTex",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-09-25T14:20:51+03:00"
-    },
-    {
       "title": "Dinozaurii care se plimbă pe alei printre vizitatori, noua atracție de la Dino Parc Râșnov",
       "url": "https://bizbrasov.ro/2026/09/25/dinozauri-alei-dino-parc-rasnov/",
       "source": "BizBrașov",
@@ -212,6 +212,20 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-25T14:09:51+03:00"
+    },
+    {
+      "title": "Închidere temporară DJ 112A între Codlea și Vulcan. Lucrări de reabilitare pod din 29 septembrie 2026",
+      "url": "https://newsbv.ro/inchidere-dj-112a-codlea-vulcan-reabilitare-pod/",
+      "source": "NewsBV",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-09-25T14:08:51+03:00"
+    },
+    {
+      "title": "Drumul dintre Codlea și Vulcan se închide pentru trei luni! Se...",
+      "url": "https://transilvania365.ro/drumul-dintre-codlea-si-vulcan-se-inchide-pentru-trei-luni-se-reabiliteaza-podul-de-pe-dj-112a/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-25T13:59:59+03:00"
     },
     {
       "title": "O ursoaică rănită grav la coloana vertebrală a fost eutanasiată în această dimineață în Brașov",
@@ -576,13 +590,6 @@
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-24T11:18:48+03:00"
-    },
-    {
-      "title": "Eveniment acum o zi Muntele Tâmpa, sărbătorit la Brașov: Trei zile de expoziții, ateliere și concerte",
-      "url": "https://www.brasov.net/muntele-tampa-sarbatorit-la-brasov-trei-zile-de-expozitii-ateliere-si-concerte/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-24T10:20:50+03:00"
     }
   ]
 }
