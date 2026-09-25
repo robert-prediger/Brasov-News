@@ -1,8 +1,22 @@
 {
-  "updated": "25.09.2026, 23:00",
+  "updated": "26.09.2026, 00:00",
   "count": 84,
-  "raw_count": 103,
+  "raw_count": 105,
   "items": [
+    {
+      "title": "Hochei: Corona Brașov a legat două victorii consecutive în Erste Liga. Revenire de la 0-2 cu FEHA 19",
+      "url": "https://www.monitorulexpres.ro/2026/09/25/hochei-corona-brasov-a-legat-doua-victorii-consecutive-in-erste-liga-revenire-de-la-0-2-cu-feha-19/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-09-25T23:17:38+03:00"
+    },
+    {
+      "title": "38 de urși eliminați în Brașov din ianuarie",
+      "url": "https://www.zmbv.ro/38-de-ursi-eliminati-in-brasov-din-ianuarie-3/25/09/2026/118433/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-09-25T23:14:38+03:00"
+    },
     {
       "title": "Podul Codlea-Vulcan, închis pentru reabilitare",
       "url": "https://www.zmbv.ro/podul-codlea-vulcan-inchis-pentru-reabilitare/25/09/2026/118429/",
@@ -375,13 +389,6 @@
       "published": "2026-09-25T11:01:26+03:00"
     },
     {
-      "title": "HOCHEI: Prima victorie în Erste Liga pentru Corona Braşov",
-      "url": "https://newsbv.ro/prima-victorie-in-erste-liga-pentru-corona-brasov/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-09-25T11:00:45+03:00"
-    },
-    {
       "title": "Peste 11 lei litrul de motorină la pompă: Cum resimte Brașovul criza „dinților de fierăstrău” din piața petrolului",
       "url": "https://mytex.ro/economic/peste-11-lei-litrul-de-motorina-la-pompa-cum-resimte-brasovul-criza-dintilor-de-fierastrau-din-piata-petrolului/",
       "source": "MyTex",
@@ -487,6 +494,13 @@
       "published": "2026-09-25T08:08:10+03:00"
     },
     {
+      "title": "Corona Brașov bifează prima victorie în Erste Liga: Succes de impact în deplasarea de la Budapesta",
+      "url": "https://mytex.ro/sport/corona-brasov-bifeaza-prima-victorie-in-erste-liga-succes-de-impact-in-deplasarea-de-la-budapesta/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-09-25T07:58:05+03:00"
+    },
+    {
       "title": "Vanner Collective prezintă la Brașov CINECLUB ’87, prima lectură performativă dezvoltată în cadrul proiectului Truth Reframed",
       "url": "https://brasovstiri.ro/vanner-collective-prezinta-la-brasov-cineclub-87-prima-lectura-performativa-dezvoltata-in-cadrul-proiectului-truth-reframed/",
       "source": "Brașov Știri",
@@ -576,20 +590,6 @@
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-24T13:45:08+03:00"
-    },
-    {
-      "title": "Eveniment acum o zi Ziua Mediului Marin la Zoo Brașov Grădina Zoologică Brașov invită publicul pe 25 septembrie să exploreze lumea fascinantă a oceanelor, cu ocazia Zilei Internaționale a Mediului Marin. Între orele 10:00 și 16:00,...",
-      "url": "https://www.brasov.net/ziua-mediului-marin-la-zoo-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-24T11:59:58+03:00"
-    },
-    {
-      "title": "Primul tren interregio PESA a intrat în circulație pe ruta Iaşi – Braşov",
-      "url": "https://newsbv.ro/primul-tren-interregio-pesa-a-intrat-in-circulatie/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-24T11:18:48+03:00"
     }
   ]
 }
