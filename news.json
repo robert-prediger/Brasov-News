@@ -1,7 +1,7 @@
 {
-  "updated": "27.09.2026, 02:00",
-  "count": 49,
-  "raw_count": 57,
+  "updated": "27.09.2026, 02:39",
+  "count": 47,
+  "raw_count": 55,
   "items": [
     {
       "title": "Festivalul „Ecoul Pietrei Craiului”: 29 de județe, peste 300 de momente artistice și Fuego în recital la Zărnești",
@@ -193,6 +193,13 @@
       "published": "2026-09-25T23:14:38+03:00"
     },
     {
+      "title": "RATBV anunță modificări pe linia metropolitană Brașov – Zărnești",
+      "url": "https://newsbv.ro/ratbv-modificari-brasov/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-25T18:37:28+03:00"
+    },
+    {
       "title": "Un grup infracțional organizat a înșelat în ultimii 4 ani 13 victime din Brașov, cărora le-au „vândut” case inexistente sau le-au „investit” banii în…nimic. Prejudiciu este de peste 850.000 de euro, iar printre infractori este și un jurist",
       "url": "https://bizbrasov.ro/2026/09/25/grup-infractional-victime-jurist/",
       "source": "BizBrașov",
@@ -324,27 +331,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-25T14:42:41+03:00"
-    },
-    {
-      "title": "Aproape 5.300 de lei este salariul mediu net în Braşov. Locul 7 pe ţară",
-      "url": "https://newsbv.ro/5-300-de-lei-este-salariul-mediu-net-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T14:21:16+03:00"
-    },
-    {
-      "title": "Dinozaurii care se plimbă pe alei printre vizitatori, noua atracție de la Dino Parc Râșnov",
-      "url": "https://bizbrasov.ro/2026/09/25/dinozauri-alei-dino-parc-rasnov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-25T14:18:53+03:00"
-    },
-    {
-      "title": "Avertisment la Râșnov: O ursoaică însoțită de doi pui a pătruns în oraș din cauza unei porți din gardul electric de protecție care a...",
-      "url": "https://www.monitorulexpres.ro/2026/09/25/avertisment-la-rasnov-o-ursoaica-insotita-de-doi-pui-a-patruns-in-oras-din-cauza-unei-porti-din-gardul-electric-de-protectie-care-a-fost-lasata-deschisa/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-25T14:10:49+03:00"
     }
   ]
 }
