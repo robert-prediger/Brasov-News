@@ -1,8 +1,22 @@
 {
-  "updated": "27.09.2026, 01:00",
-  "count": 55,
-  "raw_count": 64,
+  "updated": "27.09.2026, 02:00",
+  "count": 49,
+  "raw_count": 57,
   "items": [
+    {
+      "title": "Festivalul „Ecoul Pietrei Craiului”: 29 de județe, peste 300 de momente artistice și Fuego în recital la Zărnești",
+      "url": "https://brasovstiri.ro/festivalul-ecoul-pietrei-craiului-29-de-judete-peste-300-de-momente-artistice-si-fuego-in-recital-la-zarnesti/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-09-27T01:10:00+03:00"
+    },
+    {
+      "title": "Patru documentare românești, în premieră la Brașov",
+      "url": "https://brasovstiri.ro/patru-documentare-romanesti-in-premiera-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-27T01:02:00+03:00"
+    },
     {
       "title": "Corona Brașov a câștigat categoric derby-ul cu CSM Săcele și a urcat pe primul loc în Liga 3",
       "url": "https://brasovstiri.ro/corona-brasov-a-castigat-categoric-derby-ul-cu-csm-sacele-si-a-urcat-pe-primul-loc-in-liga-3/",
@@ -44,13 +58,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-26T19:14:51+03:00"
-    },
-    {
-      "title": "Jandarm Brașovean Salvează Femeie de la Înec",
-      "url": "https://www.zmbv.ro/jandarm-brasovean-salveaza-femeie-de-la-inec/26/09/2026/118476/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-26T19:14:31+03:00"
     },
     {
       "title": "Liga 3 etapa 6 | Olimpic Zărnești, înfrângere șocantă cu Inter Sibiu! Kids Tâmpa Brașov a ajuns la 6 eșecuri consecutive!",
@@ -107,13 +114,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-26T12:15:36+03:00"
-    },
-    {
-      "title": "Patru filme cu Succes de Public, în premieră la Brașov! Proiecțiile sunt cu intrare liberă",
-      "url": "https://bizbrasov.ro/2026/09/26/succes-de-public-brasov-intrare-libera/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-26T12:15:09+03:00"
     },
     {
       "title": "Se închide DJ 112A, între Codlea și Vulcan",
@@ -298,6 +298,13 @@
       "published": "2026-09-25T15:20:55+03:00"
     },
     {
+      "title": "Util acum o zi Atenție, șoferi! Podul dintre Codlea și Vulcan se închide",
+      "url": "https://www.brasov.net/atentie-soferi-podul-dintre-codlea-si-vulcan-se-inchide/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-25T15:10:53+03:00"
+    },
+    {
       "title": "Joburi la Aeroportul Brașov! Se caută asistenți medicali, agenți de securitate...",
       "url": "https://transilvania365.ro/joburi-la-aeroportul-brasov-se-cauta-asistenti-medicali-agenti-de-securitate-si-auditori/",
       "source": "Transilvania365",
@@ -338,55 +345,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-25T14:10:49+03:00"
-    },
-    {
-      "title": "Drumul dintre Codlea și Vulcan se închide pentru trei luni! Se...",
-      "url": "https://transilvania365.ro/drumul-dintre-codlea-si-vulcan-se-inchide-pentru-trei-luni-se-reabiliteaza-podul-de-pe-dj-112a/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:59:59+03:00"
-    },
-    {
-      "title": "Dezinsecție țânțari și larvicidare în Brașov | 30 septembrie – 2 octombrie 2026 | Anunț oficial Coral Impex",
-      "url": "https://newsbv.ro/dezinsectie-tantari-brasov-coral-impex/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:45:31+03:00"
-    },
-    {
-      "title": "Brașoveanul Irineu Darău reorganizează Ministerul Economiei: „Un minister nu devine mai eficient doar pentru că îi tai niște posturi” spune ministrul, după ce a scăzut numărul șefilor de la 80 la 48",
-      "url": "https://bizbrasov.ro/2026/09/25/darau-reorganizeaza-posturi-ministrul/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:41:20+03:00"
-    },
-    {
-      "title": "„Simfonia timpului – povestea Filarmonicii Brașov” s-a deschis la Sala Patria: aproape 150 de ani de istorie a Filarmonicii Brașov, într-o expoziție interactivă",
-      "url": "https://bizbrasov.ro/2026/09/25/brasov-sala-patria-povestea-filarmonicii/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-25T13:38:07+03:00"
-    },
-    {
-      "title": "IAR Brașov lansează trei licitații pentru modernizarea fabricii: depozite, încălzire industrială...",
-      "url": "https://transilvania365.ro/iar-brasov-lanseaza-trei-licitatii-pentru-modernizarea-fabricii-depozite-incalzire-industriala-si-statie-de-pompare/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:37:08+03:00"
-    },
-    {
-      "title": "Schimb de experiență româno-tunisian la ISU Brașov. Raed Arafat a însoțit o delegație de experți în protecție civilă",
-      "url": "https://www.monitorulexpres.ro/2026/09/25/schimb-de-experienta-romano-tunisian-la-isu-brasov-raed-arafat-a-insotit-o-delegatie-de-experti-in-protectie-civila/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:23:56+03:00"
-    },
-    {
-      "title": "Șoferii Uber și Bolt riscă amenzi de până la 5.000 de lei dacă iau pasageri de la Aeroportul Brașov. Poliția a început să aplice regula",
-      "url": "https://newsbv.ro/soferii-uber-bolt-risca-amenzi-de-pana-la-5-000-de-lei/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-25T13:21:06+03:00"
     }
   ]
 }
