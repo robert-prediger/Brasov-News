@@ -1,8 +1,22 @@
 {
-  "updated": "26.09.2026, 13:00",
-  "count": 72,
-  "raw_count": 92,
+  "updated": "26.09.2026, 14:00",
+  "count": 64,
+  "raw_count": 79,
   "items": [
+    {
+      "title": "Liga 4 Brașov, etapa 5 I Chimia Victoria a câștigat derby-ul cu Internațional Brașov. Măgura Codlea a trecut de Corona 2. SR Brașov, victorie...",
+      "url": "https://www.monitorulexpres.ro/2026/09/26/liga-4-brasov-etapa-5-i-chimia-victoria-a-castigat-derby-ul-cu-international-brasov-magura-codlea-a-trecut-de-corona-2-sr-brasov-victorie-la-harman/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-26T13:55:27+03:00"
+    },
+    {
+      "title": "BRAȘOV | Doliu la Spitalul Municipal Codlea. A murit dr. Emil Henegar",
+      "url": "https://mytex.ro/sanatate/brasov-doliu-la-spitalul-municipal-codlea-a-murit-dr-emil-henegar/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-26T13:53:15+03:00"
+    },
     {
       "title": "BRAȘOV | Șofer depistat sub influența alcoolului, pe str. 13 Decembrie",
       "url": "https://mytex.ro/delicte/brasov-sofer-depistat-sub-influenta-alcoolului-pe-str-13-decembrie/",
@@ -88,13 +102,6 @@
       "published": "2026-09-26T08:24:53+03:00"
     },
     {
-      "title": "Centru pentru vârstnici, inaugurat la Prejmer de 1 octombrie. Investiție de peste 12,7 milioane de lei",
-      "url": "https://newsbv.ro/centru-varstnici-prejmer-inaugurare-1-octombrie/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-09-26T07:27:31+03:00"
-    },
-    {
       "title": "Grup Infracțional Din Brașov, Prejudiciu de 850.000 Euro",
       "url": "https://www.zmbv.ro/grup-infractional-din-brasov-prejudiciu-de-850-000-euro/26/09/2026/118452/",
       "source": "Ziarul Metropolitan Brașov",
@@ -109,20 +116,6 @@
       "published": "2026-09-26T07:00:12+03:00"
     },
     {
-      "title": "Liga 4 Brașov, etapa 5 I Internațional Brașov – Chimia Victoria și Măgura Codlea – Corona Brașov 2, derbiurile rundei",
-      "url": "https://www.monitorulexpres.ro/2026/09/26/liga-4-brasov-etapa-5-i-international-brasov-chimia-victoria-si-magura-codlea-corona-brasov2-derbiurile-rundei/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-09-26T06:00:16+03:00"
-    },
-    {
-      "title": "Modificări pe linia Brașov-Zărnești duminică",
-      "url": "https://www.zmbv.ro/modificari-pe-linia-brasov-zarnesti-duminica/26/09/2026/118448/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-26T05:14:46+03:00"
-    },
-    {
       "title": "38 de urși eliminați în Brașov din motive de siguranță",
       "url": "https://www.zmbv.ro/38-de-ursi-eliminati-in-brasov-din-motive-de-siguranta/25/09/2026/118432/",
       "source": "Ziarul Metropolitan Brașov",
@@ -135,13 +128,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-25T20:41:30+03:00"
-    },
-    {
-      "title": "RATBV anunță modificări pe linia metropolitană Brașov – Zărnești",
-      "url": "https://newsbv.ro/ratbv-modificari-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-25T18:37:28+03:00"
     },
     {
       "title": "Aeroportul Brașov Angajează: Asistenți, Agenți și Auditori",
@@ -270,13 +256,6 @@
       "published": "2026-09-25T14:42:41+03:00"
     },
     {
-      "title": "Aproape 5.300 de lei este salariul mediu net în Braşov. Locul 7 pe ţară",
-      "url": "https://newsbv.ro/5-300-de-lei-este-salariul-mediu-net-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T14:21:16+03:00"
-    },
-    {
       "title": "Dinozaurii care se plimbă pe alei printre vizitatori, noua atracție de la Dino Parc Râșnov",
       "url": "https://bizbrasov.ro/2026/09/25/dinozauri-alei-dino-parc-rasnov/",
       "source": "BizBrașov",
@@ -312,13 +291,6 @@
       "published": "2026-09-25T13:45:31+03:00"
     },
     {
-      "title": "Dezinsecție țânțari și larvicidare în Brașov | 30 septembrie – 2 octombrie 2026 | Anunț oficial Coral Impex",
-      "url": "https://newsbv.ro/dezinsectie-tantari-brasov-coral-impex/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T13:45:31+03:00"
-    },
-    {
       "title": "Brașoveanul Irineu Darău reorganizează Ministerul Economiei: „Un minister nu devine mai eficient doar pentru că îi tai niște posturi” spune ministrul, după ce a scăzut numărul șefilor de la 80 la 48",
       "url": "https://bizbrasov.ro/2026/09/25/darau-reorganizeaza-posturi-ministrul/",
       "source": "BizBrașov",
@@ -347,20 +319,6 @@
       "published": "2026-09-25T13:23:56+03:00"
     },
     {
-      "title": "Șoferii Uber și Bolt riscă amenzi de până la 5.000 de lei dacă iau pasageri de la Aeroportul Brașov. Poliția a început să aplice regula",
-      "url": "https://newsbv.ro/soferii-uber-bolt-risca-amenzi-de-pana-la-5-000-de-lei/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-25T13:21:06+03:00"
-    },
-    {
-      "title": "Trei oferte pentru proiectul SMID Brașov. Contractul de consultanță, estimat la peste 8,4 milioane de lei",
-      "url": "https://newsbv.ro/oferte-consultanta-proiect-smid-brasov/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-09-25T13:15:04+03:00"
-    },
-    {
       "title": "Partidul Naţional Liberal are de astăzi un nou reprezentant în Consiliul Local Braşov",
       "url": "https://brasovstiri.ro/partidul-national-liberal-are-de-astazi-un-nou-reprezentant-in-consiliul-local-brasov/",
       "source": "Brașov Știri",
@@ -373,13 +331,6 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-25T12:28:41+03:00"
-    },
-    {
-      "title": "Farmaciștii din Brașov, reuniți la un eveniment de două zile. Ce teme și specialiști sunt anunțați la conferința din 2026",
-      "url": "https://newsbv.ro/conferinta-farmacistilor-brasoveni-2026-program-complet/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T12:06:24+03:00"
     },
     {
       "title": "Premieră la Teatrul Arlechino din Brașov: „Marea aventură a Motanului Încălțat”, o nouă producție magică pentru copii",
@@ -424,13 +375,6 @@
       "published": "2026-09-25T09:47:55+03:00"
     },
     {
-      "title": "Până la final de an, parcul fotovoltaic al Brașovului ar urma să funcționeze. O perioadă se vor face doar probe",
-      "url": "https://bizbrasov.ro/2026/09/25/parc-fotovoltaic-brasov-probe-final-an/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-25T09:33:50+03:00"
-    },
-    {
       "title": "Cum se calculează factura la apă în Brașov. Ce trebuie să...",
       "url": "https://transilvania365.ro/cum-se-calculeaza-factura-la-apa-in-brasov-ce-trebuie-sa-stie-consumatorii/",
       "source": "Transilvania365",
@@ -466,13 +410,6 @@
       "published": "2026-09-25T09:05:03+03:00"
     },
     {
-      "title": "Lista miniștrilor din Guvernul Mureșan. Doi braşoveni, printre numele vehiculate pentru noul Cabinet",
-      "url": "https://newsbv.ro/lista-ministrilor-din-guvernul-muresan/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-25T09:00:29+03:00"
-    },
-    {
       "title": "Râșnov investește în zâmbetele copiilor. Primăria lansează programul „Zâmbet Sănătos”",
       "url": "https://transilvania365.ro/rasnov-investeste-in-zambetele-copiilor-primaria-lanseaza-programul-zambet-sanatos/",
       "source": "Transilvania365",
@@ -485,6 +422,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-25T08:08:10+03:00"
+    },
+    {
+      "title": "Trei oferte depuse pentru consultanța necesară implementării SMID Brașov",
+      "url": "https://transilvania365.ro/trei-oferte-depuse-pentru-consultanta-necesara-implementarii-smid-brasov/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-09-25T08:06:18+03:00"
     },
     {
       "title": "Corona Brașov bifează prima victorie în Erste Liga: Succes de impact în deplasarea de la Budapesta",
