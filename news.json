@@ -1,7 +1,7 @@
 {
-  "updated": "28.09.2026, 01:00",
+  "updated": "28.09.2026, 02:00",
   "count": 30,
-  "raw_count": 35,
+  "raw_count": 34,
   "items": [
     {
       "title": "Acțiune Poliție Brașov: Amenzi și Permise Reținute",
@@ -100,6 +100,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-27T13:04:38+03:00"
+    },
+    {
+      "title": "Acțiune a Poliției pe drumul spre Poiana Brașov: Șoferi amendați și permise reținute pentru viteză excesivă",
+      "url": "https://www.brasov.net/actiune-a-politiei-pe-drumul-spre-poiana-brasov-soferi-amendati-si-permise-retinute-pentru-viteza-excesiva/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-27T12:45:58+03:00"
     },
     {
       "title": "VIDEO. Trafic infernal la Bran! Coloană de mașini pe câțiva kilometri la intrarea...",
@@ -205,13 +212,6 @@
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-26T15:38:03+03:00"
-    },
-    {
-      "title": "Liga 4 Brașov, etapa 5 I Chimia Victoria a câștigat derby-ul cu Internațional Brașov. Măgura Codlea a trecut de Corona 2. SR Brașov, victorie...",
-      "url": "https://www.monitorulexpres.ro/2026/09/26/liga-4-brasov-etapa-5-i-chimia-victoria-a-castigat-derby-ul-cu-international-brasov-magura-codlea-a-trecut-de-corona-2-sr-brasov-victorie-la-harman/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-26T13:55:27+03:00"
     }
   ]
 }
