@@ -1,28 +1,84 @@
 {
-  "updated": "28.09.2026, 09:00",
-  "count": 38,
-  "raw_count": 41,
+  "updated": "28.09.2026, 10:00",
+  "count": 40,
+  "raw_count": 44,
   "items": [
+    {
+      "title": "Nouă licitație! Lucrări suplimentare de peste 45 milioane de lei la Sala Polivalentă Braşov",
+      "url": "https://transilvania365.ro/noua-licitatie-lucrari-suplimentare-de-peste-45-milioane-de-lei-la-sala-polivalenta-brasov/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-09-28T09:56:15+03:00"
+    },
+    {
+      "title": "Cutremur în această dimineață la o distanță de 84 km de Brașov. Săptămâna trecută, au fost înregistrate în total șase seisme în zona României",
+      "url": "https://bizbrasov.ro/2026/09/28/cutremur-brasov-seisme-romania/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-28T09:47:00+03:00"
+    },
+    {
+      "title": "Vremea se încălzește în Brașov la final de septembrie: Maxime de peste 20 de grade Celsius, dar și nopți reci și vânt în județ",
+      "url": "https://mytex.ro/expres/vremea-se-incalzeste-in-brasov-la-final-de-septembrie-maxime-de-peste-20-de-grade-celsius-dar-si-nopti-reci-si-vant-in-judet/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-09-28T09:35:19+03:00"
+    },
+    {
+      "title": "Cum se stabilește și se facturează consumul de apă. Explicațiile Companiei Apa Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/09/28/cum-se-stabileste-si-se-factureaza-consumul-de-apa-explicatiile-companiei-apa-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-28T09:32:02+03:00"
+    },
+    {
+      "title": "Primăria scoate la licitație lucrări de peste 67 milioane de lei pentru siguranța traficului din Brașov",
+      "url": "https://transilvania365.ro/primaria-scoate-la-licitatie-lucrari-de-peste-67-milioane-de-lei-pentru-siguranta-traficului-din-brasov/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-28T09:20:21+03:00"
+    },
+    {
+      "title": "Extinderea DN13: Brașovul Inițiază Proiectul",
+      "url": "https://www.zmbv.ro/extinderea-dn13-brasovul-initiaza-proiectul/28/09/2026/118584/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-28T09:15:25+03:00"
+    },
+    {
+      "title": "Cupa Colegiilor din Brașov: Noi Sporturi Incluse",
+      "url": "https://www.zmbv.ro/cupa-colegiilor-din-brasov-noi-sporturi-incluse/28/09/2026/118580/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-09-28T09:14:54+03:00"
+    },
+    {
+      "title": "Ghimbavul Investeste în Sărbătorile de Iarnă",
+      "url": "https://www.zmbv.ro/ghimbavul-investeste-in-sarbatorile-de-iarna/28/09/2026/118578/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-09-28T09:14:29+03:00"
+    },
+    {
+      "title": "Săptămâna Comediei 2026: Premieră la Brașov",
+      "url": "https://www.zmbv.ro/saptamana-comediei-2026-premiera-la-brasov/28/09/2026/118576/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-28T09:14:09+03:00"
+    },
+    {
+      "title": "„Cupa colegiilor și liceelor“ din Brașov se extinde: volei și handbal, pe lista...",
+      "url": "https://transilvania365.ro/cupa-colegiilor-si-liceelor-din-brasov-se-extinde-volei-si-handbal-pe-lista-disciplinelor-sportive/",
+      "source": "Transilvania365",
+      "category": "⚽ Sport",
+      "published": "2026-09-28T09:02:47+03:00"
+    },
     {
       "title": "Delegație internațională din Orientul Mijlociu în vizită la ISU Brașov pentru un schimb de experiență în gestionarea urgențelor",
       "url": "https://www.monitorulexpres.ro/2026/09/28/delegatie-internationala-din-orientul-mijlociu-in-vizita-la-isu-brasov-pentru-un-schimb-de-experienta-in-gestionarea-urgentelor/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-28T08:59:25+03:00"
-    },
-    {
-      "title": "Cutremur în această dimineață la 84 km de Brașov",
-      "url": "https://mytex.ro/expres/cutremur-in-aceasta-dimineata-la-84-km-de-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-28T08:58:13+03:00"
-    },
-    {
-      "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră la Brașov, între 2 și 8 noiembrie 2026",
-      "url": "https://bizbrasov.ro/2026/09/28/saptamana-comediei-program-teatru-noiembrie/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-28T08:31:09+03:00"
     },
     {
       "title": "Marian Constantinescu: „Avem cel mai bun atac și cea mai bună apărare!” Liderul Corona Brașov, gata de duelul local cu Kids Tâmpa",
@@ -53,13 +109,6 @@
       "published": "2026-09-28T07:26:02+03:00"
     },
     {
-      "title": "Festivalul „Ecoul Pietrei Craiului” revine la Zărnești",
-      "url": "https://www.zmbv.ro/festivalul-ecoul-pietrei-craiului-revine-la-zarnesti/28/09/2026/118558/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T07:14:40+03:00"
-    },
-    {
       "title": "Se desființează Poliția Locală? Trecerea la MAI stârnește dezbateri și la Brașov",
       "url": "https://mytex.ro/expres/se-desfiinteaza-politia-locala-trecerea-la-mai-starneste-dezbateri-si-la-brasov/",
       "source": "MyTex",
@@ -86,13 +135,6 @@
       "source": "BizBrașov",
       "category": "⚽ Sport",
       "published": "2026-09-28T05:33:00+03:00"
-    },
-    {
-      "title": "Altfel de politicieni, aceleași apucături: Darău mai are puțin și își pune toți membrii filialei USR Brașov în funcții de administratori la societățile Ministerului Economiei",
-      "url": "https://bizbrasov.ro/2026/09/28/dauau-ca-uri-consilieri-usr-bani-mocca/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T05:30:00+03:00"
     },
     {
       "title": "Camera de Comerț și Industrie România-Marea Britanie a deschis o filială la Brașov",
@@ -144,13 +186,6 @@
       "published": "2026-09-27T21:01:14+03:00"
     },
     {
-      "title": "USR Brașov: Consilieri în Consilii de Administrație",
-      "url": "https://www.zmbv.ro/usr-brasov-consilieri-in-consilii-de-administratie/27/09/2026/118542/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-27T20:16:13+03:00"
-    },
-    {
       "title": "Autostrada Brașov–Făgăraș va costa 9,35 miliarde de lei. Aproape 37 de milioane de euro pe kilometru",
       "url": "https://www.monitorulexpres.ro/2026/09/27/autostrada-brasov-fagaras-va-costa-935-miliarde-de-lei-aproape-37-de-milioane-de-euro-pe-kilometru/",
       "source": "Monitorul Expres",
@@ -200,13 +235,6 @@
       "published": "2026-09-27T13:04:38+03:00"
     },
     {
-      "title": "Acțiune a Poliției pe drumul spre Poiana Brașov: Șoferi amendați și permise reținute pentru viteză excesivă",
-      "url": "https://www.brasov.net/actiune-a-politiei-pe-drumul-spre-poiana-brasov-soferi-amendati-si-permise-retinute-pentru-viteza-excesiva/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-27T12:45:58+03:00"
-    },
-    {
       "title": "VIDEO. Trafic infernal la Bran! Coloană de mașini pe câțiva kilometri...",
       "url": "https://transilvania365.ro/video-trafic-infernal-la-bran-coloana-de-masini-pe-cativa-kilometri-la-intrarea-in-comuna/",
       "source": "Transilvania365",
@@ -254,20 +282,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-27T06:19:06+03:00"
-    },
-    {
-      "title": "Digitalizarea spitalelor din Brașov este încă un deziderat",
-      "url": "https://www.monitorulexpres.ro/2026/09/26/digitalizarea-spitalelor-din-brasov-este-inca-un-deziderat/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-26T21:05:37+03:00"
-    },
-    {
-      "title": "BRAȘOV | Intervenție neobișnuită în Bartolomeu: berbec salvat dintr-un canal aflat în spatele unui supermarket",
-      "url": "https://mytex.ro/expres/brasov-interventie-neobisnuita-in-bartolomeu-berbec-salvat-dintr-un-canal-aflat-in-spatele-unui-supermarket/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-26T21:04:35+03:00"
     }
   ]
 }
