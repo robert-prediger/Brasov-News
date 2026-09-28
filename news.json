@@ -1,8 +1,15 @@
 {
-  "updated": "28.09.2026, 03:00",
-  "count": 35,
-  "raw_count": 40,
+  "updated": "28.09.2026, 04:00",
+  "count": 32,
+  "raw_count": 37,
   "items": [
+    {
+      "title": "Spitalul de Copii Brașov se extinde. PUZ-ul pentru noul corp destinat Secției de Boli Infecțioase a fost aprobat",
+      "url": "https://brasovstiri.ro/spitalul-de-copii-brasov-se-extinde-puz-ul-pentru-noul-corp-destinat-sectiei-de-boli-infectioase-a-fost-aprobat/",
+      "source": "Brașov Știri",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-28T03:20:00+03:00"
+    },
     {
       "title": "Peste 2.300 de rățuște au concurat la Brașov pentru sprijinirea Secției de Oncologie a Spitalului de Copii",
       "url": "https://brasovstiri.ro/peste-2-300-de-ratuste-au-concurat-la-brasov-pentru-sprijinirea-sectiei-de-oncologie-a-spitalului-de-copii/",
@@ -44,13 +51,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-27T20:16:13+03:00"
-    },
-    {
-      "title": "Trafic Blocaj la Bran: Coloane Kilometrice",
-      "url": "https://www.zmbv.ro/trafic-blocaj-la-bran-coloane-kilometrice/27/09/2026/118540/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-27T20:15:49+03:00"
     },
     {
       "title": "Servicii Funerare Non-Stop în Brașov: Proceduri și Costuri",
@@ -193,13 +193,6 @@
       "published": "2026-09-27T01:10:00+03:00"
     },
     {
-      "title": "Patru documentare românești, în premieră la Brașov",
-      "url": "https://brasovstiri.ro/patru-documentare-romanesti-in-premiera-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-27T01:02:00+03:00"
-    },
-    {
       "title": "Digitalizarea spitalelor din Brașov este încă un deziderat",
       "url": "https://www.monitorulexpres.ro/2026/09/26/digitalizarea-spitalelor-din-brasov-este-inca-un-deziderat/",
       "source": "Monitorul Expres",
@@ -233,20 +226,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-26T16:07:41+03:00"
-    },
-    {
-      "title": "Doliu la Spitalul Municipal Codlea. A murit medicul internist Emil Henegar",
-      "url": "https://transilvania365.ro/doliu-la-spitalul-municipal-codlea-a-murit-medicul-internist-emil-henegar/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-26T15:57:55+03:00"
-    },
-    {
-      "title": "Tânăr de 27 de ani din Săcele, ridicat de polițiști și dus la penitenciar pentru conducere fără permis",
-      "url": "https://www.monitorulexpres.ro/2026/09/26/tanar-de-27-de-ani-din-sacele-ridicat-de-politisti-si-dus-la-penitenciar-pentru-conducere-fara-permis/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-26T15:38:03+03:00"
     }
   ]
 }
