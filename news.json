@@ -1,8 +1,50 @@
 {
-  "updated": "28.09.2026, 13:00",
-  "count": 51,
-  "raw_count": 54,
+  "updated": "28.09.2026, 14:00",
+  "count": 55,
+  "raw_count": 59,
   "items": [
+    {
+      "title": "Un „Dorel” la manetele unui excavator a lăsat astăzi fără gaz locuitorii și firmele de pe două străzi din Brașov",
+      "url": "https://bizbrasov.ro/2026/09/28/dorel-excavator-gaz-strazi/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-28T13:58:39+03:00"
+    },
+    {
+      "title": "Liga de Tineret | Penultima etapă a sezonului regular: Kids Tâmpa Brașov, eșec în deplasare cu Universitatea Cluj",
+      "url": "https://www.monitorulexpres.ro/2026/09/28/liga-de-tineret-penultima-etapa-a-sezonului-regular-kids-tampa-brasov-esec-in-deplasare-cu-universitatea-cluj/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-09-28T13:57:19+03:00"
+    },
+    {
+      "title": "„Student LogIn” dă startul noului an de învățământ la Universitatea Transilvania din Brașov: Treasure Hunt, Quiz și premii pentru studenți",
+      "url": "https://bizbrasov.ro/2026/09/28/brasov-student-login-da-startul-noului-an/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-09-28T13:46:43+03:00"
+    },
+    {
+      "title": "Tinerii care doresc să devină militari profesioniști în Armata României pot să se pregătească pentru examenul sportiv în mai multe unități militare din țară, inclusiv la Predeal",
+      "url": "https://bizbrasov.ro/2026/09/28/tinerii-armata-unitati-militare/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-09-28T13:41:14+03:00"
+    },
+    {
+      "title": "Conferință despre investiții și dezvoltare economică, la Brașov",
+      "url": "https://brasovstiri.ro/conferinta-despre-investitii-si-dezvoltare-economica-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "💰 Business & economie",
+      "published": "2026-09-28T13:16:19+03:00"
+    },
+    {
+      "title": "MApN organizează pregătire gratuită pentru probele sportive. Ședințe și la Predeal",
+      "url": "https://transilvania365.ro/mapn-organizeaza-pregatire-gratuita-pentru-probele-sportive-sedinte-si-la-predeal/",
+      "source": "Transilvania365",
+      "category": "⚽ Sport",
+      "published": "2026-09-28T13:10:47+03:00"
+    },
     {
       "title": "„Recitalul de la ora cinci”, la Muzeul „Casa Mureșenilor” Brașov",
       "url": "https://www.monitorulexpres.ro/2026/09/28/recitalul-de-la-ora-cinci-la-muzeul-casa-muresenilor-brasov-10/",
@@ -18,25 +60,11 @@
       "published": "2026-09-28T12:26:04+03:00"
     },
     {
-      "title": "Volei și Handbal, Noi Discipline la Cupa Liceelor Brașov",
-      "url": "https://www.zmbv.ro/volei-si-handbal-noi-discipline-la-cupa-liceelor-brasov/28/09/2026/118597/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "⚽ Sport",
-      "published": "2026-09-28T12:14:59+03:00"
-    },
-    {
       "title": "VIDEO „Scăldătoarea” cerbilor, în masivul Piatra Craiului, la 30 de kilometri de Brașov",
       "url": "https://bizbrasov.ro/2026/09/28/scaldatoarea-cerbilor-piatra-craiului/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-28T12:11:31+03:00"
-    },
-    {
-      "title": "Recunoștința unei familii din Brașov după 74 de zile de spitalizare: cum a fost salvat un pacient de medicii de la Pavilionul Astra",
-      "url": "https://bizbrasov.ro/2026/09/28/brasov-recunostinta-unei-familii-74-zile/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T11:59:42+03:00"
     },
     {
       "title": "Sezonul marilor întâlniri la Filarmonica Brașov: Richard Strauss, invitatul de onoare într-o săptămână simfonică de excepție",
@@ -81,6 +109,13 @@
       "published": "2026-09-28T11:15:42+03:00"
     },
     {
+      "title": "Social acum 2 ore Poliția Brașov la „Noaptea Cercetătorilor”: Cum ajută tehnologia în combaterea criminalității",
+      "url": "https://www.brasov.net/politia-brasov-la-noaptea-cercetatorilor-cum-ajuta-tehnologia-in-combaterea-criminalitatii/",
+      "source": "Brașov.net",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-28T11:13:56+03:00"
+    },
+    {
       "title": "Finanțele Publice Brașov alocă 300.000 de lei pentru modernizarea sistemului de securitate din...",
       "url": "https://transilvania365.ro/finantele-publice-brasov-aloca-300-000-de-lei-pentru-modernizarea-sistemului-de-securitate-din-sibiu/",
       "source": "Transilvania365",
@@ -95,7 +130,7 @@
       "published": "2026-09-28T10:47:27+03:00"
     },
     {
-      "title": "25 de elevi din Țara Făgărașului pot primi Burse Carpathia de 3.000 de...",
+      "title": "25 de elevi din Țara Făgărașului pot primi Burse Carpathia de...",
       "url": "https://transilvania365.ro/25-de-elevi-din-tara-fagarasului-pot-primi-burse-carpathia-de-3-000-de-lei-inscrierile-au-inceput/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -116,11 +151,11 @@
       "published": "2026-09-28T10:28:11+03:00"
     },
     {
-      "title": "Predealul investește în noua bază sportivă",
-      "url": "https://www.zmbv.ro/predealul-investeste-in-noua-baza-sportiva/28/09/2026/118592/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T10:14:47+03:00"
+      "title": "Sport acum 3 ore Noi sporturi adăugate în competiția „Cupa colegiilor și liceelor” din Brașov: Volei și handbal",
+      "url": "https://www.brasov.net/noi-sporturi-adaugate-in-competitia-cupa-colegiilor-si-liceelor-din-brasov-volei-si-handbal/",
+      "source": "Brașov.net",
+      "category": "⚽ Sport",
+      "published": "2026-09-28T10:26:59+03:00"
     },
     {
       "title": "Cutremur în această dimineață la o distanță de 84 km de Brașov. Săptămâna trecută, au fost înregistrate în total șase seisme în zona României",
@@ -142,13 +177,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-28T09:32:02+03:00"
-    },
-    {
-      "title": "Ghimbavul Investeste în Sărbătorile de Iarnă",
-      "url": "https://www.zmbv.ro/ghimbavul-investeste-in-sarbatorile-de-iarna/28/09/2026/118578/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T09:14:29+03:00"
     },
     {
       "title": "Delegație internațională din Orientul Mijlociu în vizită la ISU Brașov pentru un schimb de experiență în gestionarea urgențelor",
@@ -186,6 +214,13 @@
       "published": "2026-09-28T08:07:55+03:00"
     },
     {
+      "title": "Oraşul Ghimbav și oraşul polonez Niepołomice construiesc noi punți de colaborare și dezvoltare",
+      "url": "https://newsbv.ro/orasul-ghimbav-si-orasul-polonez-niepolomice-colaborare/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-28T07:59:52+03:00"
+    },
+    {
       "title": "EXCLUSIV! Dezastru ecologic la Tărlungeni, lângă Brașov! Groapă de gunoi pe...",
       "url": "https://transilvania365.ro/exclusiv-dezastru-ecologic-la-tarlungeni-langa-brasov-groapa-de-gunoi-pe-malul-tarlungului-unde-sunt-autoritatile-de-mediu-videofoto/",
       "source": "Transilvania365",
@@ -219,13 +254,6 @@
       "source": "BizBrașov",
       "category": "⚽ Sport",
       "published": "2026-09-28T05:33:00+03:00"
-    },
-    {
-      "title": "Altfel de politicieni, aceleași apucături: Darău mai are puțin și își pune toți membrii filialei USR Brașov în funcții de administratori la societățile Ministerului Economiei",
-      "url": "https://bizbrasov.ro/2026/09/28/dauau-ca-uri-consilieri-usr-bani-mocca/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-28T05:30:00+03:00"
     },
     {
       "title": "Camera de Comerț și Industrie România-Marea Britanie a deschis o filială la Brașov",
@@ -277,11 +305,11 @@
       "published": "2026-09-27T18:55:36+03:00"
     },
     {
-      "title": "Controale ale Poliției Rutiere Brașov – șase permise reținute și amenzi de peste 17.000 de lei",
-      "url": "https://newsbv.ro/politiei-rutiere-controale/",
+      "title": "Dosare penale la Făgăraș și Râșnov: șofer prins băut și conducător de ATV fără permis și cu alcoolemie de 0,81 mg/l",
+      "url": "https://newsbv.ro/dosare-penale-fagaras-rasnov/",
       "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-27T16:07:29+03:00"
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-27T16:16:19+03:00"
     },
     {
       "title": "Victorie istorică: România a învins Ungaria după 7 ani și a obținut bronzul în EHF Euro Cup! Două handbaliste de la Corona Brașov în lot",
@@ -312,11 +340,11 @@
       "published": "2026-09-27T13:32:03+03:00"
     },
     {
-      "title": "Vitezomani în plasa polițiștilor: 19 sancțiuni și permise suspendate pe drumul spre Poiana Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/09/27/vitezomani-in-plasa-politistilor-19-sanctiuni-si-permise-suspendate-pe-drumul-spre-poiana-brasov/",
-      "source": "Monitorul Expres",
+      "title": "Fapt divers acum o zi Acțiune a Poliției pe drumul spre Poiana Brașov: Șoferi amendați și permise reținute pentru viteză excesivă",
+      "url": "https://www.brasov.net/actiune-a-politiei-pe-drumul-spre-poiana-brasov-soferi-amendati-si-permise-retinute-pentru-viteza-excesiva/",
+      "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-09-27T13:04:38+03:00"
+      "published": "2026-09-27T12:45:58+03:00"
     },
     {
       "title": "VIDEO. Trafic infernal la Bran! Coloană de mașini pe câțiva kilometri...",
