@@ -1,8 +1,29 @@
 {
-  "updated": "29.09.2026, 00:01",
-  "count": 67,
-  "raw_count": 78,
+  "updated": "29.09.2026, 01:00",
+  "count": 65,
+  "raw_count": 79,
   "items": [
+    {
+      "title": "Viitorii ofițeri ai aviației române au început un nou an de pregătire la Academia Forțelor Aeriene din Brașov",
+      "url": "https://brasovstiri.ro/viitorii-ofiteri-ai-aviatiei-romane-au-inceput-un-nou-an-de-pregatire-la-academia-fortelor-aeriene-din-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-09-29T00:55:00+03:00"
+    },
+    {
+      "title": "Viitorul Regiunii Centru până în 2034, analizat la Sibiu. Brașovul a fost reprezentat de Daniel Șoim",
+      "url": "https://brasovstiri.ro/viitorul-regiunii-centru-pana-in-2034-analizat-la-sibiu-brasovul-a-fost-reprezentat-de-daniel-soim/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-09-29T00:53:00+03:00"
+    },
+    {
+      "title": "„Recitalul de la ora cinci” revine la Casa Mureșenilor din Brașov, cu arii celebre de operă",
+      "url": "https://brasovstiri.ro/recitalul-de-la-ora-cinci-revine-la-casa-muresenilor-din-brasov-cu-arii-celebre-de-opera/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-29T00:23:00+03:00"
+    },
     {
       "title": "30 de reprezentanți tătari, în vizită oficială la Râșnov, de Ziua Mondială a Turismului",
       "url": "https://brasovstiri.ro/30-de-reprezentanti-tatari-in-vizita-oficiala-la-rasnov-de-ziua-mondiala-a-turismului/",
@@ -58,13 +79,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-28T19:34:13+03:00"
-    },
-    {
-      "title": "Daniela Cîmpean, aleasă la conducerea Regiunii Centru. Ce miză are pentru Brașov și cum stă județul față de Sibiu",
-      "url": "https://newsbv.ro/daniela-cimpean-regiunea-centru-brasov-sibiu-economie/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-28T19:16:57+03:00"
     },
     {
       "title": "„My Fair Lady” revine la Opera Brașov pe 3 octombrie. Ultimele bilete sunt disponibile",
@@ -144,18 +158,18 @@
       "published": "2026-09-28T16:06:30+03:00"
     },
     {
+      "title": "Face închisoare după ce a condus fără permis. Tânăr de 27 de ani din Săcele, ridicat de polițiști și dus la Penitenciarul Codlea",
+      "url": "https://www.brasov.net/face-inchisoare-dupa-ce-a-condus-fara-permis-tanar-de-27-de-ani-din-sacele-ridicat-de-politisti-si-dus-la-penitenciarul-codlea/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-28T15:43:11+03:00"
+    },
+    {
       "title": "O zi cu mulți „cheflii” pe șoselele din Brașov. Un șofer fără permis și beat criță a ajuns în arest, alții doi s-au ales cu dosare penale",
       "url": "https://bizbrasov.ro/2026/09/28/sosele-brasov-permis-sofer-arest-penal/",
       "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-28T15:16:25+03:00"
-    },
-    {
-      "title": "Richard Strauss la Filarmonica Brașov: „Don Quixote” și „Metamorphosen”, pe 1 octombrie",
-      "url": "https://newsbv.ro/filarmonica-brasov-octombrie/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-28T15:14:38+03:00"
     },
     {
       "title": "Post scos la concurs la Spitalul General C.F. Brașov. Se caută...",
@@ -221,13 +235,6 @@
       "published": "2026-09-28T14:08:19+03:00"
     },
     {
-      "title": "Brașov Running Festival 2026: tRUNsylvania International 10K aduce la start 8 atleți din Top 10 mondial",
-      "url": "https://newsbv.ro/trunsylvania-brasov-running-festival/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-28T14:03:39+03:00"
-    },
-    {
       "title": "Un „Dorel” la manetele unui excavator a lăsat astăzi fără gaz locuitorii și firmele de pe două străzi din Brașov",
       "url": "https://bizbrasov.ro/2026/09/28/dorel-excavator-gaz-strazi/",
       "source": "BizBrașov",
@@ -268,13 +275,6 @@
       "source": "Transilvania365",
       "category": "⚽ Sport",
       "published": "2026-09-28T13:10:47+03:00"
-    },
-    {
-      "title": "„Recitalul de la ora cinci”, la Muzeul „Casa Mureșenilor” Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/09/28/recitalul-de-la-ora-cinci-la-muzeul-casa-muresenilor-brasov-10/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-28T12:48:47+03:00"
     },
     {
       "title": "Corona Brașov a câștigat Cupa CSM Lugoj la volei feminin",
@@ -382,25 +382,11 @@
       "published": "2026-09-28T08:07:55+03:00"
     },
     {
-      "title": "Oraşul Ghimbav și oraşul polonez Niepołomice construiesc noi punți de colaborare și dezvoltare",
-      "url": "https://newsbv.ro/orasul-ghimbav-si-orasul-polonez-niepolomice-colaborare/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-28T07:59:52+03:00"
-    },
-    {
       "title": "EXCLUSIV! Dezastru ecologic la Tărlungeni, lângă Brașov! Groapă de gunoi pe...",
       "url": "https://transilvania365.ro/exclusiv-dezastru-ecologic-la-tarlungeni-langa-brasov-groapa-de-gunoi-pe-malul-tarlungului-unde-sunt-autoritatile-de-mediu-videofoto/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-28T07:26:02+03:00"
-    },
-    {
-      "title": "Festivalul „Ecoul Pietrei Craiului” revine la Zărneşti. Tineri artiști din 29 de judeţe pe scena Casei de Cultură. Programul complet",
-      "url": "https://newsbv.ro/festivalul-ecoul-pietrei-craiului-revine-la-zarnesti/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-28T07:11:48+03:00"
     },
     {
       "title": "Se desființează Poliția Locală? Trecerea la MAI stârnește dezbateri și la Brașov",
