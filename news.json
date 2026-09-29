@@ -1,7 +1,7 @@
 {
-  "updated": "29.09.2026, 02:00",
-  "count": 62,
-  "raw_count": 74,
+  "updated": "29.09.2026, 03:00",
+  "count": 65,
+  "raw_count": 80,
   "items": [
     {
       "title": "Condamnat pentru condus fără permis, încarcerat la Codlea",
@@ -74,11 +74,25 @@
       "published": "2026-09-28T20:22:23+03:00"
     },
     {
+      "title": "3 dosare penale în Brașov după controale în trafic: șofer fără permis și băut, reținut la Rupea",
+      "url": "https://newsbv.ro/dosare-penale-controale-trafic/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-28T19:43:33+03:00"
+    },
+    {
       "title": "Războiul pe trotuare: Brașovenii reacționează dur după intervenția autorităților pe Strada Lungă",
       "url": "https://mytex.ro/expres/razboiul-pe-trotuare-brasovenii-reactioneaza-dur-dupa-interventia-autoritatilor-pe-strada-lunga/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-28T19:34:13+03:00"
+    },
+    {
+      "title": "Daniela Cîmpean, aleasă la conducerea Regiunii Centru. Ce miză are pentru Brașov și cum stă județul față de Sibiu",
+      "url": "https://newsbv.ro/daniela-cimpean-regiunea-centru-brasov-sibiu-economie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-28T19:16:57+03:00"
     },
     {
       "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră la Brașov, între 2 și 8 noiembrie 2026",
@@ -151,18 +165,18 @@
       "published": "2026-09-28T16:06:30+03:00"
     },
     {
-      "title": "Dosare penale după controale în trafic, în județul Brașov: Un șofer a refuzat testarea, altul circula cu numere expirate. Un tânăr a fost reținut",
-      "url": "https://www.monitorulexpres.ro/2026/09/28/dosare-penale-dupa-controale-in-trafic-in-judetul-brasov-un-sofer-a-refuzat-testarea-altul-circula-cu-numere-expirate-un-tanar-a-fost-retinut/",
-      "source": "Monitorul Expres",
+      "title": "O zi cu mulți „cheflii” pe șoselele din Brașov. Un șofer fără permis și beat criță a ajuns în arest, alții doi s-au ales cu dosare penale",
+      "url": "https://bizbrasov.ro/2026/09/28/sosele-brasov-permis-sofer-arest-penal/",
+      "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-28T15:28:47+03:00"
+      "published": "2026-09-28T15:16:25+03:00"
     },
     {
-      "title": "BRAȘOV | Șofer reținut după ce a fost prins beat și fără permis, la Cața. Alte două dosare penale, la Codlea și Săcele",
-      "url": "https://mytex.ro/delicte/brasov-sofer-retinut-dupa-ce-a-fost-prins-beat-si-fara-permis-la-cata-alte-doua-dosare-penale-la-codlea-si-sacele/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-28T15:22:43+03:00"
+      "title": "Richard Strauss la Filarmonica Brașov: „Don Quixote” și „Metamorphosen”, pe 1 octombrie",
+      "url": "https://newsbv.ro/filarmonica-brasov-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-28T15:14:38+03:00"
     },
     {
       "title": "Post scos la concurs la Spitalul General C.F. Brașov. Se caută...",
@@ -226,6 +240,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-28T14:08:19+03:00"
+    },
+    {
+      "title": "Brașov Running Festival 2026: tRUNsylvania International 10K aduce la start 8 atleți din Top 10 mondial",
+      "url": "https://newsbv.ro/trunsylvania-brasov-running-festival/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-09-28T14:03:39+03:00"
     },
     {
       "title": "Un „Dorel” la manetele unui excavator a lăsat astăzi fără gaz locuitorii și firmele de pe două străzi din Brașov",
@@ -375,11 +396,25 @@
       "published": "2026-09-28T08:07:55+03:00"
     },
     {
+      "title": "Oraşul Ghimbav și oraşul polonez Niepołomice construiesc noi punți de colaborare și dezvoltare",
+      "url": "https://newsbv.ro/orasul-ghimbav-si-orasul-polonez-niepolomice-colaborare/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-28T07:59:52+03:00"
+    },
+    {
       "title": "EXCLUSIV! Dezastru ecologic la Tărlungeni, lângă Brașov! Groapă de gunoi pe...",
       "url": "https://transilvania365.ro/exclusiv-dezastru-ecologic-la-tarlungeni-langa-brasov-groapa-de-gunoi-pe-malul-tarlungului-unde-sunt-autoritatile-de-mediu-videofoto/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-28T07:26:02+03:00"
+    },
+    {
+      "title": "Festivalul „Ecoul Pietrei Craiului” revine la Zărneşti. Tineri artiști din 29 de judeţe pe scena Casei de Cultură. Programul complet",
+      "url": "https://newsbv.ro/festivalul-ecoul-pietrei-craiului-revine-la-zarnesti/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-28T07:11:48+03:00"
     },
     {
       "title": "Se desființează Poliția Locală? Trecerea la MAI stârnește dezbateri și la Brașov",
@@ -410,13 +445,6 @@
       "published": "2026-09-28T05:33:00+03:00"
     },
     {
-      "title": "Camera de Comerț și Industrie România-Marea Britanie a deschis o filială la Brașov",
-      "url": "https://brasovstiri.ro/camera-de-comert-si-industrie-romania-marea-britanie-a-deschis-o-filiala-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-09-28T05:22:00+03:00"
-    },
-    {
       "title": "Delegație internațională, în vizită la pompierii din Brașov. Exercițiu de descarcerare pentru oaspeții străini",
       "url": "https://mytex.ro/expres/delegatie-internationala-in-vizita-la-pompierii-din-brasov-exercitiu-de-descarcerare-pentru-oaspetii-straini/",
       "source": "MyTex",
@@ -429,13 +457,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-09-27T16:01:30+03:00"
-    },
-    {
-      "title": "REVOLUȚIE FISCALĂ 2027: Cât vor plăti brașovenii pe case și terenuri. Impozitele din centrul orașului și Poiana Brașov se pot tripla!",
-      "url": "https://mytex.ro/economic/revolutie-fiscala-2027-cat-vor-plati-brasovenii-pe-case-si-terenuri-impozitele-din-centrul-orasului-si-poiana-brasov-se-pot-tripla/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-27T14:30:15+03:00"
     }
   ]
 }
