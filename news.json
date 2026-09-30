@@ -1,7 +1,7 @@
 {
-  "updated": "30.09.2026, 23:50",
+  "updated": "01.10.2026, 00:00",
   "count": 83,
-  "raw_count": 95,
+  "raw_count": 94,
   "items": [
     {
       "title": "Restricții de Trafic în Brașov pentru Festivalul de Alergare",
@@ -11,8 +11,8 @@
       "published": "2026-09-30T23:15:02+03:00"
     },
     {
-      "title": "Zboruri Brașov-Istanbul suspendate: AnimaWings în reorganizare",
-      "url": "https://www.zmbv.ro/zboruri-brasov-istanbul-suspendate-animawings-in-reorganizare/30/09/2026/118804/",
+      "title": "Zborurile Brașov-Istanbul, suspendate temporar",
+      "url": "https://www.zmbv.ro/zborurile-brasov-istanbul-suspendate-temporar/30/09/2026/118805/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T23:14:40+03:00"
@@ -30,6 +30,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-30T21:29:44+03:00"
+    },
+    {
+      "title": "Adio zboruri spre Istanbul de la Aeroportul Internațional Brașov Ghimbav, deocamdată. Compania Animawings – care avea în vedere introducerea de curse spre „orașul de pe două continente” – a intrat în reorganizare judiciară",
+      "url": "https://bizbrasov.ro/2026/09/30/adio-zboruri-istanbul-brasov/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-30T20:07:18+03:00"
     },
     {
       "title": "ADR Centru a lansat, la Brașov, fondul de capital de risc „Asternova Centru”: Instrument financiar pilot de peste 8 milioane de euro dedicat startup-urilor inovatoare",
@@ -576,13 +583,6 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-29T13:43:40+03:00"
-    },
-    {
-      "title": "Deși e vară, Baza Olimpică pentru Sărituri cu Schiurile de la Râșnov aduce în weekend zeci de „schiori” din 10 țări lângă Brașov",
-      "url": "https://bizbrasov.ro/2026/09/29/baza-olimpica-rasnov-schiori/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-29T11:52:20+03:00"
     }
   ]
 }
