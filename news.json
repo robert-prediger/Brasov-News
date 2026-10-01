@@ -1,8 +1,29 @@
 {
-  "updated": "01.10.2026, 06:00",
-  "count": 71,
-  "raw_count": 84,
+  "updated": "01.10.2026, 07:00",
+  "count": 70,
+  "raw_count": 83,
   "items": [
+    {
+      "title": "Criză în creșele din Brașov de astăzi: Caz cu o singură îngrijitoare la două grupe de copii! Interpelarea din Parlament a Arianei Bucur și dezastrul din sistem",
+      "url": "https://mytex.ro/expres/criza-in-cresele-din-brasov-de-astazi-caz-cu-o-singura-ingrijitoare-la-doua-grupe-de-copii-interpelarea-din-parlament-a-arianei-bucur-si-dezastrul-din-sistem/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-01T06:55:09+03:00"
+    },
+    {
+      "title": "Zoo Brașov trece la programul de iarnă",
+      "url": "https://newsbv.ro/zoo-brasov-trece-la-programul-de-iarna-2/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T06:46:21+03:00"
+    },
+    {
+      "title": "Trafic închis pe DJ112A, din comuna Hălchiu, din cauza unor lucrări ale Companiei Apa Braşov",
+      "url": "https://newsbv.ro/trafic-inchis-pe-dj112a-din-comuna-halchiu/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T06:25:42+03:00"
+    },
     {
       "title": "Tohan Zărnești repornește instalații vechi de zeci de ani pentru producția de muniție. Fabrica își reactivează capacitățile pe fondul cererii crescute",
       "url": "https://bizbrasov.ro/2026/10/01/tohan-zarnesit-instalatii-vechi-munitie/",
@@ -151,13 +172,6 @@
       "published": "2026-09-30T16:15:00+03:00"
     },
     {
-      "title": "Zoo Brașov trece la programul de iarnă de la 1 octombrie",
-      "url": "https://mytex.ro/expres/zoo-brasov-trece-la-programul-de-iarna-de-la-1-octombrie/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-30T16:11:41+03:00"
-    },
-    {
       "title": "Doi „cetățeni” din Săcele prinși în flagrant ieri când încercau să fure produse în valoare de aproape 3.000 de lei din supermarketul Carrefour de pe Calea București",
       "url": "https://bizbrasov.ro/2026/09/30/flagrant-carrefour-calea-bucuresti/",
       "source": "BizBrașov",
@@ -254,13 +268,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-30T13:24:15+03:00"
-    },
-    {
-      "title": "Muzeul de Artă Brașov găzduiește o conferință dedicată înțelegerii operelor, în cadrul Nopții Albe a Galeriilor",
-      "url": "https://newsbv.ro/muzeul-de-arta-brasov-conferinta-2/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-30T13:22:38+03:00"
     },
     {
       "title": "Autostrada Brașov – Făgăraș e gata pentru licitația de construcție. Proiectul are o întârziere de peste 3 ani",
@@ -403,13 +410,6 @@
       "published": "2026-09-30T09:52:42+03:00"
     },
     {
-      "title": "Expoziția „Zboruri Lăuntrice”, la Aeroportul Brașov",
-      "url": "https://newsbv.ro/expozitia-zboruri-launtrice-la-aeroportul-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-30T09:21:32+03:00"
-    },
-    {
       "title": "Turism acum 12 ore Turnul Bathory din Cetatea Râșnov și-a deschis porțile pentru vizitatori",
       "url": "https://www.brasov.net/turnul-bathory-din-cetatea-rasnov-si-a-deschis-portile-pentru-vizitatori/",
       "source": "Brașov.net",
@@ -492,13 +492,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-09-29T21:21:48+03:00"
-    },
-    {
-      "title": "Vitezomani pe DN1E, spre Poiana Brașov: amenzi de 20.000 de lei și 6 permise suspendate",
-      "url": "https://mytex.ro/expres/vitezomani-pe-dn1e-spre-poiana-brasov-amenzi-de-20-000-de-lei-si-6-permise-suspendate/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-29T20:59:00+03:00"
     }
   ]
 }
