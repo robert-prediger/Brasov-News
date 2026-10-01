@@ -1,7 +1,7 @@
 {
-  "updated": "01.10.2026, 02:00",
-  "count": 78,
-  "raw_count": 92,
+  "updated": "01.10.2026, 03:00",
+  "count": 77,
+  "raw_count": 90,
   "items": [
     {
       "title": "Echipamente IT, mobilier modern și materiale didactice noi pentru centrele școlare de educație incluzivă din județul Brașov",
@@ -32,8 +32,8 @@
       "published": "2026-09-30T23:15:02+03:00"
     },
     {
-      "title": "Zboruri Brașov-Istanbul suspendate: AnimaWings în reorganizare",
-      "url": "https://www.zmbv.ro/zboruri-brasov-istanbul-suspendate-animawings-in-reorganizare/30/09/2026/118804/",
+      "title": "Zborurile Brașov-Istanbul, suspendate temporar",
+      "url": "https://www.zmbv.ro/zborurile-brasov-istanbul-suspendate-temporar/30/09/2026/118805/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T23:14:40+03:00"
@@ -58,6 +58,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-30T21:29:44+03:00"
+    },
+    {
+      "title": "Adio zboruri spre Istanbul de la Aeroportul Internațional Brașov Ghimbav, deocamdată. Compania Animawings – care avea în vedere introducerea de curse spre „orașul de pe două continente” – a intrat în reorganizare judiciară",
+      "url": "https://bizbrasov.ro/2026/09/30/adio-zboruri-istanbul-brasov/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-30T20:07:18+03:00"
     },
     {
       "title": "ADR Centru a lansat, la Brașov, fondul de capital de risc „Asternova Centru”: Instrument financiar pilot de peste 8 milioane de euro dedicat startup-urilor inovatoare",
@@ -534,20 +541,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-29T15:20:36+03:00"
-    },
-    {
-      "title": "Vești bune pentru șoferii din Codlea, Vulcan și Holbav! Podul de...",
-      "url": "https://transilvania365.ro/vesti-bune-pentru-soferii-din-codlea-vulcan-si-holbav-podul-de-pe-dj-112a-nu-se-mai-inchide-complet/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-09-29T14:52:17+03:00"
-    },
-    {
-      "title": "Turoperator: Numărul pasagerilor care au zburat de pe Aeroportul Braşov a fost de 5 ori mai mare față de anul trecut",
-      "url": "https://newsbv.ro/numarul-pasagerilor-aeroportul-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-29T14:47:22+03:00"
     }
   ]
 }
