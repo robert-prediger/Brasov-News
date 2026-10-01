@@ -1,8 +1,15 @@
 {
-  "updated": "01.10.2026, 04:00",
-  "count": 76,
-  "raw_count": 92,
+  "updated": "01.10.2026, 05:00",
+  "count": 70,
+  "raw_count": 86,
   "items": [
+    {
+      "title": "Brașovul Investeste în Mobilitate Sustenabilă",
+      "url": "https://www.zmbv.ro/brasovul-investeste-in-mobilitate-sustenabila/01/10/2026/118813/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-01T04:14:30+03:00"
+    },
     {
       "title": "Echipamente IT, mobilier modern și materiale didactice noi pentru centrele școlare de educație incluzivă din județul Brașov",
       "url": "https://brasovstiri.ro/echipamente-it-mobilier-modern-si-materiale-didactice-noi-pentru-centrele-scolare-de-educatie-incluziva-din-judetul-brasov/",
@@ -32,8 +39,8 @@
       "published": "2026-09-30T23:15:02+03:00"
     },
     {
-      "title": "Zborurile Brașov-Istanbul, suspendate temporar",
-      "url": "https://www.zmbv.ro/zborurile-brasov-istanbul-suspendate-temporar/30/09/2026/118805/",
+      "title": "Zboruri Brașov-Istanbul suspendate: AnimaWings în reorganizare",
+      "url": "https://www.zmbv.ro/zboruri-brasov-istanbul-suspendate-animawings-in-reorganizare/30/09/2026/118804/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T23:14:40+03:00"
@@ -46,25 +53,11 @@
       "published": "2026-09-30T23:02:03+03:00"
     },
     {
-      "title": "Elevii din Brașov impresionează la Noaptea Cercetătorilor",
-      "url": "https://www.zmbv.ro/elevii-din-brasov-impresioneaza-la-noaptea-cercetatorilor/30/09/2026/118802/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-09-30T22:15:19+03:00"
-    },
-    {
       "title": "Cupa Arcada 2026 la volei: Corona Brașov a învins Partizan Belgrad",
       "url": "https://www.monitorulexpres.ro/2026/09/30/cupa-arcada-2026-la-volei-corona-brasov-a-invins-partizan-belgrad/",
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-30T21:29:44+03:00"
-    },
-    {
-      "title": "Adio zboruri spre Istanbul de la Aeroportul Internațional Brașov Ghimbav, deocamdată. Compania Animawings – care avea în vedere introducerea de curse spre „orașul de pe două continente” – a intrat în reorganizare judiciară",
-      "url": "https://bizbrasov.ro/2026/09/30/adio-zboruri-istanbul-brasov/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-30T20:07:18+03:00"
     },
     {
       "title": "ADR Centru a lansat, la Brașov, fondul de capital de risc „Asternova Centru”: Instrument financiar pilot de peste 8 milioane de euro dedicat startup-urilor inovatoare",
@@ -135,13 +128,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T16:15:00+03:00"
-    },
-    {
-      "title": "Modernizare Extinsă în Spațiile Publice din Brașov",
-      "url": "https://www.zmbv.ro/modernizare-extinsa-in-spatiile-publice-din-brasov/30/09/2026/118765/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-09-30T16:14:39+03:00"
     },
     {
       "title": "Zoo Brașov trece la programul de iarnă de la 1 octombrie",
@@ -261,13 +247,6 @@
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-30T13:15:29+03:00"
-    },
-    {
-      "title": "100 de copii din Țara Făgărașului au beneficiat de Școlile de Vară STEAM, explorând noțiuni de bază din știință, artă și tehnologie",
-      "url": "https://bizbrasov.ro/2026/09/30/tara-fagarasului-beneficiat-copii-scolile/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-30T13:15:24+03:00"
     },
     {
       "title": "Mașinile parcate neregulamentar pe strada Tudor Arghezi din Brașov, ridicate de Poliția Locală",
@@ -513,27 +492,6 @@
       "source": "Brașov.net",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-29T17:31:33+03:00"
-    },
-    {
-      "title": "VIDEO Tentativă de furt încheiată cu un eșec, după ce suspectul nu a reușit să spargă ușa unui magazin din Făgăraș. A cerut apoi unui trecător să anunțe Poliția",
-      "url": "https://bizbrasov.ro/2026/09/29/furt-magazin-fagaras-politia/",
-      "source": "BizBrașov",
-      "category": "💰 Business & economie",
-      "published": "2026-09-29T16:12:17+03:00"
-    },
-    {
-      "title": "Afacerile cu cocaină, date peste cap la Brașov. Trei bărbați, prinși...",
-      "url": "https://transilvania365.ro/afacerile-cu-cocaina-date-peste-cap-la-brasov-trei-barbati-prinsi-cu-marfa-de-24-000-de-euro/",
-      "source": "Transilvania365",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-29T16:05:28+03:00"
-    },
-    {
-      "title": "Brașovul devine sâmbătă capitala sporturilor urbane . Demonstrații de skate, BMX, street art, dar și muzică și breakdance la Pasajul Fartec",
-      "url": "https://bizbrasov.ro/2026/09/29/brasov-sporturi-urbane-skate-pasaj-fartec/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-29T16:00:44+03:00"
     }
   ]
 }
