@@ -1,8 +1,22 @@
 {
-  "updated": "01.10.2026, 05:00",
-  "count": 70,
-  "raw_count": 86,
+  "updated": "01.10.2026, 06:00",
+  "count": 71,
+  "raw_count": 84,
   "items": [
+    {
+      "title": "Tohan Zărnești repornește instalații vechi de zeci de ani pentru producția de muniție. Fabrica își reactivează capacitățile pe fondul cererii crescute",
+      "url": "https://bizbrasov.ro/2026/10/01/tohan-zarnesit-instalatii-vechi-munitie/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-01T05:42:00+03:00"
+    },
+    {
+      "title": "Un dig de 100 de metri, gata în câteva minute. CJ Brașov cumpără bariere mobile pentru situații de urgență în caz de inundații",
+      "url": "https://bizbrasov.ro/2026/10/01/dig-cj-brasov-situatii-urgenta-inundatii/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-01T05:30:00+03:00"
+    },
     {
       "title": "Brașovul Investeste în Mobilitate Sustenabilă",
       "url": "https://www.zmbv.ro/brasovul-investeste-in-mobilitate-sustenabila/01/10/2026/118813/",
@@ -39,8 +53,8 @@
       "published": "2026-09-30T23:15:02+03:00"
     },
     {
-      "title": "Zboruri Brașov-Istanbul suspendate: AnimaWings în reorganizare",
-      "url": "https://www.zmbv.ro/zboruri-brasov-istanbul-suspendate-animawings-in-reorganizare/30/09/2026/118804/",
+      "title": "Zborurile Brașov-Istanbul, suspendate temporar",
+      "url": "https://www.zmbv.ro/zborurile-brasov-istanbul-suspendate-temporar/30/09/2026/118805/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T23:14:40+03:00"
@@ -58,6 +72,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-30T21:29:44+03:00"
+    },
+    {
+      "title": "Adio zboruri spre Istanbul de la Aeroportul Internațional Brașov Ghimbav, deocamdată. Compania Animawings – care avea în vedere introducerea de curse spre „orașul de pe două continente” – a intrat în reorganizare judiciară",
+      "url": "https://bizbrasov.ro/2026/09/30/adio-zboruri-istanbul-brasov/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-30T20:07:18+03:00"
     },
     {
       "title": "ADR Centru a lansat, la Brașov, fondul de capital de risc „Asternova Centru”: Instrument financiar pilot de peste 8 milioane de euro dedicat startup-urilor inovatoare",
@@ -466,13 +487,6 @@
       "published": "2026-09-30T05:30:00+03:00"
     },
     {
-      "title": "„Îmi cumpăr un pistol și fac eu regula cu judecătorii”. Un inculpat a amenințat cu moartea patru magistrați în două săli de judecată din Brașov",
-      "url": "https://bizbrasov.ro/2026/09/30/pistol-amenintat-cu-moartea-magistrati/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-09-30T03:57:00+03:00"
-    },
-    {
       "title": "BRAȘOV | Cisternă implicată într-un accident, la Codlea!",
       "url": "https://mytex.ro/112/brasov-cisterna-implicata-intr-un-accident-la-codlea/",
       "source": "MyTex",
@@ -485,13 +499,6 @@
       "source": "MyTex",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-29T20:59:00+03:00"
-    },
-    {
-      "title": "Administrație acum o zi Podul de pe DJ 112A intră în reabilitare: CJ Brașov anunță că traficul nu va fi închis",
-      "url": "https://www.brasov.net/podul-de-pe-dj-112a-intra-in-reabilitare-cj-brasov-anunta-ca-traficul-nu-va-fi-inchis/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-29T17:31:33+03:00"
     }
   ]
 }
