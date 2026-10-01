@@ -1,8 +1,15 @@
 {
-  "updated": "01.10.2026, 20:00",
-  "count": 76,
-  "raw_count": 86,
+  "updated": "01.10.2026, 21:00",
+  "count": 71,
+  "raw_count": 82,
   "items": [
+    {
+      "title": "Victor Nica, liderul unei grupări care muta firmele cu datorii pe numele oamenilor străzii, subiectul unei anchete Recorder, arestat pentru 30 de zile la Brașov",
+      "url": "https://bizbrasov.ro/2026/10/01/victor-nica-firme-datorii-oamenii-strazii-recorder/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-01T20:35:54+03:00"
+    },
     {
       "title": "Peste 140 de amenzi rutiere, în două zile, la Brașov și pe Drumul Poienii. Câți șoferi au fost sancționați pentru viteză",
       "url": "https://mytex.ro/expres/peste-140-de-amenzi-rutiere-in-doua-zile-la-brasov-si-pe-drumul-poienii-cati-soferi-au-fost-sanctionati-pentru-viteza/",
@@ -37,20 +44,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-01T17:14:52+03:00"
-    },
-    {
-      "title": "Parcarea din Râșnov, modernizată cu peste 600 de locuri",
-      "url": "https://www.zmbv.ro/parcarea-din-rasnov-modernizata-cu-peste-600-de-locuri/01/10/2026/118861/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-01T17:14:28+03:00"
-    },
-    {
-      "title": "Târgul de Brumărel: Meșteșuguri Tradiționale în Brașov",
-      "url": "https://www.zmbv.ro/targul-de-brumarel-mestesuguri-traditionale-in-brasov/01/10/2026/118859/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-01T17:14:11+03:00"
     },
     {
       "title": "Weekend dedicat tradițiilor în Piața Sfatului din Brașov: Peste 70 de meșteri populari din toată țara își dau întâlnire la „Târgul de Brumărel”",
@@ -177,13 +170,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-01T12:47:17+03:00"
-    },
-    {
-      "title": "Brandul de cosmetice al soției lui Justin Bieber, prezent si la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/01/brasov-brandul-justin-bieber-cosmetice/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-01T12:45:37+03:00"
     },
     {
       "title": "A învins în cel mai important meci! Cosmin Bodea, salvat de medici și gata de o nouă viață",
@@ -466,13 +452,6 @@
       "published": "2026-09-30T15:55:04+03:00"
     },
     {
-      "title": "15,7 milioane de lei obținuți de Primăria Brașov de la UE pentru a amenaja o cale verde a bicicliștilor cu sisteme de bike-sharing, de la Carrefour până în zona Florilor",
-      "url": "https://bizbrasov.ro/2026/09/30/primaria-brasov-cale-verde-biciclisti/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-30T15:38:28+03:00"
-    },
-    {
       "title": "Primăria a contestat la Curtea de Apel București decizia definitivă prin care fusese obligată să emită o autorizație de construire pentru un hotel din Poiana Brașov care a fost edificat fără a respecta normele legale",
       "url": "https://bizbrasov.ro/2026/09/30/primaria-autorizatie-hotel-poiana-brasov/",
       "source": "BizBrașov",
@@ -520,20 +499,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-30T09:00:53+03:00"
-    },
-    {
-      "title": "Corona Brașov atacă Europa: Dublă decisivă cu Steaua Roșie Belgrad în EHF European League",
-      "url": "https://mytex.ro/sport/corona-brasov-ataca-europa-dubla-decisiva-cu-steaua-rosie-belgrad-in-ehf-european-league/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-09-30T08:34:03+03:00"
-    },
-    {
-      "title": "Primăria orașului Zărnești-Informare publică",
-      "url": "https://www.monitorulexpres.ro/2026/09/30/primaria-orasului-zarnesti-informare-publica-27/",
-      "source": "Monitorul Expres",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-30T08:17:05+03:00"
     }
   ]
 }
