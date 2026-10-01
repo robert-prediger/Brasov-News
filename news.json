@@ -1,7 +1,7 @@
 {
-  "updated": "01.10.2026, 09:00",
-  "count": 67,
-  "raw_count": 79,
+  "updated": "01.10.2026, 09:04",
+  "count": 68,
+  "raw_count": 82,
   "items": [
     {
       "title": "Restricții de trafic în Brașov, între 2-4 octombrie, pentru Brașov Running Festival",
@@ -16,6 +16,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-01T08:41:07+03:00"
+    },
+    {
+      "title": "Lucrări anunaţate de Compania Apa Brașov pentru astăzi, 1 octombrie 2026",
+      "url": "https://newsbv.ro/lucrari-compania-apa-brasov-1-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T08:38:28+03:00"
     },
     {
       "title": "VIDEO. Taxi, Uber sau Bolt? Poliția Brașov explică ce NU au voie să facă șoferii: „Lucrul acesta este ilegal”",
@@ -74,6 +81,13 @@
       "published": "2026-10-01T06:55:09+03:00"
     },
     {
+      "title": "Trafic închis pe DJ112A, din comuna Hălchiu, din cauza unor lucrări ale Companiei Apa Braşov",
+      "url": "https://newsbv.ro/trafic-inchis-pe-dj112a-din-comuna-halchiu/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T06:25:42+03:00"
+    },
+    {
       "title": "Tohan Zărnești repornește instalații vechi de zeci de ani pentru producția de muniție. Fabrica își reactivează capacitățile pe fondul cererii crescute",
       "url": "https://bizbrasov.ro/2026/10/01/tohan-zarnesit-instalatii-vechi-munitie/",
       "source": "BizBrașov",
@@ -116,8 +130,8 @@
       "published": "2026-09-30T23:15:02+03:00"
     },
     {
-      "title": "Zboruri Brașov-Istanbul suspendate: AnimaWings în reorganizare",
-      "url": "https://www.zmbv.ro/zboruri-brasov-istanbul-suspendate-animawings-in-reorganizare/30/09/2026/118804/",
+      "title": "Zborurile Brașov-Istanbul, suspendate temporar",
+      "url": "https://www.zmbv.ro/zborurile-brasov-istanbul-suspendate-temporar/30/09/2026/118805/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T23:14:40+03:00"
@@ -135,6 +149,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-09-30T21:29:44+03:00"
+    },
+    {
+      "title": "Adio zboruri spre Istanbul de la Aeroportul Internațional Brașov Ghimbav, deocamdată. Compania Animawings – care avea în vedere introducerea de curse spre „orașul de pe două continente” – a intrat în reorganizare judiciară",
+      "url": "https://bizbrasov.ro/2026/09/30/adio-zboruri-istanbul-brasov/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-09-30T20:07:18+03:00"
     },
     {
       "title": "ADR Centru a lansat, la Brașov, fondul de capital de risc „Asternova Centru”: Instrument financiar pilot de peste 8 milioane de euro dedicat startup-urilor inovatoare",
@@ -179,6 +200,13 @@
       "published": "2026-09-30T16:50:12+03:00"
     },
     {
+      "title": "Furt într-un supermarket din Brașov: un bărbat de 47 de ani a fost reținut de polițiști",
+      "url": "https://newsbv.ro/furt-supermarket-brasov/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-30T16:47:31+03:00"
+    },
+    {
       "title": "Doi bărbați din Săcele, încarcerați după ce au primit pedepse cu închisoarea",
       "url": "https://www.monitorulexpres.ro/2026/09/30/doi-barbati-din-sacele-incarcerati-dupa-ce-au-primit-pedepse-cu-inchisoarea/",
       "source": "Monitorul Expres",
@@ -191,13 +219,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-30T16:18:23+03:00"
-    },
-    {
-      "title": "Bărbat reținut după un furt dintr-un supermarket din Brașov. Prejudiciul, recuperat",
-      "url": "https://www.monitorulexpres.ro/2026/09/30/barbat-retinut-dupa-un-furt-dintr-un-supermarket-din-brasov-prejudiciul-recuperat/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-30T16:18:20+03:00"
     },
     {
       "title": "Curse școlare suspendate pe 5 octombrie la Brașov",
@@ -249,6 +270,13 @@
       "published": "2026-09-30T14:16:58+03:00"
     },
     {
+      "title": "3 judecători și o procuroare din Braşov, ameninţaţi cu moartea: „O să-mi iau pistol și o să vă împușc!”",
+      "url": "https://newsbv.ro/judecatori-brasov-amenintati-cu-moartea/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-30T14:16:09+03:00"
+    },
+    {
       "title": "Percheziții în Brașov și alte județe, și în București, într-un dosar de grup infracțional organizat și evaziune fiscală (VIDEO)",
       "url": "https://www.monitorulexpres.ro/2026/09/30/perchezitii-in-brasov-si-alte-judete-si-in-bucuresti-intr-un-dosar-de-grup-infractional-organizat-si-evaziune-fiscala-video/",
       "source": "Monitorul Expres",
@@ -298,46 +326,18 @@
       "published": "2026-09-30T13:24:15+03:00"
     },
     {
+      "title": "Muzeul de Artă Brașov găzduiește o conferință dedicată înțelegerii operelor, în cadrul Nopții Albe a Galeriilor",
+      "url": "https://newsbv.ro/muzeul-de-arta-brasov-conferinta-2/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-30T13:22:38+03:00"
+    },
+    {
       "title": "Mașinile parcate neregulamentar pe strada Tudor Arghezi din Brașov, ridicate de Poliția Locală",
       "url": "https://www.monitorulexpres.ro/2026/09/30/masinile-parcate-neregulamentar-pe-strada-tudor-arghezi-din-brasov-ridicate-de-politia-locala/",
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-30T13:07:22+03:00"
-    },
-    {
-      "title": "Fapt divers acum 20 de ore Bijuterii de milioane, mită și colete cu date false. Prejudiciu de 5,2 milioane de lei, într-o anchetă la Brașov",
-      "url": "https://www.brasov.net/bijuterii-de-milioane-mita-si-colete-cu-date-false-prejudiciu-de-52-milioane-de-lei-intr-o-ancheta-la-brasov/",
-      "source": "Brașov.net",
-      "category": "💰 Business & economie",
-      "published": "2026-09-30T12:56:11+03:00"
-    },
-    {
-      "title": "Administrație acum 20 de ore Primăria Brașov continuă lucrările de modernizare a spațiilor publice din cartiere",
-      "url": "https://www.brasov.net/primaria-brasov-continua-lucrarile-de-modernizare-a-spatiilor-publice-din-cartiere/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-09-30T12:32:19+03:00"
-    },
-    {
-      "title": "Util acum 20 de ore RAT Brașov suspendă cursele destinate elevilor pe 5 octombrie, de Ziua Mondială a Educației",
-      "url": "https://www.brasov.net/rat-brasov-suspenda-cursele-destinate-elevilor-pe-5-octombrie-de-ziua-mondiala-a-educatiei/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-30T12:18:21+03:00"
-    },
-    {
-      "title": "Conferință despre orașe și arta contemporană, la Muzeul de Artă Brașov, de Noaptea Albă a Galeriilor",
-      "url": "https://www.monitorulexpres.ro/2026/09/30/conferinta-despre-orase-si-arta-contemporana-la-muzeul-de-arta-brasov-de-noaptea-alba-a-galeriilor/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-09-30T12:14:43+03:00"
-    },
-    {
-      "title": "Fapt divers acum 21 de ore Filtre rutiere și verificări pe șantierele din Tărlungeni: Poliția Brașov a dat amenzi de 123.000 de lei",
-      "url": "https://www.brasov.net/filtre-rutiere-si-verificari-pe-santierele-din-tarlungeni-politia-brasov-a-dat-amenzi-de-123-000-de-lei/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-30T12:11:08+03:00"
     },
     {
       "title": "Cei mai buni skateri din România vin la Brașov. Skate, BMX,...",
@@ -366,6 +366,20 @@
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-30T10:58:16+03:00"
+    },
+    {
+      "title": "BRAȘOV | Acțiune cu efective extinse în Tărlungeni: amenzi de 123.000 de lei. S-a intrat și pe șantiere (VIDEO)",
+      "url": "https://mytex.ro/expres/brasov-actiune-cu-efective-extinse-in-tarlungeni-amenzi-de-123-000-de-lei-s-a-intrat-si-pe-santiere-video/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-09-30T10:53:22+03:00"
+    },
+    {
+      "title": "La Dino Parc Râșnov micii dinozauri aleargă pe alei după vizitatori",
+      "url": "https://newsbv.ro/la-dino-parc-rasnov-micii-dinozauri-alearga/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-09-30T10:29:47+03:00"
     },
     {
       "title": "BRAȘOV | Drum închis timp de o lună și jumătate, în Hălchiu!",
@@ -408,13 +422,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-09-30T09:52:42+03:00"
-    },
-    {
-      "title": "Turism acum 24 de ore Turnul Bathory din Cetatea Râșnov și-a deschis porțile pentru vizitatori",
-      "url": "https://www.brasov.net/turnul-bathory-din-cetatea-rasnov-si-a-deschis-portile-pentru-vizitatori/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-09-30T09:02:58+03:00"
     },
     {
       "title": "Focare de hepatită A în mai multe localități din județul Brașov",
