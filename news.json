@@ -1,7 +1,7 @@
 {
-  "updated": "01.10.2026, 03:00",
-  "count": 77,
-  "raw_count": 90,
+  "updated": "01.10.2026, 03:12",
+  "count": 75,
+  "raw_count": 88,
   "items": [
     {
       "title": "Echipamente IT, mobilier modern și materiale didactice noi pentru centrele școlare de educație incluzivă din județul Brașov",
@@ -109,13 +109,6 @@
       "published": "2026-09-30T16:50:12+03:00"
     },
     {
-      "title": "Furt într-un supermarket din Brașov: un bărbat de 47 de ani a fost reținut de polițiști",
-      "url": "https://newsbv.ro/furt-supermarket-brasov/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-09-30T16:47:31+03:00"
-    },
-    {
       "title": "Doi bărbați din Săcele, încarcerați după ce au primit pedepse cu închisoarea",
       "url": "https://www.monitorulexpres.ro/2026/09/30/doi-barbati-din-sacele-incarcerati-dupa-ce-au-primit-pedepse-cu-inchisoarea/",
       "source": "Monitorul Expres",
@@ -128,6 +121,13 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-09-30T16:18:23+03:00"
+    },
+    {
+      "title": "Bărbat reținut după un furt dintr-un supermarket din Brașov. Prejudiciul, recuperat",
+      "url": "https://www.monitorulexpres.ro/2026/09/30/barbat-retinut-dupa-un-furt-dintr-un-supermarket-din-brasov-prejudiciul-recuperat/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-09-30T16:18:20+03:00"
     },
     {
       "title": "Curse școlare suspendate pe 5 octombrie la Brașov",
@@ -249,13 +249,6 @@
       "published": "2026-09-30T13:24:15+03:00"
     },
     {
-      "title": "Muzeul de Artă Brașov găzduiește o conferință dedicată înțelegerii operelor, în cadrul Nopții Albe a Galeriilor",
-      "url": "https://newsbv.ro/muzeul-de-arta-brasov-conferinta-2/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-30T13:22:38+03:00"
-    },
-    {
       "title": "Autostrada Brașov – Făgăraș e gata pentru licitația de construcție. Proiectul are o întârziere de peste 3 ani",
       "url": "https://newsbv.ro/autostrada-brasov-fagaras-licitatia-de-constructie/",
       "source": "NewsBV",
@@ -277,11 +270,39 @@
       "published": "2026-09-30T13:07:22+03:00"
     },
     {
+      "title": "Fapt divers acum 8 ore Bijuterii de milioane, mită și colete cu date false. Prejudiciu de 5,2 milioane de lei, într-o anchetă la Brașov",
+      "url": "https://www.brasov.net/bijuterii-de-milioane-mita-si-colete-cu-date-false-prejudiciu-de-52-milioane-de-lei-intr-o-ancheta-la-brasov/",
+      "source": "Brașov.net",
+      "category": "💰 Business & economie",
+      "published": "2026-09-30T12:56:11+03:00"
+    },
+    {
+      "title": "Administrație acum 8 ore Primăria Brașov continuă lucrările de modernizare a spațiilor publice din cartiere",
+      "url": "https://www.brasov.net/primaria-brasov-continua-lucrarile-de-modernizare-a-spatiilor-publice-din-cartiere/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-30T12:32:19+03:00"
+    },
+    {
+      "title": "Util acum 8 ore RAT Brașov suspendă cursele destinate elevilor pe 5 octombrie, de Ziua Mondială a Educației",
+      "url": "https://www.brasov.net/rat-brasov-suspenda-cursele-destinate-elevilor-pe-5-octombrie-de-ziua-mondiala-a-educatiei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-30T12:18:21+03:00"
+    },
+    {
       "title": "Conferință despre orașe și arta contemporană, la Muzeul de Artă Brașov, de Noaptea Albă a Galeriilor",
       "url": "https://www.monitorulexpres.ro/2026/09/30/conferinta-despre-orase-si-arta-contemporana-la-muzeul-de-arta-brasov-de-noaptea-alba-a-galeriilor/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-09-30T12:14:43+03:00"
+    },
+    {
+      "title": "Fapt divers acum 9 ore Filtre rutiere și verificări pe șantierele din Tărlungeni: Poliția Brașov a dat amenzi de 123.000 de lei",
+      "url": "https://www.brasov.net/filtre-rutiere-si-verificari-pe-santierele-din-tarlungeni-politia-brasov-a-dat-amenzi-de-123-000-de-lei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-30T12:11:08+03:00"
     },
     {
       "title": "Cei mai buni skateri din România vin la Brașov. Skate, BMX,...",
@@ -312,32 +333,11 @@
       "published": "2026-09-30T11:05:21+03:00"
     },
     {
-      "title": "Un bărbat din județul Brașov, cercetat pentru contrabandă cu bijuterii de 5,2 milioane de lei și dare de mită",
-      "url": "https://www.monitorulexpres.ro/2026/09/30/un-barbat-din-judetul-brasov-cercetat-pentru-contrabanda-cu-bijuterii-de-52-milioane-de-lei-si-dare-de-mita/",
-      "source": "Monitorul Expres",
-      "category": "💰 Business & economie",
-      "published": "2026-09-30T10:58:19+03:00"
-    },
-    {
       "title": "Luni, fără autobuzele școlare! RATBV schimbă programul în Brașov, Săcele și...",
       "url": "https://transilvania365.ro/luni-fara-autobuzele-scolare-ratbv-schimba-programul-in-brasov-sacele-si-sanpetru/",
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
       "published": "2026-09-30T10:58:16+03:00"
-    },
-    {
-      "title": "BRAȘOV | Acțiune cu efective extinse în Tărlungeni: amenzi de 123.000 de lei. S-a intrat și pe șantiere (VIDEO)",
-      "url": "https://mytex.ro/expres/brasov-actiune-cu-efective-extinse-in-tarlungeni-amenzi-de-123-000-de-lei-s-a-intrat-si-pe-santiere-video/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-09-30T10:53:22+03:00"
-    },
-    {
-      "title": "La Dino Parc Râșnov micii dinozauri aleargă pe alei după vizitatori",
-      "url": "https://newsbv.ro/la-dino-parc-rasnov-micii-dinozauri-alearga/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-30T10:29:47+03:00"
     },
     {
       "title": "BRAȘOV | Drum închis timp de o lună și jumătate, în Hălchiu!",
@@ -352,13 +352,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-09-30T10:23:29+03:00"
-    },
-    {
-      "title": "Brașov intră în Naționala de Edu Fin: peste 1.000 de români s-au antrenat pe 15 septembrie pentru ca România să fie mai educată financiar",
-      "url": "https://newsbv.ro/brasov-intra-in-nationala-de-edu-fin-peste-1-000-de-romani-s-au-antrenat-pe-15-septembrie-pentru-ca-romania-sa-fie-mai-educata-financiar/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-30T10:07:05+03:00"
     },
     {
       "title": "Șoc pe piața imobiliară din Brașov! Cu 100.000 de euro, în...",
@@ -389,11 +382,11 @@
       "published": "2026-09-30T09:52:42+03:00"
     },
     {
-      "title": "Expoziția „Zboruri Lăuntrice”, la Aeroportul Brașov",
-      "url": "https://newsbv.ro/expozitia-zboruri-launtrice-la-aeroportul-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-09-30T09:21:32+03:00"
+      "title": "Turism acum 12 ore Turnul Bathory din Cetatea Râșnov și-a deschis porțile pentru vizitatori",
+      "url": "https://www.brasov.net/turnul-bathory-din-cetatea-rasnov-si-a-deschis-portile-pentru-vizitatori/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-09-30T09:02:58+03:00"
     },
     {
       "title": "Focare de hepatită A în mai multe localități din județul Brașov",
@@ -436,13 +429,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-09-30T06:52:11+03:00"
-    },
-    {
-      "title": "Turnul Bathory din Cetatea Râşnov își deschide porțile pentru vizitatori (VIDEO)",
-      "url": "https://newsbv.ro/turnul-bathory-din-cetatea-rasnov-isi-deschide-portile/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-30T06:40:00+03:00"
     },
     {
       "title": "Experiența ta merită mai mult decât un „seen”. Târgul de Cariere | BRAȘOV readuce candidații și angajatorii față în față",
@@ -494,6 +480,13 @@
       "published": "2026-09-29T20:59:00+03:00"
     },
     {
+      "title": "Administrație acum o zi Podul de pe DJ 112A intră în reabilitare: CJ Brașov anunță că traficul nu va fi închis",
+      "url": "https://www.brasov.net/podul-de-pe-dj-112a-intra-in-reabilitare-cj-brasov-anunta-ca-traficul-nu-va-fi-inchis/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-09-29T17:31:33+03:00"
+    },
+    {
       "title": "VIDEO Tentativă de furt încheiată cu un eșec, după ce suspectul nu a reușit să spargă ușa unui magazin din Făgăraș. A cerut apoi unui trecător să anunțe Poliția",
       "url": "https://bizbrasov.ro/2026/09/29/furt-magazin-fagaras-politia/",
       "source": "BizBrașov",
@@ -520,13 +513,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-09-29T15:46:53+03:00"
-    },
-    {
-      "title": "Un cercetător născut la Făgăraş dezvoltă materiale care pot stoca energie și capta apă din aer chiar și la umiditate foarte scăzută",
-      "url": "https://newsbv.ro/cercetator-fagaras-materiale-care-pot-stoca-energie/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-09-29T15:33:58+03:00"
     },
     {
       "title": "De vânzare în Centrul Istoric al Braşovului. 585.000 euro pentru o casă pe Strada Cerbului. Este un preț justificat?",
