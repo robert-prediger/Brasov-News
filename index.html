@@ -28,6 +28,12 @@ body{margin:0;background:linear-gradient(#08101d,#0c1626);color:var(--text);font
 .story a{color:var(--blue);font-weight:700;text-decoration:none}
 .filter{display:flex;gap:7px;overflow:auto;margin:14px 0}
 .filter button{white-space:nowrap;border:1px solid var(--line);background:#16243a;color:#eaf1fb;padding:9px 12px;border-radius:999px}
+.search-wrap{position:relative;margin:16px 0 10px}
+.search{width:100%;border:1px solid var(--line);background:#111c2d;color:var(--text);font-size:16px;padding:14px 46px 14px 44px;border-radius:16px;outline:none}
+.search::placeholder{color:#7889a3}
+.search:focus{border-color:#68afff}
+.search-icon{position:absolute;left:15px;top:50%;transform:translateY(-50%);font-size:18px;pointer-events:none}
+.search-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);border:0;background:transparent;color:#9eabc0;font-size:20px;padding:6px 10px;display:none}
 .brief{line-height:1.55}
 .brief ul{margin:0;padding-left:22px}
 .brief li{margin:0 0 12px}
@@ -52,6 +58,21 @@ footer{text-align:center;color:#72819a;font-size:12px;margin-top:28px}
 <div class="brief" id="brief"></div>
 </section>
 
+<div class="search-wrap">
+  <span class="search-icon">🔍</span>
+  <input
+    type="search"
+    id="search"
+    class="search"
+    placeholder="Caută în știrile de azi…"
+    autocomplete="off"
+  >
+  <button
+    class="search-clear"
+    id="searchClear"
+    aria-label="Șterge căutarea">×</button>
+</div>
+
 <div class="filter" id="filters"></div>
 
 <section class="card">
@@ -70,6 +91,7 @@ Selecție automată din publicații locale • Link direct către sursa original
 let DATA=[];
 let ACTIVE_CATEGORY="Toate";
 let LAST_UPDATED=null;
+let SEARCH_QUERY="";
 
 const E=s=>String(s??"").replace(
   /[&<>"']/g,
@@ -91,8 +113,20 @@ function draw(cat=ACTIVE_CATEGORY){
     ? DATA
     : DATA.filter(x=>x.category===cat);
 
+  if(SEARCH_QUERY){
+    const q=SEARCH_QUERY.toLocaleLowerCase("ro-RO");
+
+    a=a.filter(x=>
+      String(x.title||"").toLocaleLowerCase("ro-RO").includes(q) ||
+      String(x.source||"").toLocaleLowerCase("ro-RO").includes(q) ||
+      String(x.category||"").toLocaleLowerCase("ro-RO").includes(q)
+    );
+  }
+
   document.getElementById("count").textContent=
-    a.length+" articole locale";
+    SEARCH_QUERY
+      ? a.length+" rezultate găsite"
+      : a.length+" articole locale";
 
   document.getElementById("list").innerHTML=
     a.map(x=>`
@@ -111,7 +145,11 @@ function draw(cat=ACTIVE_CATEGORY){
         </a>
       </article>
     `).join("")
-    || '<p class="muted">Nicio știre în această categorie.</p>';
+    || `<p class="muted">${
+         SEARCH_QUERY
+           ? "Nu am găsit nicio știre pentru această căutare."
+           : "Nicio știre în această categorie."
+       }</p>`;
 }
 
 function render(x){
@@ -164,6 +202,26 @@ function render(x){
 
   draw(ACTIVE_CATEGORY);
 }
+
+const searchInput=document.getElementById("search");
+const searchClear=document.getElementById("searchClear");
+
+searchInput.addEventListener("input",()=>{
+  SEARCH_QUERY=searchInput.value.trim();
+
+  searchClear.style.display=
+    SEARCH_QUERY ? "block" : "none";
+
+  draw(ACTIVE_CATEGORY);
+});
+
+searchClear.addEventListener("click",()=>{
+  searchInput.value="";
+  SEARCH_QUERY="";
+  searchClear.style.display="none";
+  searchInput.focus();
+  draw(ACTIVE_CATEGORY);
+});
 
 async function loadNews(showLoading=false){
   if(showLoading && !DATA.length){
