@@ -1,7 +1,7 @@
 {
-  "updated": "03.10.2026, 01:00",
-  "count": 64,
-  "raw_count": 86,
+  "updated": "03.10.2026, 02:00",
+  "count": 65,
+  "raw_count": 89,
   "items": [
     {
       "title": "Turist mort în Munții Făgăraș după ce a căzut 200 de metri",
@@ -51,6 +51,20 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-02T18:49:09+03:00"
+    },
+    {
+      "title": "Zoo Brașov sărbătorește Ziua Mondială a Animalelor pe 4 octombrie. Programul activităților",
+      "url": "https://newsbv.ro/zoo-brasov-ziua-mondiala-animale/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-02T18:28:44+03:00"
+    },
+    {
+      "title": "Transport în comun RATBV între Râșnov și Poiana Brașov. Linia 132 ar putea deveni operațională din decembrie 2026",
+      "url": "https://newsbv.ro/transport-rasnov-poiana/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-02T17:43:00+03:00"
     },
     {
       "title": "Brașov, capitala sensurilor giratorii: De ce continuă Primăria să le construiască și unde se blochează, de fapt, traficul",
@@ -396,6 +410,13 @@
       "published": "2026-10-02T04:47:00+03:00"
     },
     {
+      "title": "Razie în trafic la Brașov: 141 de amenzi și 5 permise reținute pentru viteză",
+      "url": "https://newsbv.ro/amenzi-permise-retinute-viteza/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T20:39:48+03:00"
+    },
+    {
       "title": "BRAȘOV | Bătaie între două grupuri, pe o stradă din Făgăraș. Cinci bărbați au fost reținuți",
       "url": "https://mytex.ro/112/brasov-bataie-intre-doua-grupuri-pe-o-strada-din-fagaras-cinci-barbati-au-fost-retinuti/",
       "source": "MyTex",
@@ -436,20 +457,6 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-01T14:21:28+03:00"
-    },
-    {
-      "title": "NUTRIPEDIA Smart Parenting ajunge la Brașov: câteva ore pentru tine, un start sănătos pentru copilul tău",
-      "url": "https://www.zmbv.ro/nutripedia-smart-parenting-ajunge-la-brasov-cateva-ore-pentru-tine-un-start-sanatos-pentru-copilul-tau/01/10/2026/118846/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-01T13:44:38+03:00"
-    },
-    {
-      "title": "Recunoaștere internațională pentru Spitalul Județean Brașov: Ambasadorul Franței laudă echipa medicală care a salvat un militar francez",
-      "url": "https://bizbrasov.ro/2026/10/01/brasov-recunoastere-internationala-frantei/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-01T13:37:43+03:00"
     }
   ]
 }
