@@ -1,28 +1,28 @@
 {
-  "updated": "03.10.2026, 02:00",
-  "count": 65,
-  "raw_count": 89,
+  "updated": "03.10.2026, 02:49",
+  "count": 64,
+  "raw_count": 81,
   "items": [
+    {
+      "title": "Tânăr prins cu 6 kg de canabis la Brașov",
+      "url": "https://www.zmbv.ro/tanar-prins-cu-6-kg-de-canabis-la-brasov-2/03/10/2026/119003/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-03T02:14:56+03:00"
+    },
+    {
+      "title": "Expoziție și Ateliere de Restaurare la Brașov",
+      "url": "https://www.zmbv.ro/expozitie-si-ateliere-de-restaurare-la-brasov/03/10/2026/119001/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-03T02:14:36+03:00"
+    },
     {
       "title": "Turist mort în Munții Făgăraș după ce a căzut 200 de metri",
       "url": "https://www.monitorulexpres.ro/2026/10/03/turist-mort-in-muntii-fagaras-dupa-ce-a-cazut-200-de-metri/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-03T00:27:27+03:00"
-    },
-    {
-      "title": "Centrul de Zi pentru Seniori inaugurat la Codlea",
-      "url": "https://www.zmbv.ro/centrul-de-zi-pentru-seniori-inaugurat-la-codlea/02/10/2026/118989/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T21:17:35+03:00"
-    },
-    {
-      "title": "Tânăr prins cu 6 kg de canabis la Brașov",
-      "url": "https://www.zmbv.ro/tanar-prins-cu-6-kg-de-canabis-la-brasov/02/10/2026/118987/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T21:17:20+03:00"
     },
     {
       "title": "Brașov: Patru noi sensuri giratorii pentru siguranța traficului",
@@ -39,13 +39,6 @@
       "published": "2026-10-02T19:41:12+03:00"
     },
     {
-      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
-      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T19:35:30+03:00"
-    },
-    {
       "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
       "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
       "source": "Brașov Știri",
@@ -58,6 +51,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-02T18:28:44+03:00"
+    },
+    {
+      "title": "Etapa 7, Liga 3 | Corona Brașov, victorie de serviciu pe ICIM! Olimpic Zărnești a dat lovitura cu Sepsi OSK II",
+      "url": "https://www.monitorulexpres.ro/2026/10/02/etapa-7-liga-3-corona-brasov-victorie-de-serviciu-pe-icim-olimpic-zarnesti-a-dat-lovitura-cu-sepsi-osk-ii/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T18:03:36+03:00"
     },
     {
       "title": "Transport în comun RATBV între Râșnov și Poiana Brașov. Linia 132 ar putea deveni operațională din decembrie 2026",
@@ -88,11 +88,25 @@
       "published": "2026-10-02T17:18:59+03:00"
     },
     {
+      "title": "Liga 3. Corona Brașov își păstrează invincibilitatea: Victorie în derby-ul cu Kids Tâmpa și salută din fotoliu de lider",
+      "url": "https://mytex.ro/sport/liga-3-corona-brasov-isi-pastreaza-invincibilitatea-victorie-in-derby-ul-cu-kids-tampa-si-saluta-din-fotoliu-de-lider/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T17:02:26+03:00"
+    },
+    {
       "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
       "url": "https://bizbrasov.ro/2026/10/02/hartiei-terapia-expozitie-ateliere-brasov/",
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-02T16:26:16+03:00"
+    },
+    {
+      "title": "A fost inaugurat Centrul de Zi pentru Seniori din Codlea",
+      "url": "https://transilvania365.ro/a-fost-inaugurat-entrul-de-zi-pentru-seniori-din-codlea/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-02T15:35:34+03:00"
     },
     {
       "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
@@ -109,25 +123,11 @@
       "published": "2026-10-02T15:08:07+03:00"
     },
     {
-      "title": "Festivalul AM-ACTOR revine la Brașov cu spectacole diverse",
-      "url": "https://www.zmbv.ro/festivalul-am-actor-revine-la-brasov-cu-spectacole-diverse/02/10/2026/118943/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:14:45+03:00"
-    },
-    {
       "title": "Muzica prinde viață la Brașov: Universitatea Transilvania dă startul celei de-a XII-a Stagiuni de concerte cu acces liber",
       "url": "https://bizbrasov.ro/2026/10/02/brasov-muzica-prinde-viata-universitatea/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T14:09:31+03:00"
-    },
-    {
-      "title": "Un nou sens giratoriu în Braşov. Mai multe intersecţii vor fi resistematizate",
-      "url": "https://newsbv.ro/un-nou-sens-giratoriu-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:00:57+03:00"
     },
     {
       "title": "Patru intersecții din Brașov intră în șantier. Primul sens giratoriu se...",
@@ -151,13 +151,6 @@
       "published": "2026-10-02T13:39:07+03:00"
     },
     {
-      "title": "Poliția Locală Brașov: Amenzi de 4 milioane în 3 luni",
-      "url": "https://www.zmbv.ro/politia-locala-brasov-amenzi-de-4-milioane-in-3-luni/02/10/2026/118939/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T13:14:45+03:00"
-    },
-    {
       "title": "Peste 6.200 de sancțiuni aplicate de Poliția Locală Brașov în perioada iulie – septembrie 2026",
       "url": "https://www.monitorulexpres.ro/2026/10/02/peste-6-200-de-sanctiuni-aplicate-de-politia-locala-brasov-in-perioada-iulie-septembrie-2026/",
       "source": "Monitorul Expres",
@@ -177,6 +170,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-02T12:29:09+03:00"
+    },
+    {
+      "title": "În ultimele 3 luni, Poliția Locală Brașov a dus la „parcarea scumpă” 658 de autoturisme parcate sau staționate neregulamentar în municipiu. Amenzi de peste 4 milioane de lei",
+      "url": "https://bizbrasov.ro/2026/10/02/politia-locala-autoturisme-parcate/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-02T12:07:02+03:00"
     },
     {
       "title": "Handbal feminin. Corona Brașov, prima bătălie cu Steaua Roșie Belgrad în EHF European League: „Este liniște la echipă“",
@@ -207,6 +207,13 @@
       "published": "2026-10-02T11:36:52+03:00"
     },
     {
+      "title": "Festivalul Național de Teatru „AM-ACTOR” revine la Brașov cu patru zile de spectacole. Programul complet",
+      "url": "https://bizbrasov.ro/2026/10/02/brasov-festivalul-national-de-teatru-am/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-02T11:31:28+03:00"
+    },
+    {
       "title": "Liga 4 Brașov, etapa 6 I Teutonii Ghimbav – Internațional Brașov, derbiul rundei",
       "url": "https://www.monitorulexpres.ro/2026/10/02/liga-4-brasov-etapa-6-i-teutonii-ghimbav-international-brasov-derbiul-rundei/",
       "source": "Monitorul Expres",
@@ -219,13 +226,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T11:18:53+03:00"
-    },
-    {
-      "title": "2 turiști din Ucraina recuperaţi de Salvamont Zărneşti de pe munte. Mesaj emoţionant transmis de cei salvaţi",
-      "url": "https://newsbv.ro/salvamont-zarnesti-mesaj-emotionant/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T11:15:34+03:00"
     },
     {
       "title": "Turiști străini extrași de Salvamont Zărnești din masivul Piatra Craiului: „Vă rugăm să primiți toată aprecierea și respectul nostru pentru dumneavoastră și pentru echipa dumneavoastră!”",
@@ -275,6 +275,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-02T09:35:08+03:00"
+    },
+    {
+      "title": "BRAȘOV | Doi turiști din Ucraina, sprijiniți de Salvamont Zărnești în zona Padina Hotarului. „Am subestimat traseul”",
+      "url": "https://mytex.ro/112/brasov-doi-turisti-din-ucraina-sprijiniti-de-salvamont-zarnesti-in-zona-padina-hotarului-am-subestimat-traseul/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T09:28:47+03:00"
     },
     {
       "title": "Ion Țiriac investeşte peste 100 de milioane de euro la Brașov: Proiect uriaș cu blocuri, spital și parc pe fosta platformă Lemexim",
@@ -410,13 +417,6 @@
       "published": "2026-10-02T04:47:00+03:00"
     },
     {
-      "title": "Razie în trafic la Brașov: 141 de amenzi și 5 permise reținute pentru viteză",
-      "url": "https://newsbv.ro/amenzi-permise-retinute-viteza/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-01T20:39:48+03:00"
-    },
-    {
       "title": "BRAȘOV | Bătaie între două grupuri, pe o stradă din Făgăraș. Cinci bărbați au fost reținuți",
       "url": "https://mytex.ro/112/brasov-bataie-intre-doua-grupuri-pe-o-strada-din-fagaras-cinci-barbati-au-fost-retinuti/",
       "source": "MyTex",
@@ -450,13 +450,6 @@
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-01T15:17:20+03:00"
-    },
-    {
-      "title": "Primăria Codlea scoate la licitație terenuri și hale industriale! Imobilele de...",
-      "url": "https://transilvania365.ro/primaria-codlea-scoate-la-licitatie-terenuri-si-hale-industriale-imobilele-de-pe-strada-fabricii-puse-la-vanzare/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-01T14:21:28+03:00"
     }
   ]
 }
