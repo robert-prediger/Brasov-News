@@ -1,8 +1,15 @@
 {
-  "updated": "03.10.2026, 10:00",
-  "count": 58,
-  "raw_count": 71,
+  "updated": "03.10.2026, 11:00",
+  "count": 47,
+  "raw_count": 58,
   "items": [
+    {
+      "title": "VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
+      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-03T10:17:26+03:00"
+    },
     {
       "title": "„Derapaj” între un șofer de ridesharing și un pasager, în centrul Brașovului (VIDEO)",
       "url": "https://mytex.ro/expres/derapaj-intre-un-sofer-de-ridesharing-si-un-pasager-in-centrul-brasovului-video/",
@@ -11,11 +18,11 @@
       "published": "2026-10-03T09:37:19+03:00"
     },
     {
-      "title": "Teste pentru o introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
-      "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:32:49+03:00"
+      "title": "Eveniment acum o oră Grădina Zoologică Brașov sărbătorește Ziua Mondială a Animalelor cu un program special pentru vizitatori",
+      "url": "https://www.brasov.net/gradina-zoologica-brasov-sarbatoreste-ziua-mondiala-a-animalelor-cu-un-program-special-pentru-vizitatori/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-03T09:20:42+03:00"
     },
     {
       "title": "Tragedie în Munții Făgăraș: Turist decedat după o cădere fatală",
@@ -32,11 +39,11 @@
       "published": "2026-10-03T09:13:43+03:00"
     },
     {
-      "title": "O zi din culisele Zoo Brașov. Îngrijitorii își spun secretele, iar vizitatorii sunt invitați la spectacolul hrănirii animalelor",
-      "url": "https://bizbrasov.ro/2026/10/03/zi-culise-zoo-brasov-secrete-hranire-animale/",
-      "source": "BizBrașov",
+      "title": "Eveniment acum o oră Tragedie în Munții Făgăraș: Un turist a murit după ce a căzut 200 de metri în zona Iezerul Caprei",
+      "url": "https://www.brasov.net/tragedie-in-muntii-fagaras-un-turist-a-murit-dupa-ce-a-cazut-200-de-metri-in-zona-iezerul-caprei/",
+      "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-10-03T09:05:34+03:00"
+      "published": "2026-10-03T09:13:05+03:00"
     },
     {
       "title": "Cutremur de magnitudine 3,5, la 68 de kilometri de Brașov, sâmbătă dimineață",
@@ -72,13 +79,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-03T08:12:05+03:00"
-    },
-    {
-      "title": "Tragedie în Munții Făgăraș! Un turist a căzut 200 de metri, în zona Iezerul Caprei, și a murit",
-      "url": "https://transilvania365.ro/tragedie-in-muntii-fagaras-un-turist-a-cazut-200-de-metri-in-zona-iezerul-caprei-si-a-murit/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-03T08:09:19+03:00"
     },
     {
       "title": "Protest la Opera Brașov! Grevă japoneză în timpul spectacolului „My Fair Lady”. Vezi care este motivul",
@@ -137,13 +137,6 @@
       "published": "2026-10-02T17:33:15+03:00"
     },
     {
-      "title": "S-a fluidizat traficul pe DN1 în zona Comarnic, dar la Bușteni se circulă tot cu „viteza melcului”, bară bară, atât spre Brașov, cât și spre Ploiești",
-      "url": "https://bizbrasov.ro/2026/10/02/fluidizat-trafic-comarnic-bara-busteni-brasov/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-02T17:32:12+03:00"
-    },
-    {
       "title": "Săcele: Muzică și bucurie alături de seniorii Căminului „Dr. Teofil Mija”, de Ziua Internațională a Persoanelor Vârstnice",
       "url": "https://www.monitorulexpres.ro/2026/10/02/sacele-muzica-si-bucurie-alaturi-de-seniorii-caminului-dr-teofil-mija-de-ziua-internationala-a-persoanelor-varstnice/",
       "source": "Monitorul Expres",
@@ -156,13 +149,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-02T17:02:26+03:00"
-    },
-    {
-      "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
-      "url": "https://bizbrasov.ro/2026/10/02/hartiei-terapia-expozitie-ateliere-brasov/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-02T16:26:16+03:00"
     },
     {
       "title": "A fost inaugurat Centrul de Zi pentru Seniori din Codlea",
@@ -179,18 +165,18 @@
       "published": "2026-10-02T15:28:16+03:00"
     },
     {
+      "title": "„Terapia hârtiei” la Muzeul „Casa Mureșenilor” din Brașov. Expoziție și ateliere dedicate documentelor de patrimoniu",
+      "url": "https://www.monitorulexpres.ro/2026/10/02/terapia-hartiei-la-muzeul-casa-muresenilor-din-brasov-expozitie-si-ateliere-dedicate-documentelor-de-patrimoniu/",
+      "source": "Monitorul Expres",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-02T15:27:52+03:00"
+    },
+    {
       "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
       "url": "https://mytex.ro/112/brasov-biciclist-ranit-la-rotbav-dupa-ce-a-lovit-un-cap-de-pod-avea-091-mg-l-alcool-in-aerul-expirat/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-02T15:08:07+03:00"
-    },
-    {
-      "title": "Muzica prinde viață la Brașov: Universitatea Transilvania dă startul celei de-a XII-a Stagiuni de concerte cu acces liber",
-      "url": "https://bizbrasov.ro/2026/10/02/brasov-muzica-prinde-viata-universitatea/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:09:31+03:00"
     },
     {
       "title": "Patru intersecții din Brașov intră în șantier. Primul sens giratoriu se...",
@@ -207,13 +193,6 @@
       "published": "2026-10-02T13:43:48+03:00"
     },
     {
-      "title": "DN 73, modernizat într-un final complet de la Brașov până la Pitești. Mai sunt de trasat doar niște marcaje",
-      "url": "https://bizbrasov.ro/2026/10/02/dn-73-modernizat-complete-brasov-pitesti/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T13:39:07+03:00"
-    },
-    {
       "title": "Peste 6.200 de sancțiuni aplicate de Poliția Locală Brașov în perioada iulie – septembrie 2026",
       "url": "https://www.monitorulexpres.ro/2026/10/02/peste-6-200-de-sanctiuni-aplicate-de-politia-locala-brasov-in-perioada-iulie-septembrie-2026/",
       "source": "Monitorul Expres",
@@ -221,25 +200,11 @@
       "published": "2026-10-02T12:43:31+03:00"
     },
     {
-      "title": "Nouă persoane arestate preventiv: Vindeau țigări de contrabandă și droguri în Brașov și Covasna",
-      "url": "https://bizbrasov.ro/2026/10/02/brasov-covasna-noua-persoane-arestate/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-02T12:33:38+03:00"
-    },
-    {
       "title": "Se va întrerupe alimentarea cu energie electrică în 2 localități din județul Brașov",
       "url": "https://mytex.ro/expres/se-va-intrerupe-alimentarea-cu-energie-electrica-in-2-localitati-din-judetul-brasov-9/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-02T12:29:09+03:00"
-    },
-    {
-      "title": "În ultimele 3 luni, Poliția Locală Brașov a dus la „parcarea scumpă” 658 de autoturisme parcate sau staționate neregulamentar în municipiu. Amenzi de peste 4 milioane de lei",
-      "url": "https://bizbrasov.ro/2026/10/02/politia-locala-autoturisme-parcate/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T12:07:02+03:00"
     },
     {
       "title": "Handbal feminin. Corona Brașov, prima bătălie cu Steaua Roșie Belgrad în EHF European League: „Este liniște la echipă“",
@@ -256,13 +221,6 @@
       "published": "2026-10-02T11:42:28+03:00"
     },
     {
-      "title": "Târg de Brumărel, în Piața Sfatului din Brașov. Peste 70 de meșteri populari, meșteșugari și artizani participă la eveniment",
-      "url": "https://www.monitorulexpres.ro/2026/10/02/targ-de-brumarel-in-piata-sfatului-din-brasov-peste-70-de-mesteri-populari-mestesugari-si-artizani-participa-la-eveniment/",
-      "source": "Monitorul Expres",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-02T11:40:00+03:00"
-    },
-    {
       "title": "BRAȘOV | Piață volantă în Răcădău, mâine",
       "url": "https://mytex.ro/expres/brasov-piata-volanta-in-racadau-maine/",
       "source": "MyTex",
@@ -270,32 +228,18 @@
       "published": "2026-10-02T11:36:52+03:00"
     },
     {
-      "title": "Curățenie de toamnă în gospodării: Locuitorii din Hărman își pot preda aparatele electrice uzate direct de acasă",
-      "url": "https://bizbrasov.ro/2026/10/02/curatenie-gospodarii-harman-electrice/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T11:18:53+03:00"
+      "title": "Amenzi de peste 4 milioane de lei, în trei luni, la Brașov. Bilanțul Poliției Locale",
+      "url": "https://mytex.ro/expres/amenzi-de-peste-4-milioane-de-lei-in-trei-luni-la-brasov-bilantul-politiei-locale/",
+      "source": "MyTex",
+      "category": "💰 Business & economie",
+      "published": "2026-10-02T11:27:14+03:00"
     },
     {
-      "title": "Turiști străini extrași de Salvamont Zărnești din masivul Piatra Craiului: „Vă rugăm să primiți toată aprecierea și respectul nostru pentru dumneavoastră și pentru echipa dumneavoastră!”",
-      "url": "https://bizbrasov.ro/2026/10/02/turisti-straini-salvamont-zarnesti/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T10:52:29+03:00"
-    },
-    {
-      "title": "890.000 de lei, puși la bătaie de Primăria Cristian pentru evenimente sportive, culturale sau educative independente ce ar urma să fie organizate până la final de an",
-      "url": "https://bizbrasov.ro/2026/10/02/primaria-cristian-evenimente-sportive/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T10:25:21+03:00"
-    },
-    {
-      "title": "Un cimitir în stil american în incinta Cimitirului Municipal din Brașov. Cine sunt cei înhumați pe respectiva parcelă",
-      "url": "https://bizbrasov.ro/2026/10/02/stil-american-cimitir-municipal-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T10:14:38+03:00"
+      "title": "Administrație acum o zi Un nou Centru de Zi pentru vârstnici a fost inaugurat la Prejmer",
+      "url": "https://www.brasov.net/un-nou-centru-de-zi-pentru-varstnici-a-fost-inaugurat-la-prejmer/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-02T09:37:19+03:00"
     },
     {
       "title": "Vaccinare antigripală gratuită în mai multe farmacii din Brașov",
@@ -354,13 +298,6 @@
       "published": "2026-10-02T08:54:32+03:00"
     },
     {
-      "title": "Primarul George Scripcaru: Lucrările la noul Spital de Pneumoftiziologie din Brașov ar putea începe în această lună",
-      "url": "https://mytex.ro/expres/primarul-george-scripcaru-lucrarile-la-noul-spital-de-pneumoftiziologie-din-brasov-ar-putea-incepe-in-aceasta-luna/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T08:48:25+03:00"
-    },
-    {
       "title": "Centrul de zi pentru seniorii din Prejmer a fost inaugurat. 75...",
       "url": "https://transilvania365.ro/centrul-de-zi-pentru-seniorii-din-prejmer-a-fost-inaugurat-75-de-varstnici-vor-beneficia-de-servicii-de-recuperare-si-ingrijire/",
       "source": "Transilvania365",
@@ -394,20 +331,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-02T06:29:08+03:00"
-    },
-    {
-      "title": "Încă trei luni pentru un proiect care trebuia finalizat în august. CJ Brașov schimbă planul și promite mobilizare pe ultima sută de metri la noul centru multicultural din locul Bazei Agrement de Sub Tâmpa",
-      "url": "https://bizbrasov.ro/2026/10/02/cj-brasov-plan-centru-agrement-tampa/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T05:31:00+03:00"
-    },
-    {
-      "title": "INVESTIGAȚIE: Rețeaua de MMA Radical Fight Club – asociată extremei drepte și neo-nazismului – plănuia să ajungă și la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/02/investigatie-mma-nazism-extremei/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T04:47:00+03:00"
     }
   ]
 }
