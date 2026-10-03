@@ -1,7 +1,7 @@
 {
-  "updated": "03.10.2026, 07:00",
-  "count": 47,
-  "raw_count": 62,
+  "updated": "03.10.2026, 08:00",
+  "count": 55,
+  "raw_count": 70,
   "items": [
     {
       "title": "Tânăr prins cu 6 kg de canabis la Brașov",
@@ -39,13 +39,6 @@
       "published": "2026-10-02T19:41:12+03:00"
     },
     {
-      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
-      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T19:35:30+03:00"
-    },
-    {
       "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
       "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
       "source": "Brașov Știri",
@@ -53,18 +46,18 @@
       "published": "2026-10-02T18:49:09+03:00"
     },
     {
-      "title": "Zoo Brașov sărbătorește Ziua Mondială a Animalelor pe 4 octombrie. Programul activităților",
-      "url": "https://newsbv.ro/zoo-brasov-ziua-mondiala-animale/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T18:28:44+03:00"
+      "title": "Etapa 7, Liga 3 | Corona Brașov, victorie de serviciu pe ICIM! Olimpic Zărnești a dat lovitura cu Sepsi OSK II",
+      "url": "https://www.monitorulexpres.ro/2026/10/02/etapa-7-liga-3-corona-brasov-victorie-de-serviciu-pe-icim-olimpic-zarnesti-a-dat-lovitura-cu-sepsi-osk-ii/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T18:03:36+03:00"
     },
     {
-      "title": "Transport în comun RATBV între Râșnov și Poiana Brașov. Linia 132 ar putea deveni operațională din decembrie 2026",
-      "url": "https://newsbv.ro/transport-rasnov-poiana/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-02T17:43:00+03:00"
+      "title": "Brașov, capitala sensurilor giratorii: De ce continuă Primăria să le construiască și unde se blochează, de fapt, traficul",
+      "url": "https://mytex.ro/expres/brasov-capitala-sensurilor-giratorii-de-ce-continua-primaria-sa-le-construiasca-si-unde-se-blocheaza-de-fapt-traficul/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-02T17:33:15+03:00"
     },
     {
       "title": "S-a fluidizat traficul pe DN1 în zona Comarnic, dar la Bușteni se circulă tot cu „viteza melcului”, bară bară, atât spre Brașov, cât și spre Ploiești",
@@ -81,6 +74,13 @@
       "published": "2026-10-02T17:18:59+03:00"
     },
     {
+      "title": "Liga 3. Corona Brașov își păstrează invincibilitatea: Victorie în derby-ul cu Kids Tâmpa și salută din fotoliu de lider",
+      "url": "https://mytex.ro/sport/liga-3-corona-brasov-isi-pastreaza-invincibilitatea-victorie-in-derby-ul-cu-kids-tampa-si-saluta-din-fotoliu-de-lider/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T17:02:26+03:00"
+    },
+    {
       "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
       "url": "https://bizbrasov.ro/2026/10/02/hartiei-terapia-expozitie-ateliere-brasov/",
       "source": "BizBrașov",
@@ -95,18 +95,25 @@
       "published": "2026-10-02T15:35:34+03:00"
     },
     {
+      "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
+      "url": "https://mytex.ro/expres/vara-recordurilor-la-aeroportul-brasov-300-000-de-pasageri-boeing-747-si-baza-wizz-air-din-decembrie/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-02T15:28:16+03:00"
+    },
+    {
+      "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
+      "url": "https://mytex.ro/112/brasov-biciclist-ranit-la-rotbav-dupa-ce-a-lovit-un-cap-de-pod-avea-091-mg-l-alcool-in-aerul-expirat/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T15:08:07+03:00"
+    },
+    {
       "title": "Muzica prinde viață la Brașov: Universitatea Transilvania dă startul celei de-a XII-a Stagiuni de concerte cu acces liber",
       "url": "https://bizbrasov.ro/2026/10/02/brasov-muzica-prinde-viata-universitatea/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T14:09:31+03:00"
-    },
-    {
-      "title": "Un nou sens giratoriu în Braşov. Mai multe intersecţii vor fi resistematizate",
-      "url": "https://newsbv.ro/un-nou-sens-giratoriu-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:00:57+03:00"
     },
     {
       "title": "Patru intersecții din Brașov intră în șantier. Primul sens giratoriu se...",
@@ -144,6 +151,13 @@
       "published": "2026-10-02T12:33:38+03:00"
     },
     {
+      "title": "Se va întrerupe alimentarea cu energie electrică în 2 localități din județul Brașov",
+      "url": "https://mytex.ro/expres/se-va-intrerupe-alimentarea-cu-energie-electrica-in-2-localitati-din-judetul-brasov-9/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T12:29:09+03:00"
+    },
+    {
       "title": "În ultimele 3 luni, Poliția Locală Brașov a dus la „parcarea scumpă” 658 de autoturisme parcate sau staționate neregulamentar în municipiu. Amenzi de peste 4 milioane de lei",
       "url": "https://bizbrasov.ro/2026/10/02/politia-locala-autoturisme-parcate/",
       "source": "BizBrașov",
@@ -172,6 +186,13 @@
       "published": "2026-10-02T11:40:00+03:00"
     },
     {
+      "title": "BRAȘOV | Piață volantă în Răcădău, mâine",
+      "url": "https://mytex.ro/expres/brasov-piata-volanta-in-racadau-maine/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T11:36:52+03:00"
+    },
+    {
       "title": "Festivalul Național de Teatru „AM-ACTOR” revine la Brașov cu patru zile de spectacole. Programul complet",
       "url": "https://bizbrasov.ro/2026/10/02/brasov-festivalul-national-de-teatru-am/",
       "source": "BizBrașov",
@@ -198,13 +219,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T10:52:29+03:00"
-    },
-    {
-      "title": "Rectorul Universității Transilvania Brașov: „Creșterea performanței și vizibilității noastre este și o consecință a abordării antreprenoriale, cu salarii diferențiate”",
-      "url": "https://newsbv.ro/rectorul-transilvania-cresterea-performantei/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-10-02T10:32:05+03:00"
     },
     {
       "title": "890.000 de lei, puși la bătaie de Primăria Cristian pentru evenimente sportive, culturale sau educative independente ce ar urma să fie organizate până la final de an",
@@ -242,11 +256,18 @@
       "published": "2026-10-02T09:35:08+03:00"
     },
     {
-      "title": "Centrul de Zi pentru vârstnici din Prejmer, inaugurat de Ziua Internațională a Persoanelor Vârstnice. 75 de seniori vor beneficia de servicii de recuperare și îngrijire (FOTO)",
-      "url": "https://newsbv.ro/centrul-de-zi-pentru-varstnici-din-prejmer-inaugurat/",
-      "source": "NewsBV",
+      "title": "BRAȘOV | Doi turiști din Ucraina, sprijiniți de Salvamont Zărnești în zona Padina Hotarului. „Am subestimat traseul”",
+      "url": "https://mytex.ro/112/brasov-doi-turisti-din-ucraina-sprijiniti-de-salvamont-zarnesti-in-zona-padina-hotarului-am-subestimat-traseul/",
+      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-02T09:31:21+03:00"
+      "published": "2026-10-02T09:28:47+03:00"
+    },
+    {
+      "title": "Ion Țiriac investeşte peste 100 de milioane de euro la Brașov: Proiect uriaș cu blocuri, spital și parc pe fosta platformă Lemexim",
+      "url": "https://mytex.ro/economic/ion-tiriac-investeste-peste-100-de-milioane-de-euro-la-brasov-proiect-urias-cu-blocuri-spital-si-parc-pe-fosta-platforma-lemexim/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-02T09:21:49+03:00"
     },
     {
       "title": "Piețele volante revin în cartierele Brașovului. Calendarul lunii octombrie",
@@ -254,6 +275,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-02T09:20:30+03:00"
+    },
+    {
+      "title": "Pompierii din Brașov, chemați în sprijin la un incendiu izbucnit la o hală din Sibiu",
+      "url": "https://mytex.ro/112/pompierii-din-brasov-chemati-in-sprijin-la-un-incendiu-izbucnit-la-o-hala-din-sibiu/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-02T09:12:13+03:00"
     },
     {
       "title": "Campanie de colectare a deșeurilor electrice, sâmbătă, în Hărman, Prejmer și Lunca Câlnicului",
@@ -270,6 +298,13 @@
       "published": "2026-10-02T09:07:11+03:00"
     },
     {
+      "title": "Pelerinajul Camino de Santiago se extinde în România: Peste 2.300 km de traseu vor revitaliza satele românești și economia locală, cu Brașovul pe hartă",
+      "url": "https://mytex.ro/turism/pelerinajul-camino-de-santiago-se-extinde-in-romania-peste-2-300-km-de-traseu-vor-revitaliza-satele-romanesti-si-economia-locala-cu-brasovul-pe-harta/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T09:05:07+03:00"
+    },
+    {
       "title": "Adio, mobilă veche! Primăria Cristian organizează colectare gratuită. Ce poți arunca...",
       "url": "https://transilvania365.ro/adio-mobila-veche-primaria-cristian-organizeaza-colectare-gratuita-ce-poti-arunca-si-unde-trebuie-sa-le-duci/",
       "source": "Transilvania365",
@@ -284,11 +319,32 @@
       "published": "2026-10-02T08:49:05+03:00"
     },
     {
+      "title": "Primarul George Scripcaru: Lucrările la noul Spital de Pneumoftiziologie din Brașov ar putea începe în această lună",
+      "url": "https://mytex.ro/expres/primarul-george-scripcaru-lucrarile-la-noul-spital-de-pneumoftiziologie-din-brasov-ar-putea-incepe-in-aceasta-luna/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-02T08:48:25+03:00"
+    },
+    {
       "title": "Piste noi pentru biciclete în Brașov. Contract de 20 de milioane de lei pentru „Calea verde”",
       "url": "https://www.monitorulexpres.ro/2026/10/02/piste-noi-pentru-biciclete-in-brasov-contract-de-20-de-milioane-de-lei-pentru-calea-verde/",
       "source": "Monitorul Expres",
       "category": "💰 Business & economie",
       "published": "2026-10-02T08:37:19+03:00"
+    },
+    {
+      "title": "Centrul de zi pentru seniorii din Prejmer a fost inaugurat. 75...",
+      "url": "https://transilvania365.ro/centrul-de-zi-pentru-seniorii-din-prejmer-a-fost-inaugurat-75-de-varstnici-vor-beneficia-de-servicii-de-recuperare-si-ingrijire/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-02T08:22:00+03:00"
+    },
+    {
+      "title": "Frig la Brașov în această dimineață! Doar 1 grad Celsius la Ghimbav și temperaturi negative în Miercurea Ciuc și pe Vârful Omu",
+      "url": "https://mytex.ro/expres/frig-la-brasov-in-aceasta-dimineata-doar-1-grad-celsius-la-ghimbav-si-temperaturi-negative-in-miercurea-ciuc-si-pe-varful-omu/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T08:15:38+03:00"
     },
     {
       "title": "Junii Brașovului organizează cursuri de dansuri populare. Înscrierile sunt deschise",
@@ -312,6 +368,13 @@
       "published": "2026-10-02T07:39:40+03:00"
     },
     {
+      "title": "Finalizarea proiectului „Construire parc fotovoltaic Orașul Zărnești”",
+      "url": "https://mytex.ro/economic/finalizarea-proiectului-construire-parc-fotovoltaic-orasul-zarnesti/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-02T06:29:08+03:00"
+    },
+    {
       "title": "Încă trei luni pentru un proiect care trebuia finalizat în august. CJ Brașov schimbă planul și promite mobilizare pe ultima sută de metri la noul centru multicultural din locul Bazei Agrement de Sub Tâmpa",
       "url": "https://bizbrasov.ro/2026/10/02/cj-brasov-plan-centru-agrement-tampa/",
       "source": "BizBrașov",
@@ -324,13 +387,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T04:47:00+03:00"
-    },
-    {
-      "title": "Razie în trafic la Brașov: 141 de amenzi și 5 permise reținute pentru viteză",
-      "url": "https://newsbv.ro/amenzi-permise-retinute-viteza/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-01T20:39:48+03:00"
     }
   ]
 }
