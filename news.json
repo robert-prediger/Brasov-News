@@ -1,7 +1,7 @@
 {
-  "updated": "04.10.2026, 02:00",
+  "updated": "04.10.2026, 02:07",
   "count": 47,
-  "raw_count": 64,
+  "raw_count": 67,
   "items": [
     {
       "title": "Record de pasageri și premieră la Aeroportul Brașov",
@@ -172,6 +172,13 @@
       "published": "2026-10-03T11:27:16+03:00"
     },
     {
+      "title": "VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
+      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-03T10:17:26+03:00"
+    },
+    {
       "title": "Teste pentru introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
       "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
       "source": "BizBrașov",
@@ -324,13 +331,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T14:09:31+03:00"
-    },
-    {
-      "title": "Un nou sens giratoriu în Braşov. Mai multe intersecţii vor fi resistematizate",
-      "url": "https://newsbv.ro/un-nou-sens-giratoriu-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:00:57+03:00"
     }
   ]
 }
