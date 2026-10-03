@@ -1,7 +1,7 @@
 {
-  "updated": "04.10.2026, 00:00",
-  "count": 52,
-  "raw_count": 73,
+  "updated": "04.10.2026, 01:00",
+  "count": 50,
+  "raw_count": 66,
   "items": [
     {
       "title": "Record de pasageri și premieră la Aeroportul Brașov",
@@ -186,13 +186,6 @@
       "published": "2026-10-03T09:32:49+03:00"
     },
     {
-      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
-      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:16:37+03:00"
-    },
-    {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
       "url": "https://www.monitorulexpres.ro/2026/10/03/vremea-se-incalzeste-la-brasov-sambata-sunt-prognozate-20-de-grade-si-cer-insorit-dupa-o-dimineata-racoroasa/",
       "source": "Monitorul Expres",
@@ -263,25 +256,11 @@
       "published": "2026-10-02T20:38:54+03:00"
     },
     {
-      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
-      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T19:35:30+03:00"
-    },
-    {
       "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
       "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-02T18:49:09+03:00"
-    },
-    {
-      "title": "Zoo Brașov sărbătorește Ziua Mondială a Animalelor pe 4 octombrie. Programul activităților",
-      "url": "https://newsbv.ro/zoo-brasov-ziua-mondiala-animale/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T18:28:44+03:00"
     },
     {
       "title": "Brașov, capitala sensurilor giratorii: De ce continuă Primăria să le construiască și unde se blochează, de fapt, traficul",
@@ -298,6 +277,13 @@
       "published": "2026-10-02T17:32:12+03:00"
     },
     {
+      "title": "Liga 3. Corona Brașov își păstrează invincibilitatea: Victorie în derby-ul cu Kids Tâmpa și salută din fotoliu de lider",
+      "url": "https://mytex.ro/sport/liga-3-corona-brasov-isi-pastreaza-invincibilitatea-victorie-in-derby-ul-cu-kids-tampa-si-saluta-din-fotoliu-de-lider/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T17:02:26+03:00"
+    },
+    {
       "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
       "url": "https://bizbrasov.ro/2026/10/02/hartiei-terapia-expozitie-ateliere-brasov/",
       "source": "BizBrașov",
@@ -310,6 +296,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-02T15:35:34+03:00"
+    },
+    {
+      "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
+      "url": "https://mytex.ro/expres/vara-recordurilor-la-aeroportul-brasov-300-000-de-pasageri-boeing-747-si-baza-wizz-air-din-decembrie/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-02T15:28:16+03:00"
     },
     {
       "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
@@ -359,13 +352,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T13:39:07+03:00"
-    },
-    {
-      "title": "În ultimele 3 luni, Poliția Locală Brașov a dus la „parcarea scumpă” 658 de autoturisme parcate sau staționate neregulamentar în municipiu. Amenzi de peste 4 milioane de lei",
-      "url": "https://bizbrasov.ro/2026/10/02/politia-locala-autoturisme-parcate/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T12:07:02+03:00"
     }
   ]
 }
