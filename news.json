@@ -1,7 +1,7 @@
 {
-  "updated": "03.10.2026, 02:49",
-  "count": 64,
-  "raw_count": 81,
+  "updated": "03.10.2026, 03:00",
+  "count": 63,
+  "raw_count": 85,
   "items": [
     {
       "title": "Tânăr prins cu 6 kg de canabis la Brașov",
@@ -39,6 +39,13 @@
       "published": "2026-10-02T19:41:12+03:00"
     },
     {
+      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
+      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T19:35:30+03:00"
+    },
+    {
       "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
       "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
       "source": "Brașov Știri",
@@ -51,13 +58,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-02T18:28:44+03:00"
-    },
-    {
-      "title": "Etapa 7, Liga 3 | Corona Brașov, victorie de serviciu pe ICIM! Olimpic Zărnești a dat lovitura cu Sepsi OSK II",
-      "url": "https://www.monitorulexpres.ro/2026/10/02/etapa-7-liga-3-corona-brasov-victorie-de-serviciu-pe-icim-olimpic-zarnesti-a-dat-lovitura-cu-sepsi-osk-ii/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T18:03:36+03:00"
     },
     {
       "title": "Transport în comun RATBV între Râșnov și Poiana Brașov. Linia 132 ar putea deveni operațională din decembrie 2026",
@@ -86,13 +86,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-02T17:18:59+03:00"
-    },
-    {
-      "title": "Liga 3. Corona Brașov își păstrează invincibilitatea: Victorie în derby-ul cu Kids Tâmpa și salută din fotoliu de lider",
-      "url": "https://mytex.ro/sport/liga-3-corona-brasov-isi-pastreaza-invincibilitatea-victorie-in-derby-ul-cu-kids-tampa-si-saluta-din-fotoliu-de-lider/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T17:02:26+03:00"
     },
     {
       "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
@@ -128,6 +121,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T14:09:31+03:00"
+    },
+    {
+      "title": "Un nou sens giratoriu în Braşov. Mai multe intersecţii vor fi resistematizate",
+      "url": "https://newsbv.ro/un-nou-sens-giratoriu-in-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-02T14:00:57+03:00"
     },
     {
       "title": "Patru intersecții din Brașov intră în șantier. Primul sens giratoriu se...",
@@ -228,6 +228,13 @@
       "published": "2026-10-02T11:18:53+03:00"
     },
     {
+      "title": "2 turiști din Ucraina recuperaţi de Salvamont Zărneşti de pe munte. Mesaj emoţionant transmis de cei salvaţi",
+      "url": "https://newsbv.ro/salvamont-zarnesti-mesaj-emotionant/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-02T11:15:34+03:00"
+    },
+    {
       "title": "Turiști străini extrași de Salvamont Zărnești din masivul Piatra Craiului: „Vă rugăm să primiți toată aprecierea și respectul nostru pentru dumneavoastră și pentru echipa dumneavoastră!”",
       "url": "https://bizbrasov.ro/2026/10/02/turisti-straini-salvamont-zarnesti/",
       "source": "BizBrașov",
@@ -263,13 +270,6 @@
       "published": "2026-10-02T10:04:58+03:00"
     },
     {
-      "title": "Administrație acum 7 ore Un nou Centru de Zi pentru vârstnici a fost inaugurat la Prejmer",
-      "url": "https://www.brasov.net/un-nou-centru-de-zi-pentru-varstnici-a-fost-inaugurat-la-prejmer/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T09:37:19+03:00"
-    },
-    {
       "title": "Vaccinare antigripală gratuită în mai multe farmacii din Brașov",
       "url": "https://transilvania365.ro/vaccinare-antigripala-gratuita-in-mai-multe-farmacii-din-brasov/",
       "source": "Transilvania365",
@@ -277,11 +277,11 @@
       "published": "2026-10-02T09:35:08+03:00"
     },
     {
-      "title": "BRAȘOV | Doi turiști din Ucraina, sprijiniți de Salvamont Zărnești în zona Padina Hotarului. „Am subestimat traseul”",
-      "url": "https://mytex.ro/112/brasov-doi-turisti-din-ucraina-sprijiniti-de-salvamont-zarnesti-in-zona-padina-hotarului-am-subestimat-traseul/",
-      "source": "MyTex",
+      "title": "Centrul de Zi pentru vârstnici din Prejmer, inaugurat de Ziua Internațională a Persoanelor Vârstnice. 75 de seniori vor beneficia de servicii de recuperare și îngrijire (FOTO)",
+      "url": "https://newsbv.ro/centrul-de-zi-pentru-varstnici-din-prejmer-inaugurat/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-02T09:28:47+03:00"
+      "published": "2026-10-02T09:31:21+03:00"
     },
     {
       "title": "Ion Țiriac investeşte peste 100 de milioane de euro la Brașov: Proiect uriaș cu blocuri, spital și parc pe fosta platformă Lemexim",
@@ -354,13 +354,6 @@
       "published": "2026-10-02T08:37:19+03:00"
     },
     {
-      "title": "Centrul de zi pentru seniorii din Prejmer a fost inaugurat. 75...",
-      "url": "https://transilvania365.ro/centrul-de-zi-pentru-seniorii-din-prejmer-a-fost-inaugurat-75-de-varstnici-vor-beneficia-de-servicii-de-recuperare-si-ingrijire/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-02T08:22:00+03:00"
-    },
-    {
       "title": "Frig la Brașov în această dimineață! Doar 1 grad Celsius la Ghimbav și temperaturi negative în Miercurea Ciuc și pe Vârful Omu",
       "url": "https://mytex.ro/expres/frig-la-brasov-in-aceasta-dimineata-doar-1-grad-celsius-la-ghimbav-si-temperaturi-negative-in-miercurea-ciuc-si-pe-varful-omu/",
       "source": "MyTex",
@@ -417,6 +410,13 @@
       "published": "2026-10-02T04:47:00+03:00"
     },
     {
+      "title": "Razie în trafic la Brașov: 141 de amenzi și 5 permise reținute pentru viteză",
+      "url": "https://newsbv.ro/amenzi-permise-retinute-viteza/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-01T20:39:48+03:00"
+    },
+    {
       "title": "BRAȘOV | Bătaie între două grupuri, pe o stradă din Făgăraș. Cinci bărbați au fost reținuți",
       "url": "https://mytex.ro/112/brasov-bataie-intre-doua-grupuri-pe-o-strada-din-fagaras-cinci-barbati-au-fost-retinuti/",
       "source": "MyTex",
@@ -429,13 +429,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-01T15:53:34+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Tragedie la Cuciulata, județul Brașov: Un bărbat de 55 de ani a murit atacat de urs",
-      "url": "https://www.brasov.net/tragedie-la-cuciulata-judetul-brasov-un-barbat-de-55-de-ani-a-murit-atacat-de-urs/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-01T15:38:02+03:00"
     },
     {
       "title": "BRAȘOV | Bărbat atacat mortal de urs",
