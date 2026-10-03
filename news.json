@@ -1,8 +1,15 @@
 {
-  "updated": "03.10.2026, 22:01",
-  "count": 59,
-  "raw_count": 79,
+  "updated": "03.10.2026, 23:00",
+  "count": 53,
+  "raw_count": 71,
   "items": [
+    {
+      "title": "Record de pasageri și premieră la Aeroportul Brașov",
+      "url": "https://www.zmbv.ro/record-de-pasageri-si-premiera-la-aeroportul-brasov/03/10/2026/119071/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-03T22:15:56+03:00"
+    },
     {
       "title": "BRAȘOV | Peste 330 de amenzi rutiere, într-o singură zi. Aproape 80% pentru viteză",
       "url": "https://mytex.ro/expres/brasov-peste-330-de-amenzi-rutiere-intr-o-singura-zi-aproape-80-pentru-viteza/",
@@ -23,13 +30,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-03T20:14:33+03:00"
-    },
-    {
-      "title": "Linia Râșnov-Poiana Brașov, operativă din 2026",
-      "url": "https://www.zmbv.ro/linia-rasnov-poiana-brasov-operativa-din-2026/03/10/2026/119055/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-03T20:14:04+03:00"
     },
     {
       "title": "Lucian Petrean, managerul Operei Brașov, răspunde protestatarilor: „Acuzațiile privind intimidările și amenințările nu sunt susținute de fapte concrete”",
@@ -186,13 +186,6 @@
       "published": "2026-10-03T09:32:49+03:00"
     },
     {
-      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
-      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:16:37+03:00"
-    },
-    {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
       "url": "https://www.monitorulexpres.ro/2026/10/03/vremea-se-incalzeste-la-brasov-sambata-sunt-prognozate-20-de-grade-si-cer-insorit-dupa-o-dimineata-racoroasa/",
       "source": "Monitorul Expres",
@@ -242,7 +235,7 @@
       "published": "2026-10-03T08:12:05+03:00"
     },
     {
-      "title": "Protest la Opera Brașov! Grevă japoneză în timpul spectacolului „My Fair Lady”. Vezi...",
+      "title": "Protest la Opera Brașov! Grevă japoneză în timpul spectacolului „My Fair...",
       "url": "https://transilvania365.ro/protest-la-opera-brasov-greva-japoneza-in-timpul-spectacolului-my-fair-lady-vezi-care-este-motivul/",
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
@@ -270,18 +263,18 @@
       "published": "2026-10-02T19:41:12+03:00"
     },
     {
+      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
+      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-02T19:35:30+03:00"
+    },
+    {
       "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
       "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-02T18:49:09+03:00"
-    },
-    {
-      "title": "Zoo Brașov sărbătorește Ziua Mondială a Animalelor pe 4 octombrie. Programul activităților",
-      "url": "https://newsbv.ro/zoo-brasov-ziua-mondiala-animale/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T18:28:44+03:00"
     },
     {
       "title": "Brașov, capitala sensurilor giratorii: De ce continuă Primăria să le construiască și unde se blochează, de fapt, traficul",
@@ -298,13 +291,6 @@
       "published": "2026-10-02T17:32:12+03:00"
     },
     {
-      "title": "Liga 3. Corona Brașov își păstrează invincibilitatea: Victorie în derby-ul cu Kids Tâmpa și salută din fotoliu de lider",
-      "url": "https://mytex.ro/sport/liga-3-corona-brasov-isi-pastreaza-invincibilitatea-victorie-in-derby-ul-cu-kids-tampa-si-saluta-din-fotoliu-de-lider/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T17:02:26+03:00"
-    },
-    {
       "title": "„Terapia hârtiei”, expoziție și ateliere de restaurare la Muzeul „Casa Mureșenilor” Brașov",
       "url": "https://bizbrasov.ro/2026/10/02/hartiei-terapia-expozitie-ateliere-brasov/",
       "source": "BizBrașov",
@@ -317,6 +303,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-02T15:35:34+03:00"
+    },
+    {
+      "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
+      "url": "https://mytex.ro/expres/vara-recordurilor-la-aeroportul-brasov-300-000-de-pasageri-boeing-747-si-baza-wizz-air-din-decembrie/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-02T15:28:16+03:00"
     },
     {
       "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
@@ -338,13 +331,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T14:09:31+03:00"
-    },
-    {
-      "title": "Un nou sens giratoriu în Braşov. Mai multe intersecţii vor fi resistematizate",
-      "url": "https://newsbv.ro/un-nou-sens-giratoriu-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:00:57+03:00"
     },
     {
       "title": "Patru intersecții din Brașov intră în șantier. Primul sens giratoriu se...",
@@ -387,34 +373,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-02T11:18:53+03:00"
-    },
-    {
-      "title": "Turiști străini extrași de Salvamont Zărnești din masivul Piatra Craiului: „Vă rugăm să primiți toată aprecierea și respectul nostru pentru dumneavoastră și pentru echipa dumneavoastră!”",
-      "url": "https://bizbrasov.ro/2026/10/02/turisti-straini-salvamont-zarnesti/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T10:52:29+03:00"
-    },
-    {
-      "title": "Rectorul Universității Transilvania Brașov: „Creșterea performanței și vizibilității noastre este și o consecință a abordării antreprenoriale, cu salarii diferențiate”",
-      "url": "https://newsbv.ro/rectorul-transilvania-cresterea-performantei/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-10-02T10:32:05+03:00"
-    },
-    {
-      "title": "890.000 de lei, puși la bătaie de Primăria Cristian pentru evenimente sportive, culturale sau educative independente ce ar urma să fie organizate până la final de an",
-      "url": "https://bizbrasov.ro/2026/10/02/primaria-cristian-evenimente-sportive/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T10:25:21+03:00"
-    },
-    {
-      "title": "Un cimitir în stil american în incinta Cimitirului Municipal din Brașov. Cine sunt cei înhumați pe respectiva parcelă",
-      "url": "https://bizbrasov.ro/2026/10/02/stil-american-cimitir-municipal-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T10:14:38+03:00"
     }
   ]
 }
