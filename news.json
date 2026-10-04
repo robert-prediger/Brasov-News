@@ -1,6 +1,6 @@
 {
-  "updated": "04.10.2026, 03:00",
-  "count": 43,
+  "updated": "04.10.2026, 04:01",
+  "count": 41,
   "raw_count": 55,
   "items": [
     {
@@ -172,6 +172,13 @@
       "published": "2026-10-03T09:32:49+03:00"
     },
     {
+      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
+      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-03T09:16:37+03:00"
+    },
+    {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
       "url": "https://www.monitorulexpres.ro/2026/10/03/vremea-se-incalzeste-la-brasov-sambata-sunt-prognozate-20-de-grade-si-cer-insorit-dupa-o-dimineata-racoroasa/",
       "source": "Monitorul Expres",
@@ -282,27 +289,6 @@
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-02T16:26:16+03:00"
-    },
-    {
-      "title": "A fost inaugurat Centrul de Zi pentru Seniori din Codlea",
-      "url": "https://transilvania365.ro/a-fost-inaugurat-entrul-de-zi-pentru-seniori-din-codlea/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-02T15:35:34+03:00"
-    },
-    {
-      "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
-      "url": "https://mytex.ro/expres/vara-recordurilor-la-aeroportul-brasov-300-000-de-pasageri-boeing-747-si-baza-wizz-air-din-decembrie/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-02T15:28:16+03:00"
-    },
-    {
-      "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
-      "url": "https://mytex.ro/112/brasov-biciclist-ranit-la-rotbav-dupa-ce-a-lovit-un-cap-de-pod-avea-091-mg-l-alcool-in-aerul-expirat/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-02T15:08:07+03:00"
     }
   ]
 }
