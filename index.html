@@ -9,280 +9,65 @@
 <meta name="apple-mobile-web-app-title" content="Brașov News">
 <link rel="apple-touch-icon" href="apple-touch-icon.PNG">
 <title>Brașov News</title>
-
 <style>
 :root{--bg:#08101d;--card:#111c2d;--text:#f5f7fb;--muted:#9eabc0;--blue:#68afff;--line:#273750}
-*{box-sizing:border-box}
-body{margin:0;background:linear-gradient(#08101d,#0c1626);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-.w{max-width:780px;margin:auto;padding:30px 16px 55px}
-.brand{letter-spacing:.18em;color:#80bcff;font-weight:800}
-.h{font-size:38px;margin:8px 0}
-.muted{color:var(--muted)}
-.status{color:#9de8b1;margin:14px 0}
-.card{background:#111c2d;border:1px solid var(--line);border-radius:20px;padding:18px;margin:16px 0}
-.card h2{margin:0 0 12px}
-.story{border-top:1px solid var(--line);padding:15px 0}
-.story:first-child{border:0}
-.meta{font-size:12px;color:#91a5c1}
-.story h3{font-size:18px;line-height:1.3;margin:6px 0 9px}
-.story a{color:var(--blue);font-weight:700;text-decoration:none}
-.filter{display:flex;gap:7px;overflow:auto;margin:14px 0}
-.filter button{white-space:nowrap;border:1px solid var(--line);background:#16243a;color:#eaf1fb;padding:9px 12px;border-radius:999px}
-.search-wrap{position:relative;margin:16px 0 10px}
-.search{width:100%;border:1px solid var(--line);background:#111c2d;color:var(--text);font-size:16px;padding:14px 46px 14px 44px;border-radius:16px;outline:none}
-.search::placeholder{color:#7889a3}
-.search:focus{border-color:#68afff}
-.search-icon{position:absolute;left:15px;top:50%;transform:translateY(-50%);font-size:18px;pointer-events:none}
-.search-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);border:0;background:transparent;color:#9eabc0;font-size:20px;padding:6px 10px;display:none}
-.brief{line-height:1.55}
-.brief ul{margin:0;padding-left:22px}
-.brief li{margin:0 0 12px}
-.brief li:last-child{margin-bottom:0}
-.brief a{color:var(--text);text-decoration:none;font-weight:650}
-.count{font-size:13px;color:#9eabc0}
-footer{text-align:center;color:#72819a;font-size:12px;margin-top:28px}
-</style>
-</head>
-
-<body>
-<main class="w">
-
-<div class="brand">BRAȘOV NEWS</div>
-<h1 class="h">Daily Brief</h1>
-
-<div class="muted" id="date"></div>
-<div class="status" id="status">● Se încarcă…</div>
-
-<section class="card">
-<h2>⚡ Brașov în 60 de secunde</h2>
-<div class="brief" id="brief"></div>
-</section>
-
-<div class="search-wrap">
-  <span class="search-icon">🔍</span>
-  <input
-    type="search"
-    id="search"
-    class="search"
-    placeholder="Caută în știrile de azi…"
-    autocomplete="off"
-  >
-  <button
-    class="search-clear"
-    id="searchClear"
-    aria-label="Șterge căutarea">×</button>
-</div>
-
-<div class="filter" id="filters"></div>
-
-<section class="card">
-<h2>📰 Toate știrile de azi</h2>
-<div class="count" id="count"></div>
-<div id="list"></div>
-</section>
-
-<footer>
-Selecție automată din publicații locale • Link direct către sursa originală
-</footer>
-
-</main>
-
+*{box-sizing:border-box} body{margin:0;background:linear-gradient(#08101d,#0c1626);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.w{max-width:780px;margin:auto;padding:30px 16px 55px}.brand{letter-spacing:.18em;color:#80bcff;font-weight:800}.h{font-size:38px;margin:8px 0}.muted{color:var(--muted)}.status{color:#9de8b1;margin:14px 0}
+.card{background:#111c2d;border:1px solid var(--line);border-radius:20px;padding:18px;margin:16px 0}.card h2{margin:0 0 12px}.story{border-top:1px solid var(--line);padding:15px 0}.story:first-child{border:0}.meta{font-size:12px;color:#91a5c1}.story h3{font-size:18px;line-height:1.3;margin:6px 0 9px}.story a{color:var(--blue);font-weight:700;text-decoration:none}
+.filter{display:flex;gap:7px;overflow:auto;margin:14px 0}.filter button{white-space:nowrap;border:1px solid var(--line);background:#16243a;color:#eaf1fb;padding:9px 12px;border-radius:999px}
+.search-wrap{position:relative;margin:16px 0 10px}.search{width:100%;border:1px solid var(--line);background:#111c2d;color:var(--text);font-size:16px;padding:14px 46px 14px 44px;border-radius:16px;outline:none}.search::placeholder{color:#7889a3}.search:focus{border-color:#68afff}.search-icon{position:absolute;left:15px;top:50%;transform:translateY(-50%);font-size:18px;pointer-events:none}.search-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);border:0;background:transparent;color:#9eabc0;font-size:20px;padding:6px 10px;display:none}
+.brief{line-height:1.55}.brief ul{margin:0;padding-left:22px}.brief li{margin:0 0 12px}.brief li:last-child{margin-bottom:0}.brief a{color:var(--text);text-decoration:none;font-weight:650}.count{font-size:13px;color:#9eabc0} footer{text-align:center;color:#72819a;font-size:12px;margin-top:28px}
+</style></head><body><main class="w">
+<div class="brand">BRAȘOV NEWS</div><h1 class="h">Daily Brief</h1><div class="muted" id="date"></div><div class="status" id="status">● Se încarcă…</div>
+<section class="card"><h2>⚡ Brașov în 60 de secunde</h2><div class="brief" id="brief"></div></section>
+<div class="search-wrap"><span class="search-icon">🔍</span><input type="search" id="search" class="search" placeholder="Caută în știrile de azi…" autocomplete="off"><button class="search-clear" id="searchClear" aria-label="Șterge căutarea">×</button></div>
+<div class="filter" id="filters"></div><section class="card"><h2>📰 Toate știrile de azi</h2><div class="count" id="count"></div><div id="list"></div></section>
+<footer>Selecție automată din publicații locale • Link direct către sursa originală</footer></main>
 <script>
-let DATA=[];
-let ACTIVE_CATEGORY="Toate";
-let LAST_UPDATED=null;
-let SEARCH_QUERY="";
+let DATA=[]; let ACTIVE_CATEGORY="Toate"; let LAST_UPDATED=null; let SEARCH_QUERY="";
+const E=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function updateDate(){document.getElementById("date").textContent=new Date().toLocaleDateString("ro-RO",{weekday:"long",day:"numeric",month:"long",year:"numeric"})+" • Știrile care contează. Fără zgomot.";}
 
-const E=s=>String(s??"").replace(
-  /[&<>"']/g,
-  c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])
-);
-
-function updateDate(){
-  document.getElementById("date").textContent=
-    new Date().toLocaleDateString(
-      "ro-RO",
-      {weekday:"long",day:"numeric",month:"long",year:"numeric"}
-    )+" • Știrile care contează. Fără zgomot.";
+function titleWords(title){
+ const stop=new Set(["a","ai","ale","al","au","ca","care","ce","cea","cei","cel","cele","cu","cum","de","din","dupa","este","fost","in","la","mai","o","pe","pentru","prin","s","sa","se","si","sunt","un","una","unei","unui","update","brasov"]);
+ return [...new Set(String(title||"").toLocaleLowerCase("ro-RO").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\s-]/g," ").split(/\s+/).filter(w=>w.length>=3&&!stop.has(w)))];
+}
+function sameTopic(a,b){
+ const A=titleWords(a),B=titleWords(b); if(!A.length||!B.length)return false;
+ const setB=new Set(B), common=A.filter(w=>setB.has(w)), minLen=Math.min(A.length,B.length), overlap=common.length/minLen;
+ return common.length>=3||(common.length>=2&&overlap>=0.5);
+}
+function getBriefItems(items,limit=5){
+ const chosen=[];
+ for(const item of items){if(!chosen.some(v=>sameTopic(item.title,v.title)))chosen.push(item);if(chosen.length>=limit)break;}
+ return chosen;
 }
 
 function draw(cat=ACTIVE_CATEGORY){
-  ACTIVE_CATEGORY=cat;
-
-  let a=cat==="Toate"
-    ? DATA
-    : DATA.filter(x=>x.category===cat);
-
-  if(SEARCH_QUERY){
-    const q=SEARCH_QUERY.toLocaleLowerCase("ro-RO");
-
-    a=a.filter(x=>
-      String(x.title||"").toLocaleLowerCase("ro-RO").includes(q) ||
-      String(x.source||"").toLocaleLowerCase("ro-RO").includes(q) ||
-      String(x.category||"").toLocaleLowerCase("ro-RO").includes(q)
-    );
-  }
-
-  document.getElementById("count").textContent=
-    SEARCH_QUERY
-      ? a.length+" rezultate găsite"
-      : a.length+" articole locale";
-
-  document.getElementById("list").innerHTML=
-    a.map(x=>`
-      <article class="story">
-        <div class="meta">
-          ${E(x.category)} • ${E(x.source)}
-        </div>
-
-        <h3>${E(x.title)}</h3>
-
-        <a
-          target="_blank"
-          rel="noopener"
-          href="${x.url}">
-          Citește articolul original →
-        </a>
-      </article>
-    `).join("")
-    || `<p class="muted">${
-         SEARCH_QUERY
-           ? "Nu am găsit nicio știre pentru această căutare."
-           : "Nicio știre în această categorie."
-       }</p>`;
+ ACTIVE_CATEGORY=cat; let a=cat==="Toate"?DATA:DATA.filter(x=>x.category===cat);
+ if(SEARCH_QUERY){const q=SEARCH_QUERY.toLocaleLowerCase("ro-RO");a=a.filter(x=>String(x.title||"").toLocaleLowerCase("ro-RO").includes(q)||String(x.source||"").toLocaleLowerCase("ro-RO").includes(q)||String(x.category||"").toLocaleLowerCase("ro-RO").includes(q));}
+ document.getElementById("count").textContent=SEARCH_QUERY?a.length+" rezultate găsite":a.length+" articole locale";
+ document.getElementById("list").innerHTML=a.map(x=>`<article class="story"><div class="meta">${E(x.category)} • ${E(x.source)}</div><h3>${E(x.title)}</h3><a target="_blank" rel="noopener" href="${x.url}">Citește articolul original →</a></article>`).join("")||`<p class="muted">${SEARCH_QUERY?"Nu am găsit nicio știre pentru această căutare.":"Nicio știre în această categorie."}</p>`;
 }
-
 function render(x){
-  DATA=x.items||[];
-  LAST_UPDATED=x.updated||null;
-
-  document.getElementById("status").textContent=
-    "● Ultima actualizare: "+(x.updated||"necunoscută");
-
-  document.getElementById("brief").innerHTML=
-    DATA.length
-    ? `<ul>${
-        DATA.slice(0,5).map(v=>`
-          <li>
-            <a
-              target="_blank"
-              rel="noopener"
-              href="${v.url}">
-              ${E(v.title)}
-            </a>
-          </li>
-        `).join("")
-      }</ul>`
-    : "Nu sunt încă știri disponibile.";
-
-  let cats=[
-    "Toate",
-    ...new Set(DATA.map(x=>x.category))
-  ];
-
-  if(!cats.includes(ACTIVE_CATEGORY)){
-    ACTIVE_CATEGORY="Toate";
-  }
-
-  document.getElementById("filters").innerHTML=
-    cats.map(c=>`
-      <button data-cat="${E(c)}">
-        ${E(c)}
-      </button>
-    `).join("");
-
-  document
-    .querySelectorAll("#filters button")
-    .forEach(b=>{
-      b.addEventListener(
-        "click",
-        ()=>draw(b.dataset.cat)
-      );
-    });
-
-  draw(ACTIVE_CATEGORY);
+ DATA=x.items||[];LAST_UPDATED=x.updated||null;document.getElementById("status").textContent="● Ultima actualizare: "+(x.updated||"necunoscută");
+ const briefItems=getBriefItems(DATA,5);
+ document.getElementById("brief").innerHTML=briefItems.length?`<ul>${briefItems.map(v=>`<li><a target="_blank" rel="noopener" href="${v.url}">${E(v.title)}</a></li>`).join("")}</ul>`:"Nu sunt încă știri disponibile.";
+ let cats=["Toate",...new Set(DATA.map(x=>x.category))];if(!cats.includes(ACTIVE_CATEGORY))ACTIVE_CATEGORY="Toate";
+ document.getElementById("filters").innerHTML=cats.map(c=>`<button data-cat="${E(c)}">${E(c)}</button>`).join("");
+ document.querySelectorAll("#filters button").forEach(b=>b.addEventListener("click",()=>draw(b.dataset.cat)));draw(ACTIVE_CATEGORY);
 }
-
-const searchInput=document.getElementById("search");
-const searchClear=document.getElementById("searchClear");
-
-searchInput.addEventListener("input",()=>{
-  SEARCH_QUERY=searchInput.value.trim();
-
-  searchClear.style.display=
-    SEARCH_QUERY ? "block" : "none";
-
-  draw(ACTIVE_CATEGORY);
-});
-
-searchClear.addEventListener("click",()=>{
-  searchInput.value="";
-  SEARCH_QUERY="";
-  searchClear.style.display="none";
-  searchInput.focus();
-  draw(ACTIVE_CATEGORY);
-});
-
+const searchInput=document.getElementById("search"),searchClear=document.getElementById("searchClear");
+searchInput.addEventListener("input",()=>{SEARCH_QUERY=searchInput.value.trim();searchClear.style.display=SEARCH_QUERY?"block":"none";draw(ACTIVE_CATEGORY);});
+searchClear.addEventListener("click",()=>{searchInput.value="";SEARCH_QUERY="";searchClear.style.display="none";searchInput.focus();draw(ACTIVE_CATEGORY);});
 async function loadNews(showLoading=false){
-  if(showLoading && !DATA.length){
-    document.getElementById("status").textContent="● Se încarcă…";
-  }
-
-  try{
-    const r=await fetch(
-      "news.json?t="+Date.now(),
-      {cache:"no-store"}
-    );
-
-    if(!r.ok){
-      throw new Error("HTTP "+r.status);
-    }
-
-    const x=await r.json();
-
-    if(!LAST_UPDATED || x.updated!==LAST_UPDATED){
-      render(x);
-    }else{
-      document.getElementById("status").textContent=
-        "● Ultima actualizare: "+x.updated;
-    }
-  }catch(e){
-    if(!DATA.length){
-      document.getElementById("status").textContent=
-        "● Nu s-a putut verifica actualizarea";
-    }
-  }
+ if(showLoading&&!DATA.length)document.getElementById("status").textContent="● Se încarcă…";
+ try{const r=await fetch("news.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);const x=await r.json();if(!LAST_UPDATED||x.updated!==LAST_UPDATED)render(x);else document.getElementById("status").textContent="● Ultima actualizare: "+x.updated;}
+ catch(e){if(!DATA.length)document.getElementById("status").textContent="● Nu s-a putut verifica actualizarea";}
 }
-
-updateDate();
-loadNews(true);
-
-/* Verifică automat la fiecare 5 minute cât timp pagina este deschisă. */
-setInterval(()=>{
-  if(!document.hidden){
-    loadNews(false);
-  }
-},5*60*1000);
-
-/* Când revii în pagină/aplicație după ce a stat în background,
-   verifică imediat dacă news.json s-a schimbat. */
-document.addEventListener("visibilitychange",()=>{
-  if(!document.hidden){
-    updateDate();
-    loadNews(false);
-  }
-});
-
-/* iOS poate restaura pagina din memorie fără reload complet. */
-window.addEventListener("pageshow",()=>{
-  updateDate();
-  loadNews(false);
-});
-
-window.addEventListener("focus",()=>{
-  loadNews(false);
-});
-</script>
-
-</body>
-</html>
+updateDate();loadNews(true);
+setInterval(()=>{if(!document.hidden)loadNews(false);},5*60*1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden){updateDate();loadNews(false);}});
+window.addEventListener("pageshow",()=>{updateDate();loadNews(false);});
+window.addEventListener("focus",()=>{loadNews(false);});
+</script></body></html>
