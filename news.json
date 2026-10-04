@@ -1,8 +1,43 @@
 {
-  "updated": "04.10.2026, 09:00",
-  "count": 38,
-  "raw_count": 46,
+  "updated": "04.10.2026, 10:00",
+  "count": 41,
+  "raw_count": 51,
   "items": [
+    {
+      "title": "Două cutremure în 20 de minute, în această dimineață, la zeci de kilometri de Brașov",
+      "url": "https://mytex.ro/expres/doua-cutremure-in-20-de-minute-in-aceasta-dimineata-la-zeci-de-kilometri-de-brasov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-04T09:41:07+03:00"
+    },
+    {
+      "title": "Ghebele, „aurul pădurii”, la mare căutare printre brașoveni: De unde le luăm și ce pericol mortal ascund ciupercile de la marginea drumului",
+      "url": "https://mytex.ro/expres/ghebele-aurul-padurii-la-mare-cautare-printre-brasoveni-de-unde-le-luam-si-ce-pericol-mortal-ascund-ciupercile-de-la-marginea-drumului/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-04T09:38:03+03:00"
+    },
+    {
+      "title": "CSM Constanța s-a impus la Ghimbav, scor 34–27, în etapa a IV-a a Ligii Zimbrilor",
+      "url": "https://brasovstiri.ro/csm-constanta-s-a-impus-la-ghimbav-scor-34-27-in-etapa-a-iv-a-a-ligii-zimbrilor/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-04T09:10:48+03:00"
+    },
+    {
+      "title": "Corona Brașov întâlnește astăzi ACSH Gheorgheni. Meciul începe la ora 17:30",
+      "url": "https://brasovstiri.ro/corona-brasov-intalneste-astazi-acsh-gheorgheni-meciul-incepe-la-ora-1730/",
+      "source": "Brașov Știri",
+      "category": "⚽ Sport",
+      "published": "2026-10-04T09:06:48+03:00"
+    },
+    {
+      "title": "Râșnovul va avea legătură directă cu Poiana Brașov! Linia 132 ar putea porni în decembrie",
+      "url": "https://brasovstiri.ro/rasnovul-va-avea-legatura-directa-cu-poiana-brasov-linia-132-ar-putea-porni-in-decembrie/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-04T09:03:51+03:00"
+    },
     {
       "title": "România, pe podium la FIS Cup Râșnov. Daniel Andrei Cacina a cucerit locul al doilea",
       "url": "https://brasovstiri.ro/romania-pe-podium-la-fis-cup-rasnov-daniel-andrei-cacina-a-cucerit-locul-al-doilea/",
@@ -179,13 +214,6 @@
       "published": "2026-10-03T12:36:21+03:00"
     },
     {
-      "title": "Două cutremure, la aproximativ 70 de kilometri de Brașov, noaptea trecută",
-      "url": "https://bizbrasov.ro/2026/10/03/cutremure-kilometri-brasov-noaptea/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-03T11:46:57+03:00"
-    },
-    {
       "title": "Un bărbat de 66 de ani a murit în Munții Făgăraș. după ce a alunecat și căzut aproximativ 200 de metri",
       "url": "https://bizbrasov.ro/2026/10/03/barbat-murit-cazut-muntii-fagaras/",
       "source": "BizBrașov",
@@ -261,13 +289,6 @@
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-03T08:04:39+03:00"
-    },
-    {
-      "title": "Tragedie în Munții Făgăraș: turist mort după o cădere de 200 de metri. Elicopterul SMURD Brașov, chemat în sprijin",
-      "url": "https://mytex.ro/112/tragedie-in-muntii-fagaras-turist-mort-dupa-o-cadere-de-200-de-metri-elicopterul-smurd-brasov-chemat-in-sprijin/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-02T21:36:38+03:00"
     }
   ]
 }
