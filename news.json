@@ -1,8 +1,15 @@
 {
-  "updated": "04.10.2026, 23:01",
+  "updated": "05.10.2026, 00:00",
   "count": 47,
-  "raw_count": 58,
+  "raw_count": 56,
   "items": [
+    {
+      "title": "Incendiu Mortal la Spitalul din Brașov: Reacția Colegiului Medicilor",
+      "url": "https://www.zmbv.ro/incendiu-mortal-la-spitalul-din-brasov-reactia-colegiului-medicilor/04/10/2026/119123/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-04T23:15:21+03:00"
+    },
     {
       "title": "Un bărbat a căzut 40 de metri în Munții Făgăraș, în zona „La trei pași de moarte”",
       "url": "https://www.monitorulexpres.ro/2026/10/04/un-barbat-a-cazut-40-de-metri-in-muntii-fagaras-in-zona-la-trei-pasi-de-moarte/",
@@ -16,6 +23,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-04T19:57:11+03:00"
+    },
+    {
+      "title": "Colegiul Medicilor, reacție după incendiul de la Spitalul de Pneumo din Brașov: „Sistemul medical poartă răni adânci”",
+      "url": "https://newsbv.ro/colegiul-medicilor-spital-pneumo/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-04T19:47:46+03:00"
     },
     {
       "title": "ISU Brașov: Incendiul de la Mârzescu s-a manifestat într-un singur salon, în zona unui pat, unde a fost găsită tânăra decedată",
@@ -212,20 +226,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-04T08:12:00+03:00"
-    },
-    {
-      "title": "Turism acum 13 ore Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
-      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:57:38+03:00"
-    },
-    {
-      "title": "Fapt divers acum 13 ore Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
-      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:43:46+03:00"
     },
     {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
