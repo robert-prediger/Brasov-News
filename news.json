@@ -1,7 +1,7 @@
 {
-  "updated": "04.10.2026, 21:24",
-  "count": 49,
-  "raw_count": 60,
+  "updated": "04.10.2026, 22:00",
+  "count": 51,
+  "raw_count": 63,
   "items": [
     {
       "title": "Un bărbat a căzut 40 de metri în Munții Făgăraș, în zona „La trei pași de moarte”",
@@ -16,6 +16,20 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-04T19:57:11+03:00"
+    },
+    {
+      "title": "Colegiul Medicilor, reacție după incendiul de la Spitalul de Pneumo din Brașov: „Sistemul medical poartă răni adânci”",
+      "url": "https://newsbv.ro/colegiul-medicilor-spital-pneumo/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-04T19:47:46+03:00"
+    },
+    {
+      "title": "Victorie uriașă pentru Corona Brașov în Europa! 32-25 cu Steaua Roșie Belgrad și avantaj important înaintea returului",
+      "url": "https://newsbv.ro/csm-corona-brasov-victorie-steaua-rosie-belgrad/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-04T19:37:24+03:00"
     },
     {
       "title": "ISU Brașov: Incendiul de la Mârzescu s-a manifestat într-un singur salon, în zona unui pat, unde a fost găsită tânăra decedată",
@@ -51,6 +65,27 @@
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-04T15:50:05+03:00"
+    },
+    {
+      "title": "Nu sunt jucării! Lecția primită de copiii din Brașov de Ziua Mondială a Animalelor: ce responsabilități vin odată cu un animal de companie",
+      "url": "https://newsbv.ro/ziua-mondiala-animale-copii-zoo-politia/",
+      "source": "NewsBV",
+      "category": "💰 Business & economie",
+      "published": "2026-10-04T15:25:36+03:00"
+    },
+    {
+      "title": "Doar un control de rutină… până când etilotestul a arătat 0,90! Ce au descoperit polițiștii în Cincu",
+      "url": "https://newsbv.ro/control-rutina-etilotest-090-politisti-cincu/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T15:05:45+03:00"
+    },
+    {
+      "title": "Povestea lui Mel, cățelușa ajunsă de două ori pe masa de sterilizare. Apelul Adăpostului Public Brașov către iubitorii de animale",
+      "url": "https://newsbv.ro/catelusa-sterilizata-de-doua-ori/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T14:53:01+03:00"
     },
     {
       "title": "VIDEO Brașovul își face loc pe harta sporturilor urbane. Skateparkul de la Fartec atrage deja pasionați din alte orașe ale țării",
@@ -116,6 +151,13 @@
       "published": "2026-10-04T12:14:07+03:00"
     },
     {
+      "title": "Sfântul Dumitru Stăniloae, teologul născut în Brașov, este prăznuit astăzi. Povestea unuia dintre cei mai mari teologi români",
+      "url": "https://newsbv.ro/sfantul-dumitru-staniloae-brasov-vladeni-4-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T11:40:06+03:00"
+    },
+    {
       "title": "Două cutremure duminică dimineață în Vrancea. Cel mai puternic, la 68 de kilometri de Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/04/doua-cutremure-duminica-dimineata-in-vrancea-cel-mai-puternic-la-68-de-kilometri-de-brasov/",
       "source": "Monitorul Expres",
@@ -172,6 +214,13 @@
       "published": "2026-10-04T09:38:03+03:00"
     },
     {
+      "title": "Cutremur în Vrancea, resimțit în zona Brașovului. Seism de 3,1 în această dimineață",
+      "url": "https://newsbv.ro/cutremur-vrancea-68-km-brasov-4-octombrie-2026/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T09:16:43+03:00"
+    },
+    {
       "title": "CSM Constanța s-a impus la Ghimbav, scor 34–27, în etapa a IV-a a Ligii Zimbrilor",
       "url": "https://brasovstiri.ro/csm-constanta-s-a-impus-la-ghimbav-scor-34-27-in-etapa-a-iv-a-a-ligii-zimbrilor/",
       "source": "Brașov Știri",
@@ -212,20 +261,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-04T08:12:00+03:00"
-    },
-    {
-      "title": "Turism acum 13 ore Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
-      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:57:38+03:00"
-    },
-    {
-      "title": "Fapt divers acum 13 ore Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
-      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:43:46+03:00"
     },
     {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
@@ -319,32 +354,11 @@
       "published": "2026-10-03T14:18:04+03:00"
     },
     {
-      "title": "BRAȘOV | Mel, cățelușa „deschisă” de două ori pentru sterilizare. Cum s-a ajuns în această situație…",
-      "url": "https://mytex.ro/expres/brasov-mel-catelusa-deschisa-de-doua-ori-pentru-sterilizare-cum-s-a-ajuns-in-aceasta-situatie/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-03T13:29:44+03:00"
-    },
-    {
       "title": "Târgul din Făgăraș, tot mai animat! Ce găsesc făgărășenii la cea...",
       "url": "https://transilvania365.ro/targul-din-fagaras-tot-mai-animat-ce-gasesc-fagarasenii-la-cea-de-a-treia-editie/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-03T12:47:26+03:00"
-    },
-    {
-      "title": "Administrație acum o zi VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
-      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-03T10:17:26+03:00"
-    },
-    {
-      "title": "Teste pentru introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
-      "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:32:49+03:00"
     }
   ]
 }
