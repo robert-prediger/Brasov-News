@@ -1,7 +1,7 @@
 {
-  "updated": "04.10.2026, 07:00",
-  "count": 37,
-  "raw_count": 48,
+  "updated": "04.10.2026, 08:00",
+  "count": 36,
+  "raw_count": 44,
   "items": [
     {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
@@ -172,18 +172,18 @@
       "published": "2026-10-03T11:27:16+03:00"
     },
     {
-      "title": "VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
-      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-03T10:17:26+03:00"
-    },
-    {
       "title": "Teste pentru introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
       "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-03T09:32:49+03:00"
+    },
+    {
+      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
+      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-03T09:16:37+03:00"
     },
     {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
@@ -254,13 +254,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-02T20:38:54+03:00"
-    },
-    {
-      "title": "FOTBAL / CSM Corona Brașov, victorie cu Kids Tâmpa și lider neînvins în Liga 3",
-      "url": "https://newsbv.ro/csm-corona-brasov-kids/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-02T19:35:30+03:00"
     }
   ]
 }
