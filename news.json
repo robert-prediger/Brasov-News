@@ -1,8 +1,15 @@
 {
-  "updated": "04.10.2026, 06:00",
-  "count": 39,
-  "raw_count": 51,
+  "updated": "04.10.2026, 07:00",
+  "count": 37,
+  "raw_count": 48,
   "items": [
+    {
+      "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
+      "url": "https://mytex.ro/sport/liga-3-pentru-liderul-corona-urmeaza-meciul-de-foc-cu-inter-sibiu-cum-stau-celelalte-echipe-din-judetul-brasov-in-clasament/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-04T06:47:26+03:00"
+    },
     {
       "title": "Șofer din Brașov oferă transport gratuit la spital",
       "url": "https://www.zmbv.ro/sofer-din-brasov-ofera-transport-gratuit-la-spital/04/10/2026/119083/",
@@ -179,13 +186,6 @@
       "published": "2026-10-03T09:32:49+03:00"
     },
     {
-      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
-      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:16:37+03:00"
-    },
-    {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
       "url": "https://www.monitorulexpres.ro/2026/10/03/vremea-se-incalzeste-la-brasov-sambata-sunt-prognozate-20-de-grade-si-cer-insorit-dupa-o-dimineata-racoroasa/",
       "source": "Monitorul Expres",
@@ -261,20 +261,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-02T19:35:30+03:00"
-    },
-    {
-      "title": "S-a dat startul festivalului care aduce 29 de județe la Zărnești. Fuego cântă în prima seară",
-      "url": "https://brasovstiri.ro/s-a-dat-startul-festivalului-care-aduce-29-de-judete-la-zarnesti-fuego-canta-in-prima-seara/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-02T18:49:09+03:00"
-    },
-    {
-      "title": "Zoo Brașov sărbătorește Ziua Mondială a Animalelor pe 4 octombrie. Programul activităților",
-      "url": "https://newsbv.ro/zoo-brasov-ziua-mondiala-animale/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-02T18:28:44+03:00"
     }
   ]
 }
