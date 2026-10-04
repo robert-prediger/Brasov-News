@@ -1,8 +1,36 @@
 {
-  "updated": "04.10.2026, 08:00",
-  "count": 36,
-  "raw_count": 44,
+  "updated": "04.10.2026, 09:00",
+  "count": 38,
+  "raw_count": 46,
   "items": [
+    {
+      "title": "România, pe podium la FIS Cup Râșnov. Daniel Andrei Cacina a cucerit locul al doilea",
+      "url": "https://brasovstiri.ro/romania-pe-podium-la-fis-cup-rasnov-daniel-andrei-cacina-a-cucerit-locul-al-doilea/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-04T08:55:56+03:00"
+    },
+    {
+      "title": "Benzina s-a scumpit din nou. Cât costă carburanții în Brașov",
+      "url": "https://brasovstiri.ro/benzina-s-a-scumpit-din-nou-cat-costa-carburantii-in-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-04T08:44:07+03:00"
+    },
+    {
+      "title": "Wizz Air lansează zboruri din Brașov spre Spania",
+      "url": "https://www.zmbv.ro/wizz-air-lanseaza-zboruri-din-brasov-spre-spania/04/10/2026/119085/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-04T08:14:36+03:00"
+    },
+    {
+      "title": "Viața la Brașov, mai scumpă decât în majoritatea orașelor din țară: Peste 11.000 de lei lunar, costul minim pentru o familie cu doi copii",
+      "url": "https://mytex.ro/economic/viata-la-brasov-mai-scumpa-decat-in-majoritatea-oraselor-din-tara-peste-11-000-de-lei-lunar-costul-minim-pentru-o-familie-cu-doi-copii/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-04T08:12:00+03:00"
+    },
     {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
       "url": "https://mytex.ro/sport/liga-3-pentru-liderul-corona-urmeaza-meciul-de-foc-cu-inter-sibiu-cum-stau-celelalte-echipe-din-judetul-brasov-in-clasament/",
@@ -179,13 +207,6 @@
       "published": "2026-10-03T09:32:49+03:00"
     },
     {
-      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
-      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:16:37+03:00"
-    },
-    {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
       "url": "https://www.monitorulexpres.ro/2026/10/03/vremea-se-incalzeste-la-brasov-sambata-sunt-prognozate-20-de-grade-si-cer-insorit-dupa-o-dimineata-racoroasa/",
       "source": "Monitorul Expres",
@@ -247,13 +268,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-02T21:36:38+03:00"
-    },
-    {
-      "title": "Tânăr de 22 de ani prins, la Brașov, cu 6 kilograme...",
-      "url": "https://transilvania365.ro/tanar-de-22-de-ani-prins-la-brasov-cu-6-kilograme-de-canabis-pregatite-pentru-vanzare/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-02T20:38:54+03:00"
     }
   ]
 }
