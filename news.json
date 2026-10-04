@@ -1,14 +1,14 @@
 {
-  "updated": "04.10.2026, 02:07",
-  "count": 47,
-  "raw_count": 67,
+  "updated": "04.10.2026, 03:00",
+  "count": 43,
+  "raw_count": 55,
   "items": [
     {
-      "title": "Record de pasageri și premieră la Aeroportul Brașov",
-      "url": "https://www.zmbv.ro/record-de-pasageri-si-premiera-la-aeroportul-brasov/03/10/2026/119071/",
+      "title": "Șofer din Brașov oferă transport gratuit la spital",
+      "url": "https://www.zmbv.ro/sofer-din-brasov-ofera-transport-gratuit-la-spital/04/10/2026/119083/",
       "source": "Ziarul Metropolitan Brașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T22:15:56+03:00"
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-04T02:14:48+03:00"
     },
     {
       "title": "BRAȘOV | Peste 330 de amenzi rutiere, într-o singură zi. Aproape 80% pentru viteză",
@@ -116,13 +116,6 @@
       "published": "2026-10-03T14:18:04+03:00"
     },
     {
-      "title": "Conflict între șofer de ridesharing și client în Brașov",
-      "url": "https://www.zmbv.ro/conflict-intre-sofer-de-ridesharing-si-client-in-brasov/03/10/2026/119051/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-03T14:14:59+03:00"
-    },
-    {
       "title": "Liga 4 Brașov, etapa 6 I Kerekes a decis derbiul Teutonii Ghimbav – Internațional Brașov. Măgura Codlea, scorul rundei",
       "url": "https://www.monitorulexpres.ro/2026/10/03/liga-4-brasov-etapa-6-i-kerekes-a-decis-derbiul-teutonii-ghimbav-international-brasov-magura-codlea-scorul-rundei/",
       "source": "Monitorul Expres",
@@ -172,25 +165,11 @@
       "published": "2026-10-03T11:27:16+03:00"
     },
     {
-      "title": "VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
-      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-03T10:17:26+03:00"
-    },
-    {
       "title": "Teste pentru introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
       "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-03T09:32:49+03:00"
-    },
-    {
-      "title": "Vara lui 2026 la Aeroportul Internațional Braşov: Peste 300.000 de pasageri și prima aterizare a unui Boeing 747",
-      "url": "https://newsbv.ro/vara-lui-2026-la-aeroportul-international-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T09:16:37+03:00"
     },
     {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
@@ -312,25 +291,18 @@
       "published": "2026-10-02T15:35:34+03:00"
     },
     {
+      "title": "Vara recordurilor la Aeroportul Brașov: 300.000 de pasageri, Boeing 747 și bază Wizz Air din decembrie",
+      "url": "https://mytex.ro/expres/vara-recordurilor-la-aeroportul-brasov-300-000-de-pasageri-boeing-747-si-baza-wizz-air-din-decembrie/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-02T15:28:16+03:00"
+    },
+    {
       "title": "BRAȘOV | Biciclist rănit la Rotbav după ce a lovit un cap de pod. Avea 0,91 mg/l alcool în aerul expirat",
       "url": "https://mytex.ro/112/brasov-biciclist-ranit-la-rotbav-dupa-ce-a-lovit-un-cap-de-pod-avea-091-mg-l-alcool-in-aerul-expirat/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-02T15:08:07+03:00"
-    },
-    {
-      "title": "Primăria Brașov anunță 4 sensuri giratorii noi în oraș",
-      "url": "https://mytex.ro/expres/primaria-brasov-anunta-4-sensuri-giratorii-noi-in-oras/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-02T14:26:52+03:00"
-    },
-    {
-      "title": "Muzica prinde viață la Brașov: Universitatea Transilvania dă startul celei de-a XII-a Stagiuni de concerte cu acces liber",
-      "url": "https://bizbrasov.ro/2026/10/02/brasov-muzica-prinde-viata-universitatea/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-02T14:09:31+03:00"
     }
   ]
 }
