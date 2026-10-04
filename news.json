@@ -1,14 +1,56 @@
 {
-  "updated": "04.10.2026, 10:00",
-  "count": 41,
-  "raw_count": 51,
+  "updated": "04.10.2026, 11:00",
+  "count": 50,
+  "raw_count": 62,
   "items": [
     {
-      "title": "Două cutremure în 20 de minute, în această dimineață, la zeci de kilometri de Brașov",
-      "url": "https://mytex.ro/expres/doua-cutremure-in-20-de-minute-in-aceasta-dimineata-la-zeci-de-kilometri-de-brasov/",
+      "title": "Două cutremure duminică dimineață în Vrancea. Cel mai puternic, la 68 de kilometri de Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/04/doua-cutremure-duminica-dimineata-in-vrancea-cel-mai-puternic-la-68-de-kilometri-de-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-04T10:30:13+03:00"
+    },
+    {
+      "title": "Dimineață „de iarnă” la Brașov. Au fost înregistrate – 2 grade Celsius, iar la Făgăraș a fost și mai rece/ Cum este anunță vremea pentru perioada următoare",
+      "url": "https://bizbrasov.ro/2026/10/04/dimineata-iarna-brasov-fagaras-rece/",
+      "source": "BizBrașov",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-04T10:29:53+03:00"
+    },
+    {
+      "title": "Apel pentru Tudor, fiul unei polițiste din Brașov. Mai sunt necesari 14.000 de euro pentru o nouă intervenție",
+      "url": "https://transilvania365.ro/apel-pentru-tudor-fiul-unei-politiste-din-brasov-mai-sunt-necesari-14-000-de-euro-pentru-o-noua-interventie/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-04T10:21:14+03:00"
+    },
+    {
+      "title": "Poliția Brașov sancționează vitezomanii: 250 de amenzi",
+      "url": "https://www.zmbv.ro/politia-brasov-sanctioneaza-vitezomanii-250-de-amenzi/04/10/2026/119087/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-04T10:14:11+03:00"
+    },
+    {
+      "title": "Baschet | Corona Brașov, înfrângere cu SCM U Craiova",
+      "url": "https://www.monitorulexpres.ro/2026/10/04/baschet-corona-brasov-infrangere-cu-scm-u-craiova/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-04T10:12:13+03:00"
+    },
+    {
+      "title": "Valencia, Barcelona și Madrid, mai aproape de Brașov. Când încep zborurile directe",
+      "url": "https://transilvania365.ro/valencia-barcelona-si-madrid-mai-aproape-de-brasov-cand-incep-zborurile-directe/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-04T10:09:16+03:00"
+    },
+    {
+      "title": "Protest de tip „grevă japoneză” pe scena Operei Brașov. Artiștii acuză managerul interimar de abuzuri, teroare și degradarea actului artistic",
+      "url": "https://mytex.ro/expres/protest-de-tip-greva-japoneza-pe-scena-operei-brasov-artistii-acuza-managerul-interimar-de-abuzuri-teroare-si-degradarea-actului-artistic/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-04T09:41:07+03:00"
+      "published": "2026-10-04T10:04:05+03:00"
     },
     {
       "title": "Ghebele, „aurul pădurii”, la mare căutare printre brașoveni: De unde le luăm și ce pericol mortal ascund ciupercile de la marginea drumului",
@@ -67,6 +109,27 @@
       "published": "2026-10-04T08:12:00+03:00"
     },
     {
+      "title": "Salvamont Râșnov, la datorie pentru siguranța celor 600 de participanți la OMU Marathon",
+      "url": "https://www.brasov.net/salvamont-rasnov-la-datorie-pentru-siguranta-celor-600-de-participanti-la-omu-marathon/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-04T08:08:39+03:00"
+    },
+    {
+      "title": "Turism acum 41 de minute Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
+      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-04T07:57:38+03:00"
+    },
+    {
+      "title": "Fapt divers acum 55 de minute Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
+      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-04T07:43:46+03:00"
+    },
+    {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
       "url": "https://mytex.ro/sport/liga-3-pentru-liderul-corona-urmeaza-meciul-de-foc-cu-inter-sibiu-cum-stau-celelalte-echipe-din-judetul-brasov-in-clasament/",
       "source": "MyTex",
@@ -95,14 +158,7 @@
       "published": "2026-10-03T20:14:45+03:00"
     },
     {
-      "title": "Program Special la Zoo Brașov de Ziua Animalelor",
-      "url": "https://www.zmbv.ro/program-special-la-zoo-brasov-de-ziua-animalelor/03/10/2026/119058/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-03T20:14:33+03:00"
-    },
-    {
-      "title": "Lucian Petrean, managerul Operei Brașov, răspunde protestatarilor: „Acuzațiile privind intimidările și amenințările nu sunt susținute de fapte concrete”",
+      "title": "Lucian Petrean, managerul Operei Brașov, răspunde protestatarilor: „Acuzațiile privind intimidările și amenințările nu...",
       "url": "https://transilvania365.ro/lucian-petrean-managerul-operei-brasov-raspunde-protestatarilor-acuzatiile-privind-intimidarile-si-amenintarile-nu-sunt-sustinute-de-fapte-concrete/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -200,7 +256,7 @@
       "published": "2026-10-03T13:29:44+03:00"
     },
     {
-      "title": "Târgul din Făgăraș, tot mai animat! Ce găsesc făgărășenii la cea de-a treia...",
+      "title": "Târgul din Făgăraș, tot mai animat! Ce găsesc făgărășenii la cea...",
       "url": "https://transilvania365.ro/targul-din-fagaras-tot-mai-animat-ce-gasesc-fagarasenii-la-cea-de-a-treia-editie/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -228,11 +284,25 @@
       "published": "2026-10-03T11:27:16+03:00"
     },
     {
+      "title": "Administrație acum 22 de ore VIDEO / Probe de traseu finalizate cu succes pentru linia Râșnov – Poiana Brașov. Când va fi deschisă ruta",
+      "url": "https://www.brasov.net/video-probe-de-traseu-finalizate-cu-succes-pentru-linia-rasnov-poiana-brasov-cand-va-fi-deschisa-ruta/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-03T10:17:26+03:00"
+    },
+    {
       "title": "Teste pentru introducerea unei linii RATBV pe traseul Râșnov – Poiana Brașov. De când va fi operațională",
       "url": "https://bizbrasov.ro/2026/10/03/test-ratbv-linii-rasnov-poiana-brasov/",
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-03T09:32:49+03:00"
+    },
+    {
+      "title": "Eveniment acum 23 de ore Grădina Zoologică Brașov sărbătorește Ziua Mondială a Animalelor cu un program special pentru vizitatori",
+      "url": "https://www.brasov.net/gradina-zoologica-brasov-sarbatoreste-ziua-mondiala-a-animalelor-cu-un-program-special-pentru-vizitatori/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-03T09:20:42+03:00"
     },
     {
       "title": "Vremea se încălzește la Brașov: sâmbătă sunt prognozate 20 de grade și cer însorit după o dimineață răcoroasă",
@@ -268,13 +338,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-03T08:36:57+03:00"
-    },
-    {
-      "title": "Centru de recuperare și asistență pentru vârstnici la Prejmer",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/centru-de-recuperare-si-asistenta-pentru-varstnici-la-prejmer/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-03T08:31:33+03:00"
     },
     {
       "title": "Dimineață de iarnă în plină toamnă: Câte grade s-au înregistrat la Brașov și în regiune",
