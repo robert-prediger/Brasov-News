@@ -28,18 +28,117 @@ let DATA=[]; let ACTIVE_CATEGORY="Toate"; let LAST_UPDATED=null; let SEARCH_QUER
 const E=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function updateDate(){document.getElementById("date").textContent=new Date().toLocaleDateString("ro-RO",{weekday:"long",day:"numeric",month:"long",year:"numeric"})+" • Știrile care contează. Fără zgomot.";}
 
+function normalizeTitle(title){
+ return String(title||"")
+   .toLocaleLowerCase("ro-RO")
+   .normalize("NFD")
+   .replace(/[\u0300-\u036f]/g,"")
+   .replace(/[^a-z0-9\s-]/g," ")
+   .replace(/\s+/g," ")
+   .trim();
+}
+
 function titleWords(title){
- const stop=new Set(["a","ai","ale","al","au","ca","care","ce","cea","cei","cel","cele","cu","cum","de","din","dupa","este","fost","in","la","mai","o","pe","pentru","prin","s","sa","se","si","sunt","un","una","unei","unui","update","brasov"]);
- return [...new Set(String(title||"").toLocaleLowerCase("ro-RO").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\s-]/g," ").split(/\s+/).filter(w=>w.length>=3&&!stop.has(w)))];
+ const stop=new Set([
+   "a","ai","ale","al","au","ca","care","ce","cea","cei","cel","cele",
+   "cu","cum","de","din","dupa","este","fost","in","la","mai","o","pe",
+   "pentru","prin","s","sa","se","si","sunt","un","una","unei","unui",
+   "update","brasov","stire","stiri"
+ ]);
+
+ /* Forme diferite care descriu aceeași idee sunt aduse la un termen comun. */
+ const aliases={
+   "spitalul":"spital","spitalului":"spital",
+   "marzescu":"marzescu",
+   "incendiul":"incendiu",
+   "decedat":"deces","decedata":"deces","decedata":"deces",
+   "murit":"deces","moarta":"deces","moarte":"deces",
+   "femeie":"persoana","tanara":"persoana",
+   "pacienti":"pacient","evacuati":"evacuare","evacuat":"evacuare",
+   "victorie":"castig","victoria":"castig","invins":"castig",
+   "steaua":"steaua","rosie":"rosie",
+   "fagaras":"fagaras","muntii":"munte","muntele":"munte",
+   "cazut":"cadere","cadere":"cadere"
+ };
+
+ return [...new Set(
+   normalizeTitle(title)
+     .split(/\s+/)
+     .filter(w=>w.length>=3 && !stop.has(w))
+     .map(w=>aliases[w]||w)
+ )];
 }
+
+function hasAny(set,words){
+ return words.some(w=>set.has(w));
+}
+
+/*
+  Detectează aceeași POVESTE, nu doar titluri aproape identice.
+  Folosește:
+  1. suprapunerea de cuvinte;
+  2. combinații de ancore pentru evenimente locale;
+  3. nume/locuri distinctive.
+*/
 function sameTopic(a,b){
- const A=titleWords(a),B=titleWords(b); if(!A.length||!B.length)return false;
- const setB=new Set(B), common=A.filter(w=>setB.has(w)), minLen=Math.min(A.length,B.length), overlap=common.length/minLen;
- return common.length>=3||(common.length>=2&&overlap>=0.5);
+ const A=new Set(titleWords(a));
+ const B=new Set(titleWords(b));
+ if(!A.size || !B.size) return false;
+
+ const common=[...A].filter(w=>B.has(w));
+ const smaller=Math.min(A.size,B.size);
+ const union=new Set([...A,...B]).size;
+ const containment=common.length/smaller;
+ const jaccard=common.length/union;
+
+ /* Titluri lexical foarte apropiate. */
+ if(common.length>=4 && containment>=0.45) return true;
+ if(common.length>=3 && jaccard>=0.30) return true;
+
+ /* Incendiul de la Spitalul Mârzescu – formulările pot fi foarte diferite. */
+ const fireA=A.has("incendiu"), fireB=B.has("incendiu");
+ const hospitalA=A.has("spital")||A.has("marzescu");
+ const hospitalB=B.has("spital")||B.has("marzescu");
+ if(fireA && fireB && hospitalA && hospitalB) return true;
+
+ /* Dacă ambele menționează Mârzescu plus un indiciu de incident, sunt același subiect. */
+ if(A.has("marzescu") && B.has("marzescu") &&
+    (hasAny(A,["incendiu","deces","evacuare"]) &&
+     hasAny(B,["incendiu","deces","evacuare"]))) return true;
+
+ /* Același meci Corona – Steaua Roșie. */
+ if(A.has("corona") && B.has("corona") &&
+    A.has("steaua") && B.has("steaua") &&
+    A.has("rosie") && B.has("rosie")) return true;
+
+ /* Același accident/cădere într-un loc distinctiv. */
+ if(A.has("fagaras") && B.has("fagaras") &&
+    hasAny(A,["cadere","accident"]) &&
+    hasAny(B,["cadere","accident"])) return true;
+
+ /* Nume/loc foarte distinctiv + încă două idei comune. */
+ const distinctive=["marzescu","corona","fagaras"];
+ const sharedDistinctive=distinctive.some(w=>A.has(w)&&B.has(w));
+ if(sharedDistinctive && common.length>=3) return true;
+
+ return false;
 }
+
 function getBriefItems(items,limit=5){
  const chosen=[];
- for(const item of items){if(!chosen.some(v=>sameTopic(item.title,v.title)))chosen.push(item);if(chosen.length>=limit)break;}
+
+ /* Caută prin toată lista până găsește 5 evenimente distincte. */
+ for(const item of items){
+   if(!item || !item.title) continue;
+
+   const duplicate=chosen.some(existing=>
+     sameTopic(item.title,existing.title)
+   );
+
+   if(!duplicate) chosen.push(item);
+   if(chosen.length>=limit) break;
+ }
+
  return chosen;
 }
 
