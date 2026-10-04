@@ -1,8 +1,15 @@
 {
-  "updated": "04.10.2026, 11:00",
-  "count": 50,
-  "raw_count": 62,
+  "updated": "04.10.2026, 11:50",
+  "count": 49,
+  "raw_count": 61,
   "items": [
+    {
+      "title": "Cutremur de 3,1 în Vrancea, resimțit la Brașov",
+      "url": "https://www.zmbv.ro/cutremur-de-31-in-vrancea-resimtit-la-brasov/04/10/2026/119094/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-04T11:14:44+03:00"
+    },
     {
       "title": "Două cutremure duminică dimineață în Vrancea. Cel mai puternic, la 68 de kilometri de Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/04/doua-cutremure-duminica-dimineata-in-vrancea-cel-mai-puternic-la-68-de-kilometri-de-brasov/",
@@ -317,20 +324,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-03T09:05:34+03:00"
-    },
-    {
-      "title": "Cutremur de magnitudine 3,5, la 68 de kilometri de Brașov, sâmbătă dimineață",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/cutremur-de-magnitudine-35-la-68-de-kilometri-de-brasov-sambata-dimineata/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-03T09:00:59+03:00"
-    },
-    {
-      "title": "Bărbat de 31 de ani, accidentat mortal de un tren de marfă pe ruta Simeria – Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/barbat-de-31-de-ani-accidentat-mortal-de-un-tren-de-marfa-pe-ruta-simeria-brasov/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-03T08:52:34+03:00"
     },
     {
       "title": "VICTORIE DE LIDER! Corona Brașov a câştigat la Târgu Secuiesc și e pe primul loc în Erste Liga",
