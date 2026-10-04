@@ -1,7 +1,7 @@
 {
-  "updated": "05.10.2026, 01:00",
-  "count": 49,
-  "raw_count": 59,
+  "updated": "05.10.2026, 02:00",
+  "count": 51,
+  "raw_count": 60,
   "items": [
     {
       "title": "Incendiu Mortal la Spitalul din Brașov: Reacția Colegiului Medicilor",
@@ -81,6 +81,20 @@
       "published": "2026-10-04T15:25:36+03:00"
     },
     {
+      "title": "Doar un control de rutină… până când etilotestul a arătat 0,90! Ce au descoperit polițiștii în Cincu",
+      "url": "https://newsbv.ro/control-rutina-etilotest-090-politisti-cincu/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T15:05:45+03:00"
+    },
+    {
+      "title": "Povestea lui Mel, cățelușa ajunsă de două ori pe masa de sterilizare. Apelul Adăpostului Public Brașov către iubitorii de animale",
+      "url": "https://newsbv.ro/catelusa-sterilizata-de-doua-ori/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T14:53:01+03:00"
+    },
+    {
       "title": "VIDEO Brașovul își face loc pe harta sporturilor urbane. Skateparkul de la Fartec atrage deja pasionați din alte orașe ale țării",
       "url": "https://bizbrasov.ro/2026/10/04/brasov-sporturi-urbane-skatepark-fartec/",
       "source": "BizBrașov",
@@ -142,6 +156,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-04T12:14:07+03:00"
+    },
+    {
+      "title": "Sfântul Dumitru Stăniloae, teologul născut în Brașov, este prăznuit astăzi. Povestea unuia dintre cei mai mari teologi români",
+      "url": "https://newsbv.ro/sfantul-dumitru-staniloae-brasov-vladeni-4-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-04T11:40:06+03:00"
     },
     {
       "title": "Două cutremure duminică dimineață în Vrancea. Cel mai puternic, la 68 de kilometri de Brașov",
@@ -338,13 +359,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-03T14:18:04+03:00"
-    },
-    {
-      "title": "BRAȘOV | Mel, cățelușa „deschisă” de două ori pentru sterilizare. Cum s-a ajuns în această situație…",
-      "url": "https://mytex.ro/expres/brasov-mel-catelusa-deschisa-de-doua-ori-pentru-sterilizare-cum-s-a-ajuns-in-aceasta-situatie/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-03T13:29:44+03:00"
     }
   ]
 }
