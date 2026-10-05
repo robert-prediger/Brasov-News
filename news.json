@@ -1,8 +1,15 @@
 {
-  "updated": "05.10.2026, 07:00",
-  "count": 52,
-  "raw_count": 61,
+  "updated": "05.10.2026, 08:00",
+  "count": 39,
+  "raw_count": 45,
   "items": [
+    {
+      "title": "Corona Brașov, o nouă victorie! Brașovenii au învins Gheorgheni cu 3-1 și continuă seria rezultatelor bune",
+      "url": "https://newsbv.ro/corona-brasov-victorie-gheorgheni-3-1/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-05T07:35:17+03:00"
+    },
     {
       "title": "Un bărbat a căzut 40 de metri în Munții Făgăraș. Victima, extrasă cu ajutorul elicopterului SMURD Braşov (VIDEO)",
       "url": "https://newsbv.ro/un-barbat-cazut-40-metri-muntii-fagaras/",
@@ -16,13 +23,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-05T06:38:44+03:00"
-    },
-    {
-      "title": "RMN Diagnostica Brașov – servicii medicale integrate, aproape de pacienți",
-      "url": "https://newsbv.ro/rmn-diagnostica-brasov-servicii-medicale-integrate/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T06:21:18+03:00"
     },
     {
       "title": "Gospodărie săsească veche de 175 de ani din județul Brașov, salvată cu 1,5 milioane de lei. Ar urma să fie transformată în unitate turistică",
@@ -46,27 +46,6 @@
       "published": "2026-10-05T05:33:00+03:00"
     },
     {
-      "title": "Incendiu Fatal la Spitalul Mârzescu din Brașov",
-      "url": "https://www.zmbv.ro/incendiu-fatal-la-spitalul-marzescu-din-brasov/05/10/2026/119133/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-05T05:14:06+03:00"
-    },
-    {
-      "title": "Bărbat Salvat din Râpă în Munții Făgăraș",
-      "url": "https://www.zmbv.ro/barbat-salvat-din-rapa-in-muntii-fagaras/05/10/2026/119131/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-05T03:15:34+03:00"
-    },
-    {
-      "title": "Incendiu Mortal la Spitalul din Brașov: Reacția Colegiului Medicilor",
-      "url": "https://www.zmbv.ro/incendiu-mortal-la-spitalul-din-brasov-reactia-colegiului-medicilor/04/10/2026/119123/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-04T23:15:21+03:00"
-    },
-    {
       "title": "Handbal feminin | Corona Brașov, victorie clară cu Steaua Roșie Belgrad în EHF European League",
       "url": "https://www.monitorulexpres.ro/2026/10/04/handbal-feminin-corona-brasov-victorie-clara-cu-steaua-rosie-belgrad-in-ehf-european-league/",
       "source": "Monitorul Expres",
@@ -81,13 +60,6 @@
       "published": "2026-10-04T19:47:46+03:00"
     },
     {
-      "title": "Victorie uriașă pentru Corona Brașov în Europa! 32-25 cu Steaua Roșie Belgrad și avantaj important înaintea returului",
-      "url": "https://newsbv.ro/csm-corona-brasov-victorie-steaua-rosie-belgrad/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-04T19:37:24+03:00"
-    },
-    {
       "title": "ISU Brașov: Incendiul de la Mârzescu s-a manifestat într-un singur salon, în zona unui pat, unde a fost găsită tânăra decedată",
       "url": "https://bizbrasov.ro/2026/10/04/isu-brasov-incendiu-marzescu-pat-tanara/",
       "source": "BizBrașov",
@@ -100,6 +72,13 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-04T17:56:49+03:00"
+    },
+    {
+      "title": "Incendiu la Spitalul Mârzescu din Brașov. O persoană a decedat",
+      "url": "https://transilvania365.ro/incendiu-la-spitalul-marzescu-o-persoana-a-decedat/",
+      "source": "Transilvania365",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-04T17:46:13+03:00"
     },
     {
       "title": "Testele de limba română pentru muncitorii străini: Soluție necesară sau un nou blocaj pentru economia Brașovului?",
@@ -130,11 +109,11 @@
       "published": "2026-10-04T15:05:45+03:00"
     },
     {
-      "title": "Povestea lui Mel, cățelușa ajunsă de două ori pe masa de sterilizare. Apelul Adăpostului Public Brașov către iubitorii de animale",
-      "url": "https://newsbv.ro/catelusa-sterilizata-de-doua-ori/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-04T14:53:01+03:00"
+      "title": "Bărbat căzut în râpă în Munții Făgăraș, în zona „La trei pași de moarte”. A fost solicitată și intervenția elicopterului SMURD de la Brașov",
+      "url": "https://bizbrasov.ro/2026/10/04/barbat-cazut-munti-fagaras-smurd-brasov/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-04T14:48:10+03:00"
     },
     {
       "title": "VIDEO Brașovul își face loc pe harta sporturilor urbane. Skateparkul de la Fartec atrage deja pasionați din alte orașe ale țării",
@@ -186,13 +165,6 @@
       "published": "2026-10-04T12:16:54+03:00"
     },
     {
-      "title": "Salvamont Râșnov Asigură Siguranța la OMU Marathon",
-      "url": "https://www.zmbv.ro/salvamont-rasnov-asigura-siguranta-la-omu-marathon/04/10/2026/119096/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-04T12:14:07+03:00"
-    },
-    {
       "title": "Sfântul Dumitru Stăniloae, teologul născut în Brașov, este prăznuit astăzi. Povestea unuia dintre cei mai mari teologi români",
       "url": "https://newsbv.ro/sfantul-dumitru-staniloae-brasov-vladeni-4-octombrie/",
       "source": "NewsBV",
@@ -221,13 +193,6 @@
       "published": "2026-10-04T10:21:14+03:00"
     },
     {
-      "title": "Poliția Brașov sancționează vitezomanii: 250 de amenzi",
-      "url": "https://www.zmbv.ro/politia-brasov-sanctioneaza-vitezomanii-250-de-amenzi/04/10/2026/119087/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-04T10:14:11+03:00"
-    },
-    {
       "title": "Baschet | Corona Brașov, înfrângere cu SCM U Craiova",
       "url": "https://www.monitorulexpres.ro/2026/10/04/baschet-corona-brasov-infrangere-cu-scm-u-craiova/",
       "source": "Monitorul Expres",
@@ -254,13 +219,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-04T09:38:03+03:00"
-    },
-    {
-      "title": "Cutremur în Vrancea, resimțit în zona Brașovului. Seism de 3,1 în această dimineață",
-      "url": "https://newsbv.ro/cutremur-vrancea-68-km-brasov-4-octombrie-2026/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-04T09:16:43+03:00"
     },
     {
       "title": "CSM Constanța s-a impus la Ghimbav, scor 34–27, în etapa a IV-a a Ligii Zimbrilor",
@@ -305,20 +263,6 @@
       "published": "2026-10-04T08:12:00+03:00"
     },
     {
-      "title": "Turism acum 13 ore Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
-      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:57:38+03:00"
-    },
-    {
-      "title": "Fapt divers acum 13 ore Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
-      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:43:46+03:00"
-    },
-    {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
       "url": "https://mytex.ro/sport/liga-3-pentru-liderul-corona-urmeaza-meciul-de-foc-cu-inter-sibiu-cum-stau-celelalte-echipe-din-judetul-brasov-in-clasament/",
       "source": "MyTex",
@@ -331,41 +275,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-03T20:28:02+03:00"
-    },
-    {
-      "title": "Lucian Petrean, managerul Operei Brașov, răspunde protestatarilor: „Acuzațiile privind intimidările și...",
-      "url": "https://transilvania365.ro/lucian-petrean-managerul-operei-brasov-raspunde-protestatarilor-acuzatiile-privind-intimidarile-si-amenintarile-nu-sunt-sustinute-de-fapte-concrete/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-03T19:45:21+03:00"
-    },
-    {
-      "title": "Doi bărbați din Ormeniș și Cața, încarcerați la Codlea. Unul este condamnat pentru trafic de persoane și muncă forțată",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/doi-barbati-din-ormenis-si-cata-incarcerati-la-codlea-unul-este-condamnat-pentru-trafic-de-persoane-si-munca-fortata/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-03T19:18:40+03:00"
-    },
-    {
-      "title": "Accident la Sânpetru, cu două pasagere rănite. Un tânăr fără permis, reținut după ce ar fi plecat de la locul coliziunii",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/accident-la-sanpetru-cu-doua-pasagere-ranite-un-tanar-fara-permis-retinut-dupa-ce-ar-fi-plecat-de-la-locul-coliziunii/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-03T19:12:44+03:00"
-    },
-    {
-      "title": "Etapa 7 Liga 3 | CSM Săcele, în cădere liberă! Săcelenii au ajuns la cinci eșecuri consecutive",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/etapa-7-liga-3-csm-sacele-in-cadere-libera-sacelenii-au-ajuns-la-cinci-esecuri-consecutive/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-03T19:09:03+03:00"
-    },
-    {
-      "title": "Adolescent rănit într-un accident cu bicicleta pe strada 13 Decembrie din Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/03/adolescent-ranit-intr-un-accident-cu-bicicleta-pe-strada-13-decembrie-din-brasov/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-03T19:03:09+03:00"
     }
   ]
 }
