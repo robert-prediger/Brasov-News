@@ -1,8 +1,92 @@
 {
-  "updated": "05.10.2026, 08:00",
-  "count": 39,
-  "raw_count": 45,
+  "updated": "05.10.2026, 09:00",
+  "count": 54,
+  "raw_count": 63,
   "items": [
+    {
+      "title": "Reacția managerului interimar al Operei Brașov la protestul angajaților",
+      "url": "https://www.monitorulexpres.ro/2026/10/05/reactia-managerului-interimar-al-operei-brasov-la-protestul-angajatilor/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-05T09:00:57+03:00"
+    },
+    {
+      "title": "Un nou cutremur, în această dimineață, la 73 km de Brașov. Al patrulea și cel mai puternic…",
+      "url": "https://mytex.ro/expres/un-nou-cutremur-in-aceasta-dimineata-la-73-km-de-brasov-al-patrulea-si-cel-mai-puternic/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:55:04+03:00"
+    },
+    {
+      "title": "Campanie de colectare a deșeurilor electrice la Brașov. Preluare gratuită de la domiciliu și tombolă cu premii",
+      "url": "https://www.monitorulexpres.ro/2026/10/05/campanie-de-colectare-a-deseurilor-electrice-la-brasov-preluare-gratuita-de-la-domiciliu-si-tombola-cu-premii/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:51:56+03:00"
+    },
+    {
+      "title": "Construcțiile fără autorizație din Hărman pot fi legalizate. Proprietarii au termen până la 25 august 2027",
+      "url": "https://transilvania365.ro/constructiile-fara-autorizatie-din-harman-pot-fi-legalizate-proprietarii-au-termen-pana-la-25-august-2027/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:46:56+03:00"
+    },
+    {
+      "title": "Aeroportul Brașov-Ghimbav: AnimaWings lasă datorii de peste 600.000 lei după intrarea în insolvență / Încă puţină răbdare – Zboruri directe spre Spania cu Wizz Air",
+      "url": "https://mytex.ro/expres/aeroportul-brasov-ghimbav-animawings-lasa-datorii-de-peste-600-000-lei-dupa-intrarea-in-insolventa-inca-putina-rabdare-zboruri-directe-spre-spania-cu-wizz-air/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-05T08:28:11+03:00"
+    },
+    {
+      "title": "Peste 23,6 milioane de lei pentru restaurarea unei Bisericii Evanghelice fortificate din județul Brașov",
+      "url": "https://transilvania365.ro/peste-236-milioane-de-lei-pentru-restaurarea-unei-bisericii-evanghelice-fortificate-din-judetul-brasov/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-05T08:28:08+03:00"
+    },
+    {
+      "title": "Hochei: Corona Brașov a câștigat derbiul cu ACSH Gheorgheni",
+      "url": "https://www.monitorulexpres.ro/2026/10/05/hochei-corona-brasov-a-castigat-derbiul-cu-acsh-gheorgheni/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-05T08:17:44+03:00"
+    },
+    {
+      "title": "Criza personalului din creșele brașovene continuă: îngrijitoarele au început să fie mutate. Copiii,...",
+      "url": "https://transilvania365.ro/criza-personalului-din-cresele-brasovene-continua-ingrijitoarele-mutate-ca-piesele-pe-tabla-de-sah/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:14:44+03:00"
+    },
+    {
+      "title": "Intervenții la rețeaua de apă din Brașov, luni, 5 octombrie. Unde au loc...",
+      "url": "https://transilvania365.ro/interventii-la-reteaua-de-apa-din-brasov-luni-5-octombrie-unde-au-loc-lucrari/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:14:04+03:00"
+    },
+    {
+      "title": "Zimbrii au reapărut pe traseele montane din zona Zărnești. Jandarmii montani...",
+      "url": "https://transilvania365.ro/zimbrii-au-reaparut-pe-traseele-montane-din-zona-zarnesti-jandarmii-montani-i-au-surprins-in-imagini/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:07:50+03:00"
+    },
+    {
+      "title": "RMN Diagnostica Brașov – servicii medicale integrate, aproape de pacienți",
+      "url": "https://transilvania365.ro/rmn-diagnostica-brasov-servicii-medicale-integrate-aproape-de-pacienti/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:04:08+03:00"
+    },
+    {
+      "title": "Reparaţii anunţate de Compania Apa Brașov, în municipiu şi judeţ, astăzi, 5 octombrie 2026",
+      "url": "https://newsbv.ro/reparatii-anuntate-de-compania-apa-brasov-5-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T08:02:12+03:00"
+    },
     {
       "title": "Corona Brașov, o nouă victorie! Brașovenii au învins Gheorgheni cu 3-1 și continuă seria rezultatelor bune",
       "url": "https://newsbv.ro/corona-brasov-victorie-gheorgheni-3-1/",
@@ -46,6 +130,27 @@
       "published": "2026-10-05T05:33:00+03:00"
     },
     {
+      "title": "Incendiu Fatal la Spitalul Mârzescu din Brașov",
+      "url": "https://www.zmbv.ro/incendiu-fatal-la-spitalul-marzescu-din-brasov/05/10/2026/119133/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-05T05:14:06+03:00"
+    },
+    {
+      "title": "Bărbat Salvat din Râpă în Munții Făgăraș",
+      "url": "https://www.zmbv.ro/barbat-salvat-din-rapa-in-muntii-fagaras/05/10/2026/119131/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-05T03:15:34+03:00"
+    },
+    {
+      "title": "Incendiu Mortal la Spitalul din Brașov: Reacția Colegiului Medicilor",
+      "url": "https://www.zmbv.ro/incendiu-mortal-la-spitalul-din-brasov-reactia-colegiului-medicilor/04/10/2026/119123/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-04T23:15:21+03:00"
+    },
+    {
       "title": "Handbal feminin | Corona Brașov, victorie clară cu Steaua Roșie Belgrad în EHF European League",
       "url": "https://www.monitorulexpres.ro/2026/10/04/handbal-feminin-corona-brasov-victorie-clara-cu-steaua-rosie-belgrad-in-ehf-european-league/",
       "source": "Monitorul Expres",
@@ -60,6 +165,13 @@
       "published": "2026-10-04T19:47:46+03:00"
     },
     {
+      "title": "Victorie uriașă pentru Corona Brașov în Europa! 32-25 cu Steaua Roșie Belgrad și avantaj important înaintea returului",
+      "url": "https://newsbv.ro/csm-corona-brasov-victorie-steaua-rosie-belgrad/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-04T19:37:24+03:00"
+    },
+    {
       "title": "ISU Brașov: Incendiul de la Mârzescu s-a manifestat într-un singur salon, în zona unui pat, unde a fost găsită tânăra decedată",
       "url": "https://bizbrasov.ro/2026/10/04/isu-brasov-incendiu-marzescu-pat-tanara/",
       "source": "BizBrașov",
@@ -72,13 +184,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-04T17:56:49+03:00"
-    },
-    {
-      "title": "Incendiu la Spitalul Mârzescu din Brașov. O persoană a decedat",
-      "url": "https://transilvania365.ro/incendiu-la-spitalul-marzescu-o-persoana-a-decedat/",
-      "source": "Transilvania365",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-04T17:46:13+03:00"
     },
     {
       "title": "Testele de limba română pentru muncitorii străini: Soluție necesară sau un nou blocaj pentru economia Brașovului?",
@@ -107,13 +212,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-04T15:05:45+03:00"
-    },
-    {
-      "title": "Bărbat căzut în râpă în Munții Făgăraș, în zona „La trei pași de moarte”. A fost solicitată și intervenția elicopterului SMURD de la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/04/barbat-cazut-munti-fagaras-smurd-brasov/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-04T14:48:10+03:00"
     },
     {
       "title": "VIDEO Brașovul își face loc pe harta sporturilor urbane. Skateparkul de la Fartec atrage deja pasionați din alte orașe ale țării",
@@ -165,6 +263,13 @@
       "published": "2026-10-04T12:16:54+03:00"
     },
     {
+      "title": "Salvamont Râșnov Asigură Siguranța la OMU Marathon",
+      "url": "https://www.zmbv.ro/salvamont-rasnov-asigura-siguranta-la-omu-marathon/04/10/2026/119096/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-04T12:14:07+03:00"
+    },
+    {
       "title": "Sfântul Dumitru Stăniloae, teologul născut în Brașov, este prăznuit astăzi. Povestea unuia dintre cei mai mari teologi români",
       "url": "https://newsbv.ro/sfantul-dumitru-staniloae-brasov-vladeni-4-octombrie/",
       "source": "NewsBV",
@@ -186,11 +291,18 @@
       "published": "2026-10-04T10:29:53+03:00"
     },
     {
-      "title": "Apel pentru Tudor, fiul unei polițiste din Brașov. Mai sunt necesari 14.000 de...",
+      "title": "Apel pentru Tudor, fiul unei polițiste din Brașov. Mai sunt necesari...",
       "url": "https://transilvania365.ro/apel-pentru-tudor-fiul-unei-politiste-din-brasov-mai-sunt-necesari-14-000-de-euro-pentru-o-noua-interventie/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-04T10:21:14+03:00"
+    },
+    {
+      "title": "Poliția Brașov sancționează vitezomanii: 250 de amenzi",
+      "url": "https://www.zmbv.ro/politia-brasov-sanctioneaza-vitezomanii-250-de-amenzi/04/10/2026/119087/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-04T10:14:11+03:00"
     },
     {
       "title": "Baschet | Corona Brașov, înfrângere cu SCM U Craiova",
@@ -200,7 +312,7 @@
       "published": "2026-10-04T10:12:13+03:00"
     },
     {
-      "title": "Valencia, Barcelona și Madrid, mai aproape de Brașov. Când încep zborurile directe",
+      "title": "Valencia, Barcelona și Madrid, mai aproape de Brașov. Când încep zborurile...",
       "url": "https://transilvania365.ro/valencia-barcelona-si-madrid-mai-aproape-de-brasov-cand-incep-zborurile-directe/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -268,13 +380,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-04T06:47:26+03:00"
-    },
-    {
-      "title": "BRAȘOV | Peste 330 de amenzi rutiere, într-o singură zi. Aproape 80% pentru viteză",
-      "url": "https://mytex.ro/expres/brasov-peste-330-de-amenzi-rutiere-intr-o-singura-zi-aproape-80-pentru-viteza/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-03T20:28:02+03:00"
     }
   ]
 }
