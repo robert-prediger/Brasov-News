@@ -1,8 +1,15 @@
 {
-  "updated": "05.10.2026, 10:00",
-  "count": 51,
-  "raw_count": 60,
+  "updated": "05.10.2026, 10:08",
+  "count": 49,
+  "raw_count": 57,
   "items": [
+    {
+      "title": "Un fenomen de amploare după revolta din 1987 de la Brașov. 215 brașoveni au încercat să fugă în Ungaria până la căderea regimului comunist, dar au fost prinși la graniță",
+      "url": "https://bizbrasov.ro/2026/10/05/revolta-brasov-fuga-ungaria-prinsi/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-05T10:07:29+03:00"
+    },
     {
       "title": "Poiana Brașov, pe harta unei licitații de aproape 7 milioane de lei a Federației Române de Judo",
       "url": "https://transilvania365.ro/poiana-brasov-pe-harta-unei-licitatii-de-aproape-7-milioane-de-lei-a-federatiei-romane-de-judo/",
@@ -249,13 +256,6 @@
       "published": "2026-10-04T10:30:13+03:00"
     },
     {
-      "title": "Dimineață „de iarnă” la Brașov. Au fost înregistrate – 2 grade Celsius, iar la Făgăraș a fost și mai rece/ Cum este anunță vremea pentru perioada următoare",
-      "url": "https://bizbrasov.ro/2026/10/04/dimineata-iarna-brasov-fagaras-rece/",
-      "source": "BizBrașov",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-04T10:29:53+03:00"
-    },
-    {
       "title": "Apel pentru Tudor, fiul unei polițiste din Brașov. Mai sunt necesari...",
       "url": "https://transilvania365.ro/apel-pentru-tudor-fiul-unei-politiste-din-brasov-mai-sunt-necesari-14-000-de-euro-pentru-o-noua-interventie/",
       "source": "Transilvania365",
@@ -338,20 +338,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-04T08:12:00+03:00"
-    },
-    {
-      "title": "Turism acum o zi Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
-      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:57:38+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
-      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-04T07:43:46+03:00"
     },
     {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
