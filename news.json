@@ -1,7 +1,7 @@
 {
-  "updated": "05.10.2026, 02:00",
-  "count": 51,
-  "raw_count": 60,
+  "updated": "05.10.2026, 03:00",
+  "count": 52,
+  "raw_count": 61,
   "items": [
     {
       "title": "Incendiu Mortal la Spitalul din Brașov: Reacția Colegiului Medicilor",
@@ -270,6 +270,20 @@
       "published": "2026-10-04T08:12:00+03:00"
     },
     {
+      "title": "Turism acum 13 ore Aeroportul Brașov (GHV): Noi destinații Wizz Air către Spania",
+      "url": "https://www.brasov.net/aeroportul-brasov-ghv-noi-destinatii-wizz-air-catre-spania/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-04T07:57:38+03:00"
+    },
+    {
+      "title": "Fapt divers acum 13 ore Acțiune fulger a polițiștilor rutieri din Brașov și de pe DN 1. Vitezomanii, lăsați pietoni",
+      "url": "https://www.brasov.net/actiune-fulger-a-politistilor-rutieri-din-brasov-si-de-pe-dn-1-vitezomanii-lasati-pietoni/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-04T07:43:46+03:00"
+    },
+    {
       "title": "Liga 3. Pentru liderul Corona urmează meciul de foc cu Inter Sibiu / Cum stau celelalte echipe din judeţul Braşov în clasament",
       "url": "https://mytex.ro/sport/liga-3-pentru-liderul-corona-urmeaza-meciul-de-foc-cu-inter-sibiu-cum-stau-celelalte-echipe-din-judetul-brasov-in-clasament/",
       "source": "MyTex",
@@ -352,13 +366,6 @@
       "source": "Brașov Știri",
       "category": "💰 Business & economie",
       "published": "2026-10-03T16:31:56+03:00"
-    },
-    {
-      "title": "Un drum până la medic, fără costuri. Un șofer de ridesharing din Brașov oferă curse gratuite persoanelor cu dizabilități",
-      "url": "https://bizbrasov.ro/2026/10/03/sofer-ridesharing-curse-gratuit-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-03T14:18:04+03:00"
     }
   ]
 }
