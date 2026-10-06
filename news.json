@@ -1,14 +1,84 @@
 {
-  "updated": "06.10.2026, 08:00",
-  "count": 57,
-  "raw_count": 70,
+  "updated": "06.10.2026, 09:00",
+  "count": 72,
+  "raw_count": 90,
   "items": [
+    {
+      "title": "Ecomuzeul Poarta Carpaților, un nou spațiu dedicat patrimoniului din Bran, Moieciu și Fundata",
+      "url": "https://www.monitorulexpres.ro/2026/10/06/ecomuzeul-poarta-carpatilor-un-nou-spatiu-dedicat-patrimoniului-din-bran-moieciu-si-fundata/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:52:15+03:00"
+    },
+    {
+      "title": "Aproape 13 milioane de lei pentru un nou parc public la Victoria: Investiție din fonduri europene prin Programul „Regiunea Centru”",
+      "url": "https://mytex.ro/expres/aproape-13-milioane-de-lei-pentru-un-nou-parc-public-la-victoria-investitie-din-fonduri-europene-prin-programul-regiunea-centru/",
+      "source": "MyTex",
+      "category": "💰 Business & economie",
+      "published": "2026-10-06T08:42:02+03:00"
+    },
+    {
+      "title": "Lucrări anunţate de Compania Apa Brașov, în municipiu şi judeţ, astăzi, 6 octombrie 2026",
+      "url": "https://newsbv.ro/lucrari-compania-apa-brasov-6-octombrie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:38:32+03:00"
+    },
+    {
+      "title": "Ștefania Hoamea (CS Șoimul Brașov), campioană la „Cupa CSA Onești”",
+      "url": "https://www.monitorulexpres.ro/2026/10/06/stefania-hoamea-cs-soimul-brasov-campioana-la-cupa-csa-onesti/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-06T08:26:24+03:00"
+    },
+    {
+      "title": "Investiţiile străine directe în România, în 2025. Miliarde de euro atrase de judeţul Braşov",
+      "url": "https://newsbv.ro/investitiile-straine-directe-in-romania-2025/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:20:35+03:00"
+    },
+    {
+      "title": "Colegiul Medicilor din România își exprimă solidaritatea cu medicii de la Spitalul de Pneumoftiziologie Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/06/colegiul-medicilor-din-romania-isi-exprima-solidaritatea-cu-medicii-de-la-spitalul-de-pneumoftiziologie-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-06T08:18:44+03:00"
+    },
+    {
+      "title": "VIDEO. Trafic infernal în Brașov, la primele ore ale dimineții. Zona Onix, blocată...",
+      "url": "https://transilvania365.ro/trafic-infernal-in-brasov-la-primele-ore-ale-diminetii-zona-onix-blocata-de-masini/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:18:06+03:00"
+    },
+    {
+      "title": "Curtea de Apel Brașov organizează concurs pentru ocuparea postului de: APROD la Judecătoria Făgăraş",
+      "url": "https://www.monitorulexpres.ro/2026/10/06/curtea-de-apel-brasov-organizeaza-concurs-pentru-ocuparea-postului-de-aprod-la-judecatoria-fagaras/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:15:27+03:00"
+    },
+    {
+      "title": "Astăzi încep lucrările pe strada Tudor Vladimirescu din Hărman!",
+      "url": "https://transilvania365.ro/astazi-incep-lucrarile-pe-strada-tudor-vladimirescu-din-harman/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-06T08:09:23+03:00"
+    },
     {
       "title": "Tragedia de la Spitalul Mârzescu din Brașov: Când memoria victimelor devine o obligație fermă pentru siguranța în spitale",
       "url": "https://mytex.ro/expres/tragedia-de-la-spitalul-marzescu-din-brasov-cand-memoria-victimelor-devine-o-obligatie-ferma-pentru-siguranta-in-spitale/",
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-06T06:51:09+03:00"
+    },
+    {
+      "title": "„Maestrul și Măiastra”, spectacol despre povestea misterioasă dintre Constantin Brâncuși și Maria Tănase, la Centrul Cultural Reduta",
+      "url": "https://newsbv.ro/maestrul-si-maiastra-constantin-brancusi-maria-tanase/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-06T06:43:12+03:00"
     },
     {
       "title": "Cine verifică „nota de plată” pentru Ocolitoarea Mare a Brașovului. Contract de 183.400 de lei pentru auditul proiectului european",
@@ -32,7 +102,7 @@
       "published": "2026-10-06T05:15:09+03:00"
     },
     {
-      "title": "SMID Brașov – se încearcă blocarea în instanță a proiectului de 185 de milioane de euro?Administratorul public al județului Brașov, Szenner Zoltan: „Nu locațiile sunt problema, ci interesele”",
+      "title": "SMID Brașov – se încearcă blocarea în instanță a proiectului de 185 de milioane de euro? Administratorul public al județului Brașov, Szenner Zoltan: „Nu locațiile sunt problema, ci interesele”",
       "url": "https://bizbrasov.ro/2026/10/06/smid-se-incearca-blocarea-proiectului/",
       "source": "BizBrașov",
       "category": "💰 Business & economie",
@@ -95,6 +165,13 @@
       "published": "2026-10-05T19:23:08+03:00"
     },
     {
+      "title": "Bursa Locurilor de Muncă, organizată de AJOFM Brașov pe 9 octombrie. Câte joburi sunt disponibile?",
+      "url": "https://newsbv.ro/bursa-locurilor-de-munca-ajofm/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T19:14:33+03:00"
+    },
+    {
       "title": "Bătălia Târgurilor de Crăciun 2026: În timp ce Craiova și Sibiul își turează deja motoarele promovării, Brașovul păstrează tăcerea",
       "url": "https://mytex.ro/expres/batalia-targurilor-de-craciun-2026-in-timp-ce-craiova-si-sibiul-isi-tureaza-deja-motoarele-promovarii-brasovul-pastreaza-tacerea/",
       "source": "MyTex",
@@ -102,11 +179,39 @@
       "published": "2026-10-05T19:04:49+03:00"
     },
     {
-      "title": "Peste 350 de joburi disponibile la Bursa locurilor de muncă din Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/05/peste-350-de-joburi-disponibile-la-bursa-locurilor-de-munca-din-brasov/",
-      "source": "Monitorul Expres",
+      "title": "Unde pot preda brașovenii deșeurile electrice și electronice pe 10 și 11 octombrie",
+      "url": "https://newsbv.ro/deseuri-electrice-electronice/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-05T17:56:35+03:00"
+      "published": "2026-10-05T18:20:55+03:00"
+    },
+    {
+      "title": "Fapt divers acum 15 ore Șofer brașovean prins cu o alcoolemie uriașă pe strada Zizinului în miez de noapte Un bărbat în vârstă de 40 de ani s-a ales cu dosar penal după ce a fost prins de polițiști...",
+      "url": "https://www.brasov.net/sofer-brasovean-prins-cu-o-alcoolemie-uriasa-pe-strada-zizinului-in-miez-de-noapte/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-05T18:04:34+03:00"
+    },
+    {
+      "title": "Util acum 15 ore „Brașov Reciclează!”: Începe campania de toamnă pentru colectarea deșeurilor electrice și electronice",
+      "url": "https://www.brasov.net/brasov-recicleaza-incepe-campania-de-toamna-pentru-colectarea-deseurilor-electrice-si-electronice/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-05T17:40:22+03:00"
+    },
+    {
+      "title": "Util acum 15 ore Începe furnizarea căldurii în Brașov: SPLT anunță probele de etanșeitate și pornirea sistemului centralizat din 7 octombrie",
+      "url": "https://www.brasov.net/incepe-furnizarea-caldurii-in-brasov-splt-anunta-probele-de-etanseitate-si-pornirea-sistemului-centralizat-din-7-octombrie/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-05T17:34:43+03:00"
+    },
+    {
+      "title": "Peste 350 de joburi disponibile la Bursa locurilor de muncă din Brașov, eveniment ce va avea loc la finalul săptămânii",
+      "url": "https://bizbrasov.ro/2026/10/05/brasov-bursa-locurilor-de-munca-finalul/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-05T16:33:26+03:00"
     },
     {
       "title": "BRAȘOV | Bărbat venit din Germania, depistat la volan fără permis de conducere",
@@ -116,14 +221,7 @@
       "published": "2026-10-05T16:13:38+03:00"
     },
     {
-      "title": "Brașovenii pot preda gratuit deșeurile electrice și electrocasnice pe 10 și 11 octombrie. Puncte de colectare în tot orașul și preluare de la domiciliu",
-      "url": "https://mytex.ro/expres/brasovenii-pot-preda-gratuit-deseurile-electrice-si-electrocasnice-pe-10-si-11-octombrie-puncte-de-colectare-in-tot-orasul-si-preluare-de-la-domiciliu/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-05T15:55:23+03:00"
-    },
-    {
-      "title": "Jandarmii din Brașov, alături de forțe din 19 țări la un exercițiu internațional de amploare",
+      "title": "Jandarmii din Brașov, alături de forțe din 19 țări la un...",
       "url": "https://transilvania365.ro/jandarmii-din-brasov-alaturi-de-forte-din-19-tari-la-un-exercitiu-international-de-amploare/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -135,13 +233,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-05T15:45:32+03:00"
-    },
-    {
-      "title": "Caloriferele se încălzesc la Brașov: SPLT începe furnizarea căldurii din 7 octombrie. Ce trebuie să verificați în apartamente",
-      "url": "https://mytex.ro/expres/caloriferele-se-incalzesc-la-brasov-splt-incepe-furnizarea-caldurii-din-7-octombrie-ce-trebuie-sa-verificati-in-apartamente/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-05T15:43:43+03:00"
     },
     {
       "title": "Pregătiri pentru furnizarea căldurii în sistem centralizat la Brașov",
@@ -158,7 +249,7 @@
       "published": "2026-10-05T15:34:54+03:00"
     },
     {
-      "title": "Brașovenii sunt invitați să predea spre reciclare deșeurile electrice și electronice în cadrul...",
+      "title": "Brașovenii sunt invitați să predea spre reciclare deșeurile electrice și electronice...",
       "url": "https://transilvania365.ro/brasovenii-sunt-invitati-sa-predea-spre-reciclare-deseurile-electrice-si-electronice-in-cadrul-campaniei-de-toamna-brasov-recicleaza-2/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -170,13 +261,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-05T15:18:55+03:00"
-    },
-    {
-      "title": "Dosar penal pentru un bărbat prins la volan fără permis, în Făgăraș",
-      "url": "https://www.monitorulexpres.ro/2026/10/05/dosar-penal-pentru-un-barbat-prins-la-volan-fara-permis-in-fagaras/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-05T15:17:42+03:00"
     },
     {
       "title": "Vacanța de toamnă scutură buzunarele brașovenilor: Cazări de la 500 de lei la peste 4.000 de lei, în timp ce unele sejururi s-au scumpit și cu 50%",
@@ -193,6 +277,13 @@
       "published": "2026-10-05T15:09:27+03:00"
     },
     {
+      "title": "Începe furnizarea energiei termice pentru încălzire la Braşov",
+      "url": "https://newsbv.ro/incepe-furnizarea-energiei-termice/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T15:05:35+03:00"
+    },
+    {
       "title": "Un neamț a crezut că permisul de conducere este „opțional” în România. Polițiștii făgărășeni i-au deschis dosar penal",
       "url": "https://bizbrasov.ro/2026/10/05/neamt-permis-conducere-fagaras/",
       "source": "BizBrașov",
@@ -200,11 +291,11 @@
       "published": "2026-10-05T15:02:15+03:00"
     },
     {
-      "title": "Un brașovean în vârstă de 40 de ani a fost prins de polițiști în timp ce conducea o mașină având o alcoolemie uriașă",
-      "url": "https://bizbrasov.ro/2026/10/05/brasovean-prins-de-politisti/",
-      "source": "BizBrașov",
+      "title": "Se pornesc caloriferele în Brașov. De când începe furnizarea căldurii",
+      "url": "https://transilvania365.ro/se-pornesc-caloriferele-in-brasov-de-cand-incepe-furnizarea-caldurii/",
+      "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-05T15:01:03+03:00"
+      "published": "2026-10-05T14:53:26+03:00"
     },
     {
       "title": "Căldură în caloriferele brașovenilor racordați la sistemul centralizat de termoficare, începând de miercuri",
@@ -212,6 +303,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-05T14:51:16+03:00"
+    },
+    {
+      "title": "Cutremur cu magnitudinea 3,8 la 77 de kilometri de Braşov",
+      "url": "https://newsbv.ro/cutremur-38-la-77-de-kilometri-de-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T14:26:58+03:00"
     },
     {
       "title": "Festivalul Național de Teatru AM-ACTOR revine la Brașov, între 22 și 25 octombrie",
@@ -226,6 +324,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-05T13:52:24+03:00"
+    },
+    {
+      "title": "Circulație de coșmar pe Valea Prahovei, spre Braşov. Blocaje pe DN1 și pe noua centură a Comarnicului",
+      "url": "https://newsbv.ro/circulatie-de-cosmar-pe-valea-prahovei-spre-brasov/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-05T13:35:02+03:00"
     },
     {
       "title": "Comedia „Se caută un mincinos” revine pe scenă la Brașov",
@@ -277,6 +382,13 @@
       "published": "2026-10-05T11:45:38+03:00"
     },
     {
+      "title": "Eveniment acum 21 de ore Tragedie la Spitalul Mârzescu din Brașov: O persoană a decedat în urma unui incendiu",
+      "url": "https://www.brasov.net/tragedie-la-spitalul-marzescu-din-brasov-o-persoana-a-decedat-in-urma-unui-incendiu/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-05T11:30:57+03:00"
+    },
+    {
       "title": "Președintele Nicușor Dan, reacție după ce adepții lui „mesia” Georgescu au aprins lumânări în forma inițialelor lui Cristian Tudor Popescu: „Niciun jurnalist nu trebuie să devină ținta amenințărilor”",
       "url": "https://bizbrasov.ro/2026/10/05/adeptii-lui-mesia-georgescu-lumanari/",
       "source": "BizBrașov",
@@ -289,6 +401,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-05T11:09:56+03:00"
+    },
+    {
+      "title": "Util acum 22 de ore Restricții de trafic pe ruta Brașov-Bacău: DRDP a deschis șantierul pe DN11, în județul Covasna",
+      "url": "https://www.brasov.net/restrictii-de-trafic-pe-ruta-brasov-bacau-drdp-a-deschis-santierul-pe-dn11-in-judetul-covasna/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-05T10:59:41+03:00"
     },
     {
       "title": "Lucian Petrean, managerul Operei Brașov, răspunde protestatarilor: „Acuzațiile privind intimidările și...",
@@ -326,18 +445,11 @@
       "published": "2026-10-05T09:47:08+03:00"
     },
     {
-      "title": "Povestea misterioasă dintre Constantin Brâncuși și Maria Tănase a devenit subiect...",
-      "url": "https://transilvania365.ro/povestea-misterioasa-dintre-constantin-brancusi-si-maria-tanase-a-devenit-subiect-de-spectacol-la-centrul-cultural-reduta/",
-      "source": "Transilvania365",
+      "title": "Cererea pentru servicii de wellness a crescut în România. Judeţul Braşov, în top 5",
+      "url": "https://newsbv.ro/cererea-pentru-servicii-de-wellness-a-crescut/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-05T09:07:55+03:00"
-    },
-    {
-      "title": "Reacția managerului interimar al Operei Brașov la protestul angajaților",
-      "url": "https://www.monitorulexpres.ro/2026/10/05/reactia-managerului-interimar-al-operei-brasov-la-protestul-angajatilor/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-05T09:00:57+03:00"
+      "published": "2026-10-05T09:19:48+03:00"
     },
     {
       "title": "Un nou cutremur, în această dimineață, la 73 km de Brașov. Al patrulea și cel mai puternic…",
@@ -352,13 +464,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-05T08:46:56+03:00"
-    },
-    {
-      "title": "Aeroportul Brașov-Ghimbav: AnimaWings lasă datorii de peste 600.000 lei după intrarea în insolvență / Încă puţină răbdare – Zboruri directe spre Spania cu Wizz Air",
-      "url": "https://mytex.ro/expres/aeroportul-brasov-ghimbav-animawings-lasa-datorii-de-peste-600-000-lei-dupa-intrarea-in-insolventa-inca-putina-rabdare-zboruri-directe-spre-spania-cu-wizz-air/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-05T08:28:11+03:00"
     },
     {
       "title": "Criza personalului din creșele brașovene continuă: îngrijitoarele au început să fie...",
