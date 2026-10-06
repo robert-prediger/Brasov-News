@@ -1,8 +1,22 @@
 {
-  "updated": "06.10.2026, 23:00",
-  "count": 80,
-  "raw_count": 89,
+  "updated": "07.10.2026, 00:00",
+  "count": 83,
+  "raw_count": 101,
   "items": [
+    {
+      "title": "Șofer din Brașov reținut pentru multiple infracțiuni rutiere",
+      "url": "https://www.zmbv.ro/sofer-din-brasov-retinut-pentru-multiple-infractiuni-rutiere/06/10/2026/119269/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-06T23:14:25+03:00"
+    },
+    {
+      "title": "Accident în lanț pe Calea Făgărașului, Brașov",
+      "url": "https://www.zmbv.ro/accident-in-lant-pe-calea-fagarasului-brasov/06/10/2026/119267/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-06T23:14:10+03:00"
+    },
     {
       "title": "Corona Brașov, experiență internațională la turneul de baschet în fotoliu rulant de la Sliven",
       "url": "https://brasovstiri.ro/corona-brasov-experienta-internationala-la-turneul-de-baschet-in-fotoliu-rulant-de-la-sliven/",
@@ -37,20 +51,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-06T18:16:00+03:00"
-    },
-    {
-      "title": "Accident în lanț pe Calea Făgărașului din Brașov",
-      "url": "https://www.zmbv.ro/accident-in-lant-pe-calea-fagarasului-din-brasov/06/10/2026/119259/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-06T18:14:30+03:00"
-    },
-    {
-      "title": "Proiectul Parcului Național Făgăraș, Aproape de Aprobare",
-      "url": "https://www.zmbv.ro/proiectul-parcului-national-fagaras-aproape-de-aprobare/06/10/2026/119257/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-06T18:14:08+03:00"
     },
     {
       "title": "BRAȘOV | Casa unei familii cu 5 copii, din Holbav, a ars! Apel pentru ajutor",
@@ -149,6 +149,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-06T15:15:13+03:00"
+    },
+    {
+      "title": "Investiție de 17 milioane de lei pentru energie solară la spitalele, școlile și Aeroportul Brașov",
+      "url": "https://newsbv.ro/investitie-de-17-milioane-de-lei-pentru-energie/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-06T15:14:57+03:00"
     },
     {
       "title": "Brașovenii pot descoperi Delta Dunării dintr-o perspectivă rară, dincolo de traseele turistice obișnuite, la proiecția specială a documentarului „Delta Sălbatică”",
@@ -270,13 +277,6 @@
       "published": "2026-10-06T12:49:27+03:00"
     },
     {
-      "title": "Spitalele, aeroportul și alte clădiri din administrarea CJ Brașov trec pe energie solară. Proiect ambițios de aproape 17 milioane de lei prin Fondul pentru Modernizare",
-      "url": "https://bizbrasov.ro/2026/10/06/spitale-aeroport-cj-brasov-energie-solara/",
-      "source": "BizBrașov",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-10-06T12:30:29+03:00"
-    },
-    {
       "title": "ITM Brașov. Amenzi de 760.000 lei în luna septembrie",
       "url": "https://www.monitorulexpres.ro/2026/10/06/itm-brasov-amenzi-de-760-000-lei-in-luna-septembrie/",
       "source": "Monitorul Expres",
@@ -289,6 +289,20 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-06T12:28:24+03:00"
+    },
+    {
+      "title": "Castelul Peleș, Transfăgărășanul şi Delta Dunării ajung pe străzile din Sevilla",
+      "url": "https://newsbv.ro/castelul-peles-pe-strazile-din-sevilla/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-06T12:10:34+03:00"
+    },
+    {
+      "title": "Săptămâna Verde și Școala Altfel la Dino Parc Râșnov. Geografia, biologia și istoria pot fi predate transdisciplinar",
+      "url": "https://newsbv.ro/saptamana-verde-si-scoala-altfel-la-dino-parc-rasnov/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-06T12:03:12+03:00"
     },
     {
       "title": "Doi puiuți donați vor deveni câini Salvamont la Brașov",
@@ -347,6 +361,13 @@
       "published": "2026-10-06T10:36:48+03:00"
     },
     {
+      "title": "Studenţii de la Universitatea Transilvania din Brașov, recrutați ca ajutoare pentru prepararea și servirea mesei la cantină",
+      "url": "https://newsbv.ro/studentii-universitatea-transilvania-recrutati/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-06T10:25:12+03:00"
+    },
+    {
       "title": "Peste 300 de locuri de muncă, disponibile la Bursa AJOFM Brașov",
       "url": "https://transilvania365.ro/peste-300-de-locuri-de-munca-disponibile-la-bursa-ajofm-brasov/",
       "source": "Transilvania365",
@@ -373,13 +394,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-06T09:43:58+03:00"
-    },
-    {
-      "title": "„Școala Altfel” și „Săptămâna Verde”, la Biblioteca Județeană Brașov",
-      "url": "https://transilvania365.ro/scoala-altfel-si-saptamana-verde-la-biblioteca-judeteana-brasov/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-06T09:37:12+03:00"
     },
     {
       "title": "Staff de Superligă în eșalonul al treilea: Între viziune profesionistă și dilema banilor publici la Corona Brașov",
@@ -445,6 +459,13 @@
       "published": "2026-10-06T06:51:09+03:00"
     },
     {
+      "title": "„Maestrul și Măiastra”, spectacol despre povestea misterioasă dintre Constantin Brâncuși și Maria Tănase, la Centrul Cultural Reduta",
+      "url": "https://newsbv.ro/maestrul-si-maiastra-constantin-brancusi-maria-tanase/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-06T06:43:12+03:00"
+    },
+    {
       "title": "Cine verifică „nota de plată” pentru Ocolitoarea Mare a Brașovului. Contract de 183.400 de lei pentru auditul proiectului european",
       "url": "https://bizbrasov.ro/2026/10/06/nota-plata-ocolitoare-mare-brasov-audit/",
       "source": "BizBrașov",
@@ -466,18 +487,18 @@
       "published": "2026-10-06T04:59:00+03:00"
     },
     {
-      "title": "Campania „Brașov Reciclează!”: Colectare deșeuri electrice",
-      "url": "https://www.zmbv.ro/campania-brasov-recicleaza-colectare-deseuri-electrice/05/10/2026/119179/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-05T22:14:06+03:00"
-    },
-    {
       "title": "BRAȘOV | Noi informații despre tragedia de la Spitalul Mârzescu",
       "url": "https://mytex.ro/112/brasov-noi-informatii-despre-tragedia-de-la-spitalul-marzescu/",
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-05T21:39:59+03:00"
+    },
+    {
+      "title": "Gerald Karni și Andrey Gugnin, în premieră la Filarmonica Brașov, pe 8 octombrie",
+      "url": "https://newsbv.ro/filarmonica-brasov-premiera/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-05T19:49:53+03:00"
     },
     {
       "title": "Autostrada Ploiești-Brașov, o „fantomă” de peste două decenii: Va mai fi realizat vreodată proiectul de pe Valea Prahovei?",
@@ -550,18 +571,18 @@
       "published": "2026-10-05T12:59:02+03:00"
     },
     {
+      "title": "Începe povestea Ecomuzeului Poarta Carpaților în Moieciu de Sus. Va fi un spațiu cultural al comunităților din Bran, Moieciu şi Fundata",
+      "url": "https://newsbv.ro/ecomuzeul-poarta-carpatilor-moieciu-de-sus/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T12:53:01+03:00"
+    },
+    {
       "title": "Corona Brașov, a 5-a victorie la rând în Erste Liga. Meci fără istoric cu rivala ACSH Gheorgheni",
       "url": "https://mytex.ro/sport/corona-brasov-a-5-a-victorie-la-rand-in-erste-liga/",
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-05T12:08:37+03:00"
-    },
-    {
-      "title": "Râșnovul va avea o legătură directă cu Poiana Brașov",
-      "url": "https://transilvania365.ro/rasnovul-va-avea-o-legatura-directa-cu-poiana-brasov/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-05T11:09:56+03:00"
     }
   ]
 }
