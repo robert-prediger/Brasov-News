@@ -1,7 +1,7 @@
 {
-  "updated": "06.10.2026, 07:00",
-  "count": 67,
-  "raw_count": 84,
+  "updated": "06.10.2026, 08:00",
+  "count": 57,
+  "raw_count": 70,
   "items": [
     {
       "title": "Tragedia de la Spitalul Mârzescu din Brașov: Când memoria victimelor devine o obligație fermă pentru siguranța în spitale",
@@ -9,13 +9,6 @@
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-06T06:51:09+03:00"
-    },
-    {
-      "title": "„Maestrul și Măiastra”, spectacol despre povestea misterioasă dintre Constantin Brâncuși și Maria Tănase, la Centrul Cultural Reduta",
-      "url": "https://newsbv.ro/maestrul-si-maiastra-constantin-brancusi-maria-tanase/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-06T06:43:12+03:00"
     },
     {
       "title": "Cine verifică „nota de plată” pentru Ocolitoarea Mare a Brașovului. Contract de 183.400 de lei pentru auditul proiectului european",
@@ -95,25 +88,11 @@
       "published": "2026-10-05T21:14:49+03:00"
     },
     {
-      "title": "Gerald Karni și Andrey Gugnin, în premieră la Filarmonica Brașov, pe 8 octombrie",
-      "url": "https://newsbv.ro/filarmonica-brasov-premiera/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-05T19:49:53+03:00"
-    },
-    {
       "title": "Autostrada Ploiești-Brașov, o „fantomă” de peste două decenii: Va mai fi realizat vreodată proiectul de pe Valea Prahovei?",
       "url": "https://mytex.ro/expres/autostrada-ploiesti-brasov-o-fantoma-de-peste-doua-decenii-va-mai-fi-realizat-vreodata-proiectul-de-pe-valea-prahovei/",
       "source": "MyTex",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-05T19:23:08+03:00"
-    },
-    {
-      "title": "Bursa Locurilor de Muncă, organizată de AJOFM Brașov pe 9 octombrie. Câte joburi sunt disponibile?",
-      "url": "https://newsbv.ro/bursa-locurilor-de-munca-ajofm/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T19:14:33+03:00"
     },
     {
       "title": "Bătălia Târgurilor de Crăciun 2026: În timp ce Craiova și Sibiul își turează deja motoarele promovării, Brașovul păstrează tăcerea",
@@ -123,18 +102,11 @@
       "published": "2026-10-05T19:04:49+03:00"
     },
     {
-      "title": "Unde pot preda brașovenii deșeurile electrice și electronice pe 10 și 11 octombrie",
-      "url": "https://newsbv.ro/deseuri-electrice-electronice/",
-      "source": "NewsBV",
+      "title": "Peste 350 de joburi disponibile la Bursa locurilor de muncă din Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/05/peste-350-de-joburi-disponibile-la-bursa-locurilor-de-munca-din-brasov/",
+      "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-05T18:20:55+03:00"
-    },
-    {
-      "title": "Peste 350 de joburi disponibile la Bursa locurilor de muncă din Brașov, eveniment ce va avea loc la finalul săptămânii",
-      "url": "https://bizbrasov.ro/2026/10/05/brasov-bursa-locurilor-de-munca-finalul/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-05T16:33:26+03:00"
+      "published": "2026-10-05T17:56:35+03:00"
     },
     {
       "title": "BRAȘOV | Bărbat venit din Germania, depistat la volan fără permis de conducere",
@@ -142,6 +114,13 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-05T16:13:38+03:00"
+    },
+    {
+      "title": "Brașovenii pot preda gratuit deșeurile electrice și electrocasnice pe 10 și 11 octombrie. Puncte de colectare în tot orașul și preluare de la domiciliu",
+      "url": "https://mytex.ro/expres/brasovenii-pot-preda-gratuit-deseurile-electrice-si-electrocasnice-pe-10-si-11-octombrie-puncte-de-colectare-in-tot-orasul-si-preluare-de-la-domiciliu/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-05T15:55:23+03:00"
     },
     {
       "title": "Jandarmii din Brașov, alături de forțe din 19 țări la un exercițiu internațional de amploare",
@@ -214,13 +193,6 @@
       "published": "2026-10-05T15:09:27+03:00"
     },
     {
-      "title": "Începe furnizarea energiei termice pentru încălzire la Braşov",
-      "url": "https://newsbv.ro/incepe-furnizarea-energiei-termice/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T15:05:35+03:00"
-    },
-    {
       "title": "Un neamț a crezut că permisul de conducere este „opțional” în România. Polițiștii făgărășeni i-au deschis dosar penal",
       "url": "https://bizbrasov.ro/2026/10/05/neamt-permis-conducere-fagaras/",
       "source": "BizBrașov",
@@ -242,13 +214,6 @@
       "published": "2026-10-05T14:51:16+03:00"
     },
     {
-      "title": "Cutremur cu magnitudinea 3,8 la 77 de kilometri de Braşov",
-      "url": "https://newsbv.ro/cutremur-38-la-77-de-kilometri-de-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T14:26:58+03:00"
-    },
-    {
       "title": "Festivalul Național de Teatru AM-ACTOR revine la Brașov, între 22 și 25 octombrie",
       "url": "https://www.monitorulexpres.ro/2026/10/05/festivalul-national-de-teatru-am-actor-revine-la-brasov-intre-22-si-25-octombrie/",
       "source": "Monitorul Expres",
@@ -261,13 +226,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-05T13:52:24+03:00"
-    },
-    {
-      "title": "Circulație de coșmar pe Valea Prahovei, spre Braşov. Blocaje pe DN1 și pe noua centură a Comarnicului",
-      "url": "https://newsbv.ro/circulatie-de-cosmar-pe-valea-prahovei-spre-brasov/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-05T13:35:02+03:00"
     },
     {
       "title": "Comedia „Se caută un mincinos” revine pe scenă la Brașov",
@@ -291,13 +249,6 @@
       "published": "2026-10-05T12:59:02+03:00"
     },
     {
-      "title": "Începe povestea Ecomuzeului Poarta Carpaților în Moieciu de Sus. Va fi un spațiu cultural al comunităților din Bran, Moieciu şi Fundata",
-      "url": "https://newsbv.ro/ecomuzeul-poarta-carpatilor-moieciu-de-sus/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T12:53:01+03:00"
-    },
-    {
       "title": "Trei seri de comedie la Reduta, în cadrul Zilelor Teatrului Particular Brașov",
       "url": "https://brasovstiri.ro/trei-seri-de-comedie-la-reduta-in-cadrul-zilelor-teatrului-particular-brasov/",
       "source": "Brașov Știri",
@@ -310,13 +261,6 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-05T12:28:45+03:00"
-    },
-    {
-      "title": "Cele mai bune destinații europene de Halloween în 2026. Petrecerea de la Castelul Bran este în topul atracțiilor",
-      "url": "https://newsbv.ro/cele-mai-bune-destinatii-europene-de-halloween/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-05T12:23:32+03:00"
     },
     {
       "title": "Corona Brașov, a 5-a victorie la rând în Erste Liga. Meci fără istoric cu rivala ACSH Gheorgheni",
@@ -382,11 +326,11 @@
       "published": "2026-10-05T09:47:08+03:00"
     },
     {
-      "title": "Cererea pentru servicii de wellness a crescut în România. Judeţul Braşov, în top 5",
-      "url": "https://newsbv.ro/cererea-pentru-servicii-de-wellness-a-crescut/",
-      "source": "NewsBV",
+      "title": "Povestea misterioasă dintre Constantin Brâncuși și Maria Tănase a devenit subiect...",
+      "url": "https://transilvania365.ro/povestea-misterioasa-dintre-constantin-brancusi-si-maria-tanase-a-devenit-subiect-de-spectacol-la-centrul-cultural-reduta/",
+      "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-05T09:19:48+03:00"
+      "published": "2026-10-05T09:07:55+03:00"
     },
     {
       "title": "Reacția managerului interimar al Operei Brașov la protestul angajaților",
@@ -438,13 +382,6 @@
       "published": "2026-10-05T08:04:08+03:00"
     },
     {
-      "title": "Corona Brașov, o nouă victorie! Brașovenii au învins Gheorgheni cu 3-1 și continuă seria rezultatelor bune",
-      "url": "https://newsbv.ro/corona-brasov-victorie-gheorgheni-3-1/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-05T07:35:17+03:00"
-    },
-    {
       "title": "Daniel Cacina – locul 2 în prima etapă a Cupei FIS de la Râșnov. Descalificare dramatică în ziua a doua",
       "url": "https://mytex.ro/sport/daniel-cacina-locul-2-in-prima-etapa-a-cupei-fis-de-la-rasnov-descalificare-dramatica-in-ziua-a-doua/",
       "source": "MyTex",
@@ -464,13 +401,6 @@
       "source": "BizBrașov",
       "category": "💰 Business & economie",
       "published": "2026-10-05T05:38:00+03:00"
-    },
-    {
-      "title": "Victorie uriașă pentru Corona Brașov în Europa! 32-25 cu Steaua Roșie Belgrad și avantaj important înaintea returului",
-      "url": "https://newsbv.ro/csm-corona-brasov-victorie-steaua-rosie-belgrad/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-04T19:37:24+03:00"
     }
   ]
 }
