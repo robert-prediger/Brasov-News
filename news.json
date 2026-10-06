@@ -1,21 +1,21 @@
 {
-  "updated": "06.10.2026, 21:00",
-  "count": 96,
-  "raw_count": 118,
+  "updated": "06.10.2026, 22:00",
+  "count": 95,
+  "raw_count": 116,
   "items": [
+    {
+      "title": "Polițiștii brașoveni caută un copil de 11 ani",
+      "url": "https://www.monitorulexpres.ro/2026/10/06/politistii-brasoveni-cauta-un-copil-de-11-ani/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-06T21:21:07+03:00"
+    },
     {
       "title": "BRAȘOV | Accident între un autoturism și un camion, la Hanul din Ardeal",
       "url": "https://mytex.ro/112/brasov-accident-intre-un-autoturism-si-un-camion-la-hanul-din-ardeal/",
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-06T20:24:56+03:00"
-    },
-    {
-      "title": "Un copil în vârstă de 11 ani din Hărman a dispărut de acasă. Dacă îl vedeți, sunați la 112",
-      "url": "https://bizbrasov.ro/2026/10/06/copil-disparut-de-acasa-2/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-06T20:17:08+03:00"
     },
     {
       "title": "Reacții în lanț după articolul despre staff-ul echipei de fotbal Corona Brașov: Între apărarea profesionismului și revolta banilor publici",
@@ -424,13 +424,6 @@
       "published": "2026-10-06T09:03:03+03:00"
     },
     {
-      "title": "Ecomuzeul Poarta Carpaților, un nou spațiu dedicat patrimoniului din Bran, Moieciu și Fundata",
-      "url": "https://www.monitorulexpres.ro/2026/10/06/ecomuzeul-poarta-carpatilor-un-nou-spatiu-dedicat-patrimoniului-din-bran-moieciu-si-fundata/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-06T08:52:15+03:00"
-    },
-    {
       "title": "Aproape 13 milioane de lei pentru un nou parc public la Victoria: Investiție din fonduri europene prin Programul „Regiunea Centru”",
       "url": "https://mytex.ro/expres/aproape-13-milioane-de-lei-pentru-un-nou-parc-public-la-victoria-investitie-din-fonduri-europene-prin-programul-regiunea-centru/",
       "source": "MyTex",
@@ -508,13 +501,6 @@
       "published": "2026-10-06T00:51:00+03:00"
     },
     {
-      "title": "„Elixirul dragostei” se găsește la… Opera Brașov",
-      "url": "https://brasovstiri.ro/elixirul-dragostei-se-gaseste-la-opera-brasov/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-06T00:44:00+03:00"
-    },
-    {
       "title": "Campania „Brașov Reciclează!”: Colectare deșeuri electrice",
       "url": "https://www.zmbv.ro/campania-brasov-recicleaza-colectare-deseuri-electrice/05/10/2026/119179/",
       "source": "Ziarul Metropolitan Brașov",
@@ -571,6 +557,13 @@
       "published": "2026-10-05T17:34:43+03:00"
     },
     {
+      "title": "„Elixirul dragostei” revine pe scena Operei Brașov",
+      "url": "https://bizbrasov.ro/2026/10/05/elixirul-dragostei-revine-pe-scena-operei-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-05T17:16:28+03:00"
+    },
+    {
       "title": "Brașovenii pot preda gratuit deșeurile electrice și electrocasnice pe 10 și 11 octombrie. Puncte de colectare în tot orașul și preluare de la domiciliu",
       "url": "https://mytex.ro/expres/brasovenii-pot-preda-gratuit-deseurile-electrice-si-electrocasnice-pe-10-si-11-octombrie-puncte-de-colectare-in-tot-orasul-si-preluare-de-la-domiciliu/",
       "source": "MyTex",
@@ -620,6 +613,13 @@
       "published": "2026-10-05T12:59:02+03:00"
     },
     {
+      "title": "Începe povestea Ecomuzeului Poarta Carpaților în Moieciu de Sus. Va fi un spațiu cultural al comunităților din Bran, Moieciu şi Fundata",
+      "url": "https://newsbv.ro/ecomuzeul-poarta-carpatilor-moieciu-de-sus/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-05T12:53:01+03:00"
+    },
+    {
       "title": "Corona Brașov, a 5-a victorie la rând în Erste Liga. Meci fără istoric cu rivala ACSH Gheorgheni",
       "url": "https://mytex.ro/sport/corona-brasov-a-5-a-victorie-la-rand-in-erste-liga/",
       "source": "MyTex",
@@ -667,13 +667,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-05T10:25:56+03:00"
-    },
-    {
-      "title": "Poiana Brașov, pe harta unei licitații de aproape 7 milioane de...",
-      "url": "https://transilvania365.ro/poiana-brasov-pe-harta-unei-licitatii-de-aproape-7-milioane-de-lei-a-federatiei-romane-de-judo/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-05T09:50:07+03:00"
     }
   ]
 }
