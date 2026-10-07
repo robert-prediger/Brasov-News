@@ -1,8 +1,36 @@
 {
-  "updated": "08.10.2026, 00:00",
-  "count": 97,
-  "raw_count": 115,
+  "updated": "08.10.2026, 01:00",
+  "count": 88,
+  "raw_count": 103,
   "items": [
+    {
+      "title": "Marșul „Împreună pentru Siguranța Femeilor” revine la Brașov pe 17 octombrie",
+      "url": "https://brasovstiri.ro/marsul-impreuna-pentru-siguranta-femeilor-revine-la-brasov-pe-17-octombrie/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-08T00:51:00+03:00"
+    },
+    {
+      "title": "Întâlniri neașteptate pe traseele din Zărnești. Mai mulți zimbri au apărut în zonă",
+      "url": "https://brasovstiri.ro/intalniri-neasteptate-pe-traseele-din-zarnesti-mai-multi-zimbri-au-aparut-in-zona/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-08T00:34:00+03:00"
+    },
+    {
+      "title": "Modernizarea sensului giratoriu din Ghimbav, în licitație",
+      "url": "https://www.zmbv.ro/modernizarea-sensului-giratoriu-din-ghimbav-in-licitatie/08/10/2026/119368/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-08T00:17:21+03:00"
+    },
+    {
+      "title": "Pompierii din Cristian, schimb de experiență în Germania",
+      "url": "https://www.zmbv.ro/pompierii-din-cristian-schimb-de-experienta-in-germania/08/10/2026/119364/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-08T00:16:51+03:00"
+    },
     {
       "title": "Șoferii din Brașov plătesc 10,15 lei pe benzină și 10,95 lei pe motorină. Prețurile din 7 octombrie",
       "url": "https://brasovstiri.ro/soferii-din-brasov-platesc-1015-lei-pe-benzina-si-1095-lei-pe-motorina-preturile-din-7-octombrie/",
@@ -11,25 +39,11 @@
       "published": "2026-10-07T21:18:08+03:00"
     },
     {
-      "title": "Pompierii voluntari din Cristian pleacă în Germania. Schimb de experiență cu colegii din „Neustadt în Europa”",
-      "url": "https://newsbv.ro/pompierii-voluntari-cristian-germania-neustadt-europa/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T20:43:42+03:00"
-    },
-    {
       "title": "Percheziții și în Brașov, în dosarul violențelor de la protestul oierilor din Piața Victoriei",
       "url": "https://mytex.ro/delicte/perchezitii-si-in-brasov-in-dosarul-violentelor-de-la-protestul-oierilor-din-piata-victoriei/",
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-07T20:33:19+03:00"
-    },
-    {
-      "title": "Primăria Ghimbav a scos la licitație modernizarea sensului giratoriu. Investiția depășește 1,26 milioane de lei",
-      "url": "https://newsbv.ro/sens-giratoriu-ghimbav-licitatie-modernizare/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T19:49:58+03:00"
     },
     {
       "title": "Dan Tanasă, deputat AUR de Brașov, cere transparență totală pentru finanțarea ONG-urilor: „Dorim doar să știm cine le finanțează”",
@@ -207,25 +221,11 @@
       "published": "2026-10-07T14:51:08+03:00"
     },
     {
-      "title": "Economic acum 20 de minute Majorare substanțială la IAR Brașov: Indemnizațiile membrilor CA cresc la 20.400 de lei brut",
-      "url": "https://www.brasov.net/majorare-substantiala-la-iar-brasov-indemnizatiile-membrilor-ca-cresc-la-20-400-de-lei-brut/",
-      "source": "Brașov.net",
-      "category": "💰 Business & economie",
-      "published": "2026-10-07T14:48:28+03:00"
-    },
-    {
       "title": "Ştiinţa Bucureşti – Corona Brașov se vede live. Cine transmite meciul care începe la ora 15.00",
       "url": "https://mytex.ro/sport/stiinta-bucuresti-corona-brasov-se-vede-live/",
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-07T14:33:54+03:00"
-    },
-    {
-      "title": "Brașovul, Destinație de Top în Turismul Românesc 2026",
-      "url": "https://www.zmbv.ro/brasovul-destinatie-de-top-in-turismul-romanesc-2026/07/10/2026/119338/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T14:14:05+03:00"
     },
     {
       "title": "Jürgen Faff confirmă acum ceea ce declara pentru Biz Brașov în decembrie 2024: Compania aeriană Fly Lili a pierdut circa 1,5 milioane de euro pe lună la Brașov",
@@ -291,20 +291,6 @@
       "published": "2026-10-07T12:40:13+03:00"
     },
     {
-      "title": "Șofer Beat, Arestat la Făgăraș",
-      "url": "https://www.zmbv.ro/sofer-beat-arestat-la-fagaras/07/10/2026/119326/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T12:17:56+03:00"
-    },
-    {
-      "title": "Brașov investește 16,9 milioane lei în energie verde",
-      "url": "https://www.zmbv.ro/brasov-investeste-169-milioane-lei-in-energie-verde/07/10/2026/119310/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T12:14:25+03:00"
-    },
-    {
       "title": "„Miercurea Brașovenilor”: Breasla Cârciumarilor taie prețurile cu 15% în mai multe locații din oraș",
       "url": "https://bizbrasov.ro/2026/10/07/brasoevenilor-miercurea-breasla-taie/",
       "source": "BizBrașov",
@@ -324,13 +310,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-07T12:08:51+03:00"
-    },
-    {
-      "title": "Fapt divers acum 3 ore Pericol pe străzile din Făgăraș: Un bărbat cu 3,24 g/l alcool în sânge a fost trimis direct în arest",
-      "url": "https://www.brasov.net/pericol-pe-strazile-din-fagaras-un-barbat-cu-324-g-l-alcool-in-sange-a-fost-trimis-direct-in-arest/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T12:02:43+03:00"
     },
     {
       "title": "Tinerii din Poiana Mărului luptă în finala națională pentru a aduce primul titlu de „Sat European de Tineret” în județul Brașov",
@@ -359,6 +338,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-07T11:01:47+03:00"
+    },
+    {
+      "title": "Irineu Darău a majorat de la 4.720 la 20.400 de lei indemnizaţiile membrilor CA al IAR Braşov",
+      "url": "https://newsbv.ro/indemnizatiile-membrilor-ca-al-iar-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-07T10:58:04+03:00"
     },
     {
       "title": "Doi cățeluși simpatici intră în pregătire pentru viitoarele misiuni Salvamont Brașov",
@@ -529,20 +515,6 @@
       "published": "2026-10-07T01:19:00+03:00"
     },
     {
-      "title": "Interes scăzut pentru conducerea școlilor din Brașov. 178 de candidați la 220 de posturi vacante",
-      "url": "https://brasovstiri.ro/interes-scazut-pentru-conducerea-scolilor-din-brasov-178-de-candidati-la-220-de-posturi-vacante/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-07T01:16:00+03:00"
-    },
-    {
-      "title": "Două exemplare Border Collie vor fi pregătite pentru unitatea canină Salvamont Brașov",
-      "url": "https://brasovstiri.ro/doua-exemplare-border-collie-vor-fi-pregatite-pentru-unitatea-canina-salvamont-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-07T00:18:00+03:00"
-    },
-    {
       "title": "BRAȘOV | Accident între un autoturism și un camion, la Hanul din Ardeal",
       "url": "https://mytex.ro/112/brasov-accident-intre-un-autoturism-si-un-camion-la-hanul-din-ardeal/",
       "source": "MyTex",
@@ -578,11 +550,11 @@
       "published": "2026-10-06T17:41:21+03:00"
     },
     {
-      "title": "Fapt divers acum 22 de ore Accident cu 4 mașini pe Calea Făgărașului din Brașov: O persoană a fost rănită",
-      "url": "https://www.brasov.net/accident-cu-4-masini-pe-calea-fagarasului-din-brasov-o-persoana-a-fost-ranita/",
-      "source": "Brașov.net",
+      "title": "VIDEO. Accident cu patru mașini pe Calea Făgărașului din Brașov. O...",
+      "url": "https://transilvania365.ro/video-accident-cu-patru-masini-pe-calea-fagarasului-din-brasov-o-persoana-a-fost-ranita/",
+      "source": "Transilvania365",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-06T17:05:22+03:00"
+      "published": "2026-10-06T16:58:34+03:00"
     },
     {
       "title": "BRAȘOV | Carambol pe Calea Făgărașului!",
@@ -646,41 +618,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-06T14:03:25+03:00"
-    },
-    {
-      "title": "Pediatria românească se întâlnește la Brașov. Trei zile dedicate sănătății copilului",
-      "url": "https://transilvania365.ro/pediatria-romaneasca-se-intalneste-la-brasov-trei-zile-dedicate-sanatatii-copilului/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-06T12:55:20+03:00"
-    },
-    {
-      "title": "National Geographic recomandă Transilvania și include Brașovul pe traseul „ideal” pentru...",
-      "url": "https://transilvania365.ro/national-geographic-recomanda-transilvania-si-include-brasovul-pe-traseul-ideal-pentru-o-vacanta-de-toamna/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-06T12:49:27+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi ITM Brașov: Amenzi de 760.000 de lei aplicate angajatorilor în luna septembrie",
-      "url": "https://www.brasov.net/itm-brasov-amenzi-de-760-000-de-lei-aplicate-angajatorilor-in-luna-septembrie/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-06T12:27:47+03:00"
-    },
-    {
-      "title": "Castelul Peleș, Transfăgărășanul şi Delta Dunării ajung pe străzile din Sevilla",
-      "url": "https://newsbv.ro/castelul-peles-pe-strazile-din-sevilla/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-06T12:10:34+03:00"
-    },
-    {
-      "title": "Săptămâna Verde și Școala Altfel la Dino Parc Râșnov. Geografia, biologia și istoria pot fi predate transdisciplinar",
-      "url": "https://newsbv.ro/saptamana-verde-si-scoala-altfel-la-dino-parc-rasnov/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-06T12:03:12+03:00"
     }
   ]
 }
