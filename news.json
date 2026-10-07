@@ -1,28 +1,91 @@
 {
-  "updated": "07.10.2026, 15:00",
-  "count": 92,
-  "raw_count": 104,
+  "updated": "07.10.2026, 16:00",
+  "count": 102,
+  "raw_count": 121,
   "items": [
     {
-      "title": "Un brașovean „șprițuit” s-a urcat la volanul unei mașini, deși nu avea permis de conducere, și a avariat două mașini pe strada Zorilor",
-      "url": "https://bizbrasov.ro/2026/10/07/brasov-volan-permis-strada-zorilor-masini/",
+      "title": "FOTO Zi memorabilă pentru Ritmologia Intervențională a Spitalului Județean Brașov cu o nouă premieră: Tehnologie de top, utilizată pentru prima dată în Europa de Est",
+      "url": "https://bizbrasov.ro/2026/10/07/brasov-zi-memorabila-spitalului-judetean/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-07T15:57:34+03:00"
+    },
+    {
+      "title": "Carta, Prejmer si Valea Viilor, trei comunitati unde infrastructura scolara va fi extinsa si modernizata prin investitii REGIO",
+      "url": "https://www.zmbv.ro/carta-prejmer-si-valea-viilor-trei-comunitati-unde-infrastructura-scolara-va-fi-extinsa-si-modernizata-prin-investitii-regio/07/10/2026/119341/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-07T15:57:26+03:00"
+    },
+    {
+      "title": "Aproape 1.900 de cazuri de infecții respiratorii raportate în județul Brașov într-o săptămână",
+      "url": "https://www.monitorulexpres.ro/2026/10/07/aproape-1-900-de-cazuri-de-infectii-respiratorii-raportate-in-judetul-brasov-intr-o-saptamana/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-07T15:49:27+03:00"
+    },
+    {
+      "title": "Guvernul României cumpără 12 elicoptere Airbus H225M care vor interacționa cu platforma IAR Ghimbav – Braşov",
+      "url": "https://mytex.ro/expres/guvernul-romaniei-cumpara-12-elicoptere-airbus-h225m-care-vor-interactiona-cu-platforma-iar-ghimbav-brasov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-07T15:43:58+03:00"
+    },
+    {
+      "title": "Prefectul Brașovului, după atacul mortal de la Hoghiz: „Majoritatea primarilor nu vor să dea ordin de împușcare a urșilor de teama ONG-urilor care-i amenință cu plângeri penale”",
+      "url": "https://bizbrasov.ro/2026/10/07/ursilor-prefectul-brasovului-dupa-atacul/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-07T15:00:07+03:00"
+      "published": "2026-10-07T15:27:32+03:00"
     },
     {
-      "title": "Percheziții în Ghimbav într-un dosar privind deținerea ilegală de arme. Polițiștii au ridicat două arme și articole pirotehnice",
-      "url": "https://www.monitorulexpres.ro/2026/10/07/perchezitii-in-ghimbav-intr-un-dosar-privind-detinerea-ilegala-de-arme-politistii-au-ridicat-doua-arme-si-articole-pirotehnice/",
+      "title": "Arme și substanțe pirotehnice deținute ilegal, descoperite de polițiști după 2 percheziții făcute astăzi în Ghimbav",
+      "url": "https://bizbrasov.ro/2026/10/07/arme-detinute-ilegal-ghimbav/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-07T15:24:47+03:00"
+    },
+    {
+      "title": "Bărbat condamnat pentru furt, încarcerat la Penitenciarul Codlea",
+      "url": "https://www.monitorulexpres.ro/2026/10/07/barbat-condamnat-pentru-furt-incarcerat-la-penitenciarul-codlea/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-07T15:21:51+03:00"
+    },
+    {
+      "title": "Cât ne costă minivacanța de 1 Decembrie 2026. Oferte de cazare și pachete speciale în stațiunile de pe Valea Prahovei și în Poiana Brașov",
+      "url": "https://bizbrasov.ro/2026/10/07/cost-minivacanta-decembrie-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-07T15:20:30+03:00"
+    },
+    {
+      "title": "Brașovean prins la volan fără permis și cu 0,71 mg/l alcool în aerul expirat. A avariat două mașini",
+      "url": "https://www.monitorulexpres.ro/2026/10/07/brasovean-prins-la-volan-fara-permis-si-cu-071-mg-l-alcool-in-aerul-expirat-a-avariat-doua-masini/",
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T14:57:21+03:00"
+      "published": "2026-10-07T15:13:23+03:00"
     },
     {
-      "title": "Arsenal descoperit la Ghimbav: pușcă, pistol, muniție și 133 de articole pirotehnice, ridicate de polițiști",
+      "title": "Se va întrerupe alimentarea cu energie electrică în mai multe localități din județul Brașov",
+      "url": "https://mytex.ro/expres/se-va-intrerupe-alimentarea-cu-energie-electrica-in-mai-multe-localitati-din-judetul-brasov-25/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-07T15:02:22+03:00"
+    },
+    {
+      "title": "Arsenal descoperit la Ghimbav: pușcă, pistol, muniție și 133 de articole pirotehnice, ridicate...",
       "url": "https://transilvania365.ro/arsenal-descoperit-la-ghimbav-pusca-pistol-munitie-si-133-de-articole-pirotehnice-ridicate-de-politisti/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-07T14:51:08+03:00"
+    },
+    {
+      "title": "Economic acum 20 de minute Majorare substanțială la IAR Brașov: Indemnizațiile membrilor CA cresc la 20.400 de lei brut",
+      "url": "https://www.brasov.net/majorare-substantiala-la-iar-brasov-indemnizatiile-membrilor-ca-cresc-la-20-400-de-lei-brut/",
+      "source": "Brașov.net",
+      "category": "💰 Business & economie",
+      "published": "2026-10-07T14:48:28+03:00"
     },
     {
       "title": "Ştiinţa Bucureşti – Corona Brașov se vede live. Cine transmite meciul care începe la ora 15.00",
@@ -81,6 +144,13 @@
       "published": "2026-10-07T13:03:43+03:00"
     },
     {
+      "title": "IKEA investește 130 de milioane de euro în deschiderea unor magazine în următorii trei ani. Brașovul nu este, însă, pe listă",
+      "url": "https://bizbrasov.ro/2026/10/07/ikea-investitii-romania-magazine-brasov/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-07T12:55:06+03:00"
+    },
+    {
       "title": "Râșnov sărbătorește 15 ani în circuitul internațional FIS!",
       "url": "https://www.monitorulexpres.ro/2026/10/07/rasnov-sarbatoreste-15-ani-in-circuitul-international-fis/",
       "source": "Monitorul Expres",
@@ -100,13 +170,6 @@
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-07T12:40:13+03:00"
-    },
-    {
-      "title": "Spitalul de Copii Brașov angajează medic psihiatru",
-      "url": "https://www.zmbv.ro/spitalul-de-copii-brasov-angajeaza-medic-psihiatru/07/10/2026/119332/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T12:18:44+03:00"
     },
     {
       "title": "Șofer Beat, Arestat la Făgăraș",
@@ -144,6 +207,13 @@
       "published": "2026-10-07T12:08:51+03:00"
     },
     {
+      "title": "Fapt divers acum 3 ore Pericol pe străzile din Făgăraș: Un bărbat cu 3,24 g/l alcool în sânge a fost trimis direct în arest",
+      "url": "https://www.brasov.net/pericol-pe-strazile-din-fagaras-un-barbat-cu-324-g-l-alcool-in-sange-a-fost-trimis-direct-in-arest/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-07T12:02:43+03:00"
+    },
+    {
       "title": "Tinerii din Poiana Mărului luptă în finala națională pentru a aduce primul titlu de „Sat European de Tineret” în județul Brașov",
       "url": "https://bizbrasov.ro/2026/10/07/poiana-marului-tinerii-finala-nationala/",
       "source": "BizBrașov",
@@ -151,18 +221,18 @@
       "published": "2026-10-07T11:37:07+03:00"
     },
     {
+      "title": "Spitalul de Copii Brașov caută medic psihiatru",
+      "url": "https://transilvania365.ro/spitalul-de-copii-brasov-cauta-medic-psihiatru/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-07T11:28:37+03:00"
+    },
+    {
       "title": "Războiul de la orizont ajunge direct în rezervor: De ce dronele din Marea Neagră ne scumpesc plinul la Brașov",
       "url": "https://mytex.ro/economic/razboiul-de-la-orizont-ajunge-direct-in-rezervor-de-ce-dronele-din-marea-neagra-ne-scumpesc-plinul-la-brasov/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-07T11:11:33+03:00"
-    },
-    {
-      "title": "Ministrul brașovean al Economiei vine cu vești bune pentru administratorii IAR Brașov. Le-a majorat indemnizațiile la 20.400 de lei brut",
-      "url": "https://bizbrasov.ro/2026/10/07/economie-iar-brasov-majorat-indemnizatii/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T11:04:43+03:00"
     },
     {
       "title": "Prins băut la volan în Făgăraș, cu o alcoolemie de 3,24 g/l. Avea și permisul suspendat",
@@ -333,13 +403,6 @@
       "published": "2026-10-07T06:36:26+03:00"
     },
     {
-      "title": "Conductă de gaze protejată în comuna Cristian",
-      "url": "https://www.zmbv.ro/conducta-de-gaze-protejata-in-comuna-cristian/07/10/2026/119294/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T06:15:10+03:00"
-    },
-    {
       "title": "Brașovul își face o nouă „fotografie” de la înălțime. Primăria investește 240.000 de lei într-o hartă digitală detaliată",
       "url": "https://bizbrasov.ro/2026/10/07/brasov-fotografie-inaltime-primaria/",
       "source": "BizBrașov",
@@ -452,11 +515,11 @@
       "published": "2026-10-06T17:41:21+03:00"
     },
     {
-      "title": "VIDEO. Accident cu patru mașini pe Calea Făgărașului din Brașov. O...",
-      "url": "https://transilvania365.ro/video-accident-cu-patru-masini-pe-calea-fagarasului-din-brasov-o-persoana-a-fost-ranita/",
-      "source": "Transilvania365",
+      "title": "Fapt divers acum 22 de ore Accident cu 4 mașini pe Calea Făgărașului din Brașov: O persoană a fost rănită",
+      "url": "https://www.brasov.net/accident-cu-4-masini-pe-calea-fagarasului-din-brasov-o-persoana-a-fost-ranita/",
+      "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-06T16:58:34+03:00"
+      "published": "2026-10-06T17:05:22+03:00"
     },
     {
       "title": "BRAȘOV | Carambol pe Calea Făgărașului!",
@@ -536,6 +599,13 @@
       "published": "2026-10-06T12:49:27+03:00"
     },
     {
+      "title": "Fapt divers acum o zi ITM Brașov: Amenzi de 760.000 de lei aplicate angajatorilor în luna septembrie",
+      "url": "https://www.brasov.net/itm-brasov-amenzi-de-760-000-de-lei-aplicate-angajatorilor-in-luna-septembrie/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-06T12:27:47+03:00"
+    },
+    {
       "title": "Castelul Peleș, Transfăgărășanul şi Delta Dunării ajung pe străzile din Sevilla",
       "url": "https://newsbv.ro/castelul-peles-pe-strazile-din-sevilla/",
       "source": "NewsBV",
@@ -585,11 +655,11 @@
       "published": "2026-10-06T11:12:52+03:00"
     },
     {
-      "title": "Rheinmetall pregătește fabrica de pulberi de la Victoria. Statul negociază ultimele...",
-      "url": "https://transilvania365.ro/rheinmetall-pregateste-fabrica-de-pulberi-de-la-victoria-statul-negociaza-ultimele-detalii-ale-investitiei-de-peste-500-de-milioane-de-euro/",
-      "source": "Transilvania365",
-      "category": "💰 Business & economie",
-      "published": "2026-10-06T10:46:15+03:00"
+      "title": "Eveniment acum o zi Finala Campionatului Național de Viteză în Coastă 2026 se decide la Brașov",
+      "url": "https://www.brasov.net/finala-campionatului-national-de-viteza-in-coasta-2026-se-decide-la-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-06T11:09:30+03:00"
     },
     {
       "title": "Circulație îngreunată spre Prejmer, în urma unui accident care a avut loc în această dimineață. O mașină este ieșită în „decor”",
