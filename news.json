@@ -1,8 +1,15 @@
 {
-  "updated": "09.10.2026, 00:00",
-  "count": 85,
-  "raw_count": 100,
+  "updated": "09.10.2026, 01:00",
+  "count": 81,
+  "raw_count": 93,
   "items": [
+    {
+      "title": "Conducători auto cercetați penal, după ce au fost depistați încălcând diferite norme rutiere în Brașov",
+      "url": "https://brasovstiri.ro/conducatori-auto-cercetati-penal-dupa-ce-au-fost-depistati-incalcand-diferite-norme-rutiere-in-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-09T00:22:00+03:00"
+    },
     {
       "title": "Conferința „Tinerii Schimbă Lumea” are loc vineri, la Brașov. Peste 150 de liceeni sunt așteptați la eveniment",
       "url": "https://transilvania365.ro/conferinta-tinerii-schimba-lumea-are-loc-vineri-la-brasov-peste-150-de-liceeni-sunt-asteptati-la-eveniment/",
@@ -431,13 +438,6 @@
       "published": "2026-10-08T07:46:54+03:00"
     },
     {
-      "title": "Cât mai costă să alimentezi la Brașov: benzina a ajuns la 10,15 lei, iar motorina la 10,92 lei",
-      "url": "https://brasovstiri.ro/cat-mai-costa-sa-alimentezi-la-brasov-benzina-a-ajuns-la-1015-lei-iar-motorina-la-1092-lei/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T07:46:38+03:00"
-    },
-    {
       "title": "Râșnov, 15 ani în circuitul internațional FIS",
       "url": "https://newsbv.ro/rasnov-15-ani-in-circuitul-international-fis/",
       "source": "NewsBV",
@@ -450,27 +450,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-08T05:38:00+03:00"
-    },
-    {
-      "title": "Brașovul, pe locul al treilea în topul destinațiilor turistice din primele opt luni ale anului",
-      "url": "https://brasovstiri.ro/brasovul-pe-locul-al-treilea-in-topul-destinatiilor-turistice-din-primele-opt-luni-ale-anului/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T02:53:00+03:00"
-    },
-    {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
-      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
-      "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
-      "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
-      "source": "Brașov Știri",
-      "category": "💰 Business & economie",
-      "published": "2026-10-08T01:49:00+03:00"
     },
     {
       "title": "Indemnizațiile CA la IAR Brașov cresc semnificativ",
@@ -520,6 +499,13 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-07T17:38:52+03:00"
+    },
+    {
+      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, vine la Brașov",
+      "url": "https://bizbrasov.ro/2026/10/07/brasov-bach-proiect-muzicii-baroce-vine/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-07T17:18:41+03:00"
     },
     {
       "title": "Corona Brașov, prima victorie în Liga Florilor. Succes la scor pe terenul „lanternei”",
@@ -583,20 +569,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-07T13:38:48+03:00"
-    },
-    {
-      "title": "Hotelul Bielmann din Sânpetru își caută în continuare cumpărător. Care este...",
-      "url": "https://transilvania365.ro/hotelul-bielmann-din-sanpetru-isi-cauta-in-continuare-cumparator-care-este-pretul-de-vanzare/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-07T12:49:32+03:00"
-    },
-    {
-      "title": "Corona Brașov, start în noul sezon al voleiului românesc",
-      "url": "https://mytex.ro/sport/corona-brasov-start-in-noul-sezon-volei/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-07T12:08:51+03:00"
     }
   ]
 }
