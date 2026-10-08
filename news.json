@@ -1,8 +1,15 @@
 {
-  "updated": "08.10.2026, 16:38",
-  "count": 92,
-  "raw_count": 106,
+  "updated": "08.10.2026, 17:00",
+  "count": 90,
+  "raw_count": 105,
   "items": [
+    {
+      "title": "Amendă record de 100.000 de lei pentru un șantier neautorizat la Râșnov",
+      "url": "https://www.brasov.net/amenda-record-de-100-000-de-lei-pentru-un-santier-neautorizat-la-rasnov/",
+      "source": "Brașov.net",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-08T16:37:24+03:00"
+    },
     {
       "title": "Primarul comunei Părău, trimis în judecată de DNA Brașov pentru luare de mită, abuz în serviciu și delapidare",
       "url": "https://mytex.ro/delicte/primarul-comunei-parau-trimis-in-judecata-de-dna-brasov-pentru-luare-de-mita-abuz-in-serviciu-si-delapidare/",
@@ -11,21 +18,14 @@
       "published": "2026-10-08T16:34:04+03:00"
     },
     {
-      "title": "FOTO / Salvamont Râșnov, la datorie: Traseul Glăjerie – Poiana Izvoarelor a fost curățat și marcat corespunzător",
+      "title": "Turism acum 15 minute FOTO / Salvamont Râșnov, la datorie: Traseul Glăjerie – Poiana Izvoarelor a fost curățat și marcat corespunzător",
       "url": "https://www.brasov.net/foto-salvamont-rasnov-la-datorie-traseul-glajerie-poiana-izvoarelor-a-fost-curatat-si-marcat-corespunzator/",
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-08T16:25:57+03:00"
     },
     {
-      "title": "VIDEO Construcțiile fără autorizație nu sunt tolerate la Râșnov. Lucrări ilegale sistate, amendă de până la 100.000 de lei",
-      "url": "https://newsbv.ro/constructii-rasnov-lucrari/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T15:47:59+03:00"
-    },
-    {
-      "title": "Fapt divers acum 42 de minute Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "title": "Fapt divers acum 55 de minute Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
       "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -46,7 +46,7 @@
       "published": "2026-10-08T15:43:58+03:00"
     },
     {
-      "title": "Eveniment acum 47 de minute Literele Brașov iluminate în tricolor pentru eroii din 1916",
+      "title": "Eveniment acum 60 de minute Literele Brașov iluminate în tricolor pentru eroii din 1916",
       "url": "https://www.brasov.net/literele-brasov-iluminate-in-tricolor-pentru-eroii-din-1916/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -116,13 +116,6 @@
       "published": "2026-10-08T13:30:55+03:00"
     },
     {
-      "title": "Social acum 3 ore VIDEO / Gest de onestitate la Brașov: Un polițist a recuperat și returnat portofelul unui muncitor nepalez",
-      "url": "https://www.brasov.net/video-gest-de-onestitate-la-brasov-un-politist-a-recuperat-si-returnat-portofelul-unui-muncitor-nepalez/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-08T13:26:03+03:00"
-    },
-    {
       "title": "UPDATE | BRAȘOV. Accident grav pe DN 1, între Perșani și Vlădeni. Șofer în stop cardiorespirator",
       "url": "https://mytex.ro/112/update-brasov-accident-grav-pe-dn-1-intre-persani-si-vladeni-sofer-in-stop-cardiorespirator/",
       "source": "MyTex",
@@ -135,13 +128,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-08T13:13:58+03:00"
-    },
-    {
-      "title": "Jandarmeria Brașov trece la „energia verde”: Proiect Regio Centru pentru eficiența energetică a clădirilor",
-      "url": "https://bizbrasov.ro/2026/10/08/brasov-jandarmeria-trece-la-energia-verde/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T13:11:48+03:00"
     },
     {
       "title": "VIDEO Lecția de omenie de la Brașov: Cum și-a recuperat un livrator din Nepal economiile pierdute la bancomat",
