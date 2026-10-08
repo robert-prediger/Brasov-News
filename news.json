@@ -1,7 +1,7 @@
 {
-  "updated": "09.10.2026, 01:00",
-  "count": 81,
-  "raw_count": 93,
+  "updated": "09.10.2026, 02:00",
+  "count": 78,
+  "raw_count": 89,
   "items": [
     {
       "title": "Conducători auto cercetați penal, după ce au fost depistați încălcând diferite norme rutiere în Brașov",
@@ -23,13 +23,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-08T22:17:05+03:00"
-    },
-    {
-      "title": "Construcții ilegale la Râșnov, amendă de 100.000 lei",
-      "url": "https://www.zmbv.ro/constructii-ilegale-la-rasnov-amenda-de-100-000-lei/08/10/2026/119450/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-10-08T22:16:24+03:00"
     },
     {
       "title": "FOTO Jandarmii brașoveni, loviți cu sticle și obiecte de mobilier urban la un meci de fotbal disputat la Sibiu",
@@ -142,6 +135,13 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-08T15:41:40+03:00"
+    },
+    {
+      "title": "VIDEO Șantier ilegal într-o zonă împădurită din Râșnov. Va fi aplicată amenda maximă prevăzută de lege, 100.000 de lei",
+      "url": "https://bizbrasov.ro/2026/10/08/santier-ilegal-rasnov-amenda-maxim/",
+      "source": "BizBrașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-08T15:33:03+03:00"
     },
     {
       "title": "Cutremur cu magnitudinea 3,4, la 53 de kilometri de Brașov",
@@ -319,13 +319,6 @@
       "published": "2026-10-08T11:29:01+03:00"
     },
     {
-      "title": "Ștafeta Veteranilor străbate România și ajunge la Brașov",
-      "url": "https://brasovstiri.ro/stafeta-veteranilor-strabate-romania-si-ajunge-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T11:21:03+03:00"
-    },
-    {
       "title": "Proiect de peste 5,8 milioane lei la Jandarmeria Brașov: Două clădiri ale IJJ vor fi reabilitate termic prin fonduri europene",
       "url": "https://mytex.ro/expres/proiect-de-peste-58-milioane-lei-la-jandarmeria-brasov-doua-cladiri-ale-ijj-vor-fi-reabilitate-termic-prin-fonduri-europene/",
       "source": "MyTex",
@@ -452,13 +445,6 @@
       "published": "2026-10-08T05:38:00+03:00"
     },
     {
-      "title": "Indemnizațiile CA la IAR Brașov cresc semnificativ",
-      "url": "https://www.zmbv.ro/indemnizatiile-ca-la-iar-brasov-cresc-semnificativ/08/10/2026/119374/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:14:45+03:00"
-    },
-    {
       "title": "Pompierii voluntari din Cristian pleacă în Germania. Schimb de experiență cu colegii din „Neustadt în Europa”",
       "url": "https://newsbv.ro/pompierii-voluntari-cristian-germania-neustadt-europa/",
       "source": "NewsBV",
@@ -562,13 +548,6 @@
       "source": "BizBrașov",
       "category": "💰 Business & economie",
       "published": "2026-10-07T14:02:27+03:00"
-    },
-    {
-      "title": "Semafoarele cu radar din Brașov au devenit model și pentru alte mari orașe din țară. Soluția temperării șoferilor vitezomani prin orașe, prezentată la Smart Urban Mobility",
-      "url": "https://bizbrasov.ro/2026/10/07/semafoare-radar-brasov-model-orase-smart/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T13:38:48+03:00"
     }
   ]
 }
