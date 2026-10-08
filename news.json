@@ -1,8 +1,36 @@
 {
-  "updated": "08.10.2026, 14:00",
-  "count": 88,
-  "raw_count": 102,
+  "updated": "08.10.2026, 15:00",
+  "count": 84,
+  "raw_count": 97,
   "items": [
+    {
+      "title": "Un bărbat de 36 de ani a murit după ce a fost lovit de un tren, în Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/08/un-barbat-de-36-de-ani-a-murit-dupa-ce-a-fost-lovit-de-un-tren-in-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-08T14:53:27+03:00"
+    },
+    {
+      "title": "Veste uriașă pentru șoferi și turiști: Modernizarea DN 73 Brașov-Câmpulung Muscel, aproape gata după 15 ani de șantiere",
+      "url": "https://mytex.ro/expres/veste-uriasa-pentru-soferi-si-turisti-modernizarea-dn-73-brasov-campulung-muscel-aproape-gata-dupa-15-ani-de-santiere/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-08T14:53:01+03:00"
+    },
+    {
+      "title": "Brașov Heroes 2026: Peste 319.000 de lei strânși pentru 12 proiecte locale",
+      "url": "https://bizbrasov.ro/2026/10/08/brasov-heroes-319-000-stransi-proiecte/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-08T14:35:04+03:00"
+    },
+    {
+      "title": "CINE SUNT BRAȘOVENII CARE AU UMPLUT CASIERIA ORAȘULUI CU 290 DE MILIOANE DE LEI: Unde s-au blocat încasările și ce schimbări majore vin la impozite din 2027",
+      "url": "https://mytex.ro/economic/cine-sunt-brasovenii-care-au-umplut-casieria-orasului-cu-290-de-milioane-de-lei-unde-s-au-blocat-incasarile-si-ce-schimbari-majore-vin-la-impozite-din-2027/",
+      "source": "MyTex",
+      "category": "💰 Business & economie",
+      "published": "2026-10-08T14:18:05+03:00"
+    },
     {
       "title": "BRAȘOV | Incendiu la o fermă din Dumbrăvița!",
       "url": "https://mytex.ro/112/brasov-incendiu-la-o-ferma-din-dumbravita/",
@@ -18,7 +46,7 @@
       "published": "2026-10-08T13:45:36+03:00"
     },
     {
-      "title": "Cinci din șase pe podium! Teutonii Ghimbav dau lovitura la Naționale și pleacă în Polonia",
+      "title": "Cinci din șase pe podium! Teutonii Ghimbav dau lovitura la Naționale și pleacă...",
       "url": "https://transilvania365.ro/cinci-din-sase-pe-podium-teutonii-ghimbav-dau-lovitura-la-nationale-si-pleaca-in-polonia/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -88,7 +116,7 @@
       "published": "2026-10-08T12:44:04+03:00"
     },
     {
-      "title": "Se întâmplă la Brașov! Cum să lași, cu bună știință, în libertate, pe...",
+      "title": "Se întâmplă la Brașov! Cum să lași, cu bună știință, în...",
       "url": "https://transilvania365.ro/se-intampla-la-brasov-cum-sa-lasi-cu-buna-stiinta-in-libertate-pe-unul-care-a-omorat-doi-oameni/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -284,13 +312,6 @@
       "published": "2026-10-08T08:02:39+03:00"
     },
     {
-      "title": "Băncile pentru Alimente, inclusiv cea din Braşov, au salvat de la risipă peste 44.000 de tone de hrană",
-      "url": "https://newsbv.ro/bancile-pentru-alimente-salvat-risipa-alimente/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T07:46:54+03:00"
-    },
-    {
       "title": "Cât mai costă să alimentezi la Brașov: benzina a ajuns la 10,15 lei, iar motorina la 10,92 lei",
       "url": "https://brasovstiri.ro/cat-mai-costa-sa-alimentezi-la-brasov-benzina-a-ajuns-la-1015-lei-iar-motorina-la-1092-lei/",
       "source": "Brașov Știri",
@@ -303,13 +324,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-08T07:20:12+03:00"
-    },
-    {
-      "title": "Bursa locurilor de muncă pentru absolvenţi 2026, la AJOFM Braşov. Peste 16.000 de posturi disponibile la nivel naţional",
-      "url": "https://newsbv.ro/bursa-locurilor-de-munca-pentru-absolventi-ajofm-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T06:55:13+03:00"
     },
     {
       "title": "Municipiul Săcele plătește 120.000 de lei pentru a-și găsi „calea” de regenerare urbană. Gârcini, cartierele de blocuri și terenurile abandonate, pe lista de analiză",
@@ -354,13 +368,6 @@
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
-      "title": "Aproape 1.900 de îmbolnăviri la Brașov într-o singură săptămână. Cele mai multe au fost infecții respiratorii",
-      "url": "https://brasovstiri.ro/aproape-1-900-de-imbolnaviri-la-brasov-intr-o-singura-saptamana-cele-mai-multe-au-fost-infectii-respiratorii/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:42:00+03:00"
-    },
-    {
       "title": "Indemnizațiile CA la IAR Brașov cresc semnificativ",
       "url": "https://www.zmbv.ro/indemnizatiile-ca-la-iar-brasov-cresc-semnificativ/08/10/2026/119374/",
       "source": "Ziarul Metropolitan Brașov",
@@ -389,25 +396,11 @@
       "published": "2026-10-07T19:35:38+03:00"
     },
     {
-      "title": "Brandy, Cognac și Armagnac: cum citești corect eticheta",
-      "url": "https://mytex.ro/expres/brandy-cognac-si-armagnac-cum-citesti-corect-eticheta/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-07T19:05:27+03:00"
-    },
-    {
       "title": "Panoul care „orbește” Brașovul de ani buni. Poliția a văzut problema,...",
       "url": "https://transilvania365.ro/panoul-care-orbeste-brasovul-de-ani-buni-politia-a-vazut-problema-autoritatile-inca-o-privesc/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-07T18:26:02+03:00"
-    },
-    {
-      "title": "Fly Lili și amintirea amară de la Ghimbav: Mai are vreo șansă Aeroportul Brașov să redevină bază pentru compania lui Jürgen Faff?",
-      "url": "https://mytex.ro/expres/fly-lili-si-amintirea-amara-de-la-ghimbav-mai-are-vreo-sansa-aeroportul-brasov-sa-redevina-baza-pentru-compania-lui-jurgen-faff/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-07T17:51:48+03:00"
     },
     {
       "title": "Mai puține infecții respiratorii la Brașov, dar mai multe pneumonii la început de sezon, față de anul trecut",
@@ -422,13 +415,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-07T17:38:52+03:00"
-    },
-    {
-      "title": "Banii pentru alocații, indemnizații și stimulente pentru creșterea copiilor ajung joi în conturile brașovenilor",
-      "url": "https://www.monitorulexpres.ro/2026/10/07/banii-pentru-alocatii-indemnizatii-si-stimulente-pentru-cresterea-copiilor-ajung-joi-in-conturile-brasovenilor/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-07T16:46:40+03:00"
     },
     {
       "title": "Corona Brașov, prima victorie în Liga Florilor. Succes la scor pe terenul „lanternei”",
@@ -543,13 +529,6 @@
       "published": "2026-10-07T10:58:04+03:00"
     },
     {
-      "title": "Doi cățeluși simpatici intră în pregătire pentru viitoarele misiuni Salvamont Brașov",
-      "url": "https://transilvania365.ro/doi-catelusi-simpatici-intra-in-pregatire-pentru-viitoarele-misiuni-salvamont-brasov/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-07T10:54:29+03:00"
-    },
-    {
       "title": "HOCHEI: Corona Brașov, victorie clară contra CSM Galați",
       "url": "https://newsbv.ro/corona-brasov-victorie-clara-contra-csm-galati/",
       "source": "NewsBV",
@@ -597,13 +576,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-07T08:33:22+03:00"
-    },
-    {
-      "title": "Zilele Teatrului Particular Brașov aduce 3 seri de comedie la Centrul Cultural Reduta",
-      "url": "https://newsbv.ro/zilele-teatrului-particular-brasov-3-seri-comedie/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-07T06:36:26+03:00"
     },
     {
       "title": "Fosta SIF Transilvania și-a vândut participația majoritară la Mecanica Codlea. Cine a cumpărat pachetul de 81% din acțiuni și pentru ce sumă",
