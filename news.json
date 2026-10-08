@@ -1,8 +1,15 @@
 {
-  "updated": "08.10.2026, 02:00",
-  "count": 90,
-  "raw_count": 111,
+  "updated": "08.10.2026, 03:00",
+  "count": 88,
+  "raw_count": 109,
   "items": [
+    {
+      "title": "Brașovul, pe locul al treilea în topul destinațiilor turistice din primele opt luni ale anului",
+      "url": "https://brasovstiri.ro/brasovul-pe-locul-al-treilea-in-topul-destinatiilor-turistice-din-primele-opt-luni-ale-anului/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-08T02:53:00+03:00"
+    },
     {
       "title": "„Nesfârșitul Brâncuși” revine pe scena Reduta, într-un spectacol dedicat celor 150 de ani de la nașterea marelui sculptor",
       "url": "https://brasovstiri.ro/nesfarsitul-brancusi-revine-pe-scena-reduta-intr-un-spectacol-dedicat-celor-150-de-ani-de-la-nasterea-marelui-sculptor/",
@@ -11,17 +18,17 @@
       "published": "2026-10-08T01:59:00+03:00"
     },
     {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
-      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
       "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
       "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
       "source": "Brașov Știri",
       "category": "💰 Business & economie",
+      "published": "2026-10-08T01:49:00+03:00"
+    },
+    {
+      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
+      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
@@ -611,27 +618,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-06T15:11:56+03:00"
-    },
-    {
-      "title": "Corona Brașov joacă la Galați pentru primul loc",
-      "url": "https://transilvania365.ro/corona-brasov-joaca-la-galati-pentru-primul-loc/",
-      "source": "Transilvania365",
-      "category": "⚽ Sport",
-      "published": "2026-10-06T14:55:38+03:00"
-    },
-    {
-      "title": "Brașovul și Transilvania, în topul recomandărilor National Geographic pentru luna octombrie",
-      "url": "https://mytex.ro/turism/brasovul-si-transilvania-in-topul-recomandarilor-national-geographic-pentru-luna-octombrie/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-06T14:45:16+03:00"
-    },
-    {
-      "title": "81 de miliarde de lei și un paradox uriaș. Brașovul are...",
-      "url": "https://transilvania365.ro/81-de-miliarde-de-lei-si-un-paradox-urias-brasovul-are-afaceri-mai-mari-dar-pierde-oameni-si-profit/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-06T14:03:25+03:00"
     }
   ]
 }
