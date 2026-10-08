@@ -1,8 +1,15 @@
 {
-  "updated": "08.10.2026, 05:00",
-  "count": 82,
-  "raw_count": 101,
+  "updated": "08.10.2026, 06:00",
+  "count": 80,
+  "raw_count": 99,
   "items": [
+    {
+      "title": "Municipiul Săcele plătește 120.000 de lei pentru a-și găsi „calea” de regenerare urbană. Gârcini, cartierele de blocuri și terenurile abandonate, pe lista de analiză",
+      "url": "https://bizbrasov.ro/2026/10/08/sacele-regenerare-urbana-garcini-blocuri/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-08T05:38:00+03:00"
+    },
     {
       "title": "Brașovul cu iz vienez: Cafeaua cu multă frișcă, preferata localnicilor la sfârșit de secol XIX",
       "url": "https://bizbrasov.ro/2026/10/08/cafeaua-brasovul-iz-vienez-frisca-sfarsit/",
@@ -32,17 +39,17 @@
       "published": "2026-10-08T01:59:00+03:00"
     },
     {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
-      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
       "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
       "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
       "source": "Brașov Știri",
       "category": "💰 Business & economie",
+      "published": "2026-10-08T01:49:00+03:00"
+    },
+    {
+      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
+      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
@@ -515,13 +522,6 @@
       "published": "2026-10-07T06:36:26+03:00"
     },
     {
-      "title": "Brașovul își face o nouă „fotografie” de la înălțime. Primăria investește 240.000 de lei într-o hartă digitală detaliată",
-      "url": "https://bizbrasov.ro/2026/10/07/brasov-fotografie-inaltime-primaria/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T05:41:00+03:00"
-    },
-    {
       "title": "Fosta SIF Transilvania și-a vândut participația majoritară la Mecanica Codlea. Cine a cumpărat pachetul de 81% din acțiuni și pentru ce sumă",
       "url": "https://bizbrasov.ro/2026/10/07/sif-transilvania-mecanica-codlea/",
       "source": "BizBrașov",
@@ -562,20 +562,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-06T18:16:00+03:00"
-    },
-    {
-      "title": "BRAȘOV | Casa unei familii cu 5 copii, din Holbav, a ars! Apel pentru ajutor",
-      "url": "https://mytex.ro/112/brasov-casa-unei-familii-cu-5-copii-din-holbav-a-ars-apel-pentru-ajutor/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-06T17:41:21+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Accident cu 4 mașini pe Calea Făgărașului din Brașov: O persoană a fost rănită",
-      "url": "https://www.brasov.net/accident-cu-4-masini-pe-calea-fagarasului-din-brasov-o-persoana-a-fost-ranita/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-06T17:05:22+03:00"
     }
   ]
 }
