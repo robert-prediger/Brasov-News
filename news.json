@@ -1,8 +1,15 @@
 {
-  "updated": "08.10.2026, 22:30",
-  "count": 89,
-  "raw_count": 105,
+  "updated": "08.10.2026, 23:00",
+  "count": 83,
+  "raw_count": 96,
   "items": [
+    {
+      "title": "Conferința „Tinerii Schimbă Lumea” are loc vineri, la Brașov. Peste 150 de liceeni sunt așteptați la eveniment",
+      "url": "https://transilvania365.ro/conferinta-tinerii-schimba-lumea-are-loc-vineri-la-brasov-peste-150-de-liceeni-sunt-asteptati-la-eveniment/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-08T22:49:31+03:00"
+    },
     {
       "title": "Teutonii Ghimbav Strălucesc la Naționalele de Lupte",
       "url": "https://www.zmbv.ro/teutonii-ghimbav-stralucesc-la-nationalele-de-lupte/08/10/2026/119454/",
@@ -16,13 +23,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🏗️ Dezvoltare",
       "published": "2026-10-08T22:16:24+03:00"
-    },
-    {
-      "title": "FOTO Jandarmii brașoveni, loviți cu sticle și obiecte de mobilier urban la un meci de fotbal disputat la Sibiu",
-      "url": "https://newsbv.ro/jandarmi-sibiu-fotbal/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-08T22:07:05+03:00"
     },
     {
       "title": "Corona Brașov a condus cu 4-0, dar nu a luat 3 puncte din meciul cu Budapest Akademia",
@@ -51,6 +51,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-08T20:14:35+03:00"
+    },
+    {
+      "title": "Jandarmii brașoveni au fost agresați la Sibiu. Suporterii echipelor Steaua și Poli Timișoara au încercat „să-și arate mușchii” înainte de un meci de fotbal",
+      "url": "https://bizbrasov.ro/2026/10/08/jandarmii-agresati-la-sibiu/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-08T19:55:00+03:00"
     },
     {
       "title": "VIDEO Consiliul Județean Brașov, înconjurat astăzi de mașini de pompieri: cutremur urmat de un incendiu la centrala termică a instituției",
@@ -179,7 +186,7 @@
       "published": "2026-10-08T13:45:36+03:00"
     },
     {
-      "title": "Cinci din șase pe podium! Teutonii Ghimbav dau lovitura la Naționale și pleacă...",
+      "title": "Cinci din șase pe podium! Teutonii Ghimbav dau lovitura la Naționale...",
       "url": "https://transilvania365.ro/cinci-din-sase-pe-podium-teutonii-ghimbav-dau-lovitura-la-nationale-si-pleaca-in-polonia/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -261,13 +268,6 @@
       "source": "MyTex",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-08T12:25:43+03:00"
-    },
-    {
-      "title": "Teama de dosare penale și presiunea ONG-urilor. De ce evită primarii din Brașov să ordone împușcarea urșilor",
-      "url": "https://newsbv.ro/evita-primarii-din-brasov-sa-ordone-impuscarea-ursilor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T12:14:43+03:00"
     },
     {
       "title": "Vacanță All Inclusive: Smiley și Pavel Bartoș lasă tot și vin la Brașov!",
@@ -431,13 +431,6 @@
       "published": "2026-10-08T07:46:38+03:00"
     },
     {
-      "title": "Râșnov, 15 ani în circuitul internațional FIS",
-      "url": "https://newsbv.ro/rasnov-15-ani-in-circuitul-international-fis/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T07:20:12+03:00"
-    },
-    {
       "title": "Municipiul Săcele plătește 120.000 de lei pentru a-și găsi „calea” de regenerare urbană. Gârcini, cartierele de blocuri și terenurile abandonate, pe lista de analiză",
       "url": "https://bizbrasov.ro/2026/10/08/sacele-regenerare-urbana-garcini-blocuri/",
       "source": "BizBrașov",
@@ -452,17 +445,17 @@
       "published": "2026-10-08T02:53:00+03:00"
     },
     {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
-      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
       "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
       "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
       "source": "Brașov Știri",
       "category": "💰 Business & economie",
+      "published": "2026-10-08T01:49:00+03:00"
+    },
+    {
+      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
+      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
@@ -478,20 +471,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-07T20:43:42+03:00"
-    },
-    {
-      "title": "Primăria Ghimbav a scos la licitație modernizarea sensului giratoriu. Investiția depășește 1,26 milioane de lei",
-      "url": "https://newsbv.ro/sens-giratoriu-ghimbav-licitatie-modernizare/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T19:49:58+03:00"
-    },
-    {
-      "title": "Dan Tanasă, deputat AUR de Brașov, cere transparență totală pentru finanțarea ONG-urilor: „Dorim doar să știm cine le finanțează”",
-      "url": "https://newsbv.ro/dan-tanasa-deputat-aur-brasov-finantare-ong/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T19:35:38+03:00"
     },
     {
       "title": "Panoul care „orbește” Brașovul de ani buni. Poliția a văzut problema,...",
@@ -599,32 +578,11 @@
       "published": "2026-10-07T11:52:38+03:00"
     },
     {
-      "title": "Spitalul de Copii Brașov caută medic psihiatru",
-      "url": "https://transilvania365.ro/spitalul-de-copii-brasov-cauta-medic-psihiatru/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T11:28:37+03:00"
-    },
-    {
       "title": "Războiul de la orizont ajunge direct în rezervor: De ce dronele din Marea Neagră ne scumpesc plinul la Brașov",
       "url": "https://mytex.ro/economic/razboiul-de-la-orizont-ajunge-direct-in-rezervor-de-ce-dronele-din-marea-neagra-ne-scumpesc-plinul-la-brasov/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-07T11:11:33+03:00"
-    },
-    {
-      "title": "Irineu Darău a majorat de la 4.720 la 20.400 de lei indemnizaţiile membrilor CA al IAR Braşov",
-      "url": "https://newsbv.ro/indemnizatiile-membrilor-ca-al-iar-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T10:58:04+03:00"
-    },
-    {
-      "title": "HOCHEI: Corona Brașov, victorie clară contra CSM Galați",
-      "url": "https://newsbv.ro/corona-brasov-victorie-clara-contra-csm-galati/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-07T10:47:06+03:00"
     }
   ]
 }
