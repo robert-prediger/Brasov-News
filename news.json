@@ -1,8 +1,22 @@
 {
-  "updated": "08.10.2026, 21:00",
-  "count": 89,
-  "raw_count": 104,
+  "updated": "08.10.2026, 22:00",
+  "count": 88,
+  "raw_count": 103,
   "items": [
+    {
+      "title": "Corona Brașov a condus cu 4-0, dar nu a luat 3 puncte din meciul cu Budapest Akademia",
+      "url": "https://mytex.ro/sport/corona-brasov-a-condus-cu-4-0-dar/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-08T21:30:11+03:00"
+    },
+    {
+      "title": "Exercițiu ISU Brașov: Cutremur și incendiu simulat",
+      "url": "https://www.zmbv.ro/exercitiu-isu-brasov-cutremur-si-incendiu-simulat/08/10/2026/119430/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-08T21:14:34+03:00"
+    },
     {
       "title": "Spectacol „Nesfârșitul Brâncuși” la Brașov",
       "url": "https://www.zmbv.ro/spectacol-nesfarsitul-brancusi-la-brasov/08/10/2026/119428/",
@@ -431,17 +445,17 @@
       "published": "2026-10-08T02:53:00+03:00"
     },
     {
-      "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
-      "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
-      "source": "Brașov Știri",
-      "category": "💰 Business & economie",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
       "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
       "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
+      "published": "2026-10-08T01:49:00+03:00"
+    },
+    {
+      "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
+      "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
+      "source": "Brașov Știri",
+      "category": "💰 Business & economie",
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
@@ -604,27 +618,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-07T10:47:06+03:00"
-    },
-    {
-      "title": "Corona Braşov, nici o emoţie la Galaţi. Urmează 3 meciuri în Erste Liga la Patinoarul Olimpic",
-      "url": "https://mytex.ro/sport/corona-brasov-nici-o-emotie-la-galati/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-07T09:31:58+03:00"
-    },
-    {
-      "title": "BRAȘOV | Și-ar fi amenințat soția într-un magazin. Polițiștii au emis ordin de protecție",
-      "url": "https://mytex.ro/112/brasov-si-ar-fi-amenintat-sotia-intr-un-magazin-politistii-au-emis-ordin-de-protectie/",
-      "source": "MyTex",
-      "category": "💰 Business & economie",
-      "published": "2026-10-07T09:19:29+03:00"
-    },
-    {
-      "title": "Administrație acum o zi CJ Brașov investește 16,9 milioane de lei în energie verde pentru spitale, școli și aeroport",
-      "url": "https://www.brasov.net/cj-brasov-investeste-169-milioane-de-lei-in-energie-verde-pentru-spitale-scoli-si-aeroport/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T09:10:26+03:00"
     }
   ]
 }
