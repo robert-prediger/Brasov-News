@@ -1,8 +1,50 @@
 {
-  "updated": "08.10.2026, 15:00",
-  "count": 84,
-  "raw_count": 97,
+  "updated": "08.10.2026, 16:00",
+  "count": 82,
+  "raw_count": 93,
   "items": [
+    {
+      "title": "Fapt divers acum 10 minute Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-08T15:46:38+03:00"
+    },
+    {
+      "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
+      "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
+      "source": "Transilvania365",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-08T15:45:54+03:00"
+    },
+    {
+      "title": "Cimitirul Municipal Brașov va avea geolocalizare",
+      "url": "https://www.monitorulexpres.ro/2026/10/08/cimitirul-municipal-brasov-va-avea-geolocalizare/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-08T15:43:58+03:00"
+    },
+    {
+      "title": "Eveniment acum 15 minute Literele Brașov iluminate în tricolor pentru eroii din 1916",
+      "url": "https://www.brasov.net/literele-brasov-iluminate-in-tricolor-pentru-eroii-din-1916/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-08T15:41:40+03:00"
+    },
+    {
+      "title": "VIDEO Șantier ilegal într-o zonă împădurită din Râșnov. Va fi aplicată amenda maximă prevăzută de lege, 100.000 de lei",
+      "url": "https://bizbrasov.ro/2026/10/08/santier-ilegal-rasnov-amenda-maxim/",
+      "source": "BizBrașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-08T15:33:03+03:00"
+    },
+    {
+      "title": "Cutremur cu magnitudinea 3,4, la 53 de kilometri de Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/08/cutremur-cu-magnitudinea-34-la-53-de-kilometri-de-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-08T15:31:01+03:00"
+    },
     {
       "title": "Un bărbat de 36 de ani a murit după ce a fost lovit de un tren, în Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/08/un-barbat-de-36-de-ani-a-murit-dupa-ce-a-fost-lovit-de-un-tren-in-brasov/",
@@ -53,14 +95,14 @@
       "published": "2026-10-08T13:40:08+03:00"
     },
     {
-      "title": "Infracțiuni rutiere pe bandă rulantă în Brașov: Șoferi prinși băuți, cu numere expirate sau cu permisul suspendat",
+      "title": "Fapt divers acum 2 ore Infracțiuni rutiere pe bandă rulantă în Brașov: Șoferi prinși băuți, cu numere expirate sau cu permisul suspendat",
       "url": "https://www.brasov.net/infractiuni-rutiere-pe-banda-rulanta-in-brasov-soferi-prinsi-bauti-cu-numere-expirate-sau-cu-permisul-suspendat/",
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-08T13:30:55+03:00"
     },
     {
-      "title": "Social acum 12 minute VIDEO / Gest de onestitate la Brașov: Un polițist a recuperat și returnat portofelul unui muncitor nepalez",
+      "title": "Social acum 3 ore VIDEO / Gest de onestitate la Brașov: Un polițist a recuperat și returnat portofelul unui muncitor nepalez",
       "url": "https://www.brasov.net/video-gest-de-onestitate-la-brasov-un-politist-a-recuperat-si-returnat-portofelul-unui-muncitor-nepalez/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -123,7 +165,7 @@
       "published": "2026-10-08T12:42:44+03:00"
     },
     {
-      "title": "Eveniment acum o oră Șoferul care a ucis doi turiști la Brașov a fost trimis în judecată",
+      "title": "Eveniment acum 3 ore Șoferul care a ucis doi turiști la Brașov a fost trimis în judecată",
       "url": "https://www.brasov.net/soferul-care-a-ucis-doi-turisti-la-brasov-a-fost-trimis-in-judecata/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -142,13 +184,6 @@
       "source": "MyTex",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-08T12:25:43+03:00"
-    },
-    {
-      "title": "Teama de dosare penale și presiunea ONG-urilor. De ce evită primarii din Brașov să ordone împușcarea urșilor",
-      "url": "https://newsbv.ro/evita-primarii-din-brasov-sa-ordone-impuscarea-ursilor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T12:14:43+03:00"
     },
     {
       "title": "Vacanță All Inclusive: Smiley și Pavel Bartoș lasă tot și vin la Brașov!",
@@ -205,13 +240,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-08T10:58:21+03:00"
-    },
-    {
-      "title": "Finanțare nerambursabilă pentru eficiența energetică a clădirilor Jandarmeriei Brașov",
-      "url": "https://newsbv.ro/finantare-nerambursabila-jandarmeria-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T10:53:57+03:00"
     },
     {
       "title": "Spectacole de excepție la Teatrul „Sică Alexandrescu”: Patru piese de neratat în această săptămână la Brașov",
@@ -319,13 +347,6 @@
       "published": "2026-10-08T07:46:38+03:00"
     },
     {
-      "title": "Râșnov, 15 ani în circuitul internațional FIS",
-      "url": "https://newsbv.ro/rasnov-15-ani-in-circuitul-international-fis/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T07:20:12+03:00"
-    },
-    {
       "title": "Municipiul Săcele plătește 120.000 de lei pentru a-și găsi „calea” de regenerare urbană. Gârcini, cartierele de blocuri și terenurile abandonate, pe lista de analiză",
       "url": "https://bizbrasov.ro/2026/10/08/sacele-regenerare-urbana-garcini-blocuri/",
       "source": "BizBrașov",
@@ -373,27 +394,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-08T01:14:45+03:00"
-    },
-    {
-      "title": "Pompierii voluntari din Cristian pleacă în Germania. Schimb de experiență cu colegii din „Neustadt în Europa”",
-      "url": "https://newsbv.ro/pompierii-voluntari-cristian-germania-neustadt-europa/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T20:43:42+03:00"
-    },
-    {
-      "title": "Primăria Ghimbav a scos la licitație modernizarea sensului giratoriu. Investiția depășește 1,26 milioane de lei",
-      "url": "https://newsbv.ro/sens-giratoriu-ghimbav-licitatie-modernizare/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T19:49:58+03:00"
-    },
-    {
-      "title": "Dan Tanasă, deputat AUR de Brașov, cere transparență totală pentru finanțarea ONG-urilor: „Dorim doar să știm cine le finanțează”",
-      "url": "https://newsbv.ro/dan-tanasa-deputat-aur-brasov-finantare-ong/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T19:35:38+03:00"
     },
     {
       "title": "Panoul care „orbește” Brașovul de ani buni. Poliția a văzut problema,...",
@@ -450,13 +450,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-07T15:20:30+03:00"
-    },
-    {
-      "title": "Fapt divers acum 23 de ore Arme de foc și muniție deținute ilegal, confiscate în urma unor percheziții în Ghimbav",
-      "url": "https://www.brasov.net/arme-de-foc-si-munitie-detinute-ilegal-confiscate-in-urma-unor-perchezitii-in-ghimbav/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T15:03:16+03:00"
     },
     {
       "title": "Arsenal descoperit la Ghimbav: pușcă, pistol, muniție și 133 de articole...",
@@ -520,13 +513,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-07T11:11:33+03:00"
-    },
-    {
-      "title": "Irineu Darău a majorat de la 4.720 la 20.400 de lei indemnizaţiile membrilor CA al IAR Braşov",
-      "url": "https://newsbv.ro/indemnizatiile-membrilor-ca-al-iar-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T10:58:04+03:00"
     },
     {
       "title": "HOCHEI: Corona Brașov, victorie clară contra CSM Galați",
