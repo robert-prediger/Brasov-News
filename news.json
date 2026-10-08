@@ -1,14 +1,28 @@
 {
-  "updated": "08.10.2026, 17:00",
-  "count": 90,
-  "raw_count": 105,
+  "updated": "08.10.2026, 18:00",
+  "count": 88,
+  "raw_count": 103,
   "items": [
     {
-      "title": "Amendă record de 100.000 de lei pentru un șantier neautorizat la Râșnov",
-      "url": "https://www.brasov.net/amenda-record-de-100-000-de-lei-pentru-un-santier-neautorizat-la-rasnov/",
-      "source": "Brașov.net",
+      "title": "Spectacol de excepție la Brașov, cu ocazia împlinirii a 150 de ani de la nașterea lui Constantin Brâncuși",
+      "url": "https://bizbrasov.ro/2026/10/08/brasov-spectacol-de-exceptie-brancusi/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-08T17:44:43+03:00"
+    },
+    {
+      "title": "Volei masculin: Corona Brașov, eșec cu Dinamo",
+      "url": "https://www.monitorulexpres.ro/2026/10/08/volei-masculin-corona-brasov-esec-cu-dinamo/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-08T17:35:56+03:00"
+    },
+    {
+      "title": "BRAȘOV. Lucrări fără autorizație, continuate după un prim control pe șantier, la Râșnov: „Va fi aplicată amenda maximă prevăzută de lege, în valoare de 100.000 de lei”",
+      "url": "https://mytex.ro/expres/brasov-lucrari-fara-autorizatie-continuate-dupa-un-prim-control-pe-santier-la-rasnov-va-fi-aplicata-amenda-maxima-prevazuta-de-lege-in-valoare-de-100-000-de-lei/",
+      "source": "MyTex",
       "category": "🏗️ Dezvoltare",
-      "published": "2026-10-08T16:37:24+03:00"
+      "published": "2026-10-08T17:15:51+03:00"
     },
     {
       "title": "Primarul comunei Părău, trimis în judecată de DNA Brașov pentru luare de mită, abuz în serviciu și delapidare",
@@ -128,6 +142,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-08T13:13:58+03:00"
+    },
+    {
+      "title": "Jandarmeria Brașov trece la „energia verde”: Proiect Regio Centru pentru eficiența energetică a clădirilor",
+      "url": "https://bizbrasov.ro/2026/10/08/brasov-jandarmeria-trece-la-energia-verde/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-08T13:11:48+03:00"
     },
     {
       "title": "VIDEO Lecția de omenie de la Brașov: Cum și-a recuperat un livrator din Nepal economiile pierdute la bancomat",
@@ -396,13 +417,6 @@
       "published": "2026-10-08T02:53:00+03:00"
     },
     {
-      "title": "„Nesfârșitul Brâncuși” revine pe scena Reduta, într-un spectacol dedicat celor 150 de ani de la nașterea marelui sculptor",
-      "url": "https://brasovstiri.ro/nesfarsitul-brancusi-revine-pe-scena-reduta-intr-un-spectacol-dedicat-celor-150-de-ani-de-la-nasterea-marelui-sculptor/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-08T01:59:00+03:00"
-    },
-    {
       "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
       "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
       "source": "Brașov Știri",
@@ -422,13 +436,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-08T01:14:45+03:00"
-    },
-    {
-      "title": "Pompierii voluntari din Cristian pleacă în Germania. Schimb de experiență cu colegii din „Neustadt în Europa”",
-      "url": "https://newsbv.ro/pompierii-voluntari-cristian-germania-neustadt-europa/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-07T20:43:42+03:00"
     },
     {
       "title": "Primăria Ghimbav a scos la licitație modernizarea sensului giratoriu. Investiția depășește 1,26 milioane de lei",
@@ -578,13 +585,6 @@
       "published": "2026-10-07T10:47:06+03:00"
     },
     {
-      "title": "Percheziții în județul Brașov, după mitingul „oierilor” din 15 septembrie. Acuzații de instigare publică, ultraj, tulburarea ordinii și liniștii publice, distrugere și lovire sau alte violențe",
-      "url": "https://bizbrasov.ro/2026/10/07/perchezitii-mitingul-oierilor-violente/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T10:17:08+03:00"
-    },
-    {
       "title": "Corona Braşov, nici o emoţie la Galaţi. Urmează 3 meciuri în Erste Liga la Patinoarul Olimpic",
       "url": "https://mytex.ro/sport/corona-brasov-nici-o-emotie-la-galati/",
       "source": "MyTex",
@@ -618,20 +618,6 @@
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-07T06:36:26+03:00"
-    },
-    {
-      "title": "Fosta SIF Transilvania și-a vândut participația majoritară la Mecanica Codlea. Cine a cumpărat pachetul de 81% din acțiuni și pentru ce sumă",
-      "url": "https://bizbrasov.ro/2026/10/07/sif-transilvania-mecanica-codlea/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T05:40:00+03:00"
-    },
-    {
-      "title": "„Scut” de 793.000 de lei pentru o conductă de gaze din Cristian. Primăria protejează magistrala care traversează o noua zonă rezidențială",
-      "url": "https://bizbrasov.ro/2026/10/07/scut-conducta-gaze-cristian-primaria/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-07T05:38:00+03:00"
     }
   ]
 }
