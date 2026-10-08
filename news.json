@@ -1,8 +1,29 @@
 {
-  "updated": "08.10.2026, 22:00",
-  "count": 88,
-  "raw_count": 103,
+  "updated": "08.10.2026, 22:30",
+  "count": 89,
+  "raw_count": 105,
   "items": [
+    {
+      "title": "Teutonii Ghimbav Strălucesc la Naționalele de Lupte",
+      "url": "https://www.zmbv.ro/teutonii-ghimbav-stralucesc-la-nationalele-de-lupte/08/10/2026/119454/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-08T22:17:05+03:00"
+    },
+    {
+      "title": "Construcții ilegale la Râșnov, amendă de 100.000 lei",
+      "url": "https://www.zmbv.ro/constructii-ilegale-la-rasnov-amenda-de-100-000-lei/08/10/2026/119450/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-08T22:16:24+03:00"
+    },
+    {
+      "title": "FOTO Jandarmii brașoveni, loviți cu sticle și obiecte de mobilier urban la un meci de fotbal disputat la Sibiu",
+      "url": "https://newsbv.ro/jandarmi-sibiu-fotbal/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-08T22:07:05+03:00"
+    },
     {
       "title": "Corona Brașov a condus cu 4-0, dar nu a luat 3 puncte din meciul cu Budapest Akademia",
       "url": "https://mytex.ro/sport/corona-brasov-a-condus-cu-4-0-dar/",
@@ -18,18 +39,18 @@
       "published": "2026-10-08T21:14:34+03:00"
     },
     {
+      "title": "Eroii din „Bătălia Brașovului” au fost comemorați. Filele unei istorii tragice",
+      "url": "https://www.monitorulexpres.ro/2026/10/08/brasov-octombrie-1916-toamna-in-care-romania-era-sa-dispara/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-08T20:41:19+03:00"
+    },
+    {
       "title": "Spectacol „Nesfârșitul Brâncuși” la Brașov",
       "url": "https://www.zmbv.ro/spectacol-nesfarsitul-brancusi-la-brasov/08/10/2026/119428/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-08T20:14:35+03:00"
-    },
-    {
-      "title": "Jandarmii brașoveni au fost agresați la Sibiu. Suporterii echipelor Steaua și Poli Timișoara au încercat „să-și arate mușchii” înainte de un meci de fotbal",
-      "url": "https://bizbrasov.ro/2026/10/08/jandarmii-agresati-la-sibiu/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-08T19:55:00+03:00"
     },
     {
       "title": "VIDEO Consiliul Județean Brașov, înconjurat astăzi de mașini de pompieri: cutremur urmat de un incendiu la centrala termică a instituției",
@@ -107,13 +128,6 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-08T15:41:40+03:00"
-    },
-    {
-      "title": "VIDEO Șantier ilegal într-o zonă împădurită din Râșnov. Va fi aplicată amenda maximă prevăzută de lege, 100.000 de lei",
-      "url": "https://bizbrasov.ro/2026/10/08/santier-ilegal-rasnov-amenda-maxim/",
-      "source": "BizBrașov",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-10-08T15:33:03+03:00"
     },
     {
       "title": "Cutremur cu magnitudinea 3,4, la 53 de kilometri de Brașov",
@@ -429,13 +443,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-08T05:38:00+03:00"
-    },
-    {
-      "title": "Panou Publicitar Periculos Ignorat de Autorități la Brașov",
-      "url": "https://www.zmbv.ro/panou-publicitar-periculos-ignorat-de-autoritati-la-brasov/08/10/2026/119385/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T03:14:24+03:00"
     },
     {
       "title": "Brașovul, pe locul al treilea în topul destinațiilor turistice din primele opt luni ale anului",
