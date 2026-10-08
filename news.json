@@ -1,8 +1,50 @@
 {
-  "updated": "08.10.2026, 11:00",
-  "count": 75,
-  "raw_count": 81,
+  "updated": "08.10.2026, 12:00",
+  "count": 82,
+  "raw_count": 94,
   "items": [
+    {
+      "title": "Cimitirul municipal din Braşov va fi modernizat. Vor fi panouri interactive cu cod QR pentru a vedea unde e locul de veci",
+      "url": "https://newsbv.ro/cimitirul-municipal-din-brasov-va-fi-modernizat/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T11:50:13+03:00"
+    },
+    {
+      "title": "Adio căutări printre morminte! Cimitirul Municipal Brașov va avea hartă digitală și QR...",
+      "url": "https://transilvania365.ro/adio-cautari-printre-morminte-cimitirul-municipal-brasov-va-avea-harta-digitala-si-qr-code-pentru-fiecare-loc-de-veci/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-08T11:35:19+03:00"
+    },
+    {
+      "title": "Cum ajung produsele locale mai aproape de consumatori? Dialog între instituții publice, producători și societatea civilă la Brașov",
+      "url": "https://brasovstiri.ro/cum-ajung-produsele-locale-mai-aproape-de-consumatori-dialog-intre-institutii-publice-producatori-si-societatea-civila-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-08T11:29:01+03:00"
+    },
+    {
+      "title": "Ștafeta Veteranilor străbate România și ajunge la Brașov",
+      "url": "https://brasovstiri.ro/stafeta-veteranilor-strabate-romania-si-ajunge-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-08T11:21:03+03:00"
+    },
+    {
+      "title": "Proiect de peste 5,8 milioane lei la Jandarmeria Brașov: Două clădiri ale IJJ vor fi reabilitate termic prin fonduri europene",
+      "url": "https://mytex.ro/expres/proiect-de-peste-58-milioane-lei-la-jandarmeria-brasov-doua-cladiri-ale-ijj-vor-fi-reabilitate-termic-prin-fonduri-europene/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-08T11:14:27+03:00"
+    },
+    {
+      "title": "Tragedia de pe strada Mureșenilor din Brașov: Șoferul care a accidentat mortal doi pietoni, trimis în judecată. Rudele victimelor cer despăgubiri de milioane de lei",
+      "url": "https://bizbrasov.ro/2026/10/08/brasov-soferul-tragedia-muresenilor-strada/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-08T11:08:30+03:00"
+    },
     {
       "title": "Clienți Wolt din Brașov, lăsați fără mâncare și cu banii luați! Metoda prin care se fură comenzile chiar din mall: „Au mâncat-o ei!”",
       "url": "https://mytex.ro/expres/clienti-wolt-din-brasov-lasati-fara-mancare-si-cu-banii-luati-metoda-prin-care-se-fura-comenzile-chiar-din-mall-au-mancat-o-ei/",
@@ -11,11 +53,11 @@
       "published": "2026-10-08T10:58:21+03:00"
     },
     {
-      "title": "5,8 milioane de lei pentru Jandarmeria Brașov. Două clădiri vechi vor fi renovate cu bani europeni",
-      "url": "https://transilvania365.ro/58-milioane-de-lei-pentru-jandarmeria-brasov-doua-cladiri-vechi-vor-fi-renovate-cu-bani-europeni/",
-      "source": "Transilvania365",
-      "category": "💰 Business & economie",
-      "published": "2026-10-08T10:46:07+03:00"
+      "title": "Finanțare nerambursabilă pentru eficiența energetică a clădirilor Jandarmeriei Brașov",
+      "url": "https://newsbv.ro/finantare-nerambursabila-jandarmeria-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T10:53:57+03:00"
     },
     {
       "title": "Spectacole de excepție la Teatrul „Sică Alexandrescu”: Patru piese de neratat în această săptămână la Brașov",
@@ -25,13 +67,6 @@
       "published": "2026-10-08T10:32:05+03:00"
     },
     {
-      "title": "Cum ajung produsele locale mai aproape de consumatori? Dialog între instituții publice, producători și societatea civilă la Brașov",
-      "url": "https://transilvania365.ro/cum-ajung-produsele-locale-mai-aproape-de-consumatori-dialog-intre-institutii-publice-producatori-si-societatea-civila-la-brasov/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-08T10:25:54+03:00"
-    },
-    {
       "title": "Cum pot ajunge produsele locale din județul Brașov pe mesele elevilor și în piețele din oraș",
       "url": "https://bizbrasov.ro/2026/10/08/produse-locale-elevi-piete-brasov/",
       "source": "BizBrașov",
@@ -39,7 +74,7 @@
       "published": "2026-10-08T10:25:04+03:00"
     },
     {
-      "title": "Râșnovul își pregătește strategia de turism pentru următorii 10 ani. Primăria îi invită...",
+      "title": "Râșnovul își pregătește strategia de turism pentru următorii 10 ani. Primăria...",
       "url": "https://transilvania365.ro/rasnovul-isi-pregateste-strategia-de-turism-pentru-urmatorii-10-ani-primaria-ii-invita-pe-localnici-sa-spuna-ce-trebuie-schimbat/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
@@ -74,11 +109,11 @@
       "published": "2026-10-08T09:24:47+03:00"
     },
     {
-      "title": "Peste 1,2 milioane de lei pentru fluidizarea traficului la Ghimbav",
-      "url": "https://transilvania365.ro/peste-12-milioane-de-lei-pentru-fluidizarea-traficului-la-ghimbav/",
-      "source": "Transilvania365",
-      "category": "💰 Business & economie",
-      "published": "2026-10-08T08:54:03+03:00"
+      "title": "Noua lege a urșilor a intrat în vigoare. Câte exemplare pot fi recoltate în judeţul Braşov",
+      "url": "https://newsbv.ro/noua-lege-a-ursilor-a-intrat-in-vigoare/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T09:04:48+03:00"
     },
     {
       "title": "Pompierii voluntari din Cristian, în misiune europeană. Reprezentanții comunității participă la...",
@@ -86,13 +121,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-08T08:49:48+03:00"
-    },
-    {
-      "title": "Noua lege a urșilor a intrat în vigoare. Conform acesteia, în județul Brașov pot fi recoltate 71 de exemplare până la 31 decembrie 2026 și alte 71 în 2027",
-      "url": "https://bizbrasov.ro/2026/10/08/lege-a-ursilor-exemplare/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T08:44:11+03:00"
     },
     {
       "title": "Iarnă atipică în Europa sub amprenta El Niño: Ce înseamnă prognozele de ploi și aer cald pentru Brașov și organizarea FOTE 2027",
@@ -130,11 +158,39 @@
       "published": "2026-10-08T08:02:39+03:00"
     },
     {
+      "title": "Băncile pentru Alimente, inclusiv cea din Braşov, au salvat de la risipă peste 44.000 de tone de hrană",
+      "url": "https://newsbv.ro/bancile-pentru-alimente-salvat-risipa-alimente/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T07:46:54+03:00"
+    },
+    {
       "title": "Cât mai costă să alimentezi la Brașov: benzina a ajuns la 10,15 lei, iar motorina la 10,92 lei",
       "url": "https://brasovstiri.ro/cat-mai-costa-sa-alimentezi-la-brasov-benzina-a-ajuns-la-1015-lei-iar-motorina-la-1092-lei/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-08T07:46:38+03:00"
+    },
+    {
+      "title": "Râșnov, 15 ani în circuitul internațional FIS",
+      "url": "https://newsbv.ro/rasnov-15-ani-in-circuitul-international-fis/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T07:20:12+03:00"
+    },
+    {
+      "title": "Bursa locurilor de muncă pentru absolvenţi 2026, la AJOFM Braşov. Peste 16.000 de posturi disponibile la nivel naţional",
+      "url": "https://newsbv.ro/bursa-locurilor-de-munca-pentru-absolventi-ajofm-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T06:55:13+03:00"
+    },
+    {
+      "title": "Cristian Bușoi: Facturile la gaze nu vor crește pentru consumatorii casnici. Cu cât se va scumpi electricitatea",
+      "url": "https://newsbv.ro/cristian-busoi-facturile-la-gaze-nu-vor-creste/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-08T06:26:16+03:00"
     },
     {
       "title": "Municipiul Săcele plătește 120.000 de lei pentru a-și găsi „calea” de regenerare urbană. Gârcini, cartierele de blocuri și terenurile abandonate, pe lista de analiză",
@@ -172,17 +228,17 @@
       "published": "2026-10-08T01:59:00+03:00"
     },
     {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
-      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-08T01:49:00+03:00"
-    },
-    {
       "title": "Brașovul depozitează aproape 90% din deșeuri. Ce prevede proiectul SMID de peste 185 de milioane de euro",
       "url": "https://brasovstiri.ro/brasovul-depoziteaza-aproape-90-din-deseuri-ce-prevede-proiectul-smid-de-peste-185-de-milioane-de-euro/",
       "source": "Brașov Știri",
       "category": "💰 Business & economie",
+      "published": "2026-10-08T01:49:00+03:00"
+    },
+    {
+      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, debutează la Brașov",
+      "url": "https://brasovstiri.ro/bach-2-0-un-proiect-dedicat-muzicii-baroce-si-clavecinului-debuteaza-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
       "published": "2026-10-08T01:49:00+03:00"
     },
     {
@@ -221,11 +277,11 @@
       "published": "2026-10-08T00:51:00+03:00"
     },
     {
-      "title": "Întâlniri neașteptate pe traseele din Zărnești. Mai mulți zimbri au apărut în zonă",
-      "url": "https://brasovstiri.ro/intalniri-neasteptate-pe-traseele-din-zarnesti-mai-multi-zimbri-au-aparut-in-zona/",
-      "source": "Brașov Știri",
+      "title": "Pompierii voluntari din Cristian pleacă în Germania. Schimb de experiență cu colegii din „Neustadt în Europa”",
+      "url": "https://newsbv.ro/pompierii-voluntari-cristian-germania-neustadt-europa/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-08T00:34:00+03:00"
+      "published": "2026-10-07T20:43:42+03:00"
     },
     {
       "title": "Percheziții și în Brașov, în dosarul violențelor de la protestul oierilor din Piața Victoriei",
@@ -233,6 +289,20 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-07T20:33:19+03:00"
+    },
+    {
+      "title": "Primăria Ghimbav a scos la licitație modernizarea sensului giratoriu. Investiția depășește 1,26 milioane de lei",
+      "url": "https://newsbv.ro/sens-giratoriu-ghimbav-licitatie-modernizare/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-07T19:49:58+03:00"
+    },
+    {
+      "title": "Dan Tanasă, deputat AUR de Brașov, cere transparență totală pentru finanțarea ONG-urilor: „Dorim doar să știm cine le finanțează”",
+      "url": "https://newsbv.ro/dan-tanasa-deputat-aur-brasov-finantare-ong/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-07T19:35:38+03:00"
     },
     {
       "title": "Brandy, Cognac și Armagnac: cum citești corect eticheta",
@@ -317,13 +387,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-07T15:43:58+03:00"
-    },
-    {
-      "title": "Prefectul Brașovului, după atacul mortal de la Hoghiz: „Majoritatea primarilor nu vor să dea ordin de împușcare a urșilor de teama ONG-urilor care-i amenință cu plângeri penale”",
-      "url": "https://bizbrasov.ro/2026/10/07/ursilor-prefectul-brasovului-dupa-atacul/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T15:27:32+03:00"
     },
     {
       "title": "Arme și substanțe pirotehnice deținute ilegal, descoperite de polițiști după 2 percheziții făcute astăzi în Ghimbav",
@@ -438,11 +501,11 @@
       "published": "2026-10-07T10:54:29+03:00"
     },
     {
-      "title": "Parc nou în Bartolomeu-Avantgarden: Primarul Brașovului anunță reamenajarea terenului de lângă Centrul CATTIA",
-      "url": "https://mytex.ro/expres/parc-nou-in-bartolomeu-avantgarden-primarul-brasovului-anunta-reamenajarea-terenului-de-langa-centrul-cattia/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-07T10:43:20+03:00"
+      "title": "HOCHEI: Corona Brașov, victorie clară contra CSM Galați",
+      "url": "https://newsbv.ro/corona-brasov-victorie-clara-contra-csm-galati/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-07T10:47:06+03:00"
     },
     {
       "title": "Percheziții în județul Brașov, după mitingul „oierilor” din 15 septembrie. Acuzații de instigare publică, ultraj, tulburarea ordinii și liniștii publice, distrugere și lovire sau alte violențe",
@@ -480,20 +543,6 @@
       "published": "2026-10-07T09:19:29+03:00"
     },
     {
-      "title": "Compania Apa Brașov, intervenții în mai multe zone. Conducte sparte și...",
-      "url": "https://transilvania365.ro/compania-apa-brasov-interventii-in-mai-multe-zone-conducte-sparte-si-lucrari-la-un-hidrant/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-07T09:02:50+03:00"
-    },
-    {
-      "title": "Parcul Național Făgăraș, peste capul oamenilor? Gheorghe Sucaciu: „ȚARA FĂGĂRAȘULUI...",
-      "url": "https://transilvania365.ro/parcul-national-fagaras-peste-capul-oamenilor-gheorghe-sucaciu-tara-fagarasului-nu-este-un-teren-gol-pe-harta/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-07T08:36:03+03:00"
-    },
-    {
       "title": "Conducerea lui Inter Sibiu, surprinsă de alegerea celor de la Corona Brașov înainte de meciul direct: „Un tertip al lor!”",
       "url": "https://mytex.ro/sport/conducerea-lui-inter-sibiu-surprinsa-de-alegerea-celor-de-la-corona-brasov-inainte-de-meciul-direct-un-tertip-al-lor/",
       "source": "MyTex",
@@ -501,18 +550,18 @@
       "published": "2026-10-07T08:33:22+03:00"
     },
     {
-      "title": "Târg de Brumărel în Piața Sfatului din Brașov",
-      "url": "https://transilvania365.ro/targ-de-brumarel-in-piata-sfatului-din-brasov/",
-      "source": "Transilvania365",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-07T08:14:27+03:00"
+      "title": "National Geographic recomandă România: Transilvania și Brașovul, printre destinațiile de vacanță în octombrie 2026",
+      "url": "https://newsbv.ro/national-geographic-recomanda-transilvania-si-brasovul/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-07T07:44:14+03:00"
     },
     {
-      "title": "Voleibalistele Coronei Brașov debutează în campionat sâmbătă, acasă!",
-      "url": "https://transilvania365.ro/voleibalistele-coronei-brasov-debuteaza-in-campionat-sambata-acasa/",
-      "source": "Transilvania365",
-      "category": "⚽ Sport",
-      "published": "2026-10-07T08:12:16+03:00"
+      "title": "Zilele Teatrului Particular Brașov aduce 3 seri de comedie la Centrul Cultural Reduta",
+      "url": "https://newsbv.ro/zilele-teatrului-particular-brasov-3-seri-comedie/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-07T06:36:26+03:00"
     },
     {
       "title": "Fosta SIF Transilvania și-a vândut participația majoritară la Mecanica Codlea. Cine a cumpărat pachetul de 81% din acțiuni și pentru ce sumă",
