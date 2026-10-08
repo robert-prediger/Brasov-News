@@ -1,8 +1,15 @@
 {
-  "updated": "08.10.2026, 20:00",
-  "count": 83,
-  "raw_count": 97,
+  "updated": "08.10.2026, 21:00",
+  "count": 89,
+  "raw_count": 104,
   "items": [
+    {
+      "title": "Spectacol „Nesfârșitul Brâncuși” la Brașov",
+      "url": "https://www.zmbv.ro/spectacol-nesfarsitul-brancusi-la-brasov/08/10/2026/119428/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-08T20:14:35+03:00"
+    },
     {
       "title": "Jandarmii brașoveni au fost agresați la Sibiu. Suporterii echipelor Steaua și Poli Timișoara au încercat „să-și arate mușchii” înainte de un meci de fotbal",
       "url": "https://bizbrasov.ro/2026/10/08/jandarmii-agresati-la-sibiu/",
@@ -53,6 +60,20 @@
       "published": "2026-10-08T16:34:04+03:00"
     },
     {
+      "title": "Turism acum 15 minute FOTO / Salvamont Râșnov, la datorie: Traseul Glăjerie – Poiana Izvoarelor a fost curățat și marcat corespunzător",
+      "url": "https://www.brasov.net/foto-salvamont-rasnov-la-datorie-traseul-glajerie-poiana-izvoarelor-a-fost-curatat-si-marcat-corespunzator/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-08T16:25:57+03:00"
+    },
+    {
+      "title": "Fapt divers acum 55 de minute Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-08T15:46:38+03:00"
+    },
+    {
       "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
       "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
       "source": "Transilvania365",
@@ -65,6 +86,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-08T15:43:58+03:00"
+    },
+    {
+      "title": "Eveniment acum 60 de minute Literele Brașov iluminate în tricolor pentru eroii din 1916",
+      "url": "https://www.brasov.net/literele-brasov-iluminate-in-tricolor-pentru-eroii-din-1916/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-08T15:41:40+03:00"
     },
     {
       "title": "VIDEO Șantier ilegal într-o zonă împădurită din Râșnov. Va fi aplicată amenda maximă prevăzută de lege, 100.000 de lei",
@@ -128,6 +156,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-08T13:40:08+03:00"
+    },
+    {
+      "title": "Fapt divers acum 3 ore Infracțiuni rutiere pe bandă rulantă în Brașov: Șoferi prinși băuți, cu numere expirate sau cu permisul suspendat",
+      "url": "https://www.brasov.net/infractiuni-rutiere-pe-banda-rulanta-in-brasov-soferi-prinsi-bauti-cu-numere-expirate-sau-cu-permisul-suspendat/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-08T13:30:55+03:00"
     },
     {
       "title": "UPDATE | BRAȘOV. Accident grav pe DN 1, între Perșani și Vlădeni. Șofer în stop cardiorespirator",
@@ -536,6 +571,13 @@
       "published": "2026-10-07T12:08:51+03:00"
     },
     {
+      "title": "Fapt divers acum o zi Brașovul se menține pe podiumul destinațiilor turistice din România în 2026",
+      "url": "https://www.brasov.net/brasovul-se-mentine-pe-podiumul-destinatiilor-turistice-din-romania-in-2026/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-07T11:52:38+03:00"
+    },
+    {
       "title": "Spitalul de Copii Brașov caută medic psihiatru",
       "url": "https://transilvania365.ro/spitalul-de-copii-brasov-cauta-medic-psihiatru/",
       "source": "Transilvania365",
@@ -578,11 +620,11 @@
       "published": "2026-10-07T09:19:29+03:00"
     },
     {
-      "title": "Conducerea lui Inter Sibiu, surprinsă de alegerea celor de la Corona Brașov înainte de meciul direct: „Un tertip al lor!”",
-      "url": "https://mytex.ro/sport/conducerea-lui-inter-sibiu-surprinsa-de-alegerea-celor-de-la-corona-brasov-inainte-de-meciul-direct-un-tertip-al-lor/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-07T08:33:22+03:00"
+      "title": "Administrație acum o zi CJ Brașov investește 16,9 milioane de lei în energie verde pentru spitale, școli și aeroport",
+      "url": "https://www.brasov.net/cj-brasov-investeste-169-milioane-de-lei-in-energie-verde-pentru-spitale-scoli-si-aeroport/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-07T09:10:26+03:00"
     }
   ]
 }
