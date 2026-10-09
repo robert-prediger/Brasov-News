@@ -1,8 +1,29 @@
 {
-  "updated": "09.10.2026, 23:00",
-  "count": 79,
-  "raw_count": 103,
+  "updated": "10.10.2026, 00:00",
+  "count": 82,
+  "raw_count": 111,
   "items": [
+    {
+      "title": "Încep Lucrările la Prima Pista de Biciclete din Brașov",
+      "url": "https://www.zmbv.ro/incep-lucrarile-la-prima-pista-de-biciclete-din-brasov/09/10/2026/119546/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T23:16:16+03:00"
+    },
+    {
+      "title": "Sute de Brașoveni la Bursa Locurilor de Muncă",
+      "url": "https://www.zmbv.ro/sute-de-brasoveni-la-bursa-locurilor-de-munca/09/10/2026/119540/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T23:15:32+03:00"
+    },
+    {
+      "title": "Subsolul Bibliotecii din Săcele devine spațiu cultural",
+      "url": "https://www.zmbv.ro/subsolul-bibliotecii-din-sacele-devine-spatiu-cultural/09/10/2026/119538/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T23:15:19+03:00"
+    },
     {
       "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
       "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
@@ -67,13 +88,6 @@
       "published": "2026-10-09T16:33:28+03:00"
     },
     {
-      "title": "Subsolul Bibliotecii Municipale din Săcele va fi transformat într-un spațiu socio-cultural",
-      "url": "https://newsbv.ro/subsolul-bibliotecii-municipale-din-sacele/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T16:00:22+03:00"
-    },
-    {
       "title": "Evenimente în Brașov în acest weekend: târguri, teatru și sport",
       "url": "https://newsbv.ro/evenimente-in-brasov-in-acest-weekend-targuri-teatru-si-sport/",
       "source": "NewsBV",
@@ -102,18 +116,11 @@
       "published": "2026-10-09T15:11:03+03:00"
     },
     {
-      "title": "BRAȘOV | Doi soți din Săcele, găsiți morți într-o mașină răsturnată pe un drum forestier",
-      "url": "https://mytex.ro/112/brasov-doi-soti-din-sacele-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
-      "source": "MyTex",
+      "title": "Eveniment acum 48 de minute Tragedie în apropiere de Săcele: doi soți, de 78 și 80 de ani, găsiți morți într-o mașină răsturnată pe un drum forestier",
+      "url": "https://www.brasov.net/tragedie-in-apropiere-de-sacele-doi-soti-de-78-si-80-de-ani-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
+      "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-10-09T14:54:21+03:00"
-    },
-    {
-      "title": "Încep lucrările la prima pistă de biciclete din Pădurile Parc ale Brașovului. Traseul...",
-      "url": "https://transilvania365.ro/incep-lucrarile-la-prima-pista-de-biciclete-din-padurile-parc-ale-brasovului-traseul-va-avea-8-kilometri/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T14:50:54+03:00"
+      "published": "2026-10-09T14:58:37+03:00"
     },
     {
       "title": "Update. BRAȘOV | Accident grav pe DN 13! Una dintre victime a decedat",
@@ -221,6 +228,20 @@
       "published": "2026-10-09T13:04:57+03:00"
     },
     {
+      "title": "Magia sărbătorilor revine: Când se deschide târgul de Crăciun din Brașov",
+      "url": "https://www.brasov.net/magia-sarbatorilor-revine-cand-se-deschide-targul-de-craciun-din-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:51+03:00"
+    },
+    {
+      "title": "Social acum 3 ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
+      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:36+03:00"
+    },
+    {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
       "url": "https://transilvania365.ro/cat-te-costa-o-cununie-civila-in-brasov-1-500-de-lei-pentru-o-ceremonie-in-aer-liber-primaria-vrea-sa-mentina-tarifele-in-2027/",
       "source": "Transilvania365",
@@ -240,13 +261,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-09T12:34:53+03:00"
-    },
-    {
-      "title": "Când se va deschide Târgul de Crăciun din Braşov",
-      "url": "https://newsbv.ro/cand-se-va-deschide-targul-de-craciun-din-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:26:45+03:00"
     },
     {
       "title": "100.000 de doze de vaccin BCG ajung la DSP-urile din țară, inclusiv la Brașov, până pe 13 octombrie",
@@ -310,13 +324,6 @@
       "source": "MyTex",
       "category": "🏗️ Dezvoltare",
       "published": "2026-10-09T10:32:11+03:00"
-    },
-    {
-      "title": "Reduceri la Transylvanian Food Market din Brașov",
-      "url": "https://www.zmbv.ro/reduceri-la-transylvanian-food-market-din-brasov/09/10/2026/119499/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T10:17:52+03:00"
     },
     {
       "title": "Alarmă pentru economia României și a județului Brașov: Construcțiile ne țin în viață, dar fabricile se închid. Ce se întâmplă în 2027 cu gazele din Marea Neagră și banii pentru apărare",
@@ -487,6 +494,13 @@
       "published": "2026-10-08T17:44:43+03:00"
     },
     {
+      "title": "Fapt divers acum 24 de ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-08T15:46:38+03:00"
+    },
+    {
       "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
       "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
       "source": "Transilvania365",
@@ -536,6 +550,13 @@
       "published": "2026-10-08T12:42:44+03:00"
     },
     {
+      "title": "Eveniment acum o zi Șoferul care a ucis doi turiști la Brașov a fost trimis în judecată",
+      "url": "https://www.brasov.net/soferul-care-a-ucis-doi-turisti-la-brasov-a-fost-trimis-in-judecata/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-08T12:34:13+03:00"
+    },
+    {
       "title": "BRAȘOV | Accident pe DN 1, între Perșani și Vlădeni. Impact între un autoturism și un TIR",
       "url": "https://mytex.ro/112/brasov-accident-pe-dn-1-intre-persani-si-vladeni-impact-intre-un-autoturism-si-un-tir/",
       "source": "MyTex",
@@ -543,18 +564,18 @@
       "published": "2026-10-08T12:29:19+03:00"
     },
     {
+      "title": "Administrație acum o zi Modernizare la Cimitirul Municipal Brașov: Sală nouă de priveghi și parcele reamenajate",
+      "url": "https://www.brasov.net/modernizare-la-cimitirul-municipal-brasov-sala-noua-de-priveghi-si-parcele-reamenajate/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-08T12:23:22+03:00"
+    },
+    {
       "title": "Smiley și Pavel Bartoș ajung la Brașov cu filmul „Vacanță All Inclusive”",
       "url": "https://brasovstiri.ro/smiley-si-pavel-bartos-ajung-la-brasov-cu-filmul-vacanta-all-inclusive/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-08T12:08:57+03:00"
-    },
-    {
-      "title": "Cimitirul municipal din Braşov va fi modernizat. Vor fi panouri interactive cu cod QR pentru a vedea unde e locul de veci",
-      "url": "https://newsbv.ro/cimitirul-municipal-din-brasov-va-fi-modernizat/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-08T11:50:13+03:00"
     }
   ]
 }
