@@ -1,7 +1,7 @@
 {
-  "updated": "09.10.2026, 22:02",
-  "count": 84,
-  "raw_count": 111,
+  "updated": "09.10.2026, 23:00",
+  "count": 79,
+  "raw_count": 103,
   "items": [
     {
       "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
@@ -102,11 +102,11 @@
       "published": "2026-10-09T15:11:03+03:00"
     },
     {
-      "title": "Eveniment acum 48 de minute Tragedie în apropiere de Săcele: doi soți, de 78 și 80 de ani, găsiți morți într-o mașină răsturnată pe un drum forestier",
-      "url": "https://www.brasov.net/tragedie-in-apropiere-de-sacele-doi-soti-de-78-si-80-de-ani-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
-      "source": "Brașov.net",
+      "title": "BRAȘOV | Doi soți din Săcele, găsiți morți într-o mașină răsturnată pe un drum forestier",
+      "url": "https://mytex.ro/112/brasov-doi-soti-din-sacele-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
+      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-09T14:58:37+03:00"
+      "published": "2026-10-09T14:54:21+03:00"
     },
     {
       "title": "Încep lucrările la prima pistă de biciclete din Pădurile Parc ale Brașovului. Traseul...",
@@ -221,20 +221,6 @@
       "published": "2026-10-09T13:04:57+03:00"
     },
     {
-      "title": "Magia sărbătorilor revine: Când se deschide târgul de Crăciun din Brașov",
-      "url": "https://www.brasov.net/magia-sarbatorilor-revine-cand-se-deschide-targul-de-craciun-din-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:55:51+03:00"
-    },
-    {
-      "title": "Social acum 3 ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
-      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:55:36+03:00"
-    },
-    {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
       "url": "https://transilvania365.ro/cat-te-costa-o-cununie-civila-in-brasov-1-500-de-lei-pentru-o-ceremonie-in-aer-liber-primaria-vrea-sa-mentina-tarifele-in-2027/",
       "source": "Transilvania365",
@@ -254,6 +240,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-09T12:34:53+03:00"
+    },
+    {
+      "title": "Când se va deschide Târgul de Crăciun din Braşov",
+      "url": "https://newsbv.ro/cand-se-va-deschide-targul-de-craciun-din-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:26:45+03:00"
     },
     {
       "title": "100.000 de doze de vaccin BCG ajung la DSP-urile din țară, inclusiv la Brașov, până pe 13 octombrie",
@@ -494,13 +487,6 @@
       "published": "2026-10-08T17:44:43+03:00"
     },
     {
-      "title": "Fapt divers acum 24 de ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
-      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-08T15:46:38+03:00"
-    },
-    {
       "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
       "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
       "source": "Transilvania365",
@@ -550,25 +536,11 @@
       "published": "2026-10-08T12:42:44+03:00"
     },
     {
-      "title": "Eveniment acum o zi Șoferul care a ucis doi turiști la Brașov a fost trimis în judecată",
-      "url": "https://www.brasov.net/soferul-care-a-ucis-doi-turisti-la-brasov-a-fost-trimis-in-judecata/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-08T12:34:13+03:00"
-    },
-    {
       "title": "BRAȘOV | Accident pe DN 1, între Perșani și Vlădeni. Impact între un autoturism și un TIR",
       "url": "https://mytex.ro/112/brasov-accident-pe-dn-1-intre-persani-si-vladeni-impact-intre-un-autoturism-si-un-tir/",
       "source": "MyTex",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-08T12:29:19+03:00"
-    },
-    {
-      "title": "Administrație acum o zi Modernizare la Cimitirul Municipal Brașov: Sală nouă de priveghi și parcele reamenajate",
-      "url": "https://www.brasov.net/modernizare-la-cimitirul-municipal-brasov-sala-noua-de-priveghi-si-parcele-reamenajate/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-08T12:23:22+03:00"
     },
     {
       "title": "Smiley și Pavel Bartoș ajung la Brașov cu filmul „Vacanță All Inclusive”",
@@ -583,13 +555,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-08T11:50:13+03:00"
-    },
-    {
-      "title": "Spectacole de excepție la Teatrul „Sică Alexandrescu”: Patru piese de neratat în această săptămână la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/08/teatru-spectacole-de-exceptie-oferta/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T10:32:05+03:00"
     }
   ]
 }
