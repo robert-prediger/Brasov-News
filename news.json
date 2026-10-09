@@ -1,8 +1,36 @@
 {
-  "updated": "09.10.2026, 05:00",
-  "count": 70,
-  "raw_count": 81,
+  "updated": "09.10.2026, 06:00",
+  "count": 69,
+  "raw_count": 80,
   "items": [
+    {
+      "title": "Primăria Brașov începe exproprierile pentru amenajarea noii rute de legătură Astra – Noua, printre halele vechii fabrici de camioane",
+      "url": "https://bizbrasov.ro/2026/10/09/primaria-brasov-exproprieri-rute-astra-noua/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-09T05:40:00+03:00"
+    },
+    {
+      "title": "Locuitorii de pe două străzi din Râșnov vor scăpa de inundații. Primăria investește în amenajarea rețelelor de captare a apei pluviale",
+      "url": "https://bizbrasov.ro/2026/10/09/strazi-rasnov-inundatii-primaria-pluvial/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-09T05:38:00+03:00"
+    },
+    {
+      "title": "Predealul continuă pregătirile pentru FOTE 2027. Undă verde pentru supravegherea lucrărilor la noua instalație de telescaun de pe Clăbucet",
+      "url": "https://bizbrasov.ro/2026/10/09/predeal-pregatiri-fote-telescaun/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-09T05:32:00+03:00"
+    },
+    {
+      "title": "STUDIU Brașovul, în topul celor mai ieftine city-break-uri din Europa. Cât cheltuie un turist într-o zi în orașul de la poalele Tâmpei",
+      "url": "https://bizbrasov.ro/2026/10/09/brasovul-topul-city-break-uri/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T05:17:00+03:00"
+    },
     {
       "title": "Conducători auto cercetați penal, după ce au fost depistați încălcând diferite norme rutiere în Brașov",
       "url": "https://brasovstiri.ro/conducatori-auto-cercetati-penal-dupa-ce-au-fost-depistati-incalcand-diferite-norme-rutiere-in-brasov/",
@@ -221,13 +249,6 @@
       "published": "2026-10-08T13:13:58+03:00"
     },
     {
-      "title": "Jandarmeria Brașov trece la „energia verde”: Proiect Regio Centru pentru eficiența energetică a clădirilor",
-      "url": "https://bizbrasov.ro/2026/10/08/brasov-jandarmeria-trece-la-energia-verde/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-08T13:11:48+03:00"
-    },
-    {
       "title": "VIDEO Lecția de omenie de la Brașov: Cum și-a recuperat un livrator din Nepal economiile pierdute la bancomat",
       "url": "https://bizbrasov.ro/2026/10/08/omenie-brasov-livrator-nepal-economii/",
       "source": "BizBrașov",
@@ -261,13 +282,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-08T12:42:44+03:00"
-    },
-    {
-      "title": "Controale pe șoselele din Brașov. Șoferi prinși cu alcool „la bord”, fără permis sau cu numere expirate la mașină",
-      "url": "https://bizbrasov.ro/2026/10/08/controale-sosele-brasov-alcool-numere/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-08T12:26:27+03:00"
     },
     {
       "title": "Modernizarea Cimitirului Municipal Brașov continuă: O nouă sală de priveghi, iluminat extins și o premieră digitală națională",
@@ -471,27 +485,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-07T18:26:02+03:00"
-    },
-    {
-      "title": "Mai puține infecții respiratorii la Brașov, dar mai multe pneumonii la început de sezon, față de anul trecut",
-      "url": "https://bizbrasov.ro/2026/10/07/brasov-infectii-respiratorii-pneumonii/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T17:50:33+03:00"
-    },
-    {
-      "title": "Brașovean fără permis, cu 0,71 mg/l alcool în aerul expirat, reținut după ce a lovit două mașini",
-      "url": "https://mytex.ro/112/brasovean-fara-permis-cu-071-mg-l-alcool-in-aerul-expirat-retinut-dupa-ce-a-lovit-doua-masini/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-07T17:38:52+03:00"
-    },
-    {
-      "title": "BACH 2.0, un proiect dedicat muzicii baroce și clavecinului, vine la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/07/brasov-bach-proiect-muzicii-baroce-vine/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-07T17:18:41+03:00"
     }
   ]
 }
