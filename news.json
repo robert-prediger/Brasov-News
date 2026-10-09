@@ -1,24 +1,66 @@
 {
-  "updated": "09.10.2026, 15:00",
-  "count": 87,
-  "raw_count": 108,
+  "updated": "09.10.2026, 16:00",
+  "count": 88,
+  "raw_count": 114,
   "items": [
     {
-      "title": "Tragedie în apropiere de Săcele: doi soți, de 78 și 80 de ani, găsiți morți într-o mașină răsturnată pe un drum forestier",
+      "title": "Subsolul Bibliotecii Municipale din Săcele va fi transformat într-un spațiu socio-cultural",
+      "url": "https://newsbv.ro/subsolul-bibliotecii-municipale-din-sacele/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-09T16:00:22+03:00"
+    },
+    {
+      "title": "FOTO O mașină de Poliție a rămas blocată în betonul proaspăt turnat pe o stradă din Brașov care era în lucru",
+      "url": "https://bizbrasov.ro/2026/10/09/masina-politie-blocata-beton-strada-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T15:56:21+03:00"
+    },
+    {
+      "title": "Evenimente în Brașov în acest weekend: târguri, teatru și sport",
+      "url": "https://newsbv.ro/evenimente-in-brasov-in-acest-weekend-targuri-teatru-si-sport/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-09T15:42:41+03:00"
+    },
+    {
+      "title": "Sute de brașoveni, în „cursa” pentru un job! 349 au fost selectați, dar câți vor fi angajați cu adevărat?",
+      "url": "https://transilvania365.ro/sute-de-brasoveni-in-cursa-pentru-un-job-349-au-fost-selectati-dar-cati-vor-fi-angajati-cu-adevarat/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-09T15:39:47+03:00"
+    },
+    {
+      "title": "Rusia și Belarus, la FOTE Brașov 2027, dar cu restricții! Ce a decis...",
+      "url": "https://transilvania365.ro/rusia-si-belarus-la-fote-brasov-2027-dar-cu-restrictii-ce-a-decis-comitetul-olimpic-european/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-09T15:18:41+03:00"
+    },
+    {
+      "title": "Târgul de Crăciun din Brașov: Deschidere pe 30 noiembrie",
+      "url": "https://www.zmbv.ro/targul-de-craciun-din-brasov-deschidere-pe-30-noiembrie/09/10/2026/119519/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T15:14:47+03:00"
+    },
+    {
+      "title": "Sebastian Rusu, deputat PNL de Brașov: „STOP DROGURI! Spun un NU hotărât proiectului de dezincriminare a consumului propriu”",
+      "url": "https://newsbv.ro/sebastian-rusu-impotriva-dezincriminarii-drogurilor/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-09T15:11:03+03:00"
+    },
+    {
+      "title": "Eveniment acum 48 de minute Tragedie în apropiere de Săcele: doi soți, de 78 și 80 de ani, găsiți morți într-o mașină răsturnată pe un drum forestier",
       "url": "https://www.brasov.net/tragedie-in-apropiere-de-sacele-doi-soti-de-78-si-80-de-ani-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-09T14:58:37+03:00"
     },
     {
-      "title": "S-au stabilit condiţiile de participare pentru sportivii din Rusia şi Belarus la FOTE Braşov 2027",
-      "url": "https://newsbv.ro/sportivi-din-rusia-si-belarus-la-fote/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T14:56:26+03:00"
-    },
-    {
-      "title": "Încep lucrările la prima pistă de biciclete din Pădurile Parc ale Brașovului. Traseul va avea 8 kilometri",
+      "title": "Încep lucrările la prima pistă de biciclete din Pădurile Parc ale Brașovului. Traseul...",
       "url": "https://transilvania365.ro/incep-lucrarile-la-prima-pista-de-biciclete-din-padurile-parc-ale-brasovului-traseul-va-avea-8-kilometri/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -39,7 +81,7 @@
       "published": "2026-10-09T14:42:54+03:00"
     },
     {
-      "title": "Sfârșit tragic pentru doi bătrâni din Săcele, dispăruți de trei zile! Găsiți morți...",
+      "title": "Sfârșit tragic pentru doi bătrâni din Săcele, dispăruți de trei zile!...",
       "url": "https://transilvania365.ro/sfarsit-tragi-pentru-doi-batrani-din-sacele-disparuti-de-trei-zile-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -60,14 +102,7 @@
       "published": "2026-10-09T14:15:12+03:00"
     },
     {
-      "title": "Brașovul recuperează terenul pierdut: Târgul de Crăciun se deschide pe 30 noiembrie, dar oferă o avanpremieră din 27! Detaliile unui sezon de poveste",
-      "url": "https://mytex.ro/expres/brasovul-recupereaza-terenul-pierdut-targul-de-craciun-se-deschide-pe-30-noiembrie-dar-ofera-o-avanpremiera-din-27-detaliile-unui-sezon-de-poveste/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-09T14:10:27+03:00"
-    },
-    {
-      "title": "Accident grav la ieșirea din Măieruș spre Rupea! Patru victime, două încarcerate și...",
+      "title": "Accident grav la ieșirea din Măieruș spre Rupea! Patru victime, două...",
       "url": "https://transilvania365.ro/accident-grav-la-iesirea-din-maierus-spre-rupea-patru-victime-doua-incarcerate-si-inconstiente/",
       "source": "Transilvania365",
       "category": "🚨 Evenimente / urgențe",
@@ -151,7 +186,7 @@
       "published": "2026-10-09T12:55:51+03:00"
     },
     {
-      "title": "Social acum 2 ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
+      "title": "Social acum 3 ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
       "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -226,13 +261,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-09T10:54:16+03:00"
-    },
-    {
-      "title": "FOTO Trasee montane mai sigure: Salvamont Râșnov a refăcut marcajele și a deblocat poteca spre Cabana Diham",
-      "url": "https://bizbrasov.ro/2026/10/09/trasee-montane-sigure-rasnov-cabana/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T10:54:12+03:00"
     },
     {
       "title": "Etapa 8 Liga 3 | Deplasări dificile pentru CSM Săcele și Kids Tâmpa Brașov",
@@ -368,13 +396,6 @@
       "published": "2026-10-09T08:14:35+03:00"
     },
     {
-      "title": "Sebastian Rusu, deputat PNL de Brașov, se opune dezincriminării consumului de...",
-      "url": "https://transilvania365.ro/sebastian-rusu-deputat-pnl-de-brasov-se-opune-dezincriminarii-consumului-de-droguri-stop-droguri/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T08:06:59+03:00"
-    },
-    {
       "title": "Bursa Locurilor de Muncă și Târgul de Cariere, astăzi, la Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/09/bursa-locurilor-de-munca-si-targul-de-cariere-astazi-la-brasov/",
       "source": "Monitorul Expres",
@@ -401,13 +422,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-09T05:38:00+03:00"
-    },
-    {
-      "title": "Predealul continuă pregătirile pentru FOTE 2027. Undă verde pentru supravegherea lucrărilor la noua instalație de telescaun de pe Clăbucet",
-      "url": "https://bizbrasov.ro/2026/10/09/predeal-pregatiri-fote-telescaun/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-09T05:32:00+03:00"
     },
     {
       "title": "STUDIU Brașovul, în topul celor mai ieftine city-break-uri din Europa. Cât cheltuie un turist într-o zi în orașul de la poalele Tâmpei",
@@ -480,7 +494,7 @@
       "published": "2026-10-08T16:34:04+03:00"
     },
     {
-      "title": "Fapt divers acum 23 de ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "title": "Fapt divers acum 24 de ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
       "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -569,13 +583,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-08T11:50:13+03:00"
-    },
-    {
-      "title": "Adio căutări printre morminte! Cimitirul Municipal Brașov va avea hartă digitală...",
-      "url": "https://transilvania365.ro/adio-cautari-printre-morminte-cimitirul-municipal-brasov-va-avea-harta-digitala-si-qr-code-pentru-fiecare-loc-de-veci/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-08T11:35:19+03:00"
     },
     {
       "title": "Spectacole de excepție la Teatrul „Sică Alexandrescu”: Patru piese de neratat în această săptămână la Brașov",
