@@ -1,7 +1,7 @@
 {
-  "updated": "10.10.2026, 01:00",
+  "updated": "10.10.2026, 02:00",
   "count": 76,
-  "raw_count": 102,
+  "raw_count": 104,
   "items": [
     {
       "title": "Plecaseră la o plimbare cu mașina. Doi vârstnici din Săcele au fost găsiți fără viață",
@@ -242,6 +242,20 @@
       "published": "2026-10-09T13:04:57+03:00"
     },
     {
+      "title": "Magia sărbătorilor revine: Când se deschide târgul de Crăciun din Brașov",
+      "url": "https://www.brasov.net/magia-sarbatorilor-revine-cand-se-deschide-targul-de-craciun-din-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:51+03:00"
+    },
+    {
+      "title": "Social acum 3 ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
+      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:36+03:00"
+    },
+    {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
       "url": "https://transilvania365.ro/cat-te-costa-o-cununie-civila-in-brasov-1-500-de-lei-pentru-o-ceremonie-in-aer-liber-primaria-vrea-sa-mentina-tarifele-in-2027/",
       "source": "Transilvania365",
@@ -261,13 +275,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-09T12:34:53+03:00"
-    },
-    {
-      "title": "Când se va deschide Târgul de Crăciun din Braşov",
-      "url": "https://newsbv.ro/cand-se-va-deschide-targul-de-craciun-din-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:26:45+03:00"
     },
     {
       "title": "100.000 de doze de vaccin BCG ajung la DSP-urile din țară, inclusiv la Brașov, până pe 13 octombrie",
@@ -501,6 +508,13 @@
       "published": "2026-10-08T17:44:43+03:00"
     },
     {
+      "title": "Fapt divers acum 24 de ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
+      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-08T15:46:38+03:00"
+    },
+    {
       "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
       "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
       "source": "Transilvania365",
@@ -520,20 +534,6 @@
       "source": "MyTex",
       "category": "💰 Business & economie",
       "published": "2026-10-08T14:18:05+03:00"
-    },
-    {
-      "title": "BRAȘOV | Incendiu la o fermă din Dumbrăvița!",
-      "url": "https://mytex.ro/112/brasov-incendiu-la-o-ferma-din-dumbravita/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-08T13:55:47+03:00"
-    },
-    {
-      "title": "Cinci din șase pe podium! Teutonii Ghimbav dau lovitura la Naționale...",
-      "url": "https://transilvania365.ro/cinci-din-sase-pe-podium-teutonii-ghimbav-dau-lovitura-la-nationale-si-pleaca-in-polonia/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-08T13:40:08+03:00"
     }
   ]
 }
