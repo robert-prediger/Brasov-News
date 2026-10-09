@@ -1,8 +1,15 @@
 {
-  "updated": "09.10.2026, 06:00",
-  "count": 69,
-  "raw_count": 80,
+  "updated": "09.10.2026, 07:00",
+  "count": 64,
+  "raw_count": 73,
   "items": [
+    {
+      "title": "ALERTĂ METEO! Când va ninge la Brașov / Răcire bruscă / ANM a făcut anunțul!",
+      "url": "https://mytex.ro/expres/alerta-meteo-cand-va-ninge-la-brasov-racire-brusca-anm-a-facut-anuntul/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-09T06:52:02+03:00"
+    },
     {
       "title": "Primăria Brașov începe exproprierile pentru amenajarea noii rute de legătură Astra – Noua, printre halele vechii fabrici de camioane",
       "url": "https://bizbrasov.ro/2026/10/09/primaria-brasov-exproprieri-rute-astra-noua/",
@@ -130,20 +137,6 @@
       "published": "2026-10-08T16:34:04+03:00"
     },
     {
-      "title": "Turism acum 12 ore FOTO / Salvamont Râșnov, la datorie: Traseul Glăjerie – Poiana Izvoarelor a fost curățat și marcat corespunzător",
-      "url": "https://www.brasov.net/foto-salvamont-rasnov-la-datorie-traseul-glajerie-poiana-izvoarelor-a-fost-curatat-si-marcat-corespunzator/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-08T16:25:57+03:00"
-    },
-    {
-      "title": "Fapt divers acum 13 ore Incendiu la o fermă din localitatea Dumbrăvița Un incendiu a izbucnit astăzi, în jurul orei 13:00, la o fermă agricolă situată în localitatea brașoveană Dumbrăvița. Flăcările au cuprins o hală cu o suprafață...",
-      "url": "https://www.brasov.net/incendiu-la-o-ferma-din-localitatea-dumbravita/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-08T15:46:38+03:00"
-    },
-    {
       "title": "VIDEO. Șmecherii din București s-au apucat de construcții ilegale la Râșnov",
       "url": "https://transilvania365.ro/video-smecherii-din-bucuresti-s-au-apucat-de-constructii-ilegale-la-rasnov/",
       "source": "Transilvania365",
@@ -156,13 +149,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-08T15:43:58+03:00"
-    },
-    {
-      "title": "Eveniment acum 13 ore Literele Brașov iluminate în tricolor pentru eroii din 1916",
-      "url": "https://www.brasov.net/literele-brasov-iluminate-in-tricolor-pentru-eroii-din-1916/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-08T15:41:40+03:00"
     },
     {
       "title": "VIDEO Șantier ilegal într-o zonă împădurită din Râșnov. Va fi aplicată amenda maximă prevăzută de lege, 100.000 de lei",
@@ -228,13 +214,6 @@
       "published": "2026-10-08T13:40:08+03:00"
     },
     {
-      "title": "Fapt divers acum 15 ore Infracțiuni rutiere pe bandă rulantă în Brașov: Șoferi prinși băuți, cu numere expirate sau cu permisul suspendat",
-      "url": "https://www.brasov.net/infractiuni-rutiere-pe-banda-rulanta-in-brasov-soferi-prinsi-bauti-cu-numere-expirate-sau-cu-permisul-suspendat/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-08T13:30:55+03:00"
-    },
-    {
       "title": "UPDATE | BRAȘOV. Accident grav pe DN 1, între Perșani și Vlădeni. Șofer în stop cardiorespirator",
       "url": "https://mytex.ro/112/update-brasov-accident-grav-pe-dn-1-intre-persani-si-vladeni-sofer-in-stop-cardiorespirator/",
       "source": "MyTex",
@@ -298,11 +277,11 @@
       "published": "2026-10-08T12:14:43+03:00"
     },
     {
-      "title": "Vacanță All Inclusive: Smiley și Pavel Bartoș lasă tot și vin la Brașov!",
-      "url": "https://mytex.ro/timp-liber/vacanta-all-inclusive-smiley-si-pavel-bartos-lasa-tot-si-vin-la-brasov/",
-      "source": "MyTex",
+      "title": "Smiley și Pavel Bartoș ajung la Brașov cu filmul „Vacanță All Inclusive”",
+      "url": "https://brasovstiri.ro/smiley-si-pavel-bartos-ajung-la-brasov-cu-filmul-vacanta-all-inclusive/",
+      "source": "Brașov Știri",
       "category": "🔥 Local",
-      "published": "2026-10-08T12:11:50+03:00"
+      "published": "2026-10-08T12:08:57+03:00"
     },
     {
       "title": "Performanță istorică pentru ACS Aiki Karate-Do Brașov: 16 medalii de aur la Campionatul European JSKA din Italia!",
@@ -431,13 +410,6 @@
       "published": "2026-10-08T08:30:59+03:00"
     },
     {
-      "title": "Miercurea Brașovenilor: Restaurantele și cafenelele din centrul orașului oferă 15% reducere pentru localnici",
-      "url": "https://mytex.ro/expres/miercurea-brasovenilor-restaurantele-si-cafenelele-din-centrul-orasului-ofera-15-reducere-pentru-localnici/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-08T08:14:40+03:00"
-    },
-    {
       "title": "Băncile pentru Alimente, inclusiv cea din Braşov, au salvat de la risipă peste 44.000 de tone de hrană",
       "url": "https://newsbv.ro/bancile-pentru-alimente-salvat-risipa-alimente/",
       "source": "NewsBV",
@@ -478,13 +450,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-07T19:35:38+03:00"
-    },
-    {
-      "title": "Panoul care „orbește” Brașovul de ani buni. Poliția a văzut problema,...",
-      "url": "https://transilvania365.ro/panoul-care-orbeste-brasovul-de-ani-buni-politia-a-vazut-problema-autoritatile-inca-o-privesc/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-07T18:26:02+03:00"
     }
   ]
 }
