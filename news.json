@@ -1,8 +1,36 @@
 {
-  "updated": "10.10.2026, 11:00",
-  "count": 72,
-  "raw_count": 94,
+  "updated": "10.10.2026, 12:00",
+  "count": 77,
+  "raw_count": 104,
   "items": [
+    {
+      "title": "Corona Brașov, cu prima şansă la calificare în returul cu Steaua Roşie Belgrad. „Acolo va fi cheia”",
+      "url": "https://mytex.ro/sport/corona-brasov-cu-prima-sansa-la-calificare/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-10T11:47:12+03:00"
+    },
+    {
+      "title": "Vremea se schimbă radical! Vine prăpădul după căldură: ce urmează în Brașov și în toată țara",
+      "url": "https://mytex.ro/expres/vremea-se-schimba-radical-vine-prapadul-dupa-caldura-ce-urmeaza-in-brasov-si-in-toata-tara/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-10T11:33:28+03:00"
+    },
+    {
+      "title": "Ninsori, lapoviță și rafale de vânt care pot atinge 90 km/h la munte. Recomandările Salvamont Brașov pentru turiști în acest weekend",
+      "url": "https://bizbrasov.ro/2026/10/10/brasov-ninsori-rafale-de-vant-salvamont/",
+      "source": "BizBrașov",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-10T11:33:15+03:00"
+    },
+    {
+      "title": "De la Postăvaru la Mălăiești: Povestea neștiută a cabanelor legendare din jurul Brașovului",
+      "url": "https://bizbrasov.ro/2026/10/10/postavaru-malaiesti-povestea-cabanelor/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-10T11:12:48+03:00"
+    },
     {
       "title": "50 de zile până la deschiderea Târgului de Crăciun de la Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/10/50-de-zile-pana-la-deschiderea-targului-de-craciun-de-la-brasov/",
@@ -23,13 +51,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-10T10:42:31+03:00"
-    },
-    {
-      "title": "Vreme rea la munte! Salvamont Brașov avertizează: vânt de până la 90 km/h și ninsori la altitudine",
-      "url": "https://transilvania365.ro/vreme-rea-la-munte-salvamont-brasov-avertizeaza-vant-de-pana-la-90-km-h-si-ninsori-la-altitudine/",
-      "source": "Transilvania365",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-10T10:11:12+03:00"
     },
     {
       "title": "Canalizare pluvială pe străzile Gării și Bârsei din Râșnov. Proiectul face un nou...",
@@ -81,11 +102,25 @@
       "published": "2026-10-10T08:47:58+03:00"
     },
     {
+      "title": "Fapt divers acum 2 minute Razie a poliției pe DN1: Amenzi de peste 150.000 de lei aplicate în doar patru ore Polițiștii rutieri din județele Brașov și Sibiu au organizat pe 8 octombrie o acțiune comună de amploare pe DN1, vizând...",
+      "url": "https://www.brasov.net/razie-a-politiei-pe-dn1-amenzi-de-peste-150-000-de-lei-aplicate-in-doar-patru-ore/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-10T08:35:54+03:00"
+    },
+    {
       "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
       "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T08:30:37+03:00"
+    },
+    {
+      "title": "Administrație acum 9 minute Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
+      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-10T08:28:22+03:00"
     },
     {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
@@ -151,13 +186,6 @@
       "published": "2026-10-09T23:16:16+03:00"
     },
     {
-      "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
-      "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-09T21:13:30+03:00"
-    },
-    {
       "title": "Corona Brașov, victorie de serviciu cu „lanterna”",
       "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-lanterna-2/",
       "source": "MyTex",
@@ -201,10 +229,10 @@
     },
     {
       "title": "Subsolul Bibliotecii Municipale din Săcele va fi transformat într-un spațiu socio-cultural",
-      "url": "https://transilvania365.ro/subsolul-bibliotecii-municipale-din-sacele-va-fi-transformat-intr-un-spatiu-socio-cultural/",
-      "source": "Transilvania365",
+      "url": "https://newsbv.ro/subsolul-bibliotecii-municipale-din-sacele/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-09T15:58:20+03:00"
+      "published": "2026-10-09T16:00:22+03:00"
     },
     {
       "title": "Evenimente în Brașov în acest weekend: târguri, teatru și sport",
@@ -212,6 +240,13 @@
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-09T15:42:41+03:00"
+    },
+    {
+      "title": "Sebastian Rusu, deputat PNL de Brașov: „STOP DROGURI! Spun un NU hotărât proiectului de dezincriminare a consumului propriu”",
+      "url": "https://newsbv.ro/sebastian-rusu-impotriva-dezincriminarii-drogurilor/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-09T15:11:03+03:00"
     },
     {
       "title": "BRAȘOV | Doi soți din Săcele, găsiți morți într-o mașină răsturnată pe un drum forestier",
@@ -310,6 +345,13 @@
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-09T13:09:09+03:00"
+    },
+    {
+      "title": "Social acum 20 de ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
+      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:36+03:00"
     },
     {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
@@ -464,13 +506,6 @@
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-09T08:20:03+03:00"
-    },
-    {
-      "title": "Sebastian Rusu, deputat PNL de Brașov, se opune dezincriminării consumului de...",
-      "url": "https://transilvania365.ro/sebastian-rusu-deputat-pnl-de-brasov-se-opune-dezincriminarii-consumului-de-droguri-stop-droguri/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T08:06:59+03:00"
     },
     {
       "title": "Primăria Brașov începe exproprierile pentru amenajarea noii rute de legătură Astra – Noua, printre halele vechii fabrici de camioane",
