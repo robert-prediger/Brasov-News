@@ -1,7 +1,7 @@
 {
-  "updated": "11.10.2026, 00:00",
-  "count": 60,
-  "raw_count": 79,
+  "updated": "11.10.2026, 01:00",
+  "count": 56,
+  "raw_count": 77,
   "items": [
     {
       "title": "Corona Brașov, în turul 3 al EHF European League! Brașovencele au trecut de Steaua Roșie Belgrad",
@@ -144,11 +144,25 @@
       "published": "2026-10-10T08:47:58+03:00"
     },
     {
+      "title": "Fapt divers acum 12 ore Razie a poliției pe DN1: Amenzi de peste 150.000 de lei aplicate în doar patru ore Polițiștii rutieri din județele Brașov și Sibiu au organizat pe 8 octombrie o acțiune comună de amploare pe DN1, vizând...",
+      "url": "https://www.brasov.net/razie-a-politiei-pe-dn1-amenzi-de-peste-150-000-de-lei-aplicate-in-doar-patru-ore/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-10T08:35:54+03:00"
+    },
+    {
       "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
       "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T08:30:37+03:00"
+    },
+    {
+      "title": "Administrație acum 12 ore Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
+      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-10T08:28:22+03:00"
     },
     {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
@@ -212,13 +226,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-09T23:16:16+03:00"
-    },
-    {
-      "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
-      "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-09T21:13:30+03:00"
     },
     {
       "title": "Corona Brașov, victorie de serviciu cu „lanterna”",
@@ -387,41 +394,6 @@
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-09T13:09:09+03:00"
-    },
-    {
-      "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
-      "url": "https://transilvania365.ro/cat-te-costa-o-cununie-civila-in-brasov-1-500-de-lei-pentru-o-ceremonie-in-aer-liber-primaria-vrea-sa-mentina-tarifele-in-2027/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:52:44+03:00"
-    },
-    {
-      "title": "Pericole pentru muncitorii forestieri: nereguli descoperite de ITM Brașov",
-      "url": "https://mytex.ro/expres/pericole-pentru-muncitorii-forestieri-nereguli-descoperite-de-itm-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:49:24+03:00"
-    },
-    {
-      "title": "Brașovul intră în febra Crăciunului! Mai sunt doar 50 de zile...",
-      "url": "https://transilvania365.ro/brasovul-intra-in-febra-craciunului-mai-sunt-doar-50-de-zile-pana-la-aprinderea-luminitelor-si-deschiderea-targului-de-craciun/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:34:53+03:00"
-    },
-    {
-      "title": "100.000 de doze de vaccin BCG ajung la DSP-urile din țară, inclusiv la Brașov, până pe 13 octombrie",
-      "url": "https://bizbrasov.ro/2026/10/09/vaccin-bcg-dsp-brasov-13-octombrie/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:26:01+03:00"
-    },
-    {
-      "title": "150 de ciclisti vor pedala pe potecile din Munţii Făgăraş",
-      "url": "https://newsbv.ro/150-de-ciclisti-muntii-fagaras/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:04:31+03:00"
     }
   ]
 }
