@@ -1,7 +1,7 @@
 {
-  "updated": "11.10.2026, 01:00",
-  "count": 56,
-  "raw_count": 77,
+  "updated": "11.10.2026, 01:58",
+  "count": 48,
+  "raw_count": 62,
   "items": [
     {
       "title": "Corona Brașov, în turul 3 al EHF European League! Brașovencele au trecut de Steaua Roșie Belgrad",
@@ -144,25 +144,11 @@
       "published": "2026-10-10T08:47:58+03:00"
     },
     {
-      "title": "Fapt divers acum 12 ore Razie a poliției pe DN1: Amenzi de peste 150.000 de lei aplicate în doar patru ore Polițiștii rutieri din județele Brașov și Sibiu au organizat pe 8 octombrie o acțiune comună de amploare pe DN1, vizând...",
-      "url": "https://www.brasov.net/razie-a-politiei-pe-dn1-amenzi-de-peste-150-000-de-lei-aplicate-in-doar-patru-ore/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-10T08:35:54+03:00"
-    },
-    {
       "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
       "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T08:30:37+03:00"
-    },
-    {
-      "title": "Administrație acum 12 ore Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
-      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-10T08:28:22+03:00"
     },
     {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
@@ -226,6 +212,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-09T23:16:16+03:00"
+    },
+    {
+      "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
+      "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-09T21:13:30+03:00"
     },
     {
       "title": "Corona Brașov, victorie de serviciu cu „lanterna”",
@@ -345,55 +338,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-09T14:10:27+03:00"
-    },
-    {
-      "title": "Accident grav la ieșirea din Măieruș spre Rupea! Patru victime, două...",
-      "url": "https://transilvania365.ro/accident-grav-la-iesirea-din-maierus-spre-rupea-patru-victime-doua-incarcerate-si-inconstiente/",
-      "source": "Transilvania365",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-09T13:44:06+03:00"
-    },
-    {
-      "title": "Ministerul Sănătății a făcut plăți de 46,7 milioane de lei în ultima săptămână. Între beneficiari şi Spitalul Județean Brașov",
-      "url": "https://newsbv.ro/ministerul-sanatatii-plati-spitalul-judetean-brasov/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-09T13:40:28+03:00"
-    },
-    {
-      "title": "VIDEO. Val de vandalizări la Brașov! 22 de mașini, zgâriate în...",
-      "url": "https://transilvania365.ro/video-val-de-vandalizari-la-brasov-22-de-masini-zgariate-in-aceeasi-noapte/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T13:33:34+03:00"
-    },
-    {
-      "title": "VIDEO Peste 20 de mașini parcate pe strada Lungă, vandalizate de un brașovean în vârstă de 27 de ani",
-      "url": "https://bizbrasov.ro/2026/10/09/20-masini-vandalizate-brasovean/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T13:30:26+03:00"
-    },
-    {
-      "title": "Ce vrea Primăria să schimbe printre blocurile din Brașov. Zece zone...",
-      "url": "https://transilvania365.ro/ce-vrea-primaria-sa-schimbe-printre-blocurile-din-brasov-zece-zone-incluse-in-planul-de-regenerare-urbana/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-09T13:27:30+03:00"
-    },
-    {
-      "title": "Tensiuni înainte de derby: Oficialii de la Inter Stars Sibiu acuză Corona Brașov de „tertipuri”",
-      "url": "https://www.monitorulexpres.ro/2026/10/09/tensiuni-inainte-de-derby-oficialii-de-la-inter-stars-sibiu-acuza-corona-brasov-de-tertipuri/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-09T13:13:44+03:00"
-    },
-    {
-      "title": "Un bărbat din Brașov, reținut după ce ar fi zgâriat 22 de autoturisme (VIDEO)",
-      "url": "https://www.monitorulexpres.ro/2026/10/09/un-barbat-din-brasov-retinut-dupa-ce-ar-fi-zgariat-22-de-autoturisme-video/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-09T13:09:09+03:00"
     }
   ]
 }
