@@ -1,8 +1,15 @@
 {
-  "updated": "10.10.2026, 15:00",
-  "count": 73,
-  "raw_count": 95,
+  "updated": "10.10.2026, 16:00",
+  "count": 76,
+  "raw_count": 103,
   "items": [
+    {
+      "title": "Liga 4 Brașov, etapa 7 I Măgura Codlea, scorul etapei cu CSM Făgăraș! SR Brașov, Internațional Brașov și Chimia Victoria, victorii scontate",
+      "url": "https://www.monitorulexpres.ro/2026/10/10/liga-4-brasov-etapa-7-i-magura-codlea-scorul-etapei-cu-csm-fagaras-sr-brasov-international-brasov-si-chimia-victoria-victorii-scontate/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-10T15:57:37+03:00"
+    },
     {
       "title": "Brașovul, în topul preferințelor pe Booking.com: Orașul de la poalele Tâmpei domină piața chiriilor în regim hotelier, alături de București și Cluj-Napoca",
       "url": "https://bizbrasov.ro/2026/10/10/brasovul-topul-preferintelor-booking/",
@@ -109,11 +116,32 @@
       "published": "2026-10-10T08:47:58+03:00"
     },
     {
+      "title": "Fapt divers acum 2 minute Razie a poliției pe DN1: Amenzi de peste 150.000 de lei aplicate în doar patru ore Polițiștii rutieri din județele Brașov și Sibiu au organizat pe 8 octombrie o acțiune comună de amploare pe DN1, vizând...",
+      "url": "https://www.brasov.net/razie-a-politiei-pe-dn1-amenzi-de-peste-150-000-de-lei-aplicate-in-doar-patru-ore/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-10T08:35:54+03:00"
+    },
+    {
       "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
       "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T08:30:37+03:00"
+    },
+    {
+      "title": "Administrație acum 9 minute Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
+      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-10T08:28:22+03:00"
+    },
+    {
+      "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
+      "url": "https://newsbv.ro/un-nou-pas-restaurarea-cetatii-rasnov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-10T07:57:45+03:00"
     },
     {
       "title": "Salvamont Braşov, într-un program internaţional de pregătire în Italia şi Austria",
@@ -172,13 +200,6 @@
       "published": "2026-10-09T23:16:16+03:00"
     },
     {
-      "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
-      "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-09T21:13:30+03:00"
-    },
-    {
       "title": "Corona Brașov, victorie de serviciu cu „lanterna”",
       "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-lanterna-2/",
       "source": "MyTex",
@@ -226,6 +247,20 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-09T16:00:22+03:00"
+    },
+    {
+      "title": "Evenimente în Brașov în acest weekend: târguri, teatru și sport",
+      "url": "https://newsbv.ro/evenimente-in-brasov-in-acest-weekend-targuri-teatru-si-sport/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-09T15:42:41+03:00"
+    },
+    {
+      "title": "Sebastian Rusu, deputat PNL de Brașov: „STOP DROGURI! Spun un NU hotărât proiectului de dezincriminare a consumului propriu”",
+      "url": "https://newsbv.ro/sebastian-rusu-impotriva-dezincriminarii-drogurilor/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-09T15:11:03+03:00"
     },
     {
       "title": "BRAȘOV | Doi soți din Săcele, găsiți morți într-o mașină răsturnată pe un drum forestier",
@@ -326,6 +361,13 @@
       "published": "2026-10-09T13:09:09+03:00"
     },
     {
+      "title": "Social acum 20 de ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
+      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-09T12:55:36+03:00"
+    },
+    {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
       "url": "https://transilvania365.ro/cat-te-costa-o-cununie-civila-in-brasov-1-500-de-lei-pentru-o-ceremonie-in-aer-liber-primaria-vrea-sa-mentina-tarifele-in-2027/",
       "source": "Transilvania365",
@@ -359,13 +401,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-09T12:04:31+03:00"
-    },
-    {
-      "title": "Liga 4 Brașov, etapa 7 I Vezi AICI programul, arbitri și observatorii !",
-      "url": "https://www.monitorulexpres.ro/2026/10/09/liga-4-brasov-etapa-7-i-vezi-aici-programul-arbitri-si-observatorii/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:00:44+03:00"
     },
     {
       "title": "Student Kronfest 2K26. Patru zile de festival pentru studenții din Brașov....",
@@ -424,13 +459,6 @@
       "published": "2026-10-09T09:33:45+03:00"
     },
     {
-      "title": "Concert special la Biserica Sf. Bartolomeu din Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/09/concert-special-la-biserica-sf-bartolomeu-din-brasov/",
-      "source": "Monitorul Expres",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-09T09:22:57+03:00"
-    },
-    {
       "title": "Cea mai ieftină locuință din Brașov? Prețul incredibil cu care se vinde o cameră pe Aleea Violetelor!",
       "url": "https://mytex.ro/economic/cea-mai-ieftina-locuinta-din-brasov-pretul-incredibil-cu-care-se-vinde-o-camera-pe-aleea-violetelor/",
       "source": "MyTex",
@@ -478,13 +506,6 @@
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-09T08:20:03+03:00"
-    },
-    {
-      "title": "Sebastian Rusu, deputat PNL de Brașov, se opune dezincriminării consumului de...",
-      "url": "https://transilvania365.ro/sebastian-rusu-deputat-pnl-de-brasov-se-opune-dezincriminarii-consumului-de-droguri-stop-droguri/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-09T08:06:59+03:00"
     },
     {
       "title": "Primăria Brașov începe exproprierile pentru amenajarea noii rute de legătură Astra – Noua, printre halele vechii fabrici de camioane",
