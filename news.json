@@ -1,8 +1,15 @@
 {
-  "updated": "10.10.2026, 07:00",
-  "count": 71,
-  "raw_count": 95,
+  "updated": "10.10.2026, 08:00",
+  "count": 69,
+  "raw_count": 93,
   "items": [
+    {
+      "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
+      "url": "https://newsbv.ro/un-nou-pas-restaurarea-cetatii-rasnov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-10T07:57:45+03:00"
+    },
     {
       "title": "Salvamont Braşov, într-un program internaţional de pregătire în Italia şi Austria",
       "url": "https://newsbv.ro/salvamont-brasov-program-pregatire-italia-austria/",
@@ -284,13 +291,6 @@
       "published": "2026-10-09T12:34:53+03:00"
     },
     {
-      "title": "Când se va deschide Târgul de Crăciun din Braşov",
-      "url": "https://newsbv.ro/cand-se-va-deschide-targul-de-craciun-din-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:26:45+03:00"
-    },
-    {
       "title": "100.000 de doze de vaccin BCG ajung la DSP-urile din țară, inclusiv la Brașov, până pe 13 octombrie",
       "url": "https://bizbrasov.ro/2026/10/09/vaccin-bcg-dsp-brasov-13-octombrie/",
       "source": "BizBrașov",
@@ -485,20 +485,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-08T21:30:11+03:00"
-    },
-    {
-      "title": "Jandarmii brașoveni au fost agresați la Sibiu. Suporterii echipelor Steaua și Poli Timișoara au încercat „să-și arate mușchii” înainte de un meci de fotbal",
-      "url": "https://bizbrasov.ro/2026/10/08/jandarmii-agresati-la-sibiu/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-08T19:55:00+03:00"
-    },
-    {
-      "title": "VIDEO Consiliul Județean Brașov, înconjurat astăzi de mașini de pompieri: cutremur urmat de un incendiu la centrala termică a instituției",
-      "url": "https://bizbrasov.ro/2026/10/08/consiliul-judetean-brasov-pompieri/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-08T19:30:28+03:00"
     }
   ]
 }
