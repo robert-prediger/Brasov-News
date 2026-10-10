@@ -1,8 +1,50 @@
 {
-  "updated": "10.10.2026, 10:00",
-  "count": 67,
-  "raw_count": 89,
+  "updated": "10.10.2026, 11:00",
+  "count": 72,
+  "raw_count": 94,
   "items": [
+    {
+      "title": "50 de zile până la deschiderea Târgului de Crăciun de la Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/10/50-de-zile-pana-la-deschiderea-targului-de-craciun-de-la-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-10T10:48:41+03:00"
+    },
+    {
+      "title": "De la suferință la speranță: Mirela, prima voce pe care o aud cei care pășesc pragul Hospice Brașov",
+      "url": "https://bizbrasov.ro/2026/10/10/brasov-de-la-suferinta-la-speranta-mirela/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-10T10:48:24+03:00"
+    },
+    {
+      "title": "Vine Mircea Rednic la Brașov?! / Ce se întâmplă în etapa a 8-a din Liga 3 – Seria 2",
+      "url": "https://mytex.ro/sport/vine-mircea-rednic-la-brasov-ce-se-intampla-in-etapa-a-8-a-din-liga-3-seria-2/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-10T10:42:31+03:00"
+    },
+    {
+      "title": "Vreme rea la munte! Salvamont Brașov avertizează: vânt de până la 90 km/h și ninsori la altitudine",
+      "url": "https://transilvania365.ro/vreme-rea-la-munte-salvamont-brasov-avertizeaza-vant-de-pana-la-90-km-h-si-ninsori-la-altitudine/",
+      "source": "Transilvania365",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-10T10:11:12+03:00"
+    },
+    {
+      "title": "Canalizare pluvială pe străzile Gării și Bârsei din Râșnov. Proiectul face un nou...",
+      "url": "https://transilvania365.ro/canalizare-pluviala-pe-strazile-garii-si-barsei-din-rasnov-proiectul-face-un-nou-pas-inainte/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-10T10:05:35+03:00"
+    },
+    {
+      "title": "Numărătoare inversă pentru Next Stage Brașov: Peste două zile încep înscrierile la festivalul-concurs care caută noile talente ale muzicii din România",
+      "url": "https://bizbrasov.ro/2026/10/10/brasov-next-stage-doua-zile-inscrierile/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-10T10:03:44+03:00"
+    },
     {
       "title": "Ce se vinde cu 42 de milioane de euro la Brașov",
       "url": "https://mytex.ro/economic/ce-se-vinde-cu-42-de-milioane-de-euro-la-brasov/",
@@ -74,11 +116,18 @@
       "published": "2026-10-10T05:35:00+03:00"
     },
     {
-      "title": "Plecaseră la o plimbare cu mașina. Doi vârstnici din Săcele au fost găsiți fără viață",
-      "url": "https://brasovstiri.ro/plecasera-la-o-plimbare-cu-masina-doi-varstnici-din-sacele-au-fost-gasiti-fara-viata/",
-      "source": "Brașov Știri",
+      "title": "Tânăr reținut pentru vandalizarea a 22 de mașini la Brașov",
+      "url": "https://www.zmbv.ro/tanar-retinut-pentru-vandalizarea-a-22-de-masini-la-brasov/10/10/2026/119552/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-10T02:14:50+03:00"
+    },
+    {
+      "title": "Tragedie Rutieră Lângă Săcele: Doi Vârstnici Decedați",
+      "url": "https://www.zmbv.ro/tragedie-rutiera-langa-sacele-doi-varstnici-decedati/10/10/2026/119551/",
+      "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-10T00:50:00+03:00"
+      "published": "2026-10-10T02:14:40+03:00"
     },
     {
       "title": "Brașovul găzduiește Congresul Național de Oncologie. Peste 1.500 de medici discută despre prevenție și terapii moderne",
@@ -86,6 +135,20 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-10T00:43:00+03:00"
+    },
+    {
+      "title": "Evenimente Diverse în Brașov în Weekend",
+      "url": "https://www.zmbv.ro/evenimente-diverse-in-brasov-in-weekend/10/10/2026/119548/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-10T00:14:24+03:00"
+    },
+    {
+      "title": "Încep Lucrările la Prima Pista de Biciclete din Brașov",
+      "url": "https://www.zmbv.ro/incep-lucrarile-la-prima-pista-de-biciclete-din-brasov/09/10/2026/119546/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T23:16:16+03:00"
     },
     {
       "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
@@ -109,6 +172,13 @@
       "published": "2026-10-09T20:25:13+03:00"
     },
     {
+      "title": "Mașină de Poliție blocată în beton proaspăt la Brașov",
+      "url": "https://www.zmbv.ro/masina-de-politie-blocata-in-beton-proaspat-la-brasov/09/10/2026/119524/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-09T20:14:55+03:00"
+    },
+    {
       "title": "Decizie majoră pentru FOTE Brașov 2027: Sportivii din Rusia și Belarus vor putea participa sub drapelul EOC",
       "url": "https://mytex.ro/sport/decizie-majora-pentru-fote-brasov-2027-sportivii-din-rusia-si-belarus-vor-putea-participa-sub-drapelul-eoc/",
       "source": "MyTex",
@@ -123,13 +193,6 @@
       "published": "2026-10-09T18:26:44+03:00"
     },
     {
-      "title": "Liga 3, etapa 8 | CSM Săcele a dat lovitura la Dragoslavele! Kids Tâmpa, opt eșecuri din opt meciuri",
-      "url": "https://www.monitorulexpres.ro/2026/10/09/liga-3-etapa-8-csm-sacele-a-dat-lovitura-la-dragoslavele-kids-tampa-opt-esecuri-din-opt-meciuri/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-09T17:00:41+03:00"
-    },
-    {
       "title": "BRAȘOV | Autospecială de poliție, împotmolită pe șantierul de pe Calea Feldioarei",
       "url": "https://mytex.ro/expres/brasov-autospeciala-de-politie-impotmolita-pe-santierul-de-pe-calea-feldioarei/",
       "source": "MyTex",
@@ -138,17 +201,10 @@
     },
     {
       "title": "Subsolul Bibliotecii Municipale din Săcele va fi transformat într-un spațiu socio-cultural",
-      "url": "https://newsbv.ro/subsolul-bibliotecii-municipale-din-sacele/",
-      "source": "NewsBV",
+      "url": "https://transilvania365.ro/subsolul-bibliotecii-municipale-din-sacele-va-fi-transformat-intr-un-spatiu-socio-cultural/",
+      "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-09T16:00:22+03:00"
-    },
-    {
-      "title": "FOTO O mașină de Poliție a rămas blocată în betonul proaspăt turnat pe o stradă din Brașov care era în lucru",
-      "url": "https://bizbrasov.ro/2026/10/09/masina-politie-blocata-beton-strada-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T15:56:21+03:00"
+      "published": "2026-10-09T15:58:20+03:00"
     },
     {
       "title": "Evenimente în Brașov în acest weekend: târguri, teatru și sport",
@@ -158,18 +214,11 @@
       "published": "2026-10-09T15:42:41+03:00"
     },
     {
-      "title": "Sute de brașoveni, în „cursa” pentru un job! 349 au fost selectați, dar...",
-      "url": "https://transilvania365.ro/sute-de-brasoveni-in-cursa-pentru-un-job-349-au-fost-selectati-dar-cati-vor-fi-angajati-cu-adevarat/",
-      "source": "Transilvania365",
+      "title": "BRAȘOV | Doi soți din Săcele, găsiți morți într-o mașină răsturnată pe un drum forestier",
+      "url": "https://mytex.ro/112/brasov-doi-soti-din-sacele-gasiti-morti-intr-o-masina-rasturnata-pe-un-drum-forestier/",
+      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-09T15:39:47+03:00"
-    },
-    {
-      "title": "Sebastian Rusu, deputat PNL de Brașov: „STOP DROGURI! Spun un NU hotărât proiectului de dezincriminare a consumului propriu”",
-      "url": "https://newsbv.ro/sebastian-rusu-impotriva-dezincriminarii-drogurilor/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-09T15:11:03+03:00"
+      "published": "2026-10-09T14:54:21+03:00"
     },
     {
       "title": "Update. BRAȘOV | Accident grav pe DN 13! Una dintre victime a decedat",
@@ -249,25 +298,18 @@
       "published": "2026-10-09T13:27:30+03:00"
     },
     {
-      "title": "Mai sunt 50 de zile până la deschiderea Târgului de Crăciun din Brașov",
-      "url": "https://brasovstiri.ro/mai-sunt-50-de-zile-pana-la-deschiderea-targului-de-craciun-din-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-09T13:26:18+03:00"
-    },
-    {
-      "title": "Brașovean reținut după ce zgâriat 22 de mașini parcate din cartierul Avantgarden (VIDEO)",
-      "url": "https://newsbv.ro/brasovean-retinut-dupa-ce-zgariat-22-de-masini/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-09T13:18:42+03:00"
-    },
-    {
       "title": "Tensiuni înainte de derby: Oficialii de la Inter Stars Sibiu acuză Corona Brașov de „tertipuri”",
       "url": "https://www.monitorulexpres.ro/2026/10/09/tensiuni-inainte-de-derby-oficialii-de-la-inter-stars-sibiu-acuza-corona-brasov-de-tertipuri/",
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-09T13:13:44+03:00"
+    },
+    {
+      "title": "Un bărbat din Brașov, reținut după ce ar fi zgâriat 22 de autoturisme (VIDEO)",
+      "url": "https://www.monitorulexpres.ro/2026/10/09/un-barbat-din-brasov-retinut-dupa-ce-ar-fi-zgariat-22-de-autoturisme-video/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-09T13:09:09+03:00"
     },
     {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
@@ -403,13 +445,6 @@
       "published": "2026-10-09T08:46:34+03:00"
     },
     {
-      "title": "Veste URIAȘĂ pentru angajații din Brașov/România! Câte zile libere LEGALE primesc pe finalul anului fără să se atingă de concediul de odihnă",
-      "url": "https://mytex.ro/expres/veste-uriasa-pentru-angajatii-din-brasov-romania-cate-zile-libere-legale-primesc-pe-finalul-anului-fara-sa-se-atinga-de-concediul-de-odihna/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-09T08:38:50+03:00"
-    },
-    {
       "title": "Spitalul de Copii din Brașov vrea să cumpere echipamente medicale de...",
       "url": "https://transilvania365.ro/spitalul-de-copii-din-brasov-vrea-sa-cumpere-echipamente-medicale-de-peste-124-000-de-lei/",
       "source": "Transilvania365",
@@ -429,6 +464,13 @@
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-09T08:20:03+03:00"
+    },
+    {
+      "title": "Sebastian Rusu, deputat PNL de Brașov, se opune dezincriminării consumului de...",
+      "url": "https://transilvania365.ro/sebastian-rusu-deputat-pnl-de-brasov-se-opune-dezincriminarii-consumului-de-droguri-stop-droguri/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-09T08:06:59+03:00"
     },
     {
       "title": "Primăria Brașov începe exproprierile pentru amenajarea noii rute de legătură Astra – Noua, printre halele vechii fabrici de camioane",
@@ -464,13 +506,6 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-09T00:22:00+03:00"
-    },
-    {
-      "title": "Conferința „Tinerii Schimbă Lumea” are loc vineri, la Brașov. Peste 150...",
-      "url": "https://transilvania365.ro/conferinta-tinerii-schimba-lumea-are-loc-vineri-la-brasov-peste-150-de-liceeni-sunt-asteptati-la-eveniment/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-08T22:49:31+03:00"
     }
   ]
 }
