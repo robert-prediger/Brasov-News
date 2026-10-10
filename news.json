@@ -1,8 +1,15 @@
 {
-  "updated": "10.10.2026, 16:00",
-  "count": 76,
-  "raw_count": 103,
+  "updated": "10.10.2026, 17:00",
+  "count": 75,
+  "raw_count": 99,
   "items": [
+    {
+      "title": "Lider în Liga 3 – Seria a 2-a! Corona Brașov a răpus-o și pe Inter Sibiu",
+      "url": "https://mytex.ro/sport/lider-in-liga-3-seria-a-2-a-corona-brasov-a-rapus-o-si-pe-inter-sibiu/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-10T16:50:14+03:00"
+    },
     {
       "title": "Liga 4 Brașov, etapa 7 I Măgura Codlea, scorul etapei cu CSM Făgăraș! SR Brașov, Internațional Brașov și Chimia Victoria, victorii scontate",
       "url": "https://www.monitorulexpres.ro/2026/10/10/liga-4-brasov-etapa-7-i-magura-codlea-scorul-etapei-cu-csm-fagaras-sr-brasov-international-brasov-si-chimia-victoria-victorii-scontate/",
@@ -60,13 +67,6 @@
       "published": "2026-10-10T10:48:24+03:00"
     },
     {
-      "title": "Vine Mircea Rednic la Brașov?! / Ce se întâmplă în etapa a 8-a din Liga 3 – Seria 2",
-      "url": "https://mytex.ro/sport/vine-mircea-rednic-la-brasov-ce-se-intampla-in-etapa-a-8-a-din-liga-3-seria-2/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-10T10:42:31+03:00"
-    },
-    {
       "title": "Canalizare pluvială pe străzile Gării și Bârsei din Râșnov. Proiectul face un nou...",
       "url": "https://transilvania365.ro/canalizare-pluviala-pe-strazile-garii-si-barsei-din-rasnov-proiectul-face-un-nou-pas-inainte/",
       "source": "Transilvania365",
@@ -116,25 +116,11 @@
       "published": "2026-10-10T08:47:58+03:00"
     },
     {
-      "title": "Fapt divers acum 2 minute Razie a poliției pe DN1: Amenzi de peste 150.000 de lei aplicate în doar patru ore Polițiștii rutieri din județele Brașov și Sibiu au organizat pe 8 octombrie o acțiune comună de amploare pe DN1, vizând...",
-      "url": "https://www.brasov.net/razie-a-politiei-pe-dn1-amenzi-de-peste-150-000-de-lei-aplicate-in-doar-patru-ore/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-10T08:35:54+03:00"
-    },
-    {
       "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
       "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T08:30:37+03:00"
-    },
-    {
-      "title": "Administrație acum 9 minute Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
-      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-10T08:28:22+03:00"
     },
     {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
@@ -200,6 +186,13 @@
       "published": "2026-10-09T23:16:16+03:00"
     },
     {
+      "title": "330 de abateri pe DN1, în doar patru ore, în Brașov și Sibiu. Amenzi de 153.000 de lei și permise reținute",
+      "url": "https://mytex.ro/expres/330-de-abateri-pe-dn1-in-doar-patru-ore-in-brasov-si-sibiu-amenzi-de-153-000-de-lei-si-permise-retinute/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-09T21:13:30+03:00"
+    },
+    {
       "title": "Corona Brașov, victorie de serviciu cu „lanterna”",
       "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-lanterna-2/",
       "source": "MyTex",
@@ -233,6 +226,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-09T18:26:44+03:00"
+    },
+    {
+      "title": "Liga 3, etapa 8 | CSM Săcele a dat lovitura la Dragoslavele! Kids Tâmpa, opt eșecuri din opt meciuri",
+      "url": "https://www.monitorulexpres.ro/2026/10/09/liga-3-etapa-8-csm-sacele-a-dat-lovitura-la-dragoslavele-kids-tampa-opt-esecuri-din-opt-meciuri/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-09T17:00:41+03:00"
     },
     {
       "title": "BRAȘOV | Autospecială de poliție, împotmolită pe șantierul de pe Calea Feldioarei",
@@ -359,13 +359,6 @@
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-09T13:09:09+03:00"
-    },
-    {
-      "title": "Social acum 20 de ore Controale ITM în sectorul forestier din Brașov: 12 angajatori verificați și amenzi de 18.000 de lei",
-      "url": "https://www.brasov.net/controale-itm-in-sectorul-forestier-din-brasov-12-angajatori-verificati-si-amenzi-de-18-000-de-lei/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-09T12:55:36+03:00"
     },
     {
       "title": "Cât te costă o cununie civilă în Brașov? 1.500 de lei...",
