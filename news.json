@@ -1,8 +1,57 @@
 {
-  "updated": "11.10.2026, 22:00",
-  "count": 45,
-  "raw_count": 59,
+  "updated": "11.10.2026, 22:44",
+  "count": 47,
+  "raw_count": 63,
   "items": [
+    {
+      "title": "Language Buddy: 780 de ore de mentorat la Brașov",
+      "url": "https://www.zmbv.ro/language-buddy-780-de-ore-de-mentorat-la-brasov/11/10/2026/119599/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-11T22:19:26+03:00"
+    },
+    {
+      "title": "Doi Tineri Arestați pentru Șantaj și Tâlhărie la Brașov",
+      "url": "https://www.zmbv.ro/doi-tineri-arestati-pentru-santaj-si-talharie-la-brasov/11/10/2026/119595/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-11T22:18:54+03:00"
+    },
+    {
+      "title": "Salvamont Brașov la Congresul Internațional din Austria",
+      "url": "https://www.zmbv.ro/salvamont-brasov-la-congresul-international-din-austria/11/10/2026/119593/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-11T22:18:41+03:00"
+    },
+    {
+      "title": "Corona Brașov învinge Inter Stars Sibiu cu 2-0",
+      "url": "https://www.zmbv.ro/corona-brasov-invinge-inter-stars-sibiu-cu-2-0/11/10/2026/119591/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T22:18:29+03:00"
+    },
+    {
+      "title": "Cetatea Râșnov: Restaurare deblocat, investiție majoră",
+      "url": "https://www.zmbv.ro/cetatea-rasnov-restaurare-deblocat-investitie-majora/11/10/2026/119578/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-11T22:16:14+03:00"
+    },
+    {
+      "title": "Bărbat din Bod, dispărut: Poliția cere ajutorul cetățenilor",
+      "url": "https://www.zmbv.ro/barbat-din-bod-disparut-politia-cere-ajutorul-cetatenilor/11/10/2026/119567/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T22:14:39+03:00"
+    },
+    {
+      "title": "Șofer Recidivist Prins Fără Permis la Brașov",
+      "url": "https://www.zmbv.ro/sofer-recidivist-prins-fara-permis-la-brasov/11/10/2026/119565/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T22:14:24+03:00"
+    },
     {
       "title": "Zece incendii de vegetație astăzi, în Brașov! Focul amenință două stâne și o pădure la Dumbrăvița",
       "url": "https://mytex.ro/112/zece-incendii-de-vegetatie-astazi-in-brasov-focul-ameninta-doua-stane-si-o-padure-la-dumbravita/",
@@ -16,13 +65,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-11T20:46:02+03:00"
-    },
-    {
-      "title": "Bărbat de 65 de ani din Bod, dat dispărut. Poliția Brașov solicită ajutorul populației",
-      "url": "https://newsbv.ro/barbat-disparut-bod-gheorghe-jan/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T19:07:54+03:00"
     },
     {
       "title": "Calificare cu strângere de inimă: Corona Brașov merge mai departe în Europa, dar jocul ridică în continuare mari semne de întrebare",
@@ -46,18 +88,11 @@
       "published": "2026-10-11T17:19:02+03:00"
     },
     {
-      "title": "Salvamont Brașov, prezent la Congresul Internațional de Salvare Montană din Austria! Tehnologii noi pentru salvarea turiștilor",
-      "url": "https://transilvania365.ro/salvamont-brasov-prezent-la-congresul-international-de-salvare-montana-din-austria-tehnologii-noi-pentru-salvarea-turistilor/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-11T17:18:48+03:00"
-    },
-    {
-      "title": "VIDEO. Doi tineri de 19 ani, arestați la Brașov! Își amenințau și băteau victima pentru bani și o obligau...",
-      "url": "https://transilvania365.ro/video-doi-tineri-de-19-ani-arestati-la-brasov-isi-amenintau-si-bateau-victima-pentru-bani-si-o-obligau-sa-faca-imprumuturi/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-11T17:12:46+03:00"
+      "title": "BRAȘOV | Bărbat de 65 de ani, dispărut din Bod. A plecat de la serviciu și nu a mai ajuns acasă",
+      "url": "https://mytex.ro/112/brasov-barbat-de-65-de-ani-disparut-din-bod-a-plecat-de-la-serviciu-si-nu-a-mai-ajuns-acasa/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T17:11:00+03:00"
     },
     {
       "title": "Strigăte de ajutor într-un bloc din Brașov: Vecinii au sunat la 112, după ce un bărbat și-a agresat partenera",
@@ -249,13 +284,6 @@
       "published": "2026-10-10T18:52:09+03:00"
     },
     {
-      "title": "Etapa 8 Liga 3 | Corona Brașov câștigă clar derby-ul cu Inter Stars Sibiu. Olimpic Zărnești a ratat dramatic victoria la Băicoi",
-      "url": "https://www.monitorulexpres.ro/2026/10/10/etapa-8-liga-3-corona-brasov-castiga-clar-derby-ul-cu-inter-stars-sibiu-olimpic-zarnesti-a-ratat-dramatic-victoria-la-baicoi/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-10T17:29:47+03:00"
-    },
-    {
       "title": "Liga 4 Brașov, etapa 7 I Măgura Codlea, scorul etapei cu CSM Făgăraș! SR Brașov, Internațional Brașov și Chimia Victoria, victorii scontate",
       "url": "https://www.monitorulexpres.ro/2026/10/10/liga-4-brasov-etapa-7-i-magura-codlea-scorul-etapei-cu-csm-fagaras-sr-brasov-international-brasov-si-chimia-victoria-victorii-scontate/",
       "source": "Monitorul Expres",
@@ -303,20 +331,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T10:48:41+03:00"
-    },
-    {
-      "title": "Canalizare pluvială pe străzile Gării și Bârsei din Râșnov. Proiectul face...",
-      "url": "https://transilvania365.ro/canalizare-pluviala-pe-strazile-garii-si-barsei-din-rasnov-proiectul-face-un-nou-pas-inainte/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-10T10:05:35+03:00"
-    },
-    {
-      "title": "Numărătoare inversă pentru Next Stage Brașov: Peste două zile încep înscrierile la festivalul-concurs care caută noile talente ale muzicii din România",
-      "url": "https://bizbrasov.ro/2026/10/10/brasov-next-stage-doua-zile-inscrierile/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-10T10:03:44+03:00"
     }
   ]
 }
