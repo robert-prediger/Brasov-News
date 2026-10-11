@@ -1,8 +1,36 @@
 {
-  "updated": "11.10.2026, 14:00",
-  "count": 46,
-  "raw_count": 57,
+  "updated": "11.10.2026, 15:00",
+  "count": 45,
+  "raw_count": 55,
   "items": [
+    {
+      "title": "Bărbat de 65 de ani din Bod, dispărut după ce a plecat de la serviciu. Poliția Brașov solicită ajutorul cetățenilor",
+      "url": "https://bizbrasov.ro/2026/10/11/barbat-65-de-ani-din-bod-disparut/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T14:53:11+03:00"
+    },
+    {
+      "title": "VIDEO Teroare în Brașov: Doi tineri de 19 ani au intrat peste un bărbat în casă, l-au bătut și l-au forțat să facă împrumuturi bancare pentru ei",
+      "url": "https://bizbrasov.ro/2026/10/11/brasov-doi-tineri-casa-barbat-fortat/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-11T14:44:08+03:00"
+    },
+    {
+      "title": "Un pompier brașovean participă la „FireFit” în Ungaria",
+      "url": "https://www.monitorulexpres.ro/2026/10/11/un-pompier-brasovean-participa-la-firefit-in-ungaria/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-11T14:10:55+03:00"
+    },
+    {
+      "title": "Volei. Corona Brașov, debut cu stângul în Divizia A1! Eșec dramatic cu CSM Lugoj",
+      "url": "https://www.monitorulexpres.ro/2026/10/11/volei-corona-brasov-debut-cu-stangul-in-divizia-a1-esec-dramatic-cu-csm-lugoj/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T14:09:42+03:00"
+    },
     {
       "title": "Exerciții militare cu trupe, tehnică blindată și parașutări, în poligonul din Sfântu Gheorghe. Coloanele vor tranzita și județul Brașov",
       "url": "https://bizbrasov.ro/2026/10/11/brasov-exercitii-trupe-tehnica-blindata/",
@@ -74,20 +102,6 @@
       "published": "2026-10-11T11:53:58+03:00"
     },
     {
-      "title": "FOTO Un pompier brașovean participă la o competiție în Ungaria: „FireFit” testează forța, rezistența și îndemânarea salvatorilor",
-      "url": "https://bizbrasov.ro/2026/10/11/pompier-brasovean-participa-competitie/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-11T11:40:04+03:00"
-    },
-    {
-      "title": "Fapt divers acum 14 minute Motociclist rănit în Masivul Ciucaș, evacuat de urgență cu elicopterul SMURD Brașov Un bărbat care practica enduro în Masivul Ciucaș a avut nevoie de intervenția urgentă a salvatorilor după ce a suferit...",
-      "url": "https://www.brasov.net/motociclist-ranit-in-masivul-ciucas-evacuat-de-urgenta-cu-elicopterul-smurd-brasov/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T11:16:25+03:00"
-    },
-    {
       "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
       "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
       "source": "NewsBV",
@@ -100,13 +114,6 @@
       "source": "MyTex",
       "category": "🌦️ Meteo",
       "published": "2026-10-11T11:01:57+03:00"
-    },
-    {
-      "title": "Eveniment acum 32 de minute Salvamont România la Congresul ICAR 2026: Tehnologii noi pentru Brașov",
-      "url": "https://www.brasov.net/salvamont-romania-la-congresul-icar-2026-tehnologii-noi-pentru-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-11T10:58:33+03:00"
     },
     {
       "title": "CSM Corona Brașov, victorie în deplasare în Liga Națională de baschet masculin. Trei echipe au maximum de puncte după două etape",
@@ -123,11 +130,25 @@
       "published": "2026-10-11T10:05:56+03:00"
     },
     {
+      "title": "Intervenție în Masivul Ciucaș: Un motociclist cu fractură de tibie, salvat cu elicopterul SMURD Brașov",
+      "url": "https://bizbrasov.ro/2026/10/11/interventie-masivul-ciucas-motociclist/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T10:05:48+03:00"
+    },
+    {
       "title": "Sportivii din Rusia și Belarus vor putea participa la FOTE Brașov 2027",
       "url": "https://www.monitorulexpres.ro/2026/10/11/sportivii-din-rusia-si-belarus-vor-putea-participa-la-fote-brasov-2027/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-11T09:53:19+03:00"
+    },
+    {
+      "title": "Accident în Masivul Ciucaș: Motociclist enduro, preluat de elicopterul POA Brașov",
+      "url": "https://mytex.ro/112/accident-in-masivul-ciucas-motociclist-enduro-preluat-de-elicopterul-poa-brasov/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T09:35:02+03:00"
     },
     {
       "title": "Cât costă alimentele în Brașov față de Spania: Ce cumpărăm cu 45 de euro la supermarketul din cartier",
@@ -256,13 +277,6 @@
       "published": "2026-10-10T09:50:15+03:00"
     },
     {
-      "title": "„Oricine poate greși”. Reacția Poliției Brașov după ce o autospecială a rămas blocată în beton proaspăt în timp ce se îndrepta spre un accident grav",
-      "url": "https://bizbrasov.ro/2026/10/10/brasov-politiei-reactia-autospeciala/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-10T09:44:13+03:00"
-    },
-    {
       "title": "Atenție, șoferi! Luni se lucrează pe strada Azotului din Făgăraș",
       "url": "https://transilvania365.ro/atentie-soferi-luni-se-lucreaza-pe-strada-azotului-din-fagaras/",
       "source": "Transilvania365",
@@ -291,13 +305,6 @@
       "published": "2026-10-10T08:30:37+03:00"
     },
     {
-      "title": "Administrație acum o zi Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
-      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-10T08:28:22+03:00"
-    },
-    {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
       "url": "https://newsbv.ro/un-nou-pas-restaurarea-cetatii-rasnov/",
       "source": "NewsBV",
@@ -310,20 +317,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-10T06:28:02+03:00"
-    },
-    {
-      "title": "Tânăr reținut pentru vandalizarea a 22 de mașini la Brașov",
-      "url": "https://www.zmbv.ro/tanar-retinut-pentru-vandalizarea-a-22-de-masini-la-brasov/10/10/2026/119552/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-10T02:14:50+03:00"
-    },
-    {
-      "title": "Tragedie Rutieră Lângă Săcele: Doi Vârstnici Decedați",
-      "url": "https://www.zmbv.ro/tragedie-rutiera-langa-sacele-doi-varstnici-decedati/10/10/2026/119551/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-10T02:14:40+03:00"
     }
   ]
 }
