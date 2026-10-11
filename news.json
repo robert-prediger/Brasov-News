@@ -1,8 +1,15 @@
 {
-  "updated": "11.10.2026, 20:00",
-  "count": 48,
-  "raw_count": 62,
+  "updated": "11.10.2026, 21:00",
+  "count": 46,
+  "raw_count": 60,
   "items": [
+    {
+      "title": "BRAȘOV | Prins din nou la volan fără permis, deși avea deja o condamnare definitivă",
+      "url": "https://mytex.ro/delicte/brasov-prins-din-nou-la-volan-fara-permis-desi-avea-deja-o-condamnare-definitiva/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T20:46:02+03:00"
+    },
     {
       "title": "Bărbat de 65 de ani din Bod, dat dispărut. Poliția Brașov solicită ajutorul populației",
       "url": "https://newsbv.ro/barbat-disparut-bod-gheorghe-jan/",
@@ -317,27 +324,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-10T09:19:18+03:00"
-    },
-    {
-      "title": "Brașovul, model european de integrare: Peste 780 de ore de mentorat și prietenii legate între studenți și copiii refugiați",
-      "url": "https://mytex.ro/expres/brasovul-model-european-de-integrare-peste-780-de-ore-de-mentorat-si-prietenii-legate-intre-studenti-si-copiii-refugiati/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-10T08:47:58+03:00"
-    },
-    {
-      "title": "Brașoveanul Bogdan Peşchir, trimis în judecată pentru sute de fapte de corupere a alegătorilor în favoarea lui Călin Georgescu",
-      "url": "https://www.monitorulexpres.ro/2026/10/10/brasoveanul-bogdan-peschir-trimis-in-judecata-pentru-sute-de-fapte-de-corupere-a-alegatorilor-in-favoarea-lui-calin-georgescu/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-10T08:30:37+03:00"
-    },
-    {
-      "title": "Administrație acum o zi Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
-      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-10T08:28:22+03:00"
     }
   ]
 }
