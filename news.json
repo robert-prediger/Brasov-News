@@ -1,8 +1,64 @@
 {
-  "updated": "11.10.2026, 11:00",
-  "count": 37,
-  "raw_count": 45,
+  "updated": "11.10.2026, 11:59",
+  "count": 42,
+  "raw_count": 53,
   "items": [
+    {
+      "title": "Ansamblul Folcloric „Poienița” Brașov face înscrieri pentru noi membri. Cursurile de dans popular sunt gratuite",
+      "url": "https://brasovstiri.ro/ansamblul-folcloric-poienita-brasov-face-inscrieri-pentru-noi-membri-cursurile-de-dans-popular-sunt-gratuite/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-11T11:55:41+03:00"
+    },
+    {
+      "title": "Corona Brașov, start ratat în Divizia A1 la volei feminin",
+      "url": "https://mytex.ro/sport/corona-brasov-start-ratat-in-divizia-a1/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T11:54:38+03:00"
+    },
+    {
+      "title": "Festivalul Național de Teatru AM-ACTOR revine la Brașov: teatru, povești și pasiune pe scena Centrului Cultural Reduta",
+      "url": "https://brasovstiri.ro/festivalul-national-de-teatru-am-actor-revine-la-brasov-teatru-povesti-si-pasiune-pe-scena-centrului-cultural-reduta/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-11T11:53:58+03:00"
+    },
+    {
+      "title": "FOTO Un pompier brașovean participă la o competiție în Ungaria: „FireFit” testează forța, rezistența și îndemânarea salvatorilor",
+      "url": "https://bizbrasov.ro/2026/10/11/pompier-brasovean-participa-competitie/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-11T11:40:04+03:00"
+    },
+    {
+      "title": "Fapt divers acum 14 minute Motociclist rănit în Masivul Ciucaș, evacuat de urgență cu elicopterul SMURD Brașov Un bărbat care practica enduro în Masivul Ciucaș a avut nevoie de intervenția urgentă a salvatorilor după ce a suferit...",
+      "url": "https://www.brasov.net/motociclist-ranit-in-masivul-ciucas-evacuat-de-urgenta-cu-elicopterul-smurd-brasov/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T11:16:25+03:00"
+    },
+    {
+      "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
+      "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T11:06:32+03:00"
+    },
+    {
+      "title": "Noul COD GALBEN emis de ANM și pentru Brașov: Vremea se strică accelerat. Ploi abundente în zonă și ninsori la munte!",
+      "url": "https://mytex.ro/expres/noul-cod-galben-emis-de-anm-si-pentru-brasov-vremea-se-strica-accelerat-ploi-abundente-in-zona-si-ninsori-la-munte/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-11T11:01:57+03:00"
+    },
+    {
+      "title": "Eveniment acum 32 de minute Salvamont România la Congresul ICAR 2026: Tehnologii noi pentru Brașov",
+      "url": "https://www.brasov.net/salvamont-romania-la-congresul-icar-2026-tehnologii-noi-pentru-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-11T10:58:33+03:00"
+    },
     {
       "title": "CSM Arcada Galați a câștigat Cupa Corona la volei masculin, la Brașov. Corona a încheiat turneul pe locul al treilea",
       "url": "https://newsbv.ro/arcada-galati-castigatoare-cupa-corona-volei-masculin/",
@@ -25,32 +81,11 @@
       "published": "2026-10-11T10:05:56+03:00"
     },
     {
-      "title": "Intervenție în Masivul Ciucaș: Un motociclist cu fractură de tibie, salvat cu elicopterul SMURD Brașov",
-      "url": "https://bizbrasov.ro/2026/10/11/interventie-masivul-ciucas-motociclist/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T10:05:48+03:00"
-    },
-    {
       "title": "Sportivii din Rusia și Belarus vor putea participa la FOTE Brașov 2027",
       "url": "https://www.monitorulexpres.ro/2026/10/11/sportivii-din-rusia-si-belarus-vor-putea-participa-la-fote-brasov-2027/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-11T09:53:19+03:00"
-    },
-    {
-      "title": "Accident în Masivul Ciucaș: Motociclist enduro, preluat de elicopterul POA Brașov",
-      "url": "https://mytex.ro/112/accident-in-masivul-ciucas-motociclist-enduro-preluat-de-elicopterul-poa-brasov/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T09:35:02+03:00"
-    },
-    {
-      "title": "Un pompier de la ISU Brașov participă la competiția FireFit din Ungaria",
-      "url": "https://mytex.ro/expres/un-pompier-de-la-isu-brasov-participa-la-competitia-firefit-din-ungaria/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-11T09:29:15+03:00"
     },
     {
       "title": "Cât costă alimentele în Brașov față de Spania: Ce cumpărăm cu 45 de euro la supermarketul din cartier",
@@ -207,6 +242,13 @@
       "published": "2026-10-10T08:30:37+03:00"
     },
     {
+      "title": "Administrație acum o zi Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
+      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-10T08:28:22+03:00"
+    },
+    {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
       "url": "https://newsbv.ro/un-nou-pas-restaurarea-cetatii-rasnov/",
       "source": "NewsBV",
@@ -254,13 +296,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-10T00:14:24+03:00"
-    },
-    {
-      "title": "Încep Lucrările la Prima Pista de Biciclete din Brașov",
-      "url": "https://www.zmbv.ro/incep-lucrarile-la-prima-pista-de-biciclete-din-brasov/09/10/2026/119546/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-09T23:16:16+03:00"
     }
   ]
 }
