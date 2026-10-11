@@ -1,8 +1,15 @@
 {
-  "updated": "11.10.2026, 21:00",
-  "count": 46,
-  "raw_count": 60,
+  "updated": "11.10.2026, 22:00",
+  "count": 45,
+  "raw_count": 59,
   "items": [
+    {
+      "title": "Zece incendii de vegetație astăzi, în Brașov! Focul amenință două stâne și o pădure la Dumbrăvița",
+      "url": "https://mytex.ro/112/zece-incendii-de-vegetatie-astazi-in-brasov-focul-ameninta-doua-stane-si-o-padure-la-dumbravita/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T21:11:21+03:00"
+    },
     {
       "title": "BRAȘOV | Prins din nou la volan fără permis, deși avea deja o condamnare definitivă",
       "url": "https://mytex.ro/delicte/brasov-prins-din-nou-la-volan-fara-permis-desi-avea-deja-o-condamnare-definitiva/",
@@ -310,20 +317,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-10T10:03:44+03:00"
-    },
-    {
-      "title": "Ce se vinde cu 42 de milioane de euro la Brașov",
-      "url": "https://mytex.ro/economic/ce-se-vinde-cu-42-de-milioane-de-euro-la-brasov/",
-      "source": "MyTex",
-      "category": "💰 Business & economie",
-      "published": "2026-10-10T09:50:15+03:00"
-    },
-    {
-      "title": "Atenție, șoferi! Luni se lucrează pe strada Azotului din Făgăraș",
-      "url": "https://transilvania365.ro/atentie-soferi-luni-se-lucreaza-pe-strada-azotului-din-fagaras/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-10T09:19:18+03:00"
     }
   ]
 }
