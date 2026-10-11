@@ -1,8 +1,15 @@
 {
-  "updated": "11.10.2026, 18:00",
-  "count": 49,
-  "raw_count": 62,
+  "updated": "11.10.2026, 18:46",
+  "count": 48,
+  "raw_count": 59,
   "items": [
+    {
+      "title": "Calificare cu strângere de inimă: Corona Brașov merge mai departe în Europa, dar jocul ridică în continuare mari semne de întrebare",
+      "url": "https://mytex.ro/sport/calificare-cu-strangere-de-inima-corona-brasov-merge-mai-departe-in-europa-dar-jocul-ridica-in-continuare-mari-semne-de-intrebare/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T18:17:46+03:00"
+    },
     {
       "title": "Revolta angajaților de la IAR Ghimbav: Salarii de 4 ori mai mari pentru șefi, în timp ce muncitorii protestează fără salariile indexate",
       "url": "https://mytex.ro/expres/revolta-angajatilor-de-la-iar-ghimbav-salarii-de-4-ori-mai-mari-pentru-sefi-in-timp-ce-muncitorii-protesteaza-fara-salariile-indexate/",
@@ -137,13 +144,6 @@
       "published": "2026-10-11T11:53:58+03:00"
     },
     {
-      "title": "Fapt divers acum 14 minute Motociclist rănit în Masivul Ciucaș, evacuat de urgență cu elicopterul SMURD Brașov Un bărbat care practica enduro în Masivul Ciucaș a avut nevoie de intervenția urgentă a salvatorilor după ce a suferit...",
-      "url": "https://www.brasov.net/motociclist-ranit-in-masivul-ciucas-evacuat-de-urgenta-cu-elicopterul-smurd-brasov/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T11:16:25+03:00"
-    },
-    {
       "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
       "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
       "source": "NewsBV",
@@ -156,13 +156,6 @@
       "source": "MyTex",
       "category": "🌦️ Meteo",
       "published": "2026-10-11T11:01:57+03:00"
-    },
-    {
-      "title": "Eveniment acum 32 de minute Salvamont România la Congresul ICAR 2026: Tehnologii noi pentru Brașov",
-      "url": "https://www.brasov.net/salvamont-romania-la-congresul-icar-2026-tehnologii-noi-pentru-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-11T10:58:33+03:00"
     },
     {
       "title": "CSM Corona Brașov, victorie în deplasare în Liga Națională de baschet masculin. Trei echipe au maximum de puncte după două etape",
@@ -179,11 +172,25 @@
       "published": "2026-10-11T10:05:56+03:00"
     },
     {
+      "title": "Intervenție în Masivul Ciucaș: Un motociclist cu fractură de tibie, salvat cu elicopterul SMURD Brașov",
+      "url": "https://bizbrasov.ro/2026/10/11/interventie-masivul-ciucas-motociclist/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T10:05:48+03:00"
+    },
+    {
       "title": "Sportivii din Rusia și Belarus vor putea participa la FOTE Brașov 2027",
       "url": "https://www.monitorulexpres.ro/2026/10/11/sportivii-din-rusia-si-belarus-vor-putea-participa-la-fote-brasov-2027/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-11T09:53:19+03:00"
+    },
+    {
+      "title": "Accident în Masivul Ciucaș: Motociclist enduro, preluat de elicopterul POA Brașov",
+      "url": "https://mytex.ro/112/accident-in-masivul-ciucas-motociclist-enduro-preluat-de-elicopterul-poa-brasov/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T09:35:02+03:00"
     },
     {
       "title": "Cât costă alimentele în Brașov față de Spania: Ce cumpărăm cu 45 de euro la supermarketul din cartier",
@@ -326,25 +333,11 @@
       "published": "2026-10-10T08:30:37+03:00"
     },
     {
-      "title": "Administrație acum o zi Proiectul de restaurare a Cetății Râșnov, deblocat oficial. Investiția depășește 28 de milioane de lei",
-      "url": "https://www.brasov.net/proiectul-de-restaurare-a-cetatii-rasnov-deblocat-oficial-investitia-depaseste-28-de-milioane-de-lei/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-10T08:28:22+03:00"
-    },
-    {
       "title": "Un nou pas pentru restaurarea Cetății Râșnov: A fost finalizată licitaţia pentru proiectarea și execuția proiectului",
       "url": "https://newsbv.ro/un-nou-pas-restaurarea-cetatii-rasnov/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-10T07:57:45+03:00"
-    },
-    {
-      "title": "Salvamont Braşov, într-un program internaţional de pregătire în Italia şi Austria",
-      "url": "https://newsbv.ro/salvamont-brasov-program-pregatire-italia-austria/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-10T06:28:02+03:00"
     }
   ]
 }
