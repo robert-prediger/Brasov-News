@@ -1,8 +1,29 @@
 {
-  "updated": "12.10.2026, 23:00",
-  "count": 84,
-  "raw_count": 102,
+  "updated": "13.10.2026, 00:00",
+  "count": 82,
+  "raw_count": 99,
   "items": [
+    {
+      "title": "Amenzi de 60.000 de lei pentru zgomot în munții Brașovului",
+      "url": "https://www.zmbv.ro/amenzi-de-60-000-de-lei-pentru-zgomot-in-muntii-brasovului/12/10/2026/119666/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-12T23:14:54+03:00"
+    },
+    {
+      "title": "Opera „Faust” Sold-Out la Brașov",
+      "url": "https://www.zmbv.ro/opera-faust-sold-out-la-brasov/12/10/2026/119664/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T23:14:30+03:00"
+    },
+    {
+      "title": "Concert de Excepție la Brașov: Corul din Berlin",
+      "url": "https://www.zmbv.ro/concert-de-exceptie-la-brasov-corul-din-berlin/12/10/2026/119662/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T23:14:11+03:00"
+    },
     {
       "title": "Ce le transmite directorul Rasaliu protestatarilor de la IAR Ghimbav",
       "url": "https://transilvania365.ro/ce-le-transmite-directorul-general-rasaliu-protestatarilor-de-la-iar-ghimbav/",
@@ -100,13 +121,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-12T16:52:42+03:00"
-    },
-    {
-      "title": "Liniștea munților din Brașov, spulberată de zgomotul motoarelor. Amenzi de aproape 60.000 de lei aplicate de jandarmii montani în weekend",
-      "url": "https://bizbrasov.ro/2026/10/12/liniste-munti-zgomot-brasov-jandarmi/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-12T16:28:41+03:00"
     },
     {
       "title": "Cetățuia Brașovului intră în conservare. Ce lucrări se execută și când ar putea fi redeschisă vizitatorilor",
@@ -312,13 +326,6 @@
       "published": "2026-10-12T11:19:23+03:00"
     },
     {
-      "title": "Doliu la Primăria Feldioara: Eliza Vartolomei a decedat",
-      "url": "https://www.zmbv.ro/doliu-la-primaria-feldioara-eliza-vartolomei-a-decedat/12/10/2026/119652/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-12T11:19:10+03:00"
-    },
-    {
       "title": "Persoanele care sesizează nereguli în păduri, așteptate să participe la controalele Gărzii Forestiere. Aplicație dezvoltată de un brașovean",
       "url": "https://bizbrasov.ro/2026/10/12/paduri-controalele-garzii-forestiere/",
       "source": "BizBrașov",
@@ -394,6 +401,13 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-12T10:23:38+03:00"
+    },
+    {
+      "title": "Doliu la Primăria Feldioara! Eliza Vartolomei a murit la 63 de...",
+      "url": "https://transilvania365.ro/doliu-la-primaria-feldioara-eliza-vartolomei-a-murit-la-63-de-ani-dupa-34-de-ani-in-slujba-comunitatii/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-12T10:16:36+03:00"
     },
     {
       "title": "Eveniment acum 6 ore Pieton de 18 ani accidentat grav pe o trecere de pietoni din Brașov",
@@ -562,34 +576,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-11T13:27:38+03:00"
-    },
-    {
-      "title": "Corona Brașov, start ratat în Divizia A1 la volei feminin",
-      "url": "https://mytex.ro/sport/corona-brasov-start-ratat-in-divizia-a1/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-11T11:54:38+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Motociclist rănit în Masivul Ciucaș, evacuat de urgență cu elicopterul SMURD Brașov",
-      "url": "https://www.brasov.net/motociclist-ranit-in-masivul-ciucas-evacuat-de-urgenta-cu-elicopterul-smurd-brasov/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T11:16:25+03:00"
-    },
-    {
-      "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
-      "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-11T11:06:32+03:00"
-    },
-    {
-      "title": "Noul COD GALBEN emis de ANM și pentru Brașov: Vremea se strică accelerat. Ploi abundente în zonă și ninsori la munte!",
-      "url": "https://mytex.ro/expres/noul-cod-galben-emis-de-anm-si-pentru-brasov-vremea-se-strica-accelerat-ploi-abundente-in-zona-si-ninsori-la-munte/",
-      "source": "MyTex",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-11T11:01:57+03:00"
     }
   ]
 }
