@@ -1,8 +1,22 @@
 {
-  "updated": "12.10.2026, 19:00",
-  "count": 82,
+  "updated": "12.10.2026, 20:00",
+  "count": 84,
   "raw_count": 101,
   "items": [
+    {
+      "title": "Concert la Brașov, pe 22 octombrie: Corul de Stat și al Domului din Berlin, la Sinagoga Beth Israel și Biserica Neagră",
+      "url": "https://newsbv.ro/concert-corul-de-stat-dom-berlin/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T19:51:42+03:00"
+    },
+    {
+      "title": "România are depozitele de gaze peste pragul de 80%. Cristian Bușoi: Consumatorii casnici sunt asigurați",
+      "url": "https://newsbv.ro/cristian-busoi-depozite-gaze/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T19:43:07+03:00"
+    },
     {
       "title": "Lucrările la Cetățuia Brașovului sunt în plină desfășurare",
       "url": "https://www.monitorulexpres.ro/2026/10/12/lucrarile-la-cetatuia-brasovului-sunt-in-plina-desfasurare/",
@@ -81,6 +95,13 @@
       "published": "2026-10-12T16:22:57+03:00"
     },
     {
+      "title": "‘Pe 16 decembrie dăm foc la fabrică’. Ultimatum pentru Guvern după revolta de la IAR Ghimbav",
+      "url": "https://newsbv.ro/iar-ghimbav-ultimatum-guvern/",
+      "source": "NewsBV",
+      "category": "💰 Business & economie",
+      "published": "2026-10-12T16:19:16+03:00"
+    },
+    {
       "title": "Șeful IAR Brașov, Marian Rasaliu, admite că fabrica ar putea rămâne fără activitate anul viitor",
       "url": "https://newsbv.ro/iar-brasov-marian-rasaliu-fabrica/",
       "source": "NewsBV",
@@ -100,6 +121,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-12T15:56:48+03:00"
+    },
+    {
+      "title": "Lucrările de renovare de la Cetăţuia Braşovului continuă. Se elimină tencuielile din ciment şi este îndepărtată vegetația (VIDEO)",
+      "url": "https://newsbv.ro/lucrarile-de-renovare-de-la-cetatuia-brasovului-continua/",
+      "source": "NewsBV",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-12T15:54:38+03:00"
     },
     {
       "title": "Eveniment acum 24 de minute Pompierii din Brașov, în lupta cu flăcările! Incendiu de vegetație pe opt hectare",
@@ -135,13 +163,6 @@
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-12T15:18:04+03:00"
-    },
-    {
-      "title": "Insolvențele firmelor din Brașov au crescut cu 37,8%. Județul, printre zonele cu cele mai mari creșteri din țară",
-      "url": "https://newsbv.ro/insolvente-brasov-2026-crestere-378/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-12T15:04:54+03:00"
     },
     {
       "title": "Sunt anunţate multe întreruperi de curent în Cristian, dar şi în Vama Buzăului",
@@ -548,13 +569,6 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-11T10:58:33+03:00"
-    },
-    {
-      "title": "CSM Arcada Galați a câștigat Cupa Corona la volei masculin, la Brașov. Corona a încheiat turneul pe locul al treilea",
-      "url": "https://newsbv.ro/arcada-galati-castigatoare-cupa-corona-volei-masculin/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-11T10:50:13+03:00"
     },
     {
       "title": "Accident în Masivul Ciucaș: Motociclist enduro, preluat de elicopterul POA Brașov",
