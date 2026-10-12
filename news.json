@@ -1,7 +1,7 @@
 {
-  "updated": "12.10.2026, 22:00",
-  "count": 73,
-  "raw_count": 88,
+  "updated": "12.10.2026, 22:22",
+  "count": 85,
+  "raw_count": 104,
   "items": [
     {
       "title": "Ce le transmite directorul Rasaliu protestatarilor de la IAR Ghimbav",
@@ -18,6 +18,34 @@
       "published": "2026-10-12T20:34:15+03:00"
     },
     {
+      "title": "Corona Brașov pornește în aventura europeană! „Lupii” luptă pentru calificare în Cupa Continentală",
+      "url": "https://newsbv.ro/corona-brasov-cupa-continentala-2026-2027/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-12T20:15:18+03:00"
+    },
+    {
+      "title": "După 54 de ani, Simfonia nr. 2 de Aram Haciaturian revine la Filarmonica Brașov",
+      "url": "https://newsbv.ro/filarmonica-brasov-simfonia-2/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T20:07:32+03:00"
+    },
+    {
+      "title": "Concert la Brașov, pe 22 octombrie: Corul de Stat și al Domului din Berlin, la Sinagoga Beth Israel și Biserica Neagră",
+      "url": "https://newsbv.ro/concert-corul-de-stat-dom-berlin/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T19:51:42+03:00"
+    },
+    {
+      "title": "România are depozitele de gaze peste pragul de 80%. Cristian Bușoi: Consumatorii casnici sunt asigurați",
+      "url": "https://newsbv.ro/cristian-busoi-depozite-gaze/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T19:43:07+03:00"
+    },
+    {
       "title": "(Video) Lucrări „minimale” la Cetățuia Brașovului",
       "url": "https://www.monitorulexpres.ro/2026/10/12/video-lucrari-minimale-la-cetatuia-brasovului/",
       "source": "Monitorul Expres",
@@ -32,11 +60,25 @@
       "published": "2026-10-12T18:19:28+03:00"
     },
     {
+      "title": "Victorie categorică pentru Corona Brașov 2! Scor 118-46 cu CSU Brașov în Liga 1 de baschet masculin",
+      "url": "https://newsbv.ro/corona-brasov-2-csu-brasov-118-46-baschet/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-12T18:08:06+03:00"
+    },
+    {
       "title": "„Faust” se joacă cu casa închisă la Opera Brașov",
       "url": "https://bizbrasov.ro/2026/10/12/brasov-opera-se-joaca-casa-inchisa/",
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-12T17:34:56+03:00"
+    },
+    {
+      "title": "Sportivii de la CS Olimpic Cetate Râșnov, rezultate bune în Polonia. Mihai Terciu și Ștefan Bălău, în top 6 la un turneu internațional de lupte",
+      "url": "https://newsbv.ro/olimpic-cetate-rasnov-turneu-lupte-polonia-2026/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-12T17:27:14+03:00"
     },
     {
       "title": "Toamna aduce un nou catalog la ATAC Brașov: descoperă recomandările lunii octombrie",
@@ -60,13 +102,6 @@
       "published": "2026-10-12T16:52:42+03:00"
     },
     {
-      "title": "Eveniment istoric la Filarmonica Brașov: Simfonia nr. 2 de Aram Haciaturian revine pe scenă după 54 de ani. Ce alte concerte sunt programate",
-      "url": "https://mytex.ro/timp-liber/eveniment-istoric-la-filarmonica-brasov-simfonia-nr-2-de-aram-haciaturian-revine-pe-scena-dupa-54-de-ani-ce-alte-concerte-sunt-programate/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-12T16:39:29+03:00"
-    },
-    {
       "title": "Liniștea munților din Brașov, spulberată de zgomotul motoarelor. Amenzi de aproape 60.000 de lei aplicate de jandarmii montani în weekend",
       "url": "https://bizbrasov.ro/2026/10/12/liniste-munti-zgomot-brasov-jandarmi/",
       "source": "BizBrașov",
@@ -79,6 +114,20 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-12T16:22:57+03:00"
+    },
+    {
+      "title": "Șeful IAR Brașov, Marian Rasaliu, admite că fabrica ar putea rămâne fără activitate anul viitor",
+      "url": "https://newsbv.ro/iar-brasov-marian-rasaliu-fabrica/",
+      "source": "NewsBV",
+      "category": "💰 Business & economie",
+      "published": "2026-10-12T16:08:01+03:00"
+    },
+    {
+      "title": "Centura Sighișoarei, de pe DN 13 Braşov-Tg. Mureş, la 16%. 170 de muncitori și peste 100 de utilaje lucrează pe șantier",
+      "url": "https://newsbv.ro/centura-sighisoarei-la-16/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-12T16:04:30+03:00"
     },
     {
       "title": "Tururi ghidate la Cetățuia Brașovului? Când ar putea fi redeschisă curtea interioară",
@@ -116,11 +165,25 @@
       "published": "2026-10-12T15:25:06+03:00"
     },
     {
+      "title": "Incendiu de amploare la o firmă din Sfântu Gheorghe. A intervenit şi ISU Braşov",
+      "url": "https://newsbv.ro/incendiu-de-amploare-la-o-firma-din-sfantu-gheorghe/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-12T15:24:08+03:00"
+    },
+    {
       "title": "Trenuri electrice noi pe ruta București–Brașov! Două rame Alstom au trecut de recepția...",
       "url": "https://transilvania365.ro/trenuri-electrice-noi-pe-ruta-bucuresti-brasov-doua-rame-alstom-au-trecut-de-receptia-preliminara/",
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-12T15:18:04+03:00"
+    },
+    {
+      "title": "Insolvențele firmelor din Brașov au crescut cu 37,8%. Județul, printre zonele cu cele mai mari creșteri din țară",
+      "url": "https://newsbv.ro/insolvente-brasov-2026-crestere-378/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T15:04:54+03:00"
     },
     {
       "title": "Sunt anunţate multe întreruperi de curent în Cristian, dar şi în Vama Buzăului",
@@ -191,6 +254,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-12T12:00:37+03:00"
+    },
+    {
+      "title": "Garda Forestieră Brașov, pe primul loc la prejudicii identificate şi volum de lemn tăiat ilegal identificat",
+      "url": "https://newsbv.ro/garda-forestiera-brasov-pe-primul-loc/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T11:56:27+03:00"
     },
     {
       "title": "Spitalul Municipal Săcele angajează asistenți medicali, îngrijitoare și registratori medicali",
@@ -275,6 +345,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-12T11:01:32+03:00"
+    },
+    {
+      "title": "Europarlamentarul AUR Gheorghe Piperea cere intervenția DIICOT după scandalul de la IAR Brașov",
+      "url": "https://newsbv.ro/gheorghe-piperea-scandalul-de-la-iar-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T10:29:10+03:00"
     },
     {
       "title": "Investiție majoră în medicina brașoveană: Clinica Umana Fertility, preluată integral de antrprenorul George Peltecu",
@@ -417,13 +494,6 @@
       "published": "2026-10-12T08:14:04+03:00"
     },
     {
-      "title": "Europarlamentarul Gheorghe Piperea cere intervenția DIICOT în cazul IAR Brașov",
-      "url": "https://mytex.ro/politic/europarlamentarul-gheorghe-piperea-cere-interventia-diicot-in-cazul-iar-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-12T08:09:37+03:00"
-    },
-    {
       "title": "„Turism matrimonial” la Brașov. Miri din toată țara vin să-și unească...",
       "url": "https://transilvania365.ro/turism-matrimonial-la-brasov-miri-din-toata-tara-vin-sa-si-uneasca-destinele-aici/",
       "source": "Transilvania365",
@@ -501,6 +571,13 @@
       "published": "2026-10-11T11:16:25+03:00"
     },
     {
+      "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
+      "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T11:06:32+03:00"
+    },
+    {
       "title": "Noul COD GALBEN emis de ANM și pentru Brașov: Vremea se strică accelerat. Ploi abundente în zonă și ninsori la munte!",
       "url": "https://mytex.ro/expres/noul-cod-galben-emis-de-anm-si-pentru-brasov-vremea-se-strica-accelerat-ploi-abundente-in-zona-si-ninsori-la-munte/",
       "source": "MyTex",
@@ -513,6 +590,13 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-11T10:58:33+03:00"
+    },
+    {
+      "title": "CSM Arcada Galați a câștigat Cupa Corona la volei masculin, la Brașov. Corona a încheiat turneul pe locul al treilea",
+      "url": "https://newsbv.ro/arcada-galati-castigatoare-cupa-corona-volei-masculin/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-11T10:50:13+03:00"
     }
   ]
 }
