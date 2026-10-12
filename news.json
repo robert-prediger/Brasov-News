@@ -1,8 +1,29 @@
 {
-  "updated": "12.10.2026, 05:27",
-  "count": 41,
-  "raw_count": 54,
+  "updated": "12.10.2026, 06:00",
+  "count": 42,
+  "raw_count": 56,
   "items": [
+    {
+      "title": "Stație de asfalt cu o capacitate de 100 de tone pe oră. În ce zonă a Brașovului ar urma să fie amplasată și când este estimată finalizarea",
+      "url": "https://bizbrasov.ro/2026/10/12/statie-asfalt-tone-zona-brasov-amplasa/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-12T05:40:00+03:00"
+    },
+    {
+      "title": "Spații verzi mai bine amenajate, trotuare accesibile și mai puțină presiune în cazul parcărilor. Planul pentru regenerarea cartierelor Brașovului, în dezbatere publică",
+      "url": "https://bizbrasov.ro/2026/10/12/spatii-verzi-parcari-plan-cartiere-brasov/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-12T05:38:00+03:00"
+    },
+    {
+      "title": "Pompierii brașoveni, zece intervenții la incendii de vegetație într-o singură zi",
+      "url": "https://www.monitorulexpres.ro/2026/10/12/pompierii-brasoveni-zece-interventii-la-incendii-de-vegetatie-intr-o-singura-zi/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-12T00:29:57+03:00"
+    },
     {
       "title": "Corona Brașov, învinsă de CSM Lugoj în debutul Diviziei A1",
       "url": "https://www.zmbv.ro/corona-brasov-invinsa-de-csm-lugoj-in-debutul-diviziei-a1/11/10/2026/119615/",
@@ -44,13 +65,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-11T22:14:24+03:00"
-    },
-    {
-      "title": "Zece incendii de vegetație astăzi, în Brașov! Focul amenință două stâne și o pădure la Dumbrăvița",
-      "url": "https://mytex.ro/112/zece-incendii-de-vegetatie-astazi-in-brasov-focul-ameninta-doua-stane-si-o-padure-la-dumbravita/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T21:11:21+03:00"
     },
     {
       "title": "BRAȘOV | Prins din nou la volan fără permis, deși avea deja o condamnare definitivă",
@@ -282,13 +296,6 @@
       "source": "MyTex",
       "category": "💰 Business & economie",
       "published": "2026-10-10T18:52:09+03:00"
-    },
-    {
-      "title": "Etapa 8 Liga 3 | Corona Brașov câștigă clar derby-ul cu Inter Stars Sibiu. Olimpic Zărnești a ratat dramatic victoria la Băicoi",
-      "url": "https://www.monitorulexpres.ro/2026/10/10/etapa-8-liga-3-corona-brasov-castiga-clar-derby-ul-cu-inter-stars-sibiu-olimpic-zarnesti-a-ratat-dramatic-victoria-la-baicoi/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-10T17:29:47+03:00"
     }
   ]
 }
