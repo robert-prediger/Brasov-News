@@ -1,7 +1,7 @@
 {
-  "updated": "12.10.2026, 02:12",
-  "count": 43,
-  "raw_count": 57,
+  "updated": "12.10.2026, 03:00",
+  "count": 42,
+  "raw_count": 54,
   "items": [
     {
       "title": "Corona Brașov, învinsă de CSM Lugoj în debutul Diviziei A1",
@@ -193,13 +193,6 @@
       "published": "2026-10-11T11:53:58+03:00"
     },
     {
-      "title": "Fapt divers acum 12 ore Motociclist rănit în Masivul Ciucaș, evacuat de urgență cu elicopterul SMURD Brașov Un bărbat care practica enduro în Masivul Ciucaș a avut nevoie de intervenția urgentă a salvatorilor după ce a suferit...",
-      "url": "https://www.brasov.net/motociclist-ranit-in-masivul-ciucas-evacuat-de-urgenta-cu-elicopterul-smurd-brasov/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-11T11:16:25+03:00"
-    },
-    {
       "title": "Corona Brașov a pierdut cu CSM Lugoj în prima etapă a Diviziei A1 la volei feminin. Ciprian Dârnescu: „Calitatea jocului nostru a fost mult sub ce ne așteptam”",
       "url": "https://newsbv.ro/corona-brasov-csm-lugoj-2-3-volei-feminin/",
       "source": "NewsBV",
@@ -212,13 +205,6 @@
       "source": "MyTex",
       "category": "🌦️ Meteo",
       "published": "2026-10-11T11:01:57+03:00"
-    },
-    {
-      "title": "Eveniment acum 13 ore Salvamont România la Congresul ICAR 2026: Tehnologii noi pentru Brașov",
-      "url": "https://www.brasov.net/salvamont-romania-la-congresul-icar-2026-tehnologii-noi-pentru-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-11T10:58:33+03:00"
     },
     {
       "title": "CSM Corona Brașov, victorie în deplasare în Liga Națională de baschet masculin. Trei echipe au maximum de puncte după două etape",
@@ -235,11 +221,25 @@
       "published": "2026-10-11T10:05:56+03:00"
     },
     {
+      "title": "Intervenție în Masivul Ciucaș: Un motociclist cu fractură de tibie, salvat cu elicopterul SMURD Brașov",
+      "url": "https://bizbrasov.ro/2026/10/11/interventie-masivul-ciucas-motociclist/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T10:05:48+03:00"
+    },
+    {
       "title": "Sportivii din Rusia și Belarus vor putea participa la FOTE Brașov 2027",
       "url": "https://www.monitorulexpres.ro/2026/10/11/sportivii-din-rusia-si-belarus-vor-putea-participa-la-fote-brasov-2027/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-11T09:53:19+03:00"
+    },
+    {
+      "title": "Accident în Masivul Ciucaș: Motociclist enduro, preluat de elicopterul POA Brașov",
+      "url": "https://mytex.ro/112/accident-in-masivul-ciucas-motociclist-enduro-preluat-de-elicopterul-poa-brasov/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-11T09:35:02+03:00"
     },
     {
       "title": "Cât costă alimentele în Brașov față de Spania: Ce cumpărăm cu 45 de euro la supermarketul din cartier",
@@ -296,13 +296,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-10T15:57:37+03:00"
-    },
-    {
-      "title": "Brașovul, în topul preferințelor pe Booking.com: Orașul de la poalele Tâmpei domină piața chiriilor în regim hotelier, alături de București și Cluj-Napoca",
-      "url": "https://bizbrasov.ro/2026/10/10/brasovul-topul-preferintelor-booking/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-10T14:36:20+03:00"
     }
   ]
 }
