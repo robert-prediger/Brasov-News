@@ -1,8 +1,36 @@
 {
-  "updated": "12.10.2026, 17:00",
-  "count": 83,
-  "raw_count": 102,
+  "updated": "12.10.2026, 18:00",
+  "count": 87,
+  "raw_count": 106,
   "items": [
+    {
+      "title": "„Faust” se joacă cu casa închisă la Opera Brașov",
+      "url": "https://bizbrasov.ro/2026/10/12/brasov-opera-se-joaca-casa-inchisa/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T17:34:56+03:00"
+    },
+    {
+      "title": "Amenzi de 57.500 de lei pentru „distracția” cu motoare pe munte! Jandarmii brașoveni au aplicat 50 de sancțiuni în trei zile",
+      "url": "https://mytex.ro/expres/amenzi-de-57-500-de-lei-pentru-distractia-cu-motoare-pe-munte-jandarmii-brasoveni-au-aplicat-50-de-sanctiuni-in-trei-zile/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-12T17:31:39+03:00"
+    },
+    {
+      "title": "Sportivii de la CS Olimpic Cetate Râșnov, rezultate bune în Polonia. Mihai Terciu și Ștefan Bălău, în top 6 la un turneu internațional de lupte",
+      "url": "https://newsbv.ro/olimpic-cetate-rasnov-turneu-lupte-polonia-2026/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-12T17:27:14+03:00"
+    },
+    {
+      "title": "Toamna aduce un nou catalog la ATAC Brașov: descoperă recomandările lunii octombrie",
+      "url": "https://mytex.ro/economic/toamna-aduce-un-nou-catalog-la-atac-brasov-descopera-recomandarile-lunii-octombrie/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-12T17:07:50+03:00"
+    },
     {
       "title": "Cădere liberă pe piața imobiliară din Brașov: Vânzările de locuințe au scăzut cu peste 63% în trimestrul al treilea",
       "url": "https://mytex.ro/economic/cadere-libera-pe-piata-imobiliara-din-brasov-vanzarile-de-locuinte-au-scazut-cu-peste-63-in-trimestrul-al-treilea/",
@@ -151,18 +179,18 @@
       "published": "2026-10-12T13:40:44+03:00"
     },
     {
-      "title": "Accident grav pe bulevardul 15 Noiembrie din Brașov. Un tânăr de 26 de ani a ajuns la spital",
-      "url": "https://newsbv.ro/accident-grav-pe-bulevardul-15-noiembrie/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-12T13:32:35+03:00"
-    },
-    {
       "title": "Amenzi de 20.000 de lei în doar două ore, după un control al polițiștilor pe drumul dintre Brașov și Poiana Brașov",
       "url": "https://bizbrasov.ro/2026/10/12/brasov-amenzi-de-20-000-de-lei-in-doar-ore/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-12T13:29:04+03:00"
+    },
+    {
+      "title": "Accident grav pe bulevardul 15 Noiembrie din Brașov. Un tânăr de 26 de ani a fost rănit",
+      "url": "https://www.monitorulexpres.ro/2026/10/12/accident-grav-pe-bulevardul-15-noiembrie-din-brasov-un-tanar-de-26-de-ani-a-fost-ranit/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-12T13:28:30+03:00"
     },
     {
       "title": "Fapt divers acum 3 ore Salvatorii brașoveni, testați în condiții extreme la Exercițiul Național Salvaspeo din Pădurea Craiului",
