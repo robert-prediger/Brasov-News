@@ -1,14 +1,35 @@
 {
-  "updated": "12.10.2026, 14:00",
-  "count": 74,
-  "raw_count": 94,
+  "updated": "12.10.2026, 15:00",
+  "count": 76,
+  "raw_count": 96,
   "items": [
     {
-      "title": "Peste 20 de amenzi pe drumul spre Poiana Brașov! 3 șoferi au rămas fără permis după ce au apăsat...",
-      "url": "https://transilvania365.ro/peste-20-de-amenzi-pe-drumul-spre-poiana-brasov-3-soferi-au-ramas-fara-permis-dupa-ce-au-apasat-prea-tare-acceleratia/",
-      "source": "Transilvania365",
+      "title": "Sunt anunţate multe întreruperi de curent în Cristian, dar şi în Vama Buzăului",
+      "url": "https://mytex.ro/expres/sunt-anuntate-multe-intreruperi-de-curent-in-cristian-dar-si-in-vama-buzaului/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-12T14:55:35+03:00"
+    },
+    {
+      "title": "Între zăpadă artificială și turiști străini: Cum se pregătește Poiana Brașov pentru noul sezon de schi",
+      "url": "https://mytex.ro/turism/intre-zapada-artificiala-si-turisti-straini-cum-se-pregateste-poiana-brasov-pentru-noul-sezon-de-schi/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-12T14:44:33+03:00"
+    },
+    {
+      "title": "BRAȘOV | Prinși de radar pe Drumul Poienii: Trei șoferi au rămas fără permis după ce au depășit limita legală cu peste 50 km/h",
+      "url": "https://mytex.ro/expres/brasov-prinsi-de-radar-pe-drumul-poienii-trei-soferi-au-ramas-fara-permis-dupa-ce-au-depasit-limita-legala-cu-peste-50-km-h/",
+      "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-12T13:56:36+03:00"
+      "published": "2026-10-12T14:42:18+03:00"
+    },
+    {
+      "title": "Eveniment de excepție la Filarmonica Brașov: „Simfonia cu clopote” revine pe scenă după mai bine de jumătate de secol",
+      "url": "https://bizbrasov.ro/2026/10/12/brasov-eveniment-filarmonica-simfonia/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-12T14:03:28+03:00"
     },
     {
       "title": "Administrație acum 20 de minute Prima pistă de biciclete din Pădurile Parc ale Brașovului a intrat în etapa de execuție Primul traseu de biciclete amenajat în Pădurile Parc ale Brașovului a intrat în etapa de execuție. Cu o lungime de...",
@@ -37,13 +58,6 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-12T13:27:03+03:00"
-    },
-    {
-      "title": "N-a mai putut stăpâni mașina! S-a făcut praf de un stâlp, pe un bulevard din Brașov! Un tânăr de...",
-      "url": "https://transilvania365.ro/n-a-mai-putut-stapani-masina-s-a-facut-praf-de-un-stalp-pe-un-bulevard-din-brasov-un-tanar-de-26-de-ani-in-stare-grava/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-12T13:24:16+03:00"
     },
     {
       "title": "Fapt divers acum 51 de minute Salvatorii brașoveni, testați în condiții extreme la Exercițiul Național Salvaspeo din Pădurea Craiului",
@@ -431,13 +445,6 @@
       "published": "2026-10-11T17:12:46+03:00"
     },
     {
-      "title": "Un pompier brașovean participă la „FireFit” în Ungaria",
-      "url": "https://www.monitorulexpres.ro/2026/10/11/un-pompier-brasovean-participa-la-firefit-in-ungaria/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-11T14:10:55+03:00"
-    },
-    {
       "title": "Brașovul, destinație pentru îndrăgostiți. Cupluri din toată țara au ales orașul pentru cununia civilă",
       "url": "https://mytex.ro/expres/brasovul-destinatie-pentru-indragostiti-cupluri-din-toata-tara-au-ales-orasul-pentru-cununia-civila/",
       "source": "MyTex",
@@ -506,6 +513,13 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-11T09:35:02+03:00"
+    },
+    {
+      "title": "Un pompier de la ISU Brașov participă la competiția FireFit din Ungaria",
+      "url": "https://mytex.ro/expres/un-pompier-de-la-isu-brasov-participa-la-competitia-firefit-din-ungaria/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-11T09:29:15+03:00"
     },
     {
       "title": "Cât costă alimentele în Brașov față de Spania: Ce cumpărăm cu 45 de euro la supermarketul din cartier",
