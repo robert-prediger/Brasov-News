@@ -1,8 +1,57 @@
 {
-  "updated": "13.10.2026, 14:00",
-  "count": 97,
-  "raw_count": 115,
+  "updated": "13.10.2026, 15:00",
+  "count": 95,
+  "raw_count": 113,
   "items": [
+    {
+      "title": "Câți bani lasă brașovenii la Marea Neagră: Analiza pe 60.000 de rezervări care arată cum își fac vacanțele turiștii din inima Ardealului",
+      "url": "https://mytex.ro/turism/cati-bani-lasa-brasovenii-la-marea-neagra-analiza-pe-60-000-de-rezervari-care-arata-cum-isi-fac-vacantele-turistii-din-inima-ardealului/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-13T14:49:48+03:00"
+    },
+    {
+      "title": "VIDEO/ Cursă ilegală, accident grav pe un bulevard din Brașov! Un tânăr de 27 de ani a fost reținut după ce mașina a lovit un stâlp",
+      "url": "https://www.brasov.net/video-cursa-ilegala-accident-grav-pe-un-bulevard-din-brasov-un-tanar-de-27-de-ani-a-fost-retinut-dupa-ce-masina-a-lovit-un-stalp/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-13T14:44:09+03:00"
+    },
+    {
+      "title": "Contract de aproape un milion de lei pentru masa pacienților de la Spitalul Municipal Săcele",
+      "url": "https://transilvania365.ro/contract-de-aproape-un-milion-de-lei-pentru-masa-pacientilor-de-la-spitalul-municipal-sacele/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-13T14:37:32+03:00"
+    },
+    {
+      "title": "AJF Brașov organizează o nouă școală de arbitri. Cursurile sunt gratuite!",
+      "url": "https://www.monitorulexpres.ro/2026/10/13/ajf-brasov-organizeaza-o-noua-scoala-de-arbitri-cursurile-sunt-gratuite/",
+      "source": "Monitorul Expres",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-13T14:30:23+03:00"
+    },
+    {
+      "title": "BRAȘOV | Șofer reținut după accidentul violent de pe Bulevardul 15 Noiembrie! Polițiștii suspectează o întrecere ilegală (VIDEO)",
+      "url": "https://mytex.ro/112/brasov-sofer-retinut-dupa-accidentul-violent-de-pe-bulevardul-15-noiembrie-politistii-suspecteaza-o-intrecere-ilegala-video/",
+      "source": "MyTex",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-13T14:23:30+03:00"
+    },
+    {
+      "title": "Strategia de dezvoltare și marketing turistic a Brașovului pentru 2027–2034, finalizată",
+      "url": "https://brasovstiri.ro/strategia-de-dezvoltare-si-marketing-turistic-a-brasovului-pentru-2027-2034-finalizata/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-13T14:13:56+03:00"
+    },
+    {
+      "title": "5 posturi scoase la concurs în cadrul DAS Brașov",
+      "url": "https://transilvania365.ro/5-posturi-scoase-la-concurs-in-cadrul-das-brasov/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-13T14:10:52+03:00"
+    },
     {
       "title": "VIDEO Șofer filmat în timp ce o „zbughește” sinucigaș cu mașina pe contrasens, pe bulevardul Mihail Kogălniceanu din Brașov",
       "url": "https://bizbrasov.ro/2026/10/13/sofer-masina-pe-contrasens/",
@@ -11,25 +60,11 @@
       "published": "2026-10-13T13:43:58+03:00"
     },
     {
-      "title": "Bullyingul și siguranța online, în atenția polițiștilor din Săcele. 50 de elevi au participat la activități preventive",
-      "url": "https://newsbv.ro/sacele-politisti-siguranta-elevi/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T13:43:27+03:00"
-    },
-    {
       "title": "Antreprenorii din Brașov, mai ”timizi” în 2026. Înmatriculările de firme, în scădere",
       "url": "https://transilvania365.ro/antreprenorii-din-brasov-mai-timizi-in-2026-inmatricularile-de-firme-in-scadere/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-13T13:40:20+03:00"
-    },
-    {
-      "title": "2 refugii montane vor fi instalate în masivele Făgăraș și Iezer",
-      "url": "https://newsbv.ro/2-refugii-montane-instalate-in-masivele-fagaras-si-iezer/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T13:40:09+03:00"
     },
     {
       "title": "Amenințări, agresiuni și bunuri distruse în locuință. Cazuri de violență domestică, pe bandă, în județul Brașov",
@@ -95,7 +130,7 @@
       "published": "2026-10-13T12:32:39+03:00"
     },
     {
-      "title": "Armata ajunge în școlile din Brașov, Codlea și Făgăraș. Elevii vor afla cum...",
+      "title": "Armata ajunge în școlile din Brașov, Codlea și Făgăraș. Elevii vor...",
       "url": "https://transilvania365.ro/armata-ajunge-in-scolile-din-brasov-codlea-si-fagaras-elevii-vor-afla-cum-pot-urma-o-cariera-militara/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -109,7 +144,7 @@
       "published": "2026-10-13T12:31:11+03:00"
     },
     {
-      "title": "Social acum o oră „Stop violenței împotriva femeilor!” Marș organizat la Brașov pe 17 octombrie",
+      "title": "Social acum 3 ore „Stop violenței împotriva femeilor!” Marș organizat la Brașov pe 17 octombrie",
       "url": "https://www.brasov.net/stop-violentei-impotriva-femeilor-mars-organizat-la-brasov-pe-17-octombrie/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -165,7 +200,7 @@
       "published": "2026-10-13T11:43:09+03:00"
     },
     {
-      "title": "Eveniment acum 2 ore Ziua Porților Deschise la ISU Brașov de Ziua Internațională pentru Reducerea Riscurilor de Dezastre",
+      "title": "Eveniment acum 3 ore Ziua Porților Deschise la ISU Brașov de Ziua Internațională pentru Reducerea Riscurilor de Dezastre",
       "url": "https://www.brasov.net/ziua-portilor-deschise-la-isu-brasov-de-ziua-internationala-pentru-reducerea-riscurilor-de-dezastre/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -333,13 +368,6 @@
       "published": "2026-10-13T08:30:53+03:00"
     },
     {
-      "title": "UPDATE. Mașină implicată într-un accident cu doi cai, între Brașov și Cristian. O femeie este în stare gravă",
-      "url": "https://www.monitorulexpres.ro/2026/10/13/update-masina-implicata-intr-un-accident-cu-doi-cai-intre-brasov-si-cristian-o-femeie-este-in-stare-grava/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-13T08:14:26+03:00"
-    },
-    {
       "title": "EHF European League: Cu cine poate pica CSM Corona în turul 3 preliminar! Brașovencele nu sunt cap de serie, iar tragerea la sorți are loc miercuri, la ora 12.00",
       "url": "https://mytex.ro/sport/ehf-european-league-cu-cine-poate-pica-csm-corona-in-turul-3-preliminar-brasovencele-nu-sunt-cap-de-serie-iar-tragerea-la-sorti-are-loc-miercuri-la-ora-12-00/",
       "source": "MyTex",
@@ -347,7 +375,7 @@
       "published": "2026-10-13T08:08:13+03:00"
     },
     {
-      "title": "Fapt divers acum 6 ore FOTO / Peste 57.000 de lei din amenzi: Factura scumpă plătită de pasionații de ATV-uri în pădurile Brașovului",
+      "title": "Fapt divers acum 8 ore FOTO / Peste 57.000 de lei din amenzi: Factura scumpă plătită de pasionații de ATV-uri în pădurile Brașovului",
       "url": "https://www.brasov.net/foto-peste-57-000-de-lei-din-amenzi-factura-scumpa-platita-de-pasionatii-de-atv-uri-in-padurile-brasovului/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -403,13 +431,6 @@
       "published": "2026-10-12T20:34:15+03:00"
     },
     {
-      "title": "Corona Brașov pornește în aventura europeană! „Lupii” luptă pentru calificare în Cupa Continentală",
-      "url": "https://newsbv.ro/corona-brasov-cupa-continentala-2026-2027/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-12T20:15:18+03:00"
-    },
-    {
       "title": "După 54 de ani, Simfonia nr. 2 de Aram Haciaturian revine la Filarmonica Brașov",
       "url": "https://newsbv.ro/filarmonica-brasov-simfonia-2/",
       "source": "NewsBV",
@@ -422,6 +443,13 @@
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-12T19:51:42+03:00"
+    },
+    {
+      "title": "România are depozitele de gaze peste pragul de 80%. Cristian Bușoi: Consumatorii casnici sunt asigurați",
+      "url": "https://newsbv.ro/cristian-busoi-depozite-gaze/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-12T19:43:07+03:00"
     },
     {
       "title": "(Video) Lucrări „minimale” la Cetățuia Brașovului",
@@ -445,13 +473,6 @@
       "published": "2026-10-12T18:08:06+03:00"
     },
     {
-      "title": "Sportivii de la CS Olimpic Cetate Râșnov, rezultate bune în Polonia. Mihai Terciu și Ștefan Bălău, în top 6 la un turneu internațional de lupte",
-      "url": "https://newsbv.ro/olimpic-cetate-rasnov-turneu-lupte-polonia-2026/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-12T17:27:14+03:00"
-    },
-    {
       "title": "Toamna aduce un nou catalog la ATAC Brașov: descoperă recomandările lunii octombrie",
       "url": "https://mytex.ro/economic/toamna-aduce-un-nou-catalog-la-atac-brasov-descopera-recomandarile-lunii-octombrie/",
       "source": "MyTex",
@@ -464,13 +485,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-12T16:22:57+03:00"
-    },
-    {
-      "title": "‘Pe 16 decembrie dăm foc la fabrică’. Ultimatum pentru Guvern după revolta de la IAR Ghimbav",
-      "url": "https://newsbv.ro/iar-ghimbav-ultimatum-guvern/",
-      "source": "NewsBV",
-      "category": "💰 Business & economie",
-      "published": "2026-10-12T16:19:16+03:00"
     },
     {
       "title": "Șeful IAR Brașov, Marian Rasaliu, admite că fabrica ar putea rămâne fără activitate anul viitor",
@@ -494,7 +508,7 @@
       "published": "2026-10-12T15:55:44+03:00"
     },
     {
-      "title": "Eveniment acum 22 de ore Pompierii din Brașov, în lupta cu flăcările! Incendiu de vegetație pe opt hectare",
+      "title": "Eveniment acum 23 de ore Pompierii din Brașov, în lupta cu flăcările! Incendiu de vegetație pe opt hectare",
       "url": "https://www.brasov.net/pompierii-din-brasov-in-lupta-cu-flacarile-incendiu-de-vegetatie-pe-opt-hectare/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -550,18 +564,11 @@
       "published": "2026-10-12T13:56:36+03:00"
     },
     {
-      "title": "Administrație acum 24 de ore Prima pistă de biciclete din Pădurile Parc ale Brașovului a intrat în etapa de execuție",
+      "title": "Administrație acum o zi Prima pistă de biciclete din Pădurile Parc ale Brașovului a intrat în etapa de execuție",
       "url": "https://www.brasov.net/prima-pista-de-biciclete-din-padurile-parc-ale-brasovului-a-intrat-in-etapa-de-executie/",
       "source": "Brașov.net",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-12T13:40:44+03:00"
-    },
-    {
-      "title": "Accident grav pe bulevardul 15 Noiembrie din Brașov. Un tânăr de 26 de ani a fost rănit",
-      "url": "https://www.monitorulexpres.ro/2026/10/12/accident-grav-pe-bulevardul-15-noiembrie-din-brasov-un-tanar-de-26-de-ani-a-fost-ranit/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-12T13:28:30+03:00"
     },
     {
       "title": "Update. BRAȘOV | O femeie a fost intubată și transportată la spital după accidentul de pe DN13",
@@ -590,13 +597,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-12T11:34:35+03:00"
-    },
-    {
-      "title": "Nouă ore pentru evacuarea unui speolog rănit! Salvatori din Brașov, implicați într-un exercițiu spectaculos în adâncul peșterilor",
-      "url": "https://brasovstiri.ro/noua-ore-pentru-evacuarea-unui-speolog-ranit-salvatori-din-brasov-implicati-intr-un-exercitiu-spectaculos-in-adancul-pesterilor/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-12T11:28:45+03:00"
     },
     {
       "title": "Peste 10.000 de ucraineni, înregistrați oficial în Brașov",
@@ -648,18 +648,11 @@
       "published": "2026-10-12T10:05:20+03:00"
     },
     {
-      "title": "Turism matrimonial: 20 de cupluri, unele din Giurgiu, Târgoviște, București sau Galați, au spus „Da” într-un singur weekend la Brașov",
-      "url": "https://bizbrasov.ro/2026/10/12/turism-matrimonial-brasov-cupluri-weekend/",
-      "source": "BizBrașov",
+      "title": "Update. BRAȘOV | Impact frontal între un camion și un autoturism, la Rotbav. Doi adulți și un copil, răniți grav",
+      "url": "https://mytex.ro/112/update-brasov-impact-frontal-intre-un-camion-si-un-autoturism-la-rotbav-doi-adulti-si-un-copil-raniti-grav/",
+      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-12T09:39:57+03:00"
-    },
-    {
-      "title": "19 milioane de lei pentru Casa de Cultură din Făgăraș! Clădirea...",
-      "url": "https://transilvania365.ro/19-milioane-de-lei-pentru-casa-de-cultura-din-fagaras-cladirea-intra-in-reparatii-capitale/",
-      "source": "Transilvania365",
-      "category": "💰 Business & economie",
-      "published": "2026-10-12T09:34:28+03:00"
+      "published": "2026-10-12T09:57:26+03:00"
     },
     {
       "title": "BRAȘOV | Infotrafic: Accident grav pe DN 13! Trei persoane, încarcerate",
@@ -667,13 +660,6 @@
       "source": "MyTex",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-12T09:31:23+03:00"
-    },
-    {
-      "title": "Universitatea Transilvania din Brașov cumpără un sistem de securitate cibernetică de...",
-      "url": "https://transilvania365.ro/universitatea-transilvania-din-brasov-cumpara-un-sistem-de-securitate-cibernetica-de-690-000-de-lei/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-12T09:11:49+03:00"
     },
     {
       "title": "Europarlamentarul Gheorghe Piperea cere intervenția DIICOT în cazul IAR Brașov",
