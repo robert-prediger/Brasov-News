@@ -1,8 +1,15 @@
 {
-  "updated": "13.10.2026, 22:00",
-  "count": 103,
-  "raw_count": 124,
+  "updated": "13.10.2026, 23:01",
+  "count": 99,
+  "raw_count": 119,
   "items": [
+    {
+      "title": "Îngroparea Vătafului Junilor Dorobanți are loc pe 17 octombrie, în Șcheii Brașovului. Un vechi obicei, păstrat prin umor și tradiție",
+      "url": "https://newsbv.ro/ingroparea-vatafului-junilor-dorobanti-brasov-2026/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-13T22:05:16+03:00"
+    },
     {
       "title": "Renaștere culturală la poalele Făgărașului: Două biserici-monument din Sâmbăta de Sus atrag o investiție europeană de 30 de milioane de lei",
       "url": "https://mytex.ro/expres/renastere-culturala-la-poalele-fagarasului-doua-biserici-monument-din-sambata-de-sus-atrag-o-investitie-europeana-de-30-de-milioane-de-lei/",
@@ -688,41 +695,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-12T11:09:59+03:00"
-    },
-    {
-      "title": "Europarlamentarul AUR Gheorghe Piperea cere intervenția DIICOT după scandalul de la IAR Brașov",
-      "url": "https://newsbv.ro/gheorghe-piperea-scandalul-de-la-iar-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-12T10:29:10+03:00"
-    },
-    {
-      "title": "Social acum o zi Brașovul destinație pentru turismul matrimonial Orașul Brașov se conturează tot mai mult ca o atracție principală nu doar pentru vacanțe, ci și pentru turismul matrimonial. Orașul de la poalele Tâmpei atrage...",
-      "url": "https://www.brasov.net/brasovul-destinatie-pentru-turismul-matrimonial/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-12T10:26:19+03:00"
-    },
-    {
-      "title": "Corona Brașov, lider detaşat în Erste Liga",
-      "url": "https://mytex.ro/sport/corona-brasov-lider-detasat-in-erste-liga-2/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-12T10:23:38+03:00"
-    },
-    {
-      "title": "Eveniment acum o zi Pieton de 18 ani accidentat grav pe o trecere de pietoni din Brașov",
-      "url": "https://www.brasov.net/pieton-de-18-ani-accidentat-grav-pe-o-trecere-de-pietoni-din-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-12T10:12:54+03:00"
-    },
-    {
-      "title": "Tânăr lovit de o mașină pe trecerea de pietoni, în Brașov",
-      "url": "https://mytex.ro/112/tanar-lovit-de-o-masina-pe-trecerea-de-pietoni-in-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-12T10:05:20+03:00"
     }
   ]
 }
