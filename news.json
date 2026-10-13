@@ -1,7 +1,7 @@
 {
-  "updated": "13.10.2026, 02:00",
-  "count": 76,
-  "raw_count": 94,
+  "updated": "13.10.2026, 03:00",
+  "count": 75,
+  "raw_count": 92,
   "items": [
     {
       "title": "Ziua Siguranței: Pompierii Brașoveni Oferă Sfaturi și Demonstrații",
@@ -23,20 +23,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-13T00:18:18+03:00"
-    },
-    {
-      "title": "Cetățuia Brașovului: Lucrări de Conservare în Desfășurare",
-      "url": "https://www.zmbv.ro/cetatuia-brasovului-lucrari-de-conservare-in-desfasurare/13/10/2026/119689/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-13T00:18:03+03:00"
-    },
-    {
-      "title": "Concert de Muzică Sacră la Brașov, 22 Octombrie",
-      "url": "https://www.zmbv.ro/concert-de-muzica-sacra-la-brasov-22-octombrie/13/10/2026/119685/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-13T00:17:37+03:00"
     },
     {
       "title": "Amenzi de 60.000 de lei pentru zgomot în munții Brașovului",
@@ -79,6 +65,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-12T20:07:32+03:00"
+    },
+    {
+      "title": "Concert la Brașov, pe 22 octombrie: Corul de Stat și al Domului din Berlin, la Sinagoga Beth Israel și Biserica Neagră",
+      "url": "https://newsbv.ro/concert-corul-de-stat-dom-berlin/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-12T19:51:42+03:00"
     },
     {
       "title": "România are depozitele de gaze peste pragul de 80%. Cristian Bușoi: Consumatorii casnici sunt asigurați",
