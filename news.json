@@ -1,14 +1,70 @@
 {
-  "updated": "14.10.2026, 10:00",
-  "count": 91,
-  "raw_count": 104,
+  "updated": "14.10.2026, 11:00",
+  "count": 89,
+  "raw_count": 101,
   "items": [
     {
-      "title": "Cetatea Făgăraș, va fi restaurarată. Trei oferte pentru un buget de peste 26 milioane lei",
-      "url": "https://newsbv.ro/cetatea-fagaras-va-fi-restaurarata/",
-      "source": "NewsBV",
+      "title": "Peste 4,3 milioane de lei pentru digitalizarea administrației din Brașov și Sibiu. Ce servicii vor fi modernizate",
+      "url": "https://transilvania365.ro/peste-43-milioane-de-lei-pentru-digitalizarea-administratiei-din-brasov-si-sibiu-ce-servicii-vor-fi-modernizate/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-14T10:53:11+03:00"
+    },
+    {
+      "title": "Brașovenii de la Haplea deschid primul restaurant în Capitală, în Dorobanți. Pe termen lung, vor să deschidă nouă locații în București",
+      "url": "https://bizbrasov.ro/2026/10/14/haplea-capitala-locatie-bucuresti-noua/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-14T10:50:43+03:00"
+    },
+    {
+      "title": "O lună de Halloween la Magic Parc Râșnov! Magie, aventuri și distracție de groază pentru întreaga famili",
+      "url": "https://mytex.ro/timp-liber/o-luna-de-halloween-la-magic-parc-rasnov-magie-aventuri-si-distractie-de-groaza-pentru-intreaga-famili/",
+      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-14T09:57:19+03:00"
+      "published": "2026-10-14T10:26:09+03:00"
+    },
+    {
+      "title": "Benzina și motorina rămân scumpe în Brașov! Prețurile sunt neschimbate, dar diferențele față de iunie sunt considerabile",
+      "url": "https://brasovstiri.ro/benzina-si-motorina-raman-scumpe-in-brasov-preturile-sunt-neschimbate-dar-diferentele-fata-de-iunie-sunt-considerabile/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-14T10:10:41+03:00"
+    },
+    {
+      "title": "Trei oferte pentru investiția de peste 26 milioane de lei ce vizează noi lucrări de restaurare a Cetății Făgărașului",
+      "url": "https://bizbrasov.ro/2026/10/14/oferte-lucrari-restaurare-cetatea-fagarasului/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-14T10:10:08+03:00"
+    },
+    {
+      "title": "Cine va lega Brașovul de Paris, Istanbul și Tel Aviv? Companiile care au cele mai mari șanse să opereze de pe Aeroportul Ghimbav către potențialele destinații",
+      "url": "https://mytex.ro/expres/cine-va-lega-brasovul-de-paris-istanbul-si-tel-aviv-companiile-care-au-cele-mai-mari-sanse-sa-opereze-de-pe-aeroportul-ghimbav-catre-potentialele-destinatii/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-14T10:10:03+03:00"
+    },
+    {
+      "title": "„La Dolce Musica”, recital extraordinar susținut de Opera Brașov la AFI Brașov",
+      "url": "https://brasovstiri.ro/la-dolce-musica-recital-extraordinar-sustinut-de-opera-brasov-la-afi-brasov/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-14T10:07:50+03:00"
+    },
+    {
+      "title": "Brașoveancă acuzată de înșelăciune de 52.000 de lei în domeniul HoReCa, în Covasna",
+      "url": "https://mytex.ro/delicte/brasoveanca-acuzata-de-inselaciune-de-52-000-de-lei-in-domeniul-horeca-in-covasna/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-14T10:07:28+03:00"
+    },
+    {
+      "title": "„România educată”, pe banii părinților! Cât costă meditațiile în Brașov pentru Evaluarea Națională...",
+      "url": "https://transilvania365.ro/romania-educata-pe-banii-parintilor-cat-costa-meditatiile-in-brasov-pentru-evaluarea-nationala-si-bacalaureat/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-14T10:03:38+03:00"
     },
     {
       "title": "Începe Dracula Film Festival. Spectatorii festivalului beneficiază de o reducere de 15% la șase restaurante din Centrul Brașovului",
@@ -16,6 +72,13 @@
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-14T09:47:29+03:00"
+    },
+    {
+      "title": "Administrație acum 12 minute Poliția Locală Râșnov trece la sancțiuni: Fără mașini parcate la mai puțin de 25 de metri de treceri",
+      "url": "https://www.brasov.net/politia-locala-rasnov-trece-la-sanctiuni-fara-masini-parcate-la-mai-putin-de-25-de-metri-de-treceri/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-14T09:33:22+03:00"
     },
     {
       "title": "Presa britanică trimite turiștii în Poiana Brașov: „The independent” o recomandă ca destinație ideală de schi pentru bugete reduse în noul sezon",
@@ -30,13 +93,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-14T09:31:27+03:00"
-    },
-    {
-      "title": "BRAȘOV | Primăria Râșnov avertizează șoferii: nu parcați la mai puțin de 25 de metri de trecerile de pietoni!",
-      "url": "https://mytex.ro/expres/brasov-primaria-rasnov-avertizeaza-soferii-nu-parcati-la-mai-putin-de-25-de-metri-de-trecerile-de-pietoni/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T09:20:29+03:00"
     },
     {
       "title": "Care a fost gradul de ocupare la Hilton Garden Inn Brașov în primele luni de la deschidere. Hotelul mizează pe turismul de afaceri și cel de relaxare",
@@ -67,32 +123,11 @@
       "published": "2026-10-14T09:05:45+03:00"
     },
     {
-      "title": "Muzeul de Artă Brașov lansează platforma Her Art, dedicată artistelor din istoria artei românești. Peste 500 de opere, accesibile printr-o bază de date interactivă",
-      "url": "https://newsbv.ro/muzeul-de-arta-brasov-lanseaza-platforma-her-art/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-14T09:00:48+03:00"
-    },
-    {
       "title": "Mai puține îngrijitoare în creșele Brașovului",
       "url": "https://www.monitorulexpres.ro/2026/10/14/mai-putine-ingrijitoare-in-cresele-brasovului/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-14T08:48:21+03:00"
-    },
-    {
-      "title": "Lucrări de reparaţii la reţeaua de apă pe 5 străzi din Braşov",
-      "url": "https://newsbv.ro/lucrari-de-reparatii-la-reteaua-de-apa-5-strazi/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-14T08:39:56+03:00"
-    },
-    {
-      "title": "Din Brașov, în Dorobanți. Haplea deschide primul restaurant în Capitală",
-      "url": "https://transilvania365.ro/din-brasov-in-dorobanti-haplea-deschide-primul-restaurant-in-capitala/",
-      "source": "Transilvania365",
-      "category": "💰 Business & economie",
-      "published": "2026-10-14T08:38:30+03:00"
     },
     {
       "title": "Handbal: Corona Brașov joacă pentru a urca în clasament! Duel cu CSM Târgu Jiu",
@@ -116,13 +151,6 @@
       "published": "2026-10-14T08:26:13+03:00"
     },
     {
-      "title": "Marșul „Împreună pentru Siguranța Femeilor” revine la Brașov pe 17 octombrie 2026",
-      "url": "https://newsbv.ro/impreuna-pentru-siguranta-femeilor-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-14T08:24:13+03:00"
-    },
-    {
       "title": "Muzeul de Artă Brașov lansează HerArt.ro, platforma care readuce în prim-plan...",
       "url": "https://transilvania365.ro/muzeul-de-arta-brasov-lanseaza-herart-ro-platforma-care-readuce-in-prim-plan-artistele-uitate-ale-artei-romanesti/",
       "source": "Transilvania365",
@@ -144,13 +172,6 @@
       "published": "2026-10-14T08:11:33+03:00"
     },
     {
-      "title": "MApN dă startul campaniei „Ziua Armatei în școli”. Militarii vor ajunge în 3 colegii din judeţul Braşov",
-      "url": "https://newsbv.ro/mapn-campaniei-ziua-armatei-in-scoli/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-14T07:34:15+03:00"
-    },
-    {
       "title": "La Brașov au crescut cazurile de pneumonie. Peste 80.000 de infecții respiratorii într-o săptămână",
       "url": "https://www.monitorulexpres.ro/2026/10/14/la-brasov-au-crescut-cazurile-de-pneumonie-peste-80-000-de-infectii-respiratorii-intr-o-saptamana/",
       "source": "Monitorul Expres",
@@ -163,13 +184,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-14T07:14:43+03:00"
-    },
-    {
-      "title": "Primăria Râşnov dă startul programului Zâmbet Sănătos: tichete de 100 de lei pentru controlul stomatologic al copiilor",
-      "url": "https://newsbv.ro/primaria-rasnov-da-startul-programului-zambet-sanatos/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T06:45:38+03:00"
     },
     {
       "title": "Accident Grav pe Bulevardul 15 Noiembrie din Brașov",
@@ -270,13 +284,6 @@
       "published": "2026-10-14T00:14:54+03:00"
     },
     {
-      "title": "Îngroparea Vătafului Junilor Dorobanți are loc pe 17 octombrie, în Șcheii Brașovului. Un vechi obicei, păstrat prin umor și tradiție",
-      "url": "https://newsbv.ro/ingroparea-vatafului-junilor-dorobanti-brasov-2026/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T22:05:16+03:00"
-    },
-    {
       "title": "Renaștere culturală la poalele Făgărașului: Două biserici-monument din Sâmbăta de Sus atrag o investiție europeană de 30 de milioane de lei",
       "url": "https://mytex.ro/expres/renastere-culturala-la-poalele-fagarasului-doua-biserici-monument-din-sambata-de-sus-atrag-o-investitie-europeana-de-30-de-milioane-de-lei/",
       "source": "MyTex",
@@ -326,20 +333,6 @@
       "published": "2026-10-13T17:53:33+03:00"
     },
     {
-      "title": "EXCLUSIV „Vinerea Verde” ar putea deveni „Weekendul Verde” la Brașov. Lucian Patrașcu: Decizia depinde de calculele economice",
-      "url": "https://newsbv.ro/weekendul-verde-brasov-lucian-patrascu/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T17:39:53+03:00"
-    },
-    {
-      "title": "Culisele Zilei cu Sebastian Dan: Lucian Patrașcu, despre proiectele Brașovului, transportul public și serviciile pentru cetățeni",
-      "url": "https://newsbv.ro/culisele-zilei-sebastian-dan-lucian-patrascu/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T16:49:49+03:00"
-    },
-    {
       "title": "BRAȘOV | Bărbat reținut de polițiști pentru furt pe calea ferată",
       "url": "https://mytex.ro/delicte/brasov-barbat-retinut-de-politisti-pentru-furt-pe-calea-ferata/",
       "source": "MyTex",
@@ -361,6 +354,13 @@
       "published": "2026-10-13T16:10:32+03:00"
     },
     {
+      "title": "Economic acum 18 ore Criză la IAR Brașov: Pierderi de 98 milioane lei pe bursă în timp ce indemnizațiile conducerii explodează",
+      "url": "https://www.brasov.net/criza-la-iar-brasov-pierderi-de-98-milioane-lei-pe-bursa-in-timp-ce-indemnizatiile-conducerii-explodeaza/",
+      "source": "Brașov.net",
+      "category": "💰 Business & economie",
+      "published": "2026-10-13T15:33:35+03:00"
+    },
+    {
       "title": "Gala „Tango Meets Opera” ajunge la Brașov",
       "url": "https://bizbrasov.ro/2026/10/13/brasov-tango-gala-meets-opera-ajunge/",
       "source": "BizBrașov",
@@ -375,13 +375,6 @@
       "published": "2026-10-13T15:28:13+03:00"
     },
     {
-      "title": "Peste 22.000 de locuinţe construite în Braşov în ultimii 10 ani",
-      "url": "https://newsbv.ro/22-000-de-locuinte-construite-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:25:11+03:00"
-    },
-    {
       "title": "Terenuri vândute drept „grădini urbane”, transformate în zone de construcții! Prefectul Brașovului anunță amenzi și demolări",
       "url": "https://brasovstiri.ro/terenuri-vandute-drept-gradini-urbane-transformate-in-zone-de-constructii-prefectul-brasovului-anunta-amenzi-si-demolari/",
       "source": "Brașov Știri",
@@ -389,18 +382,18 @@
       "published": "2026-10-13T15:15:56+03:00"
     },
     {
+      "title": "MApN aduce cariera militară mai aproape de elevi: Campania „Ziua Armatei României în școli” ajunge în județul Brașov",
+      "url": "https://mytex.ro/expres/mapn-aduce-cariera-militara-mai-aproape-de-elevi-campania-ziua-armatei-romaniei-in-scoli-ajunge-in-judetul-brasov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-13T15:08:40+03:00"
+    },
+    {
       "title": "Bani pentru apicultorii din Brașov! Peste 386.000 de lei, acordați pentru achiziția de echipamente și produse apicole",
       "url": "https://brasovstiri.ro/bani-pentru-apicultorii-din-brasov-peste-386-000-de-lei-acordati-pentru-achizitia-de-echipamente-si-produse-apicole/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-13T15:06:04+03:00"
-    },
-    {
-      "title": "Trenurile Coradia Stream 23 și 24 au fost recepționate preliminar. Vor lega Braşovul de Bucureşti, Cluj şi Timişoara",
-      "url": "https://newsbv.ro/trenurile-coradia-stream-23-si-24-au-fost-receptionate/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:02:12+03:00"
     },
     {
       "title": "Câți bani lasă brașovenii la Marea Neagră: Analiza pe 60.000 de rezervări care arată cum își fac vacanțele turiștii din inima Ardealului",
@@ -445,11 +438,11 @@
       "published": "2026-10-13T13:40:20+03:00"
     },
     {
-      "title": "Violență domestică în județul Brașov: un bărbat arestat preventiv, alți 2 cercetați penal",
-      "url": "https://newsbv.ro/barbat-arestat-preventiv-violenta/",
-      "source": "NewsBV",
+      "title": "Violență domestică în Brașov: un bărbat a ajuns în arest pentru 30 de zile, iar alți doi sunt cercetați penal",
+      "url": "https://mytex.ro/112/violenta-domestica-in-brasov-un-barbat-a-ajuns-in-arest-pentru-30-de-zile-iar-alti-doi-sunt-cercetati-penal/",
+      "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-13T13:31:14+03:00"
+      "published": "2026-10-13T13:21:07+03:00"
     },
     {
       "title": "„Faust” se joacă cu casa închisă la Opera Brașov",
@@ -457,13 +450,6 @@
       "source": "Brașov Știri",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-13T13:18:32+03:00"
-    },
-    {
-      "title": "Benzina și motorina, cu până la 18% mai scumpe față de iunie! Cât costă carburanții în Brașov, marți, 13 octombrie",
-      "url": "https://brasovstiri.ro/benzina-si-motorina-cu-pana-la-18-mai-scumpe-fata-de-iunie-cat-costa-carburantii-in-brasov-marti-13-octombrie/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-13T12:33:39+03:00"
     },
     {
       "title": "94 de locuințe finalizate la 1.000 de locuitori, în ultimul deceniu, în Brașov. Primul loc între marile orașe din țară",
@@ -487,18 +473,11 @@
       "published": "2026-10-13T12:31:11+03:00"
     },
     {
-      "title": "Cine stabilește regulile pentru inteligența artificială? Nell Watson răspunde pe 10 noiembrie, la Brașov",
-      "url": "https://brasovstiri.ro/cine-stabileste-regulile-pentru-inteligenta-artificiala-nell-watson-raspunde-pe-10-noiembrie-la-brasov/",
-      "source": "Brașov Știri",
+      "title": "Social acum 21 de ore „Stop violenței împotriva femeilor!” Marș organizat la Brașov pe 17 octombrie",
+      "url": "https://www.brasov.net/stop-violentei-impotriva-femeilor-mars-organizat-la-brasov-pe-17-octombrie/",
+      "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-10-13T12:21:24+03:00"
-    },
-    {
-      "title": "„Teatru de Toamnă la PREMS” – spectacol gratuit pentru copiii din Brașov",
-      "url": "https://brasovstiri.ro/teatru-de-toamna-la-prems-spectacol-gratuit-pentru-copiii-din-brasov/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-13T12:17:46+03:00"
+      "published": "2026-10-13T12:23:25+03:00"
     },
     {
       "title": "Cangurașul Explorator și Dino Parc Râșnov aduc copiii mai aproape de...",
@@ -515,11 +494,11 @@
       "published": "2026-10-13T11:41:47+03:00"
     },
     {
-      "title": "Rocadă pe piața imobiliară: Bucureștiul întrece Brașovul în topul prețurilor, dar blocurile noi din orașul nostru rămân mai scumpe decât cele din Capitală",
-      "url": "https://mytex.ro/economic/rocada-pe-piata-imobiliara-bucurestiul-intrece-brasovul-in-topul-preturilor-dar-blocurile-noi-din-orasul-nostru-raman-mai-scumpe-decat-cele-din-capitala/",
-      "source": "MyTex",
+      "title": "Marșul ”Împreună pentru Siguranța Femeilor” și la Brașov. Sâmbătă se pleacă...",
+      "url": "https://transilvania365.ro/marsul-impreuna-pentru-siguranta-femeilor-si-la-brasov-sambata-se-pleaca-de-la-aula-universitatii/",
+      "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-13T11:37:32+03:00"
+      "published": "2026-10-13T11:39:02+03:00"
     },
     {
       "title": "DAS Brașov nu găsește angajați, iar bătrânii plătesc prețul: Căminul din Noua funcționează la jumătate din capacitate din cauza salariilor mizere",
@@ -541,6 +520,13 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-13T10:25:41+03:00"
+    },
+    {
+      "title": "Peste 2,1 milioane de lei pentru o pistă CISM la Făgăraș!...",
+      "url": "https://transilvania365.ro/peste-21-milioane-de-lei-pentru-o-pista-cism-la-fagaras-armata-a-lansat-licitatia-si-cauta-firme-pentru-proiect/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-13T10:19:06+03:00"
     },
     {
       "title": "Cutremur în zona Vrancea. Seismul s-a produs la 77 de kilometri de Brașov",
