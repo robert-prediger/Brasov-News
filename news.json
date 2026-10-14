@@ -1,7 +1,7 @@
 {
-  "updated": "14.10.2026, 21:00",
+  "updated": "14.10.2026, 22:00",
   "count": 98,
-  "raw_count": 123,
+  "raw_count": 119,
   "items": [
     {
       "title": "Corona Brașov a pierdut la debutul în Liga 1 de baschet feminin: 59–65 cu CSU ASE București",
@@ -116,13 +116,6 @@
       "published": "2026-10-14T16:02:53+03:00"
     },
     {
-      "title": "Miercurea brașovenilor se extinde. 28 de localuri oferă reduceri de 15% pentru clienți",
-      "url": "https://www.brasov.net/miercurea-brasovenilor-se-extinde-28-de-localuri-ofera-reduceri-de-15-pentru-clienti/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-14T15:47:47+03:00"
-    },
-    {
       "title": "BRAȘOV | Bărbat din Făgăraș, reținut după ce a încălcat ordinul de protecție",
       "url": "https://mytex.ro/112/brasov-barbat-din-fagaras-retinut-dupa-ce-a-incalcat-ordinul-de-protectie/",
       "source": "MyTex",
@@ -142,13 +135,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-14T15:19:01+03:00"
-    },
-    {
-      "title": "Fapt divers acum 36 de minute VIDEO / Accident grav în Zărnești provocat de un șofer începător: Viteză excesivă și pagube majore",
-      "url": "https://www.brasov.net/video-accident-grav-in-zarnesti-provocat-de-un-sofer-incepator-viteza-excesiva-si-pagube-majore/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-14T15:15:08+03:00"
     },
     {
       "title": "E miercuri, ziua reducerilor în Brașov! 15% discount în noi locații pe harta ieșirilor în oraș",
@@ -205,6 +191,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-14T14:28:25+03:00"
+    },
+    {
+      "title": "Accident în Zărnești, provocat de un șofer începător. Un pasager a fost rănit (VIDEO)",
+      "url": "https://www.monitorulexpres.ro/2026/10/14/accident-in-zarnesti-provocat-de-un-sofer-incepator-un-pasager-a-fost-ranit-video/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-14T14:19:32+03:00"
     },
     {
       "title": "Linia 36 deviată temporar în Brașov",
@@ -275,6 +268,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-14T13:16:15+03:00"
+    },
+    {
+      "title": "28 de Localuri Noi în „Miercurea Brașovenilor”",
+      "url": "https://www.zmbv.ro/28-de-localuri-noi-in-miercurea-brasovenilor/14/10/2026/119841/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-14T13:15:36+03:00"
     },
     {
       "title": "Corona Brașov debutează în Campionatul Național U17. Trei zile de volei la Brașov",
@@ -396,13 +396,6 @@
       "published": "2026-10-14T09:47:29+03:00"
     },
     {
-      "title": "Administrație acum 6 ore Poliția Locală Râșnov trece la sancțiuni: Fără mașini parcate la mai puțin de 25 de metri de treceri",
-      "url": "https://www.brasov.net/politia-locala-rasnov-trece-la-sanctiuni-fara-masini-parcate-la-mai-putin-de-25-de-metri-de-treceri/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T09:33:22+03:00"
-    },
-    {
       "title": "Presa britanică trimite turiștii în Poiana Brașov: „The independent” o recomandă ca destinație ideală de schi pentru bugete reduse în noul sezon",
       "url": "https://bizbrasov.ro/2026/10/14/poiana-brasov-presa-britanica-trimite/",
       "source": "BizBrașov",
@@ -415,6 +408,13 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-14T09:31:27+03:00"
+    },
+    {
+      "title": "BRAȘOV | Primăria Râșnov avertizează șoferii: nu parcați la mai puțin de 25 de metri de trecerile de pietoni!",
+      "url": "https://mytex.ro/expres/brasov-primaria-rasnov-avertizeaza-soferii-nu-parcati-la-mai-putin-de-25-de-metri-de-trecerile-de-pietoni/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-14T09:20:29+03:00"
     },
     {
       "title": "Cartierelor Brașovului li se pregătește o regenerare",
