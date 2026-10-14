@@ -1,8 +1,43 @@
 {
-  "updated": "14.10.2026, 08:28",
-  "count": 85,
-  "raw_count": 102,
+  "updated": "14.10.2026, 09:00",
+  "count": 90,
+  "raw_count": 105,
   "items": [
+    {
+      "title": "Muzeul de Artă Brașov lansează platforma Her Art, dedicată artistelor din istoria artei românești. Peste 500 de opere, accesibile printr-o bază de date interactivă",
+      "url": "https://newsbv.ro/muzeul-de-arta-brasov-lanseaza-platforma-her-art/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-14T09:00:48+03:00"
+    },
+    {
+      "title": "Mai puține îngrijitoare în creșele Brașovului",
+      "url": "https://www.monitorulexpres.ro/2026/10/14/mai-putine-ingrijitoare-in-cresele-brasovului/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-14T08:48:21+03:00"
+    },
+    {
+      "title": "Lucrări de reparaţii la reţeaua de apă pe 5 străzi din Braşov",
+      "url": "https://newsbv.ro/lucrari-de-reparatii-la-reteaua-de-apa-5-strazi/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-14T08:39:56+03:00"
+    },
+    {
+      "title": "Din Brașov, în Dorobanți. Haplea deschide primul restaurant în Capitală",
+      "url": "https://transilvania365.ro/din-brasov-in-dorobanti-haplea-deschide-primul-restaurant-in-capitala/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-14T08:38:30+03:00"
+    },
+    {
+      "title": "Handbal: Corona Brașov joacă pentru a urca în clasament! Duel cu CSM Târgu Jiu",
+      "url": "https://www.monitorulexpres.ro/2026/10/14/handbal-corona-brasov-joaca-pentru-a-urca-in-clasament-duel-cu-csm-targu-jiu/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-14T08:29:29+03:00"
+    },
     {
       "title": "Au spart „Codul Dacic”: Misterul Sarmizegetusei, descifrat de trei brașoveni",
       "url": "https://www.monitorulexpres.ro/2026/10/14/au-spart-codul-dacic-misterul-sarmizegetusei-descifrat-de-trei-brasoveni/",
@@ -25,14 +60,14 @@
       "published": "2026-10-14T08:24:13+03:00"
     },
     {
-      "title": "Muzeul de Artă Brașov lansează HerArt.ro, platforma care readuce în prim-plan artistele uitate ale artei românești",
+      "title": "Muzeul de Artă Brașov lansează HerArt.ro, platforma care readuce în prim-plan artistele uitate...",
       "url": "https://transilvania365.ro/muzeul-de-arta-brasov-lanseaza-herart-ro-platforma-care-readuce-in-prim-plan-artistele-uitate-ale-artei-romanesti/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-14T08:19:38+03:00"
     },
     {
-      "title": "Cum va arăta Săcele peste 10 ani? Primăria cere părerea locuitorilor despre parcuri și spații verzi",
+      "title": "Cum va arăta Săcele peste 10 ani? Primăria cere părerea locuitorilor despre parcuri...",
       "url": "https://transilvania365.ro/cum-va-arata-sacele-peste-10-ani-primaria-cere-parerea-locuitorilor-despre-parcuri-si-spatii-verzi/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
@@ -107,13 +142,6 @@
       "source": "BizBrașov",
       "category": "💰 Business & economie",
       "published": "2026-10-14T05:33:00+03:00"
-    },
-    {
-      "title": "BEFIT intră în municipiul Brașov: club de 1.300 mp pe Bulevardul Saturn, cu abonament de la 149 de lei",
-      "url": "https://bizbrasov.ro/2026/10/14/befit-brasov-saturn-abonament-inaugurate/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T05:32:00+03:00"
     },
     {
       "title": "Festival dedicat jocurilor video și realității virtuale, la Brașov, în weekendul de Halloween",
@@ -256,7 +284,7 @@
       "published": "2026-10-13T16:20:37+03:00"
     },
     {
-      "title": "Unde sunt copiii din Brașov care dispar și nu mai sunt gasiti? 5...",
+      "title": "Unde sunt copiii din Brașov care dispar și nu mai sunt...",
       "url": "https://transilvania365.ro/unde-sunt-copiii-din-brasov-care-dispar-si-nu-mai-sunt-gasiti-5-au-disparut-fara-urma-in-2025/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -270,6 +298,13 @@
       "published": "2026-10-13T15:41:01+03:00"
     },
     {
+      "title": "Criză la IAR Brașov: Pierderi de 98 milioane lei pe bursă în timp ce indemnizațiile conducerii explodează",
+      "url": "https://www.brasov.net/criza-la-iar-brasov-pierderi-de-98-milioane-lei-pe-bursa-in-timp-ce-indemnizatiile-conducerii-explodeaza/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-13T15:33:35+03:00"
+    },
+    {
       "title": "Gala „Tango Meets Opera” ajunge la Brașov",
       "url": "https://bizbrasov.ro/2026/10/13/brasov-tango-gala-meets-opera-ajunge/",
       "source": "BizBrașov",
@@ -277,18 +312,11 @@
       "published": "2026-10-13T15:32:37+03:00"
     },
     {
-      "title": "Brașovul schimbă radical turismul! Parcări cu plată, reguli noi pentru cazări și planuri...",
+      "title": "Brașovul schimbă radical turismul! Parcări cu plată, reguli noi pentru cazări...",
       "url": "https://transilvania365.ro/brasovul-schimba-radical-turismul-parcari-cu-plata-reguli-noi-pentru-cazari-si-planuri-care-pot-schimba-vacantele-la-munte-pana-in-2034/",
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-13T15:28:13+03:00"
-    },
-    {
-      "title": "Peste 22.000 de locuinţe construite în Braşov în ultimii 10 ani",
-      "url": "https://newsbv.ro/22-000-de-locuinte-construite-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:25:11+03:00"
     },
     {
       "title": "Terenuri vândute drept „grădini urbane”, transformate în zone de construcții! Prefectul Brașovului anunță amenzi și demolări",
@@ -319,6 +347,13 @@
       "published": "2026-10-13T14:49:48+03:00"
     },
     {
+      "title": "VIDEO/ Cursă ilegală, accident grav pe un bulevard din Brașov! Un tânăr de 27 de ani a fost reținut după ce mașina a lovit un stâlp",
+      "url": "https://www.brasov.net/video-cursa-ilegala-accident-grav-pe-un-bulevard-din-brasov-un-tanar-de-27-de-ani-a-fost-retinut-dupa-ce-masina-a-lovit-un-stalp/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-13T14:44:09+03:00"
+    },
+    {
       "title": "Strategia turistică a Brașovului până în 2034: mai puțini turiști în plus, mai multă valoare pentru oraș și localnici",
       "url": "https://newsbv.ro/strategia-turistica-brasov-2034-analiza/",
       "source": "NewsBV",
@@ -345,13 +380,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-13T14:10:52+03:00"
-    },
-    {
-      "title": "Bucureștiul devansează Brașovul în topul prețurilor la locuinţe",
-      "url": "https://newsbv.ro/bucurestiul-devanseaza-brasovul-in-topul-preturilor-la-locuinte/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T14:02:27+03:00"
     },
     {
       "title": "VIDEO Șofer filmat în timp ce o „zbughește” sinucigaș cu mașina pe contrasens, pe bulevardul Mihail Kogălniceanu din Brașov",
@@ -396,13 +424,6 @@
       "published": "2026-10-13T13:18:32+03:00"
     },
     {
-      "title": "Furnizarea apei va fi întreruptă în mai multe localități din județul Brașov, pe 14 octombrie",
-      "url": "https://www.monitorulexpres.ro/2026/10/13/furnizarea-apei-va-fi-intrerupta-in-mai-multe-localitati-din-judetul-brasov-pe-14-octombrie/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-13T12:35:51+03:00"
-    },
-    {
       "title": "Benzina și motorina, cu până la 18% mai scumpe față de iunie! Cât costă carburanții în Brașov, marți, 13 octombrie",
       "url": "https://brasovstiri.ro/benzina-si-motorina-cu-pana-la-18-mai-scumpe-fata-de-iunie-cat-costa-carburantii-in-brasov-marti-13-octombrie/",
       "source": "Brașov Știri",
@@ -431,6 +452,13 @@
       "published": "2026-10-13T12:31:11+03:00"
     },
     {
+      "title": "Social acum 16 ore „Stop violenței împotriva femeilor!” Marș organizat la Brașov pe 17 octombrie",
+      "url": "https://www.brasov.net/stop-violentei-impotriva-femeilor-mars-organizat-la-brasov-pe-17-octombrie/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-13T12:23:25+03:00"
+    },
+    {
       "title": "Cine stabilește regulile pentru inteligența artificială? Nell Watson răspunde pe 10 noiembrie, la Brașov",
       "url": "https://brasovstiri.ro/cine-stabileste-regulile-pentru-inteligenta-artificiala-nell-watson-raspunde-pe-10-noiembrie-la-brasov/",
       "source": "Brașov Știri",
@@ -450,6 +478,27 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-13T12:01:34+03:00"
+    },
+    {
+      "title": "Eveniment acum 17 ore Ziua Porților Deschise la ISU Brașov de Ziua Internațională pentru Reducerea Riscurilor de Dezastre",
+      "url": "https://www.brasov.net/ziua-portilor-deschise-la-isu-brasov-de-ziua-internationala-pentru-reducerea-riscurilor-de-dezastre/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-13T11:42:55+03:00"
+    },
+    {
+      "title": "După mai mulți ani, Bucureștiul devansează Brașovul și urcă pe locul al doilea în topul orașelor cu cele mai mari prețuri la apartamente",
+      "url": "https://bizbrasov.ro/2026/10/13/bucuresti-brasov-preturi-apartamente/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-13T11:41:47+03:00"
+    },
+    {
+      "title": "Rocadă pe piața imobiliară: Bucureștiul întrece Brașovul în topul prețurilor, dar blocurile noi din orașul nostru rămân mai scumpe decât cele din Capitală",
+      "url": "https://mytex.ro/economic/rocada-pe-piata-imobiliara-bucurestiul-intrece-brasovul-in-topul-preturilor-dar-blocurile-noi-din-orasul-nostru-raman-mai-scumpe-decat-cele-din-capitala/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-13T11:37:32+03:00"
     },
     {
       "title": "DAS Brașov nu găsește angajați, iar bătrânii plătesc prețul: Căminul din Noua funcționează la jumătate din capacitate din cauza salariilor mizere",
@@ -485,13 +534,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-13T10:13:06+03:00"
-    },
-    {
-      "title": "Gripa bate la ușă: Unde te poți vaccina direct în farmaciile din Brașov (HARTĂ INTERACTIVĂ)",
-      "url": "https://mytex.ro/sanatate/gripa-bate-la-usa-unde-te-poti-vaccina-direct-in-farmaciile-din-brasov-harta-interactiva/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-13T09:52:37+03:00"
     },
     {
       "title": "Centrul Istoric al Brașovului, mai puțin pentru mașini și mai mult pentru oameni. Străzile Grigoraș Dinicu, Nicolae Bălcescu și Mureșenilor, vizate de schimbări",
@@ -590,13 +632,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-13T05:38:00+03:00"
-    },
-    {
-      "title": "Ce le transmite directorul Rasaliu protestatarilor de la IAR Ghimbav",
-      "url": "https://transilvania365.ro/ce-le-transmite-directorul-general-rasaliu-protestatarilor-de-la-iar-ghimbav/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-12T20:35:26+03:00"
     }
   ]
 }
