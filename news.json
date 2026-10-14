@@ -1,8 +1,15 @@
 {
-  "updated": "14.10.2026, 04:00",
-  "count": 88,
-  "raw_count": 109,
+  "updated": "14.10.2026, 05:00",
+  "count": 83,
+  "raw_count": 104,
   "items": [
+    {
+      "title": "Brașov: „Vinerea Verde” ar putea deveni „Weekendul Verde”",
+      "url": "https://www.zmbv.ro/brasov-vinerea-verde-ar-putea-deveni-weekendul-verde/14/10/2026/119819/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-14T04:14:13+03:00"
+    },
     {
       "title": "Criză Financiară și Proteste la IAR Brașov",
       "url": "https://www.zmbv.ro/criza-financiara-si-proteste-la-iar-brasov/14/10/2026/119812/",
@@ -100,13 +107,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-13T17:53:33+03:00"
-    },
-    {
-      "title": "EXCLUSIV „Vinerea Verde” ar putea deveni „Weekendul Verde” la Brașov. Lucian Patrașcu: Decizia depinde de calculele economice",
-      "url": "https://newsbv.ro/weekendul-verde-brasov-lucian-patrascu/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T17:39:53+03:00"
     },
     {
       "title": "Culisele Zilei cu Sebastian Dan: Lucian Patrașcu, despre proiectele Brașovului, transportul public și serviciile pentru cetățeni",
@@ -333,13 +333,6 @@
       "published": "2026-10-13T12:31:11+03:00"
     },
     {
-      "title": "Social acum 4 ore „Stop violenței împotriva femeilor!” Marș organizat la Brașov pe 17 octombrie",
-      "url": "https://www.brasov.net/stop-violentei-impotriva-femeilor-mars-organizat-la-brasov-pe-17-octombrie/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-13T12:23:25+03:00"
-    },
-    {
       "title": "Cine stabilește regulile pentru inteligența artificială? Nell Watson răspunde pe 10 noiembrie, la Brașov",
       "url": "https://brasovstiri.ro/cine-stabileste-regulile-pentru-inteligenta-artificiala-nell-watson-raspunde-pe-10-noiembrie-la-brasov/",
       "source": "Brașov Știri",
@@ -366,13 +359,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-13T12:01:34+03:00"
-    },
-    {
-      "title": "Eveniment acum 4 ore Ziua Porților Deschise la ISU Brașov de Ziua Internațională pentru Reducerea Riscurilor de Dezastre",
-      "url": "https://www.brasov.net/ziua-portilor-deschise-la-isu-brasov-de-ziua-internationala-pentru-reducerea-riscurilor-de-dezastre/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-13T11:42:55+03:00"
     },
     {
       "title": "DAS Brașov nu găsește angajați, iar bătrânii plătesc prețul: Căminul din Noua funcționează la jumătate din capacitate din cauza salariilor mizere",
@@ -415,13 +401,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-13T09:52:37+03:00"
-    },
-    {
-      "title": "Salariile mici blochează angajările în asistența socială. Căminul pentru Vârstnici din Brașov funcționează la jumătate din capacitate",
-      "url": "https://bizbrasov.ro/2026/10/13/salarii-mici-social-camin-varstnici-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-13T09:43:29+03:00"
     },
     {
       "title": "Centrul Istoric al Brașovului, mai puțin pentru mașini și mai mult pentru oameni. Străzile Grigoraș Dinicu, Nicolae Bălcescu și Mureșenilor, vizate de schimbări",
@@ -550,13 +529,6 @@
       "published": "2026-10-13T05:31:00+03:00"
     },
     {
-      "title": "Brașovul comercial, între Orient și Viena: Cum arătau cuferele de călătorie ale comercianților brașoveni și ce ascundeau în ele",
-      "url": "https://bizbrasov.ro/2026/10/13/brasovul-comercial-intre-orient-si-viena/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-13T05:22:00+03:00"
-    },
-    {
       "title": "Ce le transmite directorul Rasaliu protestatarilor de la IAR Ghimbav",
       "url": "https://transilvania365.ro/ce-le-transmite-directorul-general-rasaliu-protestatarilor-de-la-iar-ghimbav/",
       "source": "Transilvania365",
@@ -611,13 +583,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-12T17:27:14+03:00"
-    },
-    {
-      "title": "Cetățuia Brașovului intră în conservare. Ce lucrări se execută și când ar putea fi redeschisă vizitatorilor",
-      "url": "https://mytex.ro/expres/cetatuia-brasovului-intra-in-conservare-ce-lucrari-se-executa-si-cand-ar-putea-fi-redeschisa-vizitatorilor/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-12T16:22:57+03:00"
     }
   ]
 }
