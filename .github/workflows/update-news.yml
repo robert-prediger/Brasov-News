@@ -3,7 +3,8 @@ name: Update Brasov News
 on:
   workflow_dispatch:
   schedule:
-        - cron: '0 * * * *'
+    - cron: '0 * * * *'
+    - cron: '30 18 15 10 *' # Temporary automatic test: 15 Oct 2026, 21:30 Europe/Bucharest
 
 permissions:
   contents: write
