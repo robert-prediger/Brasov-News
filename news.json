@@ -1,8 +1,22 @@
 {
-  "updated": "15.10.2026, 07:00",
-  "count": 72,
+  "updated": "15.10.2026, 08:00",
+  "count": 70,
   "raw_count": 90,
   "items": [
+    {
+      "title": "Râşnov: Încep lucrările de refacere a intersecției DN1E cu străzile I.L. Caragiale și Cetății",
+      "url": "https://newsbv.ro/rasnov-incep-lucrarile-refacere-intersectiei-dn1e/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-15T07:56:57+03:00"
+    },
+    {
+      "title": "10 orașe, printre care şi Braşovul, vor să devină Capitala Tineretului din România în 2028",
+      "url": "https://newsbv.ro/10-orase-printre-care-si-brasovul-capitala-tineretului/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-15T07:08:15+03:00"
+    },
     {
       "title": "Cât costă o noapte la hotel în Brașov și Poiana Brașov în această iarnă",
       "url": "https://mytex.ro/turism/cat-costa-o-noapte-la-hotel-in-brasov-si-poiana-brasov-in-aceasta-iarna/",
@@ -58,13 +72,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-14T20:34:15+03:00"
-    },
-    {
-      "title": "Corona Brașov, învinsă de CSM Târgu Jiu în Liga Florilor MOL. Urmează deplasarea de la Târgu Mureș",
-      "url": "https://newsbv.ro/corona-brasov-csm-targu-jiu-20-22-liga-florilor/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-14T20:06:38+03:00"
     },
     {
       "title": "Dezastru la Corona Brașov! Umilință pe teren propriu cu CSM Târgu Jiu. Bent Dahl, cu bagajele făcute",
@@ -158,6 +165,13 @@
       "published": "2026-10-14T16:02:53+03:00"
     },
     {
+      "title": "Miercurea brașovenilor se extinde. 28 de localuri oferă reduceri de 15% pentru clienți",
+      "url": "https://www.brasov.net/miercurea-brasovenilor-se-extinde-28-de-localuri-ofera-reduceri-de-15-pentru-clienti/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-14T15:47:47+03:00"
+    },
+    {
       "title": "BRAȘOV | Bărbat din Făgăraș, reținut după ce a încălcat ordinul de protecție",
       "url": "https://mytex.ro/112/brasov-barbat-din-fagaras-retinut-dupa-ce-a-incalcat-ordinul-de-protectie/",
       "source": "MyTex",
@@ -177,6 +191,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-14T15:19:01+03:00"
+    },
+    {
+      "title": "Fapt divers acum 13 ore VIDEO / Accident grav în Zărnești provocat de un șofer începător: Viteză excesivă și pagube majore",
+      "url": "https://www.brasov.net/video-accident-grav-in-zarnesti-provocat-de-un-sofer-incepator-viteza-excesiva-si-pagube-majore/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-14T15:15:08+03:00"
     },
     {
       "title": "E miercuri, ziua reducerilor în Brașov! 15% discount în noi locații pe harta ieșirilor în oraș",
@@ -221,25 +242,11 @@
       "published": "2026-10-14T14:34:30+03:00"
     },
     {
-      "title": "Brașovul luptă pentru titlul de Capitala Tineretului din România 2028: Când aflăm dacă mergem în finală și cine decide câștigătorul",
-      "url": "https://mytex.ro/expres/brasovul-lupta-pentru-titlul-de-capitala-tineretului-din-romania-2028-cand-aflam-daca-mergem-in-finala-si-cine-decide-castigatorul/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-14T14:32:13+03:00"
-    },
-    {
       "title": "Fără apă potabilă, joi, în Prejmer și satele din apropiere. Când va fi...",
       "url": "https://transilvania365.ro/fara-apa-potabila-joi-in-prejmer-si-satele-din-apropiere-cand-va-fi-reluata-furnizarea/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-14T14:28:25+03:00"
-    },
-    {
-      "title": "Accident în Zărnești, provocat de un șofer începător. Un pasager a fost rănit (VIDEO)",
-      "url": "https://www.monitorulexpres.ro/2026/10/14/accident-in-zarnesti-provocat-de-un-sofer-incepator-un-pasager-a-fost-ranit-video/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-14T14:19:32+03:00"
     },
     {
       "title": "Cupa A.S.C. Olimpic Zărnești la sărituri cu schiurile are loc pe 17 octombrie, la Râșnov",
@@ -296,13 +303,6 @@
       "source": "Brașov Știri",
       "category": "⚽ Sport",
       "published": "2026-10-14T13:01:46+03:00"
-    },
-    {
-      "title": "Corona Brașov a învins Sportul Studențesc cu 11-0. Vlad Diaconescu a marcat primul său gol la seniori",
-      "url": "https://newsbv.ro/corona-brasov-sportul-studentesc-11-0-vlad-diaconescu/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-14T12:59:10+03:00"
     },
     {
       "title": "Muzeul de Artă Brașov a lansat HerArt.ro, o platformă dedicată artistelor din patrimoniul românesc",
@@ -396,6 +396,13 @@
       "published": "2026-10-14T09:47:29+03:00"
     },
     {
+      "title": "Administrație acum 18 ore Poliția Locală Râșnov trece la sancțiuni: Fără mașini parcate la mai puțin de 25 de metri de treceri",
+      "url": "https://www.brasov.net/politia-locala-rasnov-trece-la-sanctiuni-fara-masini-parcate-la-mai-putin-de-25-de-metri-de-treceri/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-14T09:33:22+03:00"
+    },
+    {
       "title": "Presa britanică trimite turiștii în Poiana Brașov: „The independent” o recomandă ca destinație ideală de schi pentru bugete reduse în noul sezon",
       "url": "https://bizbrasov.ro/2026/10/14/poiana-brasov-presa-britanica-trimite/",
       "source": "BizBrașov",
@@ -410,13 +417,6 @@
       "published": "2026-10-14T09:31:27+03:00"
     },
     {
-      "title": "BRAȘOV | Primăria Râșnov avertizează șoferii: nu parcați la mai puțin de 25 de metri de trecerile de pietoni!",
-      "url": "https://mytex.ro/expres/brasov-primaria-rasnov-avertizeaza-soferii-nu-parcati-la-mai-putin-de-25-de-metri-de-trecerile-de-pietoni/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T09:20:29+03:00"
-    },
-    {
       "title": "Cartierelor Brașovului li se pregătește o regenerare",
       "url": "https://www.monitorulexpres.ro/2026/10/14/cartierelor-brasovului-li-se-pregateste-o-regenerare/",
       "source": "Monitorul Expres",
@@ -429,13 +429,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-14T09:13:31+03:00"
-    },
-    {
-      "title": "Muzeul de Artă Brașov lansează platforma Her Art, dedicată artistelor din istoria artei românești. Peste 500 de opere, accesibile printr-o bază de date interactivă",
-      "url": "https://newsbv.ro/muzeul-de-arta-brasov-lanseaza-platforma-her-art/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-14T09:00:48+03:00"
     },
     {
       "title": "Din Brașov, în Dorobanți. Haplea deschide primul restaurant în Capitală",
@@ -499,13 +492,6 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-14T05:32:00+03:00"
-    },
-    {
-      "title": "Renaștere culturală la poalele Făgărașului: Două biserici-monument din Sâmbăta de Sus atrag o investiție europeană de 30 de milioane de lei",
-      "url": "https://mytex.ro/expres/renastere-culturala-la-poalele-fagarasului-doua-biserici-monument-din-sambata-de-sus-atrag-o-investitie-europeana-de-30-de-milioane-de-lei/",
-      "source": "MyTex",
-      "category": "💰 Business & economie",
-      "published": "2026-10-13T19:26:29+03:00"
     }
   ]
 }
