@@ -2,8 +2,12 @@ name: Update Brasov News
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/update-news.yml']
   schedule:
     - cron: '0 * * * *'
+    - cron: '5-55/5 * * * *'
 
 permissions:
   contents: write
@@ -29,10 +33,46 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Check whether this hour needs an update
+        id: freshness
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          tz = ZoneInfo('Europe/Bucharest')
+          now = datetime.now(tz)
+          last = None
+          try:
+              data = json.loads(Path('news.json').read_text(encoding='utf-8'))
+              if data.get('items'):
+                  last = datetime.strptime(data['updated'], '%d.%m.%Y, %H:%M').replace(tzinfo=tz)
+          except (OSError, ValueError, KeyError, TypeError):
+              pass
+          due = os.environ['EVENT_NAME'] != 'schedule' or last is None or last.replace(minute=0, second=0, microsecond=0) != now.replace(minute=0, second=0, microsecond=0)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write(f'due={str(due).lower()}\n')
+          print(f'Event: {os.environ["EVENT_NAME"]}; last update: {last}; update required: {due}')
+          PY
+
       - name: Collect Brasov news
-        run: python update_news.py
+        if: steps.freshness.outputs.due == 'true'
+        run: |
+          python update_news.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('news.json').read_text(encoding='utf-8'))
+          if not data.get('items') or data.get('count') != len(data['items']):
+              raise SystemExit('Collection returned empty or inconsistent news; refusing to replace the published news.')
+          PY
 
       - name: Save updated news
+        if: steps.freshness.outputs.due == 'true'
         run: |
           git config user.name "brasov-news-bot"
           git config user.email "actions@users.noreply.github.com"
