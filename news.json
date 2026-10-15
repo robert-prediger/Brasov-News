@@ -1,21 +1,21 @@
 {
-  "updated": "15.10.2026, 02:00",
-  "count": 88,
-  "raw_count": 112,
+  "updated": "15.10.2026, 03:00",
+  "count": 84,
+  "raw_count": 108,
   "items": [
+    {
+      "title": "Corona Brașov, înfrântă la debutul în Liga 1",
+      "url": "https://www.zmbv.ro/corona-brasov-infranta-la-debutul-in-liga-1/15/10/2026/119908/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-15T02:15:05+03:00"
+    },
     {
       "title": "Brașov Digitalizează Administrația cu Fonduri Europene",
       "url": "https://www.zmbv.ro/brasov-digitalizeaza-administratia-cu-fonduri-europene-2/15/10/2026/119892/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-15T01:15:51+03:00"
-    },
-    {
-      "title": "Corona Brașov a pierdut la debutul în Liga 1 de baschet feminin: 59–65 cu CSU ASE București",
-      "url": "https://newsbv.ro/corona-brasov-csu-ase-bucuresti-liga-1-baschet-feminin/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-14T20:34:15+03:00"
     },
     {
       "title": "Corona Brașov, învinsă de CSM Târgu Jiu în Liga Florilor MOL. Urmează deplasarea de la Târgu Mureș",
@@ -247,13 +247,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-14T13:24:16+03:00"
-    },
-    {
-      "title": "Brașovul Vizează Competiția cu Marile Destinații Europene",
-      "url": "https://www.zmbv.ro/brasovul-vizeaza-competitia-cu-marile-destinatii-europene/14/10/2026/119862/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-14T13:19:08+03:00"
     },
     {
       "title": "Sancțiuni drastice pe șantierele din Brașov: ITM a aplicat amenzi de aproape 1 milion de lei",
@@ -597,27 +590,6 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-13T15:06:04+03:00"
-    },
-    {
-      "title": "Câți bani lasă brașovenii la Marea Neagră: Analiza pe 60.000 de rezervări care arată cum își fac vacanțele turiștii din inima Ardealului",
-      "url": "https://mytex.ro/turism/cati-bani-lasa-brasovenii-la-marea-neagra-analiza-pe-60-000-de-rezervari-care-arata-cum-isi-fac-vacantele-turistii-din-inima-ardealului/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-13T14:49:48+03:00"
-    },
-    {
-      "title": "BRAȘOV | Șofer reținut după accidentul violent de pe Bulevardul 15 Noiembrie! Polițiștii suspectează o întrecere ilegală (VIDEO)",
-      "url": "https://mytex.ro/112/brasov-sofer-retinut-dupa-accidentul-violent-de-pe-bulevardul-15-noiembrie-politistii-suspecteaza-o-intrecere-ilegala-video/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-13T14:23:30+03:00"
-    },
-    {
-      "title": "5 posturi scoase la concurs în cadrul DAS Brașov",
-      "url": "https://transilvania365.ro/5-posturi-scoase-la-concurs-in-cadrul-das-brasov/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-13T14:10:52+03:00"
     }
   ]
 }
