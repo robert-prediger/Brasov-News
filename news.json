@@ -1,8 +1,22 @@
 {
-  "updated": "15.10.2026, 05:00",
-  "count": 73,
+  "updated": "15.10.2026, 06:00",
+  "count": 74,
   "raw_count": 95,
   "items": [
+    {
+      "title": "726 de panouri fotovoltaice vor produce energie „gratis” pentru stația de epurare a Brașovului. Investiția include și baterii de stocare",
+      "url": "https://bizbrasov.ro/2026/10/15/panouri-fotovoltaic-energie-epurare-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-15T05:40:00+03:00"
+    },
+    {
+      "title": "Trei vechi centrale termice din Brașov intră în șantier pentru a fi transformate în centre multifuncționale. Investiția depășește 10 milioane de lei",
+      "url": "https://bizbrasov.ro/2026/10/15/centrale-termice-brasov-santier-investitia/",
+      "source": "BizBrașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-15T05:38:00+03:00"
+    },
     {
       "title": "Corona Brașov Cedează în Fața CSM Târgu Jiu",
       "url": "https://www.zmbv.ro/corona-brasov-cedeaza-in-fata-csm-targu-jiu/15/10/2026/119918/",
@@ -506,13 +520,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-13T18:07:33+03:00"
-    },
-    {
-      "title": "Corona Brașov, obligată să câştige cu CSM Tg. Jiu",
-      "url": "https://mytex.ro/sport/corona-brasov-obligata-sa-castige-tg-jiu/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-13T17:53:33+03:00"
     }
   ]
 }
