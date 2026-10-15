@@ -3,7 +3,7 @@ name: Update Brasov News
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23,53 * * * *'
+        - cron: '0 * * * *'
 
 permissions:
   contents: write
