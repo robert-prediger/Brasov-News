@@ -1,0 +1,12 @@
+name: Recover hourly Brasov News updates
+
+on:
+  schedule:
+    - cron: '5-55/5 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  recover:
+    uses: ./.github/workflows/update-news.yml
