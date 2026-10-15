@@ -1,14 +1,14 @@
 {
-  "updated": "15.10.2026, 03:00",
-  "count": 84,
-  "raw_count": 108,
+  "updated": "15.10.2026, 03:57",
+  "count": 79,
+  "raw_count": 99,
   "items": [
     {
-      "title": "Corona Brașov, înfrântă la debutul în Liga 1",
-      "url": "https://www.zmbv.ro/corona-brasov-infranta-la-debutul-in-liga-1/15/10/2026/119908/",
+      "title": "Corona Brașov Cedează în Fața CSM Târgu Jiu",
+      "url": "https://www.zmbv.ro/corona-brasov-cedeaza-in-fata-csm-targu-jiu/15/10/2026/119918/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "⚽ Sport",
-      "published": "2026-10-15T02:15:05+03:00"
+      "published": "2026-10-15T03:15:00+03:00"
     },
     {
       "title": "Brașov Digitalizează Administrația cu Fonduri Europene",
@@ -16,6 +16,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-15T01:15:51+03:00"
+    },
+    {
+      "title": "Corona Brașov a pierdut la debutul în Liga 1 de baschet feminin: 59–65 cu CSU ASE București",
+      "url": "https://newsbv.ro/corona-brasov-csu-ase-bucuresti-liga-1-baschet-feminin/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-14T20:34:15+03:00"
     },
     {
       "title": "Corona Brașov, învinsă de CSM Târgu Jiu în Liga Florilor MOL. Urmează deplasarea de la Târgu Mureș",
@@ -116,13 +123,6 @@
       "published": "2026-10-14T16:02:53+03:00"
     },
     {
-      "title": "Miercurea brașovenilor se extinde. 28 de localuri oferă reduceri de 15% pentru clienți",
-      "url": "https://www.brasov.net/miercurea-brasovenilor-se-extinde-28-de-localuri-ofera-reduceri-de-15-pentru-clienti/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-14T15:47:47+03:00"
-    },
-    {
       "title": "BRAȘOV | Bărbat din Făgăraș, reținut după ce a încălcat ordinul de protecție",
       "url": "https://mytex.ro/112/brasov-barbat-din-fagaras-retinut-dupa-ce-a-incalcat-ordinul-de-protectie/",
       "source": "MyTex",
@@ -142,13 +142,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-14T15:19:01+03:00"
-    },
-    {
-      "title": "Fapt divers acum 36 de minute VIDEO / Accident grav în Zărnești provocat de un șofer începător: Viteză excesivă și pagube majore",
-      "url": "https://www.brasov.net/video-accident-grav-in-zarnesti-provocat-de-un-sofer-incepator-viteza-excesiva-si-pagube-majore/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-14T15:15:08+03:00"
     },
     {
       "title": "E miercuri, ziua reducerilor în Brașov! 15% discount în noi locații pe harta ieșirilor în oraș",
@@ -205,6 +198,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-14T14:28:25+03:00"
+    },
+    {
+      "title": "Accident în Zărnești, provocat de un șofer începător. Un pasager a fost rănit (VIDEO)",
+      "url": "https://www.monitorulexpres.ro/2026/10/14/accident-in-zarnesti-provocat-de-un-sofer-incepator-un-pasager-a-fost-ranit-video/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-14T14:19:32+03:00"
     },
     {
       "title": "Cupa A.S.C. Olimpic Zărnești la sărituri cu schiurile are loc pe 17 octombrie, la Râșnov",
@@ -375,13 +375,6 @@
       "published": "2026-10-14T09:47:29+03:00"
     },
     {
-      "title": "Administrație acum 6 ore Poliția Locală Râșnov trece la sancțiuni: Fără mașini parcate la mai puțin de 25 de metri de treceri",
-      "url": "https://www.brasov.net/politia-locala-rasnov-trece-la-sanctiuni-fara-masini-parcate-la-mai-putin-de-25-de-metri-de-treceri/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-14T09:33:22+03:00"
-    },
-    {
       "title": "Presa britanică trimite turiștii în Poiana Brașov: „The independent” o recomandă ca destinație ideală de schi pentru bugete reduse în noul sezon",
       "url": "https://bizbrasov.ro/2026/10/14/poiana-brasov-presa-britanica-trimite/",
       "source": "BizBrașov",
@@ -394,6 +387,13 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-14T09:31:27+03:00"
+    },
+    {
+      "title": "BRAȘOV | Primăria Râșnov avertizează șoferii: nu parcați la mai puțin de 25 de metri de trecerile de pietoni!",
+      "url": "https://mytex.ro/expres/brasov-primaria-rasnov-avertizeaza-soferii-nu-parcati-la-mai-putin-de-25-de-metri-de-trecerile-de-pietoni/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-14T09:20:29+03:00"
     },
     {
       "title": "Cartierelor Brașovului li se pregătește o regenerare",
@@ -555,41 +555,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-13T16:10:32+03:00"
-    },
-    {
-      "title": "Brașovul schimbă radical turismul! Parcări cu plată, reguli noi pentru cazări...",
-      "url": "https://transilvania365.ro/brasovul-schimba-radical-turismul-parcari-cu-plata-reguli-noi-pentru-cazari-si-planuri-care-pot-schimba-vacantele-la-munte-pana-in-2034/",
-      "source": "Transilvania365",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-13T15:28:13+03:00"
-    },
-    {
-      "title": "Peste 22.000 de locuinţe construite în Braşov în ultimii 10 ani",
-      "url": "https://newsbv.ro/22-000-de-locuinte-construite-in-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:25:11+03:00"
-    },
-    {
-      "title": "Terenuri vândute drept „grădini urbane”, transformate în zone de construcții! Prefectul Brașovului anunță amenzi și demolări",
-      "url": "https://brasovstiri.ro/terenuri-vandute-drept-gradini-urbane-transformate-in-zone-de-constructii-prefectul-brasovului-anunta-amenzi-si-demolari/",
-      "source": "Brașov Știri",
-      "category": "🏗️ Dezvoltare",
-      "published": "2026-10-13T15:15:56+03:00"
-    },
-    {
-      "title": "MApN aduce cariera militară mai aproape de elevi: Campania „Ziua Armatei României în școli” ajunge în județul Brașov",
-      "url": "https://mytex.ro/expres/mapn-aduce-cariera-militara-mai-aproape-de-elevi-campania-ziua-armatei-romaniei-in-scoli-ajunge-in-judetul-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:08:40+03:00"
-    },
-    {
-      "title": "Bani pentru apicultorii din Brașov! Peste 386.000 de lei, acordați pentru achiziția de echipamente și produse apicole",
-      "url": "https://brasovstiri.ro/bani-pentru-apicultorii-din-brasov-peste-386-000-de-lei-acordati-pentru-achizitia-de-echipamente-si-produse-apicole/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-13T15:06:04+03:00"
     }
   ]
 }
