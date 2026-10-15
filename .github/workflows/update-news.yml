@@ -2,12 +2,12 @@ name: Update Brasov News
 
 on:
   workflow_dispatch:
+  workflow_call:
   push:
     branches: [main]
     paths: ['.github/workflows/update-news.yml']
   schedule:
     - cron: '0 * * * *'
-    - cron: '5-55/5 * * * *'
 
 permissions:
   contents: write
