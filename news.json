@@ -1,8 +1,15 @@
 {
-  "updated": "16.10.2026, 21:00",
-  "count": 90,
-  "raw_count": 115,
+  "updated": "16.10.2026, 22:00",
+  "count": 88,
+  "raw_count": 114,
   "items": [
+    {
+      "title": "Hochei: Start fulminant pentru Corona Brașov în Cupa Continentală! Victorie la scor cu IHC Zagreb",
+      "url": "https://www.monitorulexpres.ro/2026/10/16/hochei-start-fulminant-pentru-corona-brasov-in-cupa-continentala-victorie-la-scor-cu-ihc-zagreb/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-16T21:02:50+03:00"
+    },
     {
       "title": "Curățenie și dezafectări pe strada Laminoarelor, Brașov",
       "url": "https://www.zmbv.ro/curatenie-si-dezafectari-pe-strada-laminoarelor-brasov/16/10/2026/120047/",
@@ -37,13 +44,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-16T18:51:57+03:00"
-    },
-    {
-      "title": "Corona Brașov, victorie la scor în Cupa Continentală",
-      "url": "https://mytex.ro/sport/corona-brasov-victorie-la-scor-in-cupa-continentala/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-16T18:41:41+03:00"
     },
     {
       "title": "Cutremur la Corona Brașov. Bent Dahl a plecat. Mariana Târcă, interimar. Se caută antrenor pentru un proiect pe termen lung",
@@ -618,20 +618,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-15T11:53:34+03:00"
-    },
-    {
-      "title": "Meciul Corona Brașov – FC Argeș din Cupa României va fi televizat / Programul complet al etapei a 2-a",
-      "url": "https://mytex.ro/sport/meciul-corona-brasov-fc-arges-din-cupa-romaniei-va-fi-televizat-programul-complet-al-etapei-a-2-a/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-15T09:36:54+03:00"
-    },
-    {
-      "title": "Jandarmii brașoveni, intervenție la două accidente rutiere, după misiunea de la Iași",
-      "url": "https://mytex.ro/112/jandarmii-brasoveni-interventie-la-doua-accidente-rutiere-dupa-misiunea-de-la-iasi/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-15T09:25:42+03:00"
     }
   ]
 }
