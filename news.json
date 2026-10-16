@@ -1,8 +1,64 @@
 {
-  "updated": "16.10.2026, 15:00",
-  "count": 94,
-  "raw_count": 118,
+  "updated": "16.10.2026, 16:00",
+  "count": 92,
+  "raw_count": 117,
   "items": [
+    {
+      "title": "Util acum 1 minut Schimbare importantă pentru elevii din Brașov. RATBV modifică orarul liniei 9 RATBV SA introduce o nouă plecare pe linia 9, care asigură legătura între Rulmentul și Municipal, pentru a reduce timpul...",
+      "url": "https://www.brasov.net/schimbare-importanta-pentru-elevii-din-brasov-ratbv-modifica-orarul-liniei-9/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-16T15:59:38+03:00"
+    },
+    {
+      "title": "Atac la „mafia lemnului” din Brașov. Sute de metri cubi de lemn confiscați și amenzi record, în doar trei zile",
+      "url": "https://bizbrasov.ro/2026/10/16/mafia-lemn-brasov-confiscat-amenzi/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-16T15:53:36+03:00"
+    },
+    {
+      "title": "Ambulanță nouă pentru Spitalul Județean Brașov. Licitație de 630.000 de lei pentru o autosanitară de tip B2",
+      "url": "https://transilvania365.ro/ambulanta-noua-pentru-spitalul-judetean-brasov-licitatie-de-630-000-de-lei-pentru-o-autosanitara-de-tip-b2/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-16T15:46:07+03:00"
+    },
+    {
+      "title": "VIDEO. Mizerie și construcții improvizate pe strada Laminoarelor din Brașov. Primăria a început curățenia",
+      "url": "https://transilvania365.ro/video-mizerie-si-constructii-improvizate-pe-strada-laminoarelor-din-brasov-primaria-a-inceput-curatenia/",
+      "source": "Transilvania365",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-16T15:26:09+03:00"
+    },
+    {
+      "title": "Ninsori și Avertizări pe Transfăgărășan",
+      "url": "https://www.zmbv.ro/ninsori-si-avertizari-pe-transfagarasan/16/10/2026/120022/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-16T15:17:11+03:00"
+    },
+    {
+      "title": "Evenimente Culturale în Brașov: 16-22 Octombrie",
+      "url": "https://www.zmbv.ro/evenimente-culturale-in-brasov-16-22-octombrie/16/10/2026/120021/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-16T15:17:01+03:00"
+    },
+    {
+      "title": "Halloween Magic la Magic Parc Râșnov",
+      "url": "https://www.zmbv.ro/halloween-magic-la-magic-parc-rasnov/16/10/2026/120013/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-16T15:15:45+03:00"
+    },
+    {
+      "title": "Lucrări de canalizare pe străzile din Sânpetru: de ce unele drumuri se repară mai greu și unde apar problemele",
+      "url": "https://bizbrasov.ro/2026/10/16/lucrari-canalizare-sanpetru-probleme/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-16T15:12:24+03:00"
+    },
     {
       "title": "Târg de Toamnă, în Piața Sfatului din Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/16/targ-de-toamna-in-piata-sfatului-din-brasov/",
@@ -11,7 +67,7 @@
       "published": "2026-10-16T14:59:04+03:00"
     },
     {
-      "title": "Acțiune de ecologizare în aria naturală protejată Prejmer – Lunca Câlnicului. Elevii și localnicii sunt invitați să participe",
+      "title": "Acțiune de ecologizare în aria naturală protejată Prejmer – Lunca Câlnicului. Elevii și...",
       "url": "https://transilvania365.ro/actiune-de-ecologizare-in-aria-naturala-protejata-prejmer-lunca-calnicului-elevii-si-localnicii-sunt-invitati-sa-participe/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -32,25 +88,11 @@
       "published": "2026-10-16T14:29:12+03:00"
     },
     {
-      "title": "Halloween de poveste la Magic Parc Râșnov: Spectacole de magie, trasee noi de treasure hunt și parade ale costumelor",
-      "url": "https://bizbrasov.ro/2026/10/16/halloween-de-poveste-la-magic-parc-rasnov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T14:16:47+03:00"
-    },
-    {
       "title": "Curățenie generală pe strada Laminoarelor: Primăria Brașov dezafectează construcțiile improvizate și igienizează zona",
       "url": "https://mytex.ro/expres/curatenie-generala-pe-strada-laminoarelor-primaria-brasov-dezafecteaza-constructiile-improvizate-si-igienizeaza-zona/",
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-16T14:11:44+03:00"
-    },
-    {
-      "title": "RATBV modifică programul liniei 9 din Brașov: autobuz special pentru elevii din Tractorul la miezul zilei",
-      "url": "https://newsbv.ro/ratbv-autobuz-tractorul-program/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-16T14:03:32+03:00"
     },
     {
       "title": "Cutremur la Corona Brașov. Bent Dahl a fost demis! Cine se va ocupa de pregătirea echipei",
@@ -95,6 +137,13 @@
       "published": "2026-10-16T12:40:49+03:00"
     },
     {
+      "title": "Eveniment acum 3 ore Accident grav la ieșirea din Brașov! Șase persoane implicate, două încarcerate",
+      "url": "https://www.brasov.net/accident-grav-la-iesirea-din-brasov-sase-persoane-implicate-doua-incarcerate/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-16T12:33:25+03:00"
+    },
+    {
       "title": "Festivalul Olimpic al Tineretului European Brașov 2027 prins în programul de guvernare al lui Luca Niculescu",
       "url": "https://newsbv.ro/festivalul-olimpic-al-tineretului-luca-niculescu/",
       "source": "NewsBV",
@@ -109,20 +158,6 @@
       "published": "2026-10-16T12:31:02+03:00"
     },
     {
-      "title": "Accident grav cu șase victime la ieșirea din Brașov, pe Calea Feldioarei: Un microbuz, un camion și un autoturism implicate",
-      "url": "https://bizbrasov.ro/2026/10/16/accident-grav-cu-sase-victime-la-iesirea/",
-      "source": "BizBrașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-16T12:24:51+03:00"
-    },
-    {
-      "title": "Accident grav la ieșirea din Brașov! Două persoane au rămas încarcerate,...",
-      "url": "https://transilvania365.ro/accident-grav-la-iesirea-din-brasov-doua-persoane-au-ramas-incarcerate-iar-una-este-inconstienta/",
-      "source": "Transilvania365",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-16T12:20:35+03:00"
-    },
-    {
       "title": "O experiență imersivă unică de Halloween, în premieră sub străzile istorice ale Brașovului: „Dracula’s Underworld”",
       "url": "https://mytex.ro/timp-liber/o-experienta-imersiva-unica-de-halloween-in-premiera-sub-strazile-istorice-ale-brasovului-draculas-underworld/",
       "source": "MyTex",
@@ -130,7 +165,7 @@
       "published": "2026-10-16T12:16:38+03:00"
     },
     {
-      "title": "Salvamont Brașov avertizează: Reguli esențiale pentru drumețiile montane în condiții de iarnă",
+      "title": "Turism acum 4 ore Salvamont Brașov avertizează: Reguli esențiale pentru drumețiile montane în condiții de iarnă",
       "url": "https://www.brasov.net/salvamont-brasov-avertizeaza-reguli-esentiale-pentru-drumetiile-montane-in-conditii-de-iarna/",
       "source": "Brașov.net",
       "category": "🌦️ Meteo",
@@ -221,13 +256,6 @@
       "published": "2026-10-16T10:15:32+03:00"
     },
     {
-      "title": "Record de încasări, în ciuda scumpirilor din acest an. Brașovenii și-au achitat impozitele și taxele locale în proporție de 90% până la final de septembrie",
-      "url": "https://bizbrasov.ro/2026/10/16/incasari-scumpiri-brasov-impozite/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T10:15:24+03:00"
-    },
-    {
       "title": "Bobocii Academiei Forţelor Aeriene „Henri Coandă” depun jurământul în Piaţa Sfatului. Avioane militare vor survola Braşovul",
       "url": "https://newsbv.ro/bobocii-academiei-henri-coanda-depun-juramantul/",
       "source": "NewsBV",
@@ -235,7 +263,7 @@
       "published": "2026-10-16T10:13:56+03:00"
     },
     {
-      "title": "Turism acum 2 ore VIDEO / A venit iarna în Postăvaru: Primul strat de zăpadă și alertă de viscol în Poiana Brașov",
+      "title": "Turism acum 6 ore VIDEO / A venit iarna în Postăvaru: Primul strat de zăpadă și alertă de viscol în Poiana Brașov",
       "url": "https://www.brasov.net/video-a-venit-iarna-in-postavaru-primul-strat-de-zapada-si-alerta-de-viscol-in-poiana-brasov/",
       "source": "Brașov.net",
       "category": "🌦️ Meteo",
@@ -284,13 +312,6 @@
       "published": "2026-10-16T09:46:14+03:00"
     },
     {
-      "title": "Cultural acum 3 ore Ghidul evenimentelor culturale din Brașov: Ce spectacole și muzee puteți vizita în perioada 16-22 octombrie",
-      "url": "https://www.brasov.net/ghidul-evenimentelor-culturale-din-brasov-ce-spectacole-si-muzee-puteti-vizita-in-perioada-16-22-octombrie/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:43:50+03:00"
-    },
-    {
       "title": "VIDEO. Ninge abundent pe Transfăgărășan. Drumarii intervin cu utilaje de deszăpezire",
       "url": "https://transilvania365.ro/video-ninge-abundent-pe-transfagarasan-drumarii-intervin-cu-utilaje-de-deszapezire/",
       "source": "Transilvania365",
@@ -298,7 +319,7 @@
       "published": "2026-10-16T09:37:14+03:00"
     },
     {
-      "title": "Fapt divers acum 3 ore VIDEO / Iarna a pus stăpânire pe Transfăgărășan: Drumarii intervin în forță, șoferii sunt avertizați",
+      "title": "Fapt divers acum 6 ore VIDEO / Iarna a pus stăpânire pe Transfăgărășan: Drumarii intervin în forță, șoferii sunt avertizați",
       "url": "https://www.brasov.net/video-iarna-a-pus-stapanire-pe-transfagarasan-drumarii-intervin-in-forta-soferii-sunt-avertizati/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -312,7 +333,7 @@
       "published": "2026-10-16T09:32:09+03:00"
     },
     {
-      "title": "Sport acum 3 ore Prima ediție a Cupei Colegiilor și Liceelor din Brașov și-a desemnat campionii Distribuie Prima ediție a competiției sportive „Cupa Colegiilor și Liceelor” din Brașov s-a încheiat cu o festivitate de premiere de...",
+      "title": "Sport acum 7 ore Prima ediție a Cupei Colegiilor și Liceelor din Brașov și-a desemnat campionii Distribuie Prima ediție a competiției sportive „Cupa Colegiilor și Liceelor” din Brașov s-a încheiat cu o festivitate de premiere de...",
       "url": "https://www.brasov.net/prima-editie-a-cupei-colegiilor-si-liceelor-din-brasov-si-a-desemnat-campionii/",
       "source": "Brașov.net",
       "category": "⚽ Sport",
@@ -324,13 +345,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-16T09:19:39+03:00"
-    },
-    {
-      "title": "Râşnovul va avea o vidanjă modernă. Flotele Primăriei și a SUP ajung la 11 utilaje, pentru intervenţii de urgenţă în oraş",
-      "url": "https://newsbv.ro/rasnovul-va-avea-o-vidanja-moderna/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:09:29+03:00"
     },
     {
       "title": "Balul Pompierilor revine la Cristian. Evenimentul din noiembrie, organizat pentru aproximativ...",
@@ -431,55 +445,6 @@
       "published": "2026-10-16T05:40:00+03:00"
     },
     {
-      "title": "Deviere temporară a liniei 130 în Râșnov",
-      "url": "https://www.zmbv.ro/deviere-temporara-a-liniei-130-in-rasnov/16/10/2026/119981/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T03:15:43+03:00"
-    },
-    {
-      "title": "Parcul Național Munții Făgăraș, contestat de localnici",
-      "url": "https://www.zmbv.ro/parcul-national-muntii-fagaras-contestat-de-localnici/16/10/2026/119980/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T03:15:33+03:00"
-    },
-    {
-      "title": "Brașov: Record de plantări de arbori și arbuști",
-      "url": "https://www.zmbv.ro/brasov-record-de-plantari-de-arbori-si-arbusti/16/10/2026/119976/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T03:14:51+03:00"
-    },
-    {
-      "title": "Șofer Beat Oprit de Poliție la Râșnov",
-      "url": "https://www.zmbv.ro/sofer-beat-oprit-de-politie-la-rasnov/16/10/2026/119974/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T02:14:56+03:00"
-    },
-    {
-      "title": "Cinci Bărbați Reținuți pentru Furt de Europaleți în Codlea",
-      "url": "https://www.zmbv.ro/cinci-barbati-retinuti-pentru-furt-de-europaleti-in-codlea/16/10/2026/119972/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-16T02:14:41+03:00"
-    },
-    {
-      "title": "BRAȘOV | Ultima campanie gratuită de sterilizare a câinilor și pisicilor din acest an, la Dumbrăvița. S-au dat și amenzi",
-      "url": "https://mytex.ro/expres/brasov-ultima-campanie-gratuita-de-sterilizare-a-cainilor-si-pisicilor-din-acest-an-la-dumbravita-s-au-dat-si-amenzi/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-15T19:25:57+03:00"
-    },
-    {
-      "title": "Fapt divers acum 18 ore Nereguli la o firmă din Săcele: Lemn confiscat și amenzi în urma unui control al Poliției și Gărzii Forestiere",
-      "url": "https://www.brasov.net/nereguli-la-o-firma-din-sacele-lemn-confiscat-si-amenzi-in-urma-unui-control-al-politiei-si-garzii-forestiere/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-15T18:23:46+03:00"
-    },
-    {
       "title": "Hochei, Cupa Continentală | Corona Brașov pornește la atac în Europa! Misiune clară în Estonia: câștigarea grupei",
       "url": "https://www.monitorulexpres.ro/2026/10/15/hochei-cupa-continentala-corona-brasov-porneste-la-atac-in-europa-misiune-clara-in-estonia-castigarea-grupei/",
       "source": "Monitorul Expres",
@@ -513,6 +478,20 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-15T16:13:29+03:00"
+    },
+    {
+      "title": "Administrație acum 24 de ore Parcul Național Munții Făgăraș, contestat de comunitățile locale. De ce se opun reprezentanții localităților?",
+      "url": "https://www.brasov.net/parcul-national-muntii-fagaras-contestat-de-comunitatile-locale-de-ce-se-opun-reprezentantii-localitatilor/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-15T16:04:01+03:00"
+    },
+    {
+      "title": "BRAȘOV | Șofer din Râșnov, reclamat că mergea haotic pe șosea. Polițiștii au descoperit că era băut",
+      "url": "https://mytex.ro/delicte/brasov-sofer-din-rasnov-reclamat-ca-mergea-haotic-pe-sosea-politistii-au-descoperit-ca-era-baut/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-15T15:56:05+03:00"
     },
     {
       "title": "Broker de asigurări auto brașovean, „țepuit” de un bucureștean care l-a mințit că a plătit contravaloarea asigurării",
@@ -564,6 +543,13 @@
       "published": "2026-10-15T14:59:32+03:00"
     },
     {
+      "title": "Util acum o zi Autobuzele liniei 130 circulă deviat astăzi în Râșnov. Ce stații sunt afectate",
+      "url": "https://www.brasov.net/autobuzele-liniei-130-circula-deviat-astazi-in-rasnov-ce-statii-sunt-afectate/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-15T14:55:23+03:00"
+    },
+    {
       "title": "Opera Brașov a pus în vânzare biletele pentru spectacolele lunii noiembrie",
       "url": "https://brasovstiri.ro/opera-brasov-a-pus-in-vanzare-biletele-pentru-spectacolele-lunii-noiembrie/",
       "source": "Brașov Știri",
@@ -606,18 +592,11 @@
       "published": "2026-10-15T12:06:36+03:00"
     },
     {
-      "title": "Brașovul devine, timp de o săptămână, un spațiu al ideilor și...",
-      "url": "https://transilvania365.ro/brasovul-devine-timp-de-o-saptamana-un-spatiu-al-ideilor-si-experientelor-care-modeleaza-viitorul-ospitalitatii/",
-      "source": "Transilvania365",
+      "title": "A 2-a ediție a HOSPEx – Zilele ospitalității. Brașovul devine un spațiu al ideilor și experiențelor care modelează viitorul ospitalității",
+      "url": "https://newsbv.ro/a-2-a-editie-a-hospex-zilele-ospitalitatii/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-15T12:01:27+03:00"
-    },
-    {
-      "title": "Hotelul CFR Marfă din Predeal, din nou la licitație. ANAF cere...",
-      "url": "https://transilvania365.ro/hotelul-cfr-marfa-din-predeal-din-nou-la-licitatie-anaf-cere-acum-mai-putin-de-10-milioane-de-lei/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-15T11:56:58+03:00"
+      "published": "2026-10-15T12:01:05+03:00"
     },
     {
       "title": "Corona Brașov, zona crepusculară. Decăderea unei echipe",
@@ -646,6 +625,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-15T08:39:45+03:00"
+    },
+    {
+      "title": "Util acum o zi Atenție, șoferi! Restricții de trafic pentru refacerea intersecției DN1E de către DRDP Brașov",
+      "url": "https://www.brasov.net/atentie-soferi-restrictii-de-trafic-pentru-refacerea-intersectiei-dn1e-de-catre-drdp-brasov/",
+      "source": "Brașov.net",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-15T08:34:49+03:00"
     },
     {
       "title": "Primăria orașului Zărnești-Informare publică",
