@@ -1,8 +1,22 @@
 {
-  "updated": "16.10.2026, 05:00",
-  "count": 75,
-  "raw_count": 97,
+  "updated": "16.10.2026, 06:00",
+  "count": 74,
+  "raw_count": 95,
   "items": [
+    {
+      "title": "Una dintre secțiile ATI ale Spitalului Județean Brașov intră în șantier timp de 4 luni. A fost semnat contractul cu constructorul",
+      "url": "https://bizbrasov.ro/2026/10/16/sectii-ati-spital-judetean-brasov-santier/",
+      "source": "BizBrașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-16T05:40:00+03:00"
+    },
+    {
+      "title": "Patinoarul Olimpic din Brașov, în pregătiri pentru FOTE 2027. Primăria investește într-o nouă rețea de alimentare electrică",
+      "url": "https://bizbrasov.ro/2026/10/16/patinoar-olimpic-brasov-fote-retea/",
+      "source": "BizBrașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-16T05:33:00+03:00"
+    },
     {
       "title": "Brașov: Campanie de plantări pentru extinderea spațiilor verzi",
       "url": "https://www.zmbv.ro/brasov-campanie-de-plantari-pentru-extinderea-spatiilor-verzi/16/10/2026/119995/",
@@ -51,20 +65,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-15T19:25:57+03:00"
-    },
-    {
-      "title": "Lansare ghid URBAN_ESCAPE la Brașov",
-      "url": "https://www.zmbv.ro/lansare-ghid-urban_escape-la-brasov/15/10/2026/119966/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-15T19:15:48+03:00"
-    },
-    {
-      "title": "ANAF Licitează Clădirea CFR Marfă din Brașov",
-      "url": "https://www.zmbv.ro/anaf-liciteaza-cladirea-cfr-marfa-din-brasov/15/10/2026/119964/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-15T19:15:35+03:00"
     },
     {
       "title": "Nereguli la o firmă din Săcele: Lemn confiscat și amenzi în urma unui control al Poliției și Gărzii Forestiere",
@@ -520,13 +520,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-14T18:33:32+03:00"
-    },
-    {
-      "title": "„La Dolce Musica”, recital extraordinar susținut de Opera Brașov la mall",
-      "url": "https://bizbrasov.ro/2026/10/14/brasov-opera-recital-sustinut-de-opera/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-14T17:46:29+03:00"
     }
   ]
 }
