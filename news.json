@@ -1,8 +1,15 @@
 {
-  "updated": "17.10.2026, 21:00",
-  "count": 74,
-  "raw_count": 98,
+  "updated": "17.10.2026, 22:00",
+  "count": 70,
+  "raw_count": 95,
   "items": [
+    {
+      "title": "Liga 3, etapa 9 | Victorii la pas pentru Olimpic Zărnești și CSM Săcele",
+      "url": "https://www.monitorulexpres.ro/2026/10/17/liga-3-etapa-9-victorii-la-pas-pentru-olimpic-zarnesti-si-csm-sacele/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-17T21:12:40+03:00"
+    },
     {
       "title": "Fapt divers acum 2 ore Filtre ale poliției la trecerile la nivel cu calea ferată din Brașov: Amenzi, permise reținute și un dosar penal",
       "url": "https://www.brasov.net/filtre-ale-politiei-la-trecerile-la-nivel-cu-calea-ferata-din-brasov-amenzi-permise-retinute-si-un-dosar-penal/",
@@ -25,7 +32,7 @@
       "published": "2026-10-17T17:58:37+03:00"
     },
     {
-      "title": "FOTO. Un pui de vulpe, salvat de pompierii brașoveni! O misiune emoționantă, cu final fericit",
+      "title": "FOTO. Un pui de vulpe, salvat de pompierii brașoveni! O misiune emoționantă, cu...",
       "url": "https://transilvania365.ro/foto-un-pui-de-vulpe-salvat-de-pompierii-brasoveni-o-misiune-emotionanta-cu-final-fericit/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -130,7 +137,7 @@
       "published": "2026-10-17T12:33:31+03:00"
     },
     {
-      "title": "Analiză! Top 5 politicieni din Brașov! O singură femeie printre cei mai influenți...",
+      "title": "Analiză! Top 5 politicieni din Brașov! O singură femeie printre cei...",
       "url": "https://transilvania365.ro/analiza-top-5-politicieni-din-brasov-o-singura-femeie-printre-cei-mai-influenti-politicieni-cine-domina-scena-politica-locala-si-nationala/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -410,6 +417,13 @@
       "published": "2026-10-16T12:31:02+03:00"
     },
     {
+      "title": "BREAKING NEWS | Accident grav la ieșirea din Brașov, pe Calea Feldioarei. Șase persoane implicate, una inconștientă",
+      "url": "https://newsbv.ro/accident-calea-feldioarei-brasov/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-16T12:15:45+03:00"
+    },
+    {
       "title": "Bent Dahl şi Bo Rudgaard, demişi de Corona Brașov",
       "url": "https://mytex.ro/sport/bent-dahl-si-bo-rudgaard-demisi-de-corona-brasov/",
       "source": "MyTex",
@@ -478,48 +492,6 @@
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-16T10:06:10+03:00"
-    },
-    {
-      "title": "Iarna a pus stăpânire pe munte! Sfaturile Salvamont Brașov pentru cei...",
-      "url": "https://transilvania365.ro/iarna-a-pus-stapanire-pe-munte-sfaturile-salvamont-brasov-pentru-cei-care-pornesc-in-drumetie/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:59:40+03:00"
-    },
-    {
-      "title": "Număr record de nominalizări pentru Sergiana Brașov în finalele HoReCa Awards 2026!",
-      "url": "https://mytex.ro/expres/numar-record-de-nominalizari-pentru-sergiana-brasov-in-finalele-horeca-awards-2026/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:59:28+03:00"
-    },
-    {
-      "title": "Având în vedere ninsorile din ultima perioadă, în zonele montane înalte, Salvamont Brașov recomandă turiștilor să acorde o atenție sporită pregătirii și planificării drumețiilor montane",
-      "url": "https://brasovstiri.ro/avand-in-vedere-ninsorile-din-ultima-perioada-in-zonele-montane-inalte-salvamont-brasov-recomanda-turistilor-sa-acorde-o-atentie-sporita-pregatirii-si-planificarii-drumetiilor-montane/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:57:44+03:00"
-    },
-    {
-      "title": "Târgurile de Crăciun din Europa, la un zbor distanță de Brașov!...",
-      "url": "https://transilvania365.ro/targurile-de-craciun-din-europa-la-un-zbor-distanta-de-brasov-bilete-de-la-198-de-lei-in-decembrie/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:46:14+03:00"
-    },
-    {
-      "title": "VIDEO. Ninge abundent pe Transfăgărășan. Drumarii intervin cu utilaje de deszăpezire",
-      "url": "https://transilvania365.ro/video-ninge-abundent-pe-transfagarasan-drumarii-intervin-cu-utilaje-de-deszapezire/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:37:14+03:00"
-    },
-    {
-      "title": "Sport acum o zi Prima ediție a Cupei Colegiilor și Liceelor din Brașov și-a desemnat campionii",
-      "url": "https://www.brasov.net/prima-editie-a-cupei-colegiilor-si-liceelor-din-brasov-si-a-desemnat-campionii/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:28:15+03:00"
     }
   ]
 }
