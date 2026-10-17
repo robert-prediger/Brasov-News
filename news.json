@@ -1,8 +1,15 @@
 {
-  "updated": "17.10.2026, 15:00",
+  "updated": "17.10.2026, 16:00",
   "count": 77,
-  "raw_count": 94,
+  "raw_count": 99,
   "items": [
+    {
+      "title": "Liga 4 Brașov, etapa 8 | Șoc la Rupea! Liderul Măgura Codlea, învins pentru prima dată în acest sezon",
+      "url": "https://www.monitorulexpres.ro/2026/10/17/liga-4-brasov-etapa-8-soc-la-rupea-liderul-magura-codlea-invins-pentru-prima-data-in-acest-sezon/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-17T15:47:06+03:00"
+    },
     {
       "title": "BRAȘOV | Tânăr rănit grav într-un accident cu motocicleta, la Codlea! Era băut, nu avea permis și…",
       "url": "https://mytex.ro/112/brasov-tanar-ranit-grav-intr-un-accident-cu-motocicleta-la-codlea-era-baut-nu-avea-permis-si/",
@@ -88,6 +95,13 @@
       "published": "2026-10-17T10:27:33+03:00"
     },
     {
+      "title": "Prejmer: Campanie de colectare gratuită a crengilor, organizată în 2 etape",
+      "url": "https://newsbv.ro/prejmer-campanie-colectare-gratuita-crengilor/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-17T10:15:42+03:00"
+    },
+    {
       "title": "Vecinii de la Sibiu se tem că Aeroportul Brașov le va înghiți afacerea: Cifrele pe 2025 arată bine, dar teama de Ghimbav e uriașă",
       "url": "https://mytex.ro/economic/vecinii-de-la-sibiu-se-tem-ca-aeroportul-brasov-le-va-inghiti-afacerea-cifrele-pe-2025-arata-bine-dar-teama-de-ghimbav-e-uriasa/",
       "source": "MyTex",
@@ -100,13 +114,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-17T09:38:35+03:00"
-    },
-    {
-      "title": "Campanie gratuită de colectare a crengilor și resturilor vegetale la Prejmer",
-      "url": "https://transilvania365.ro/campanie-gratuita-de-colectare-a-crengilor-si-resturilor-vegetale-la-prejmer/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-17T09:26:10+03:00"
     },
     {
       "title": "Turneul internațional „REGINA și COMPOZITORII” ajunge la Brașov: Concert cameral de excepție și lucrări în primă audiție la Centrul Multicultural",
@@ -123,13 +130,6 @@
       "published": "2026-10-17T09:14:37+03:00"
     },
     {
-      "title": "Emoție și mândrie la Brașov: O nouă generație de militari a depus jurământul de credință",
-      "url": "https://www.brasov.net/emotie-si-mandrie-la-brasov-o-noua-generatie-de-militari-a-depus-juramantul-de-credinta/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-17T09:05:54+03:00"
-    },
-    {
       "title": "Adio, Tineretului! A început demolarea stadionului din Brașov. Când se va tăia panglica noii arene și unde va juca FCM/Corona?",
       "url": "https://mytex.ro/sport/adio-tineretului-a-inceput-demolarea-stadionului-din-brasov-cand-se-va-taia-panglica-noii-arene-si-unde-va-juca-fcm-corona/",
       "source": "MyTex",
@@ -137,32 +137,11 @@
       "published": "2026-10-17T09:01:59+03:00"
     },
     {
-      "title": "Util acum 11 minute Trafic deschis pe noul pod de pe DN1A, în zona Brădet din Săcele",
-      "url": "https://www.brasov.net/trafic-deschis-pe-noul-pod-de-pe-dn1a-in-zona-bradet-din-sacele/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-17T08:55:36+03:00"
-    },
-    {
-      "title": "Administrație acum 20 de minute Focarele de infecție de pe strada Laminoarelor din Brașov, desființate printr-o amplă acțiune de igienizare",
-      "url": "https://www.brasov.net/focarele-de-infectie-de-pe-strada-laminoarelor-din-brasov-desfiintate-printr-o-ampla-actiune-de-igienizare/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-17T08:46:36+03:00"
-    },
-    {
       "title": "Criză de coșuri la Lidl-ul de pe Cuza Vodă! Brașovenii stau la coadă la intrare doar ca să poată face cumpărături: „Așteptăm și 10 minute!”",
       "url": "https://mytex.ro/expres/criza-de-cosuri-la-lidl-ul-de-pe-cuza-voda-brasovenii-stau-la-coada-la-intrare-doar-ca-sa-poata-face-cumparaturi-asteptam-si-10-minute/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-17T08:38:05+03:00"
-    },
-    {
-      "title": "Fapt divers acum 36 de minute Controale masive în județul Brașov: Amenzi de 72.000 de lei și zeci de nereguli silvice",
-      "url": "https://www.brasov.net/controale-masive-in-judetul-brasov-amenzi-de-72-000-de-lei-si-zeci-de-nereguli-silvice/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-17T08:30:31+03:00"
     },
     {
       "title": "Expoziția „Terapia Hârtiei – de la degradare la renaștere”, vernisată la Muzeul Național Bran",
@@ -200,6 +179,13 @@
       "published": "2026-10-17T04:18:03+03:00"
     },
     {
+      "title": "Trafic deschis pe noul pod DN1A din Săcele",
+      "url": "https://www.zmbv.ro/trafic-deschis-pe-noul-pod-dn1a-din-sacele/17/10/2026/120076/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-17T04:17:52+03:00"
+    },
+    {
       "title": "Accident Grav la Ieșirea din Brașov",
       "url": "https://www.zmbv.ro/accident-grav-la-iesirea-din-brasov/17/10/2026/120063/",
       "source": "Ziarul Metropolitan Brașov",
@@ -235,6 +221,13 @@
       "published": "2026-10-16T20:01:06+03:00"
     },
     {
+      "title": "Fotbal / CSM Corona Brașov a învins Sepsi OSK II și rămâne lider neînvins în Liga 3",
+      "url": "https://newsbv.ro/corona-brasov-fotbal-sepsi/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-16T19:51:04+03:00"
+    },
+    {
       "title": "Peste 240 de metri cubi de lemn, confiscați de polițiștii brașoveni! Amenzi de 72.000 de lei în urma controalelor",
       "url": "https://mytex.ro/delicte/peste-240-de-metri-cubi-de-lemn-confiscati-de-politistii-brasoveni-amenzi-de-72-000-de-lei-in-urma-controalelor/",
       "source": "MyTex",
@@ -249,13 +242,6 @@
       "published": "2026-10-16T18:26:38+03:00"
     },
     {
-      "title": "Corona Brașov a câștigat la Sfântu Gheorghe și rămâne lider în Liga 3 / Un jucător al oaspeților, transportat de urgență la spital după un fault extrem de dur",
-      "url": "https://mytex.ro/sport/corona-brasov-a-castigat-la-sfantu-gheorghe-si-ramane-lider-in-liga-3-un-jucator-al-oaspetilor-transportat-de-urgenta-la-spital-dupa-un-fault-extrem-de-dur/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-16T17:18:13+03:00"
-    },
-    {
       "title": "Descoperă „Căsuțe pentru căsuțe” în magazinul ATAC Brașov, proiectul care transformă solidaritatea în acasă pentru 10 familii vulnerabile",
       "url": "https://mytex.ro/expres/descopera-casute-pentru-casute-in-magazinul-atac-brasov-proiectul-care-transforma-solidaritatea-in-acasa-pentru-10-familii-vulnerabile/",
       "source": "MyTex",
@@ -268,13 +254,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-16T16:14:21+03:00"
-    },
-    {
-      "title": "Util acum 17 ore Schimbare importantă pentru elevii din Brașov. RATBV modifică orarul liniei 9",
-      "url": "https://www.brasov.net/schimbare-importanta-pentru-elevii-din-brasov-ratbv-modifica-orarul-liniei-9/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-16T15:59:38+03:00"
     },
     {
       "title": "Atac la „mafia lemnului” din Brașov. Sute de metri cubi de lemn confiscați și amenzi record, în doar trei zile",
@@ -347,6 +326,13 @@
       "published": "2026-10-16T14:16:47+03:00"
     },
     {
+      "title": "RATBV modifică programul liniei 9 din Brașov: autobuz special pentru elevii din Tractorul la miezul zilei",
+      "url": "https://newsbv.ro/ratbv-autobuz-tractorul-program/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-16T14:03:32+03:00"
+    },
+    {
       "title": "Cutremur la Corona Brașov. Bent Dahl a fost demis! Cine se va ocupa de pregătirea echipei",
       "url": "https://www.monitorulexpres.ro/2026/10/16/cutremur-la-corona-brasov-bent-dahl-a-fost-demis-cine-se-va-ocupa-de-pregatirea-echipei/",
       "source": "Monitorul Expres",
@@ -375,6 +361,13 @@
       "published": "2026-10-16T12:40:49+03:00"
     },
     {
+      "title": "Festivalul Olimpic al Tineretului European Brașov 2027 prins în programul de guvernare al lui Luca Niculescu",
+      "url": "https://newsbv.ro/festivalul-olimpic-al-tineretului-luca-niculescu/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-16T12:32:10+03:00"
+    },
+    {
       "title": "Profesorii din Brașov au declarat 13,5 milioane de lei din meditații în 2025. Județul Brașov este pe locul patru la nivel național la încasări declarate din pregătirea elevilor",
       "url": "https://bizbrasov.ro/2026/10/16/profesorii-brasov-meditatii-2025/",
       "source": "BizBrașov",
@@ -382,11 +375,11 @@
       "published": "2026-10-16T12:31:02+03:00"
     },
     {
-      "title": "Turism acum 21 de ore Salvamont Brașov avertizează: Reguli esențiale pentru drumețiile montane în condiții de iarnă",
-      "url": "https://www.brasov.net/salvamont-brasov-avertizeaza-reguli-esentiale-pentru-drumetiile-montane-in-conditii-de-iarna/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-16T12:07:11+03:00"
+      "title": "BREAKING NEWS | Accident grav la ieșirea din Brașov, pe Calea Feldioarei. Șase persoane implicate, una inconștientă",
+      "url": "https://newsbv.ro/accident-calea-feldioarei-brasov/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-16T12:15:45+03:00"
     },
     {
       "title": "Bent Dahl şi Bo Rudgaard, demişi de Corona Brașov",
@@ -415,6 +408,13 @@
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-16T10:55:10+03:00"
+    },
+    {
+      "title": "Brașovenii, chemați să contribuie la îmbunătățirea Strategiei de dezvoltare și marketing turistic a orașului. Modelul de referință este Viena",
+      "url": "https://newsbv.ro/brasovenii-chemati-strategie-de-dezvoltare/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-16T10:50:23+03:00"
     },
     {
       "title": "Corona Brașov debutează în Cupa Continentală 2027. Primul duel, astăzi, cu...",
@@ -487,13 +487,6 @@
       "published": "2026-10-16T09:37:14+03:00"
     },
     {
-      "title": "Sport acum 24 de ore Prima ediție a Cupei Colegiilor și Liceelor din Brașov și-a desemnat campionii",
-      "url": "https://www.brasov.net/prima-editie-a-cupei-colegiilor-si-liceelor-din-brasov-si-a-desemnat-campionii/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:28:15+03:00"
-    },
-    {
       "title": "VIDEO A venit iarna în Postăvaru. Primul strat de zăpadă s-a așternut pe vârful muntelui, iar la Poiana Brașov sunt anunțate ninsori și viscol",
       "url": "https://bizbrasov.ro/2026/10/16/iarna-in-postavaru-zapada/",
       "source": "BizBrașov",
@@ -541,6 +534,13 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-16T08:02:32+03:00"
+    },
+    {
+      "title": "Braşovul, în finala competiției pentru titlul de Capitala Tineretului din România 2028",
+      "url": "https://newsbv.ro/brasovul-finala-capitala-tineretului-din-romania/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-16T07:09:07+03:00"
     }
   ]
 }
