@@ -1,8 +1,22 @@
 {
-  "updated": "17.10.2026, 06:00",
-  "count": 76,
-  "raw_count": 102,
+  "updated": "17.10.2026, 07:00",
+  "count": 73,
+  "raw_count": 96,
   "items": [
+    {
+      "title": "Premiere și performanțe la Brașov: Al 50-lea transplant renal și al 5-lea realizat robotic la Spitalul „Sf. Constantin”! O mamă i-a dăruit o nouă șansă la viață fiului ei de 26 de ani",
+      "url": "https://mytex.ro/mytex/premiere-si-performante-la-brasov-al-50-lea-transplant-renal-si-al-5-lea-realizat-robotic-la-spitalul-sf-constantin-o-mama-i-a-daruit-o-noua-sansa-la-viata-fiului-ei-de-26-de-ani/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-17T06:58:57+03:00"
+    },
+    {
+      "title": "Săptămâna Comediei 2026: spectacole gratuite pentru copii la AFI Brașov și un spectacol la Bucuria Darului",
+      "url": "https://mytex.ro/timp-liber/saptamana-comediei-2026-spectacole-gratuite-pentru-copii-la-afi-brasov-si-un-spectacol-la-bucuria-darului/",
+      "source": "MyTex",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-17T06:40:59+03:00"
+    },
     {
       "title": "Kids Tâmpa Brașov pierde dramatic cu ARO Câmpulung, iar Ovidiu Mihai este tentat sa demisioneze!",
       "url": "https://www.monitorulexpres.ro/2026/10/17/kids-tampa-brasov-pierde-dramatic-cu-aro-campulung-iar-ovidiu-mihai-este-tentat-sa-demisioneze/",
@@ -23,13 +37,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-17T04:17:52+03:00"
-    },
-    {
-      "title": "Corona Brașov Învinge Sepsi OSK II, Rămâne Lider",
-      "url": "https://www.zmbv.ro/corona-brasov-invinge-sepsi-osk-ii-ramane-lider/17/10/2026/120070/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-17T04:17:17+03:00"
     },
     {
       "title": "Accident Grav la Ieșirea din Brașov",
@@ -123,13 +130,6 @@
       "published": "2026-10-16T16:04:25+03:00"
     },
     {
-      "title": "Util acum 13 ore Schimbare importantă pentru elevii din Brașov. RATBV modifică orarul liniei 9 RATBV SA introduce o nouă plecare pe linia 9, care asigură legătura între Rulmentul și Municipal, pentru a reduce timpul...",
-      "url": "https://www.brasov.net/schimbare-importanta-pentru-elevii-din-brasov-ratbv-modifica-orarul-liniei-9/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-16T15:59:38+03:00"
-    },
-    {
       "title": "Atac la „mafia lemnului” din Brașov. Sute de metri cubi de lemn confiscați și amenzi record, în doar trei zile",
       "url": "https://bizbrasov.ro/2026/10/16/mafia-lemn-brasov-confiscat-amenzi/",
       "source": "BizBrașov",
@@ -200,6 +200,13 @@
       "published": "2026-10-16T14:16:47+03:00"
     },
     {
+      "title": "RATBV modifică programul liniei 9 din Brașov: autobuz special pentru elevii din Tractorul la miezul zilei",
+      "url": "https://newsbv.ro/ratbv-autobuz-tractorul-program/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-16T14:03:32+03:00"
+    },
+    {
       "title": "Cutremur la Corona Brașov. Bent Dahl a fost demis! Cine se va ocupa de pregătirea echipei",
       "url": "https://www.monitorulexpres.ro/2026/10/16/cutremur-la-corona-brasov-bent-dahl-a-fost-demis-cine-se-va-ocupa-de-pregatirea-echipei/",
       "source": "Monitorul Expres",
@@ -235,13 +242,6 @@
       "published": "2026-10-16T12:40:49+03:00"
     },
     {
-      "title": "Eveniment acum 16 ore Accident grav la ieșirea din Brașov! Șase persoane implicate, două încarcerate",
-      "url": "https://www.brasov.net/accident-grav-la-iesirea-din-brasov-sase-persoane-implicate-doua-incarcerate/",
-      "source": "Brașov.net",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-16T12:33:25+03:00"
-    },
-    {
       "title": "Festivalul Olimpic al Tineretului European Brașov 2027 prins în programul de guvernare al lui Luca Niculescu",
       "url": "https://newsbv.ro/festivalul-olimpic-al-tineretului-luca-niculescu/",
       "source": "NewsBV",
@@ -256,18 +256,25 @@
       "published": "2026-10-16T12:31:02+03:00"
     },
     {
+      "title": "Accident grav cu șase victime la ieșirea din Brașov, pe Calea Feldioarei: Un microbuz, un camion și un autoturism implicate",
+      "url": "https://bizbrasov.ro/2026/10/16/accident-grav-cu-sase-victime-la-iesirea/",
+      "source": "BizBrașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-16T12:24:51+03:00"
+    },
+    {
+      "title": "Accident grav la ieșirea din Brașov! Două persoane au rămas încarcerate,...",
+      "url": "https://transilvania365.ro/accident-grav-la-iesirea-din-brasov-doua-persoane-au-ramas-incarcerate-iar-una-este-inconstienta/",
+      "source": "Transilvania365",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-16T12:20:35+03:00"
+    },
+    {
       "title": "O experiență imersivă unică de Halloween, în premieră sub străzile istorice ale Brașovului: „Dracula’s Underworld”",
       "url": "https://mytex.ro/timp-liber/o-experienta-imersiva-unica-de-halloween-in-premiera-sub-strazile-istorice-ale-brasovului-draculas-underworld/",
       "source": "MyTex",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-16T12:16:38+03:00"
-    },
-    {
-      "title": "Turism acum 16 ore Salvamont Brașov avertizează: Reguli esențiale pentru drumețiile montane în condiții de iarnă",
-      "url": "https://www.brasov.net/salvamont-brasov-avertizeaza-reguli-esentiale-pentru-drumetiile-montane-in-conditii-de-iarna/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-16T12:07:11+03:00"
     },
     {
       "title": "Un șofer din Brașov a fost depistat cu 115 km/oră în localitate, pe DN1. Avea și o alcoolemie record",
@@ -303,13 +310,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-16T11:03:51+03:00"
-    },
-    {
-      "title": "Săptămâna Comediei 2026: spectacole gratuite pentru copii la AFI Brașov și un spectacol la Bucuria Darului",
-      "url": "https://brasovstiri.ro/saptamana-comediei-2026-spectacole-gratuite-pentru-copii-la-afi-brasov-si-un-spectacol-la-bucuria-darului/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-16T11:03:17+03:00"
     },
     {
       "title": "Victorie în instanță a consilierilor județeni USR: interzicerea interpelărilor verbale în Consiliul Județean Brașov este nelegală",
@@ -361,13 +361,6 @@
       "published": "2026-10-16T10:13:56+03:00"
     },
     {
-      "title": "Turism acum 18 ore VIDEO / A venit iarna în Postăvaru: Primul strat de zăpadă și alertă de viscol în Poiana Brașov",
-      "url": "https://www.brasov.net/video-a-venit-iarna-in-postavaru-primul-strat-de-zapada-si-alerta-de-viscol-in-poiana-brasov/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-16T10:07:15+03:00"
-    },
-    {
       "title": "82 de stații RATBV din zona metropolitană a Brașovului intră în modernizare. Licitația de peste 26 de milioane de lei a fost adjudecată de o firmă din grupul UTI",
       "url": "https://bizbrasov.ro/2026/10/16/statii-ratbbv-brasov-modernizare-uti/",
       "source": "BizBrașov",
@@ -410,32 +403,11 @@
       "published": "2026-10-16T09:46:14+03:00"
     },
     {
-      "title": "Cultural acum 19 ore Ghidul evenimentelor culturale din Brașov: Ce spectacole și muzee puteți vizita în perioada 16-22 octombrie",
-      "url": "https://www.brasov.net/ghidul-evenimentelor-culturale-din-brasov-ce-spectacole-si-muzee-puteti-vizita-in-perioada-16-22-octombrie/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:43:50+03:00"
-    },
-    {
       "title": "VIDEO. Ninge abundent pe Transfăgărășan. Drumarii intervin cu utilaje de deszăpezire",
       "url": "https://transilvania365.ro/video-ninge-abundent-pe-transfagarasan-drumarii-intervin-cu-utilaje-de-deszapezire/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-16T09:37:14+03:00"
-    },
-    {
-      "title": "Fapt divers acum 19 ore VIDEO / Iarna a pus stăpânire pe Transfăgărășan: Drumarii intervin în forță, șoferii sunt avertizați",
-      "url": "https://www.brasov.net/video-iarna-a-pus-stapanire-pe-transfagarasan-drumarii-intervin-in-forta-soferii-sunt-avertizati/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-16T09:36:18+03:00"
-    },
-    {
-      "title": "Sport acum 19 ore Prima ediție a Cupei Colegiilor și Liceelor din Brașov și-a desemnat campionii Distribuie Prima ediție a competiției sportive „Cupa Colegiilor și Liceelor” din Brașov s-a încheiat cu o festivitate de premiere de...",
-      "url": "https://www.brasov.net/prima-editie-a-cupei-colegiilor-si-liceelor-din-brasov-si-a-desemnat-campionii/",
-      "source": "Brașov.net",
-      "category": "⚽ Sport",
-      "published": "2026-10-16T09:28:15+03:00"
     },
     {
       "title": "VIDEO Atenție șoferi! A nins abundent pe Transfăgărășan. Dacă nu aveți mașina echipată pentru iarnă, DN7C nu este recomandat",
@@ -450,6 +422,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-16T09:09:29+03:00"
+    },
+    {
+      "title": "VIDEO A venit iarna în Postăvaru. Primul strat de zăpadă s-a așternut pe vârful muntelui, iar la Poiana Brașov sunt anunțate ninsori și viscol",
+      "url": "https://bizbrasov.ro/2026/10/16/iarna-in-postavaru-zapada/",
+      "source": "BizBrașov",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-16T08:58:48+03:00"
     },
     {
       "title": "Balul Pompierilor revine la Cristian. Evenimentul din noiembrie, organizat pentru aproximativ...",
