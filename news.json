@@ -1,8 +1,15 @@
 {
-  "updated": "18.10.2026, 16:00",
-  "count": 41,
-  "raw_count": 50,
+  "updated": "18.10.2026, 17:00",
+  "count": 43,
+  "raw_count": 54,
   "items": [
+    {
+      "title": "Vremea se strică accentuat în Brașov și la munte: Ninsori, strat de zăpadă și rafale de până la 90 km/h. Avertismentul transmis de ANM",
+      "url": "https://mytex.ro/expres/vremea-se-strica-accentuat-in-brasov-si-la-munte-ninsori-strat-de-zapada-si-rafale-de-pana-la-90-km-h-avertismentul-transmis-de-anm/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-18T16:59:33+03:00"
+    },
     {
       "title": "Răzmeriță în USR Brașov! Membrii de partid, revoltați că apropiații ministrului Ambrozie Dărău primesc funcții bine plătite în consiliile...",
       "url": "https://transilvania365.ro/razmerita-in-usr-brasov-membrii-de-partid-revoltati-ca-apropiatii-ministrului-ambrozie-darau-primesc-functii-bine-platite-in-consiliile-de-administratie-ale-institutiilor-de-stat/",
@@ -60,8 +67,8 @@
       "published": "2026-10-18T11:42:11+03:00"
     },
     {
-      "title": "Controale Rutiere la Calea Ferată în Brașov",
-      "url": "https://www.zmbv.ro/controale-rutiere-la-calea-ferata-in-brasov/18/10/2026/120148/",
+      "title": "Controale Poliție la Trecerea cu Calea Ferată în Brașov",
+      "url": "https://www.zmbv.ro/controale-politie-la-trecerea-cu-calea-ferata-in-brasov/18/10/2026/120147/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-18T11:14:42+03:00"
@@ -79,6 +86,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-18T10:18:02+03:00"
+    },
+    {
+      "title": "Horia Andreescu împlinește 80 de ani. Povestea dirijorului brașovean care a dus muzica românească pe marile scene ale lumii",
+      "url": "https://newsbv.ro/horia-andreescu-80-de-ani-dirijor-brasovean/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-18T10:15:43+03:00"
     },
     {
       "title": "Corona Brașov, start cu stângul în Cupa României la volei masculin",
@@ -228,6 +242,13 @@
       "published": "2026-10-17T10:33:12+03:00"
     },
     {
+      "title": "Prejmer: Campanie de colectare gratuită a crengilor, organizată în 2 etape",
+      "url": "https://newsbv.ro/prejmer-campanie-colectare-gratuita-crengilor/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-17T10:15:42+03:00"
+    },
+    {
       "title": "Vecinii de la Sibiu se tem că Aeroportul Brașov le va înghiți afacerea: Cifrele pe 2025 arată bine, dar teama de Ghimbav e uriașă",
       "url": "https://mytex.ro/economic/vecinii-de-la-sibiu-se-tem-ca-aeroportul-brasov-le-va-inghiti-afacerea-cifrele-pe-2025-arata-bine-dar-teama-de-ghimbav-e-uriasa/",
       "source": "MyTex",
@@ -247,13 +268,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-17T09:38:35+03:00"
-    },
-    {
-      "title": "Campanie gratuită de colectare a crengilor și resturilor vegetale la Prejmer",
-      "url": "https://transilvania365.ro/campanie-gratuita-de-colectare-a-crengilor-si-resturilor-vegetale-la-prejmer/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-17T09:26:10+03:00"
     },
     {
       "title": "Turneul internațional „REGINA și COMPOZITORII” ajunge la Brașov: Concert cameral de excepție și lucrări în primă audiție la Centrul Multicultural",
