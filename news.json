@@ -1,8 +1,15 @@
 {
-  "updated": "19.10.2026, 00:00",
-  "count": 37,
-  "raw_count": 47,
+  "updated": "19.10.2026, 01:00",
+  "count": 28,
+  "raw_count": 37,
   "items": [
+    {
+      "title": "Tensiuni în USR Brașov: Apropiații conduc funcții cheie",
+      "url": "https://www.zmbv.ro/tensiuni-in-usr-brasov-apropiatii-conduc-functii-cheie/19/10/2026/120181/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-19T00:14:09+03:00"
+    },
     {
       "title": "Corona Brașov s-a calificat în turul al doilea al Cupei Continentale la hochei pe gheață",
       "url": "https://newsbv.ro/corona-brasov-calificare-turul-doi-cupa-continentala/",
@@ -39,20 +46,6 @@
       "published": "2026-10-18T18:26:16+03:00"
     },
     {
-      "title": "Șofer fără permis, accident în Brașov după ce a băut",
-      "url": "https://www.zmbv.ro/sofer-fara-permis-accident-in-brasov-dupa-ce-a-baut/18/10/2026/120173/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-18T17:18:16+03:00"
-    },
-    {
-      "title": "Poliția Brașov și Săcele: 43 de amenzi aplicate",
-      "url": "https://www.zmbv.ro/politia-brasov-si-sacele-43-de-amenzi-aplicate/18/10/2026/120171/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-18T17:18:04+03:00"
-    },
-    {
       "title": "Vremea se strică accentuat în Brașov și la munte: Ninsori, strat de zăpadă și rafale de până la 90 km/h. Avertismentul transmis de ANM",
       "url": "https://mytex.ro/expres/vremea-se-strica-accentuat-in-brasov-si-la-munte-ninsori-strat-de-zapada-si-rafale-de-pana-la-90-km-h-avertismentul-transmis-de-anm/",
       "source": "MyTex",
@@ -81,18 +74,25 @@
       "published": "2026-10-18T15:22:14+03:00"
     },
     {
+      "title": "Acțiuni ale poliției în Brașov și Săcele: 43 de amenzi și sancțiuni de peste 13.000 de lei",
+      "url": "https://newsbv.ro/actiuni-politie-brasov-sacele-amenzi/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-18T14:32:40+03:00"
+    },
+    {
+      "title": "Accident în județul Brașov: un șofer fără permis s-a răsturnat cu mașina după ce a băut. Alcoolemie de 0,95 mg/l",
+      "url": "https://newsbv.ro/accident-oltet-brasov-sofer-fara-permis-alcool/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-18T13:49:10+03:00"
+    },
+    {
       "title": "Liga 4 Brașov, etapa a 8-a | SR Brașov, salvată de Luca Gomboș în prelungiri în derby-ul cu Internațional!",
       "url": "https://www.monitorulexpres.ro/2026/10/18/liga-4-brasov-etapa-a-8-a-sr-brasov-salvata-de-luca-gombos-in-prelungiri-in-derby-ul-cu-international/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-18T13:45:31+03:00"
-    },
-    {
-      "title": "BRAȘOV | Beat și fără permis, s-a răsturnat cu mașina pe DN1",
-      "url": "https://mytex.ro/112/brasov-beat-si-fara-permis-s-a-rasturnat-cu-masina-pe-dn1/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-18T13:23:54+03:00"
     },
     {
       "title": "Lucian Patrașcu: vouchere de 200 de lei pentru pensionarii vulnerabili din Brașov, în perioada sărbătorilor de iarnă",
@@ -165,32 +165,11 @@
       "published": "2026-10-18T06:43:13+03:00"
     },
     {
-      "title": "Amenzi de peste 111.000 lei pentru transportatori în Brașov",
-      "url": "https://www.zmbv.ro/amenzi-de-peste-111-000-lei-pentru-transportatori-in-brasov/17/10/2026/120132/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-17T22:15:18+03:00"
-    },
-    {
-      "title": "Marș pentru Siguranța Femeilor la Brașov",
-      "url": "https://www.zmbv.ro/mars-pentru-siguranta-femeilor-la-brasov/17/10/2026/120130/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-17T22:14:58+03:00"
-    },
-    {
       "title": "Liga 3, etapa 9 | Victorii la pas pentru Olimpic Zărnești și CSM Săcele",
       "url": "https://www.monitorulexpres.ro/2026/10/17/liga-3-etapa-9-victorii-la-pas-pentru-olimpic-zarnesti-si-csm-sacele/",
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-17T21:12:40+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Filtre ale poliției la trecerile la nivel cu calea ferată din Brașov: Amenzi, permise reținute și un dosar penal",
-      "url": "https://www.brasov.net/filtre-ale-politiei-la-trecerile-la-nivel-cu-calea-ferata-din-brasov-amenzi-permise-retinute-si-un-dosar-penal/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-17T18:16:12+03:00"
     },
     {
       "title": "Patru trenuri blocate între Brașov și Hărman",
@@ -219,48 +198,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-17T16:02:12+03:00"
-    },
-    {
-      "title": "BRAȘOV | Tânăr rănit grav într-un accident cu motocicleta, la Codlea! Era băut, nu avea permis și…",
-      "url": "https://mytex.ro/112/brasov-tanar-ranit-grav-intr-un-accident-cu-motocicleta-la-codlea-era-baut-nu-avea-permis-si/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-17T14:27:16+03:00"
-    },
-    {
-      "title": "Bețivi la volan prin Brașov, scoși din trafic de polițiști",
-      "url": "https://bizbrasov.ro/2026/10/17/betivi-volan-trafic-politisti/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-17T12:49:01+03:00"
-    },
-    {
-      "title": "VIDEO Drumarii brașoveni avertizează: Nu circulați pe Transfăgărășan dacă nu aveți mașina echipată pentru iarnă",
-      "url": "https://bizbrasov.ro/2026/10/17/drumarii-brasoveni-transfagarasan-iarna/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-17T12:33:31+03:00"
-    },
-    {
-      "title": "Analiză! Top 5 politicieni din Brașov! O singură femeie printre cei...",
-      "url": "https://transilvania365.ro/analiza-top-5-politicieni-din-brasov-o-singura-femeie-printre-cei-mai-influenti-politicieni-cine-domina-scena-politica-locala-si-nationala/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-17T12:19:45+03:00"
-    },
-    {
-      "title": "Acțiune a polițiștilor rutieri din Brașov, ieri: 136 amenzi, 6 permise de conducere reținute și 5 mașini imobilizate",
-      "url": "https://bizbrasov.ro/2026/10/17/actiune-a-politistilor-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-17T12:18:46+03:00"
-    },
-    {
-      "title": "Accident cu două mașini la ieșirea din Brașov.Trafic blocat temporar pe DN 1",
-      "url": "https://www.monitorulexpres.ro/2026/10/17/accident-cu-doua-masini-la-iesirea-din-brasov-trafic-blocat-temporar-pe-dn-1/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-17T12:16:22+03:00"
     }
   ]
 }
