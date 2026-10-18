@@ -1,7 +1,7 @@
 {
-  "updated": "18.10.2026, 22:00",
-  "count": 40,
-  "raw_count": 50,
+  "updated": "18.10.2026, 23:00",
+  "count": 38,
+  "raw_count": 48,
   "items": [
     {
       "title": "Corona Brașov s-a calificat în turul al doilea al Cupei Continentale la hochei pe gheață",
@@ -109,8 +109,8 @@
       "published": "2026-10-18T11:42:11+03:00"
     },
     {
-      "title": "Controale Rutiere la Calea Ferată în Brașov",
-      "url": "https://www.zmbv.ro/controale-rutiere-la-calea-ferata-in-brasov/18/10/2026/120148/",
+      "title": "Controale Poliție la Trecerea cu Calea Ferată în Brașov",
+      "url": "https://www.zmbv.ro/controale-politie-la-trecerea-cu-calea-ferata-in-brasov/18/10/2026/120147/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-18T11:14:42+03:00"
@@ -184,6 +184,13 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-17T21:12:40+03:00"
+    },
+    {
+      "title": "Fapt divers acum o zi Filtre ale poliției la trecerile la nivel cu calea ferată din Brașov: Amenzi, permise reținute și un dosar penal",
+      "url": "https://www.brasov.net/filtre-ale-politiei-la-trecerile-la-nivel-cu-calea-ferata-din-brasov-amenzi-permise-retinute-si-un-dosar-penal/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-17T18:16:12+03:00"
     },
     {
       "title": "Patru trenuri blocate între Brașov și Hărman",
@@ -261,27 +268,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-17T11:09:17+03:00"
-    },
-    {
-      "title": "Cvadrupleții din Covasna vor fi externați din Maternitatea Brașov după aproape trei luni",
-      "url": "https://www.monitorulexpres.ro/2026/10/17/cvadrupletii-din-covasna-vor-fi-externati-din-maternitatea-brasov-dupa-aproape-trei-luni/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-17T10:33:46+03:00"
-    },
-    {
-      "title": "Unde fug brașovenii în concediu? Luna iunie aglomerează zborurile spre Antalya, cea mai căutată destinație pentru Early Booking",
-      "url": "https://mytex.ro/turism/unde-fug-brasovenii-in-concediu-luna-iunie-aglomereaza-zborurile-spre-antalya-cea-mai-cautata-destinatie-pentru-early-booking/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-17T10:33:12+03:00"
-    },
-    {
-      "title": "Prejmer: Campanie de colectare gratuită a crengilor, organizată în 2 etape",
-      "url": "https://newsbv.ro/prejmer-campanie-colectare-gratuita-crengilor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-17T10:15:42+03:00"
     }
   ]
 }
