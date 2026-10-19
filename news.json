@@ -1,7 +1,7 @@
 {
-  "updated": "19.10.2026, 23:00",
-  "count": 77,
-  "raw_count": 100,
+  "updated": "20.10.2026, 00:00",
+  "count": 75,
+  "raw_count": 95,
   "items": [
     {
       "title": "Scandal într-o sală de jocuri din Brașov. Patru persoane, reținute după agresarea a doi agenți de securitate",
@@ -32,18 +32,25 @@
       "published": "2026-10-19T20:12:15+03:00"
     },
     {
-      "title": "Social acum 7 minute Tentativă de omor în Săcele: Un tânăr a ajuns la spital după ce a fost înjunghiat cu o furcă Un incident șocant a avut loc în noaptea de 18 octombrie pe o stradă din municipiul Săcele, județul Brașov, unde...",
-      "url": "https://www.brasov.net/tentativa-de-omor-in-sacele-un-tanar-a-ajuns-la-spital-dupa-ce-a-fost-injunghiat-cu-o-furca/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-19T19:54:12+03:00"
-    },
-    {
       "title": "Tentativă de omor în Săcele. Agresorul a fost arestat",
       "url": "https://bizbrasov.ro/2026/10/19/omor-in-sacele-agresorul/",
       "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-19T19:46:45+03:00"
+    },
+    {
+      "title": "BRAȘOV | Tentativă de omor cu furca, în miez de noapte, la Săcele",
+      "url": "https://mytex.ro/112/brasov-tentativa-de-omor-cu-furca-in-miez-de-noapte-la-sacele/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-19T19:46:42+03:00"
+    },
+    {
+      "title": "Bărbat arestat după ce ar fi lovit un tânăr cu furca în piept, la Săcele",
+      "url": "https://www.monitorulexpres.ro/2026/10/19/barbat-arestat-dupa-ce-ar-fi-lovit-un-tanar-cu-furca-in-piept-la-sacele/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-19T19:41:37+03:00"
     },
     {
       "title": "Ari Vatanen, legenda Dakarului, vine la Brașov! Spectacol cu un BMW electric pe drumul Poienii",
@@ -72,13 +79,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-19T18:18:42+03:00"
-    },
-    {
-      "title": "Ceremonie Militară de Ziua Armatei la Brașov",
-      "url": "https://www.zmbv.ro/ceremonie-militara-de-ziua-armatei-la-brasov/19/10/2026/120251/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-19T18:18:29+03:00"
     },
     {
       "title": "Cvadrupleți Prematuri Externați de la Maternitatea Brașov",
@@ -233,13 +233,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-19T13:23:51+03:00"
-    },
-    {
-      "title": "Social acum 7 ore Patru începuturi fragile, o victorie uriașă. Cvadrupleții îngrijiți la Maternitatea Brașov pleacă acasă",
-      "url": "https://www.brasov.net/patru-inceputuri-fragile-o-victorie-uriasa-cvadrupletii-ingrijiti-la-maternitatea-brasov-pleaca-acasa/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-19T13:20:37+03:00"
     },
     {
       "title": "Pompierii braşoveni fac verificări, după cutremurul din zona seismică Vrancea – Buzău",
@@ -534,13 +527,6 @@
       "source": "NewsBV",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-18T13:49:10+03:00"
-    },
-    {
-      "title": "Brașoveanul Sebastian Râpea, sezon competițional în șapte țări europene la downhill: experiență alături de rideri de top",
-      "url": "https://newsbv.ro/sebastian-rapea-downhill-ixs-european-downhill-cup/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-18T11:42:11+03:00"
     }
   ]
 }
