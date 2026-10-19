@@ -1,8 +1,50 @@
 {
-  "updated": "19.10.2026, 06:00",
-  "count": 28,
-  "raw_count": 34,
+  "updated": "19.10.2026, 07:00",
+  "count": 31,
+  "raw_count": 38,
   "items": [
+    {
+      "title": "SCMU Craiova câștigă dramatic la Brașov, 3-2",
+      "url": "https://www.zmbv.ro/scmu-craiova-castiga-dramatic-la-brasov-3-2/19/10/2026/120213/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-19T06:17:34+03:00"
+    },
+    {
+      "title": "Corona Brașov Triumfă la Târgu Mureș cu 37-25",
+      "url": "https://www.zmbv.ro/corona-brasov-triumfa-la-targu-mures-cu-37-25/19/10/2026/120211/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-19T06:17:23+03:00"
+    },
+    {
+      "title": "Corona Brașov Avansează în Cupa Continentală",
+      "url": "https://www.zmbv.ro/corona-brasov-avanseaza-in-cupa-continentala/19/10/2026/120209/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-19T06:17:11+03:00"
+    },
+    {
+      "title": "Modernizare pentru Centrul de Tratament Seniori Brașov",
+      "url": "https://www.zmbv.ro/modernizare-pentru-centrul-de-tratament-seniori-brasov/19/10/2026/120205/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🏗️ Dezvoltare",
+      "published": "2026-10-19T06:16:46+03:00"
+    },
+    {
+      "title": "Zărnești Extinde Rețelele de Apă și Canalizare",
+      "url": "https://www.zmbv.ro/zarnesti-extinde-retelele-de-apa-si-canalizare/19/10/2026/120193/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-19T06:14:52+03:00"
+    },
+    {
+      "title": "Centrul de tratament pentru seniorii din Brașov ar putea fi modernizat. Lucian Patrașcu: „Brașovenii vor putea beneficia de tratamente decontate prin Casa de Sănătate”",
+      "url": "https://newsbv.ro/centru-tratament-seniori-brasov-lucian-patrascu/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-19T06:02:58+03:00"
+    },
     {
       "title": "Abandonat după anul 2020, proiectul extinderii unei grădinițe aglomerate din Răcădău, reluat de Primăria Brașov",
       "url": "https://bizbrasov.ro/2026/10/19/proiect-gradinite-racadau-primari-brasov/",
@@ -25,32 +67,11 @@
       "published": "2026-10-19T05:30:00+03:00"
     },
     {
-      "title": "Tensiuni în USR Brașov: Apropiații conduc funcții cheie",
-      "url": "https://www.zmbv.ro/tensiuni-in-usr-brasov-apropiatii-conduc-functii-cheie/19/10/2026/120181/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-19T00:14:09+03:00"
-    },
-    {
       "title": "Corona Brașov s-a calificat în turul al doilea al Cupei Continentale la hochei pe gheață",
       "url": "https://newsbv.ro/corona-brasov-calificare-turul-doi-cupa-continentala/",
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-18T20:58:50+03:00"
-    },
-    {
-      "title": "Corona Brașov a câștigat categoric la Târgu Mureș, scor 37-25, în Liga Florilor",
-      "url": "https://newsbv.ro/corona-brasov-csm-targu-mures-37-25-liga-florilor/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-18T20:15:19+03:00"
-    },
-    {
-      "title": "Corona Brașov, înfrângere dramatică în Cupa României la volei masculin. SCMU Craiova s-a impus cu 3-2",
-      "url": "https://newsbv.ro/corona-brasov-scmu-craiova-cupa-romaniei-volei/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-18T19:11:19+03:00"
     },
     {
       "title": "Corona Brașov, victorie normală la Tg. Mureş. Urmează 4 meciuri de foc",
@@ -130,8 +151,8 @@
       "published": "2026-10-18T11:42:11+03:00"
     },
     {
-      "title": "Controale Rutiere la Calea Ferată în Brașov",
-      "url": "https://www.zmbv.ro/controale-rutiere-la-calea-ferata-in-brasov/18/10/2026/120148/",
+      "title": "Controale Poliție la Trecerea cu Calea Ferată în Brașov",
+      "url": "https://www.zmbv.ro/controale-politie-la-trecerea-cu-calea-ferata-in-brasov/18/10/2026/120147/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-18T11:14:42+03:00"
@@ -149,6 +170,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-18T10:15:43+03:00"
+    },
+    {
+      "title": "Corona Brașov, start cu stângul în Cupa României la volei masculin",
+      "url": "https://mytex.ro/sport/corona-brasov-start-cu-stangul-in-cupa-romaniei/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-18T10:08:45+03:00"
     },
     {
       "title": "Hochei, Cupa Continentală | Corona Brașov, recital de goluri în Estonia! Calificarea se decide cu Akademia Budapesta",
@@ -191,13 +219,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-17T21:12:40+03:00"
-    },
-    {
-      "title": "Fapt divers acum o zi Filtre ale poliției la trecerile la nivel cu calea ferată din Brașov: Amenzi, permise reținute și un dosar penal",
-      "url": "https://www.brasov.net/filtre-ale-politiei-la-trecerile-la-nivel-cu-calea-ferata-din-brasov-amenzi-permise-retinute-si-un-dosar-penal/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-17T18:16:12+03:00"
     }
   ]
 }
