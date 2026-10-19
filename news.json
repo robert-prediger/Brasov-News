@@ -1,8 +1,15 @@
 {
-  "updated": "20.10.2026, 01:00",
-  "count": 75,
-  "raw_count": 98,
+  "updated": "20.10.2026, 02:00",
+  "count": 74,
+  "raw_count": 91,
   "items": [
+    {
+      "title": "Făgăraș lansează campania de curățenie de toamnă",
+      "url": "https://www.zmbv.ro/fagaras-lanseaza-campania-de-curatenie-de-toamna/20/10/2026/120267/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T01:15:27+03:00"
+    },
     {
       "title": "Scandal într-o sală de jocuri din Brașov. Patru persoane, reținute după agresarea a doi agenți de securitate",
       "url": "https://www.monitorulexpres.ro/2026/10/19/scandal-intr-o-sala-de-jocuri-din-brasov-patru-persoane-retinute-dupa-agresarea-a-doi-agenti-de-securitate/",
@@ -32,18 +39,25 @@
       "published": "2026-10-19T20:12:15+03:00"
     },
     {
-      "title": "Social acum 7 minute Tentativă de omor în Săcele: Un tânăr a ajuns la spital după ce a fost înjunghiat cu o furcă Un incident șocant a avut loc în noaptea de 18 octombrie pe o stradă din municipiul Săcele, județul Brașov, unde...",
-      "url": "https://www.brasov.net/tentativa-de-omor-in-sacele-un-tanar-a-ajuns-la-spital-dupa-ce-a-fost-injunghiat-cu-o-furca/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-19T19:54:12+03:00"
-    },
-    {
       "title": "Tentativă de omor în Săcele. Agresorul a fost arestat",
       "url": "https://bizbrasov.ro/2026/10/19/omor-in-sacele-agresorul/",
       "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-19T19:46:45+03:00"
+    },
+    {
+      "title": "BRAȘOV | Tentativă de omor cu furca, în miez de noapte, la Săcele",
+      "url": "https://mytex.ro/112/brasov-tentativa-de-omor-cu-furca-in-miez-de-noapte-la-sacele/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-19T19:46:42+03:00"
+    },
+    {
+      "title": "Bărbat arestat după ce ar fi lovit un tânăr cu furca în piept, la Săcele",
+      "url": "https://www.monitorulexpres.ro/2026/10/19/barbat-arestat-dupa-ce-ar-fi-lovit-un-tanar-cu-furca-in-piept-la-sacele/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-19T19:41:37+03:00"
     },
     {
       "title": "Ari Vatanen, legenda Dakarului, vine la Brașov! Spectacol cu un BMW electric pe drumul Poienii",
@@ -58,20 +72,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-19T18:19:07+03:00"
-    },
-    {
-      "title": "Șoferi băuți și fără permis, prinși în Brașov",
-      "url": "https://www.zmbv.ro/soferi-bauti-si-fara-permis-prinsi-in-brasov/19/10/2026/120255/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-19T18:18:55+03:00"
-    },
-    {
-      "title": "Ari Vatanen, Invitat Special la Brașov",
-      "url": "https://www.zmbv.ro/ari-vatanen-invitat-special-la-brasov/19/10/2026/120253/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-19T18:18:42+03:00"
     },
     {
       "title": "Cvadrupleți Prematuri Externați de la Maternitatea Brașov",
@@ -151,6 +151,13 @@
       "published": "2026-10-19T15:01:19+03:00"
     },
     {
+      "title": "Șoferi băuți și un conducător auto fără permis, depistați în Brașov",
+      "url": "https://newsbv.ro/soferi-bauti-brasov/",
+      "source": "NewsBV",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-19T14:49:51+03:00"
+    },
+    {
       "title": "Atenție, brașoveni! Se ÎNCHIDE complet traficul pe DN 1 spre București! Rută ocolitoare obligatorie",
       "url": "https://mytex.ro/expres/atentie-brasoveni-se-inchide-complet-traficul-pe-dn-1-spre-bucuresti-ruta-ocolitoare-obligatorie/",
       "source": "MyTex",
@@ -226,13 +233,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-19T13:23:51+03:00"
-    },
-    {
-      "title": "Social acum 7 ore Patru începuturi fragile, o victorie uriașă. Cvadrupleții îngrijiți la Maternitatea Brașov pleacă acasă",
-      "url": "https://www.brasov.net/patru-inceputuri-fragile-o-victorie-uriasa-cvadrupletii-ingrijiti-la-maternitatea-brasov-pleaca-acasa/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-19T13:20:37+03:00"
     },
     {
       "title": "Pompierii braşoveni fac verificări, după cutremurul din zona seismică Vrancea – Buzău",
@@ -520,13 +520,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-18T14:32:40+03:00"
-    },
-    {
-      "title": "Accident în județul Brașov: un șofer fără permis s-a răsturnat cu mașina după ce a băut. Alcoolemie de 0,95 mg/l",
-      "url": "https://newsbv.ro/accident-oltet-brasov-sofer-fara-permis-alcool/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-18T13:49:10+03:00"
     }
   ]
 }
