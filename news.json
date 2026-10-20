@@ -1,7 +1,7 @@
 {
-  "updated": "20.10.2026, 03:00",
-  "count": 74,
-  "raw_count": 94,
+  "updated": "20.10.2026, 04:00",
+  "count": 73,
+  "raw_count": 93,
   "items": [
     {
       "title": "Spectacole captivante la Opera Brașov pentru Școala Altfel",
@@ -121,6 +121,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-19T16:59:34+03:00"
+    },
+    {
+      "title": "Ministrul propus al Economiei, Daniel Zamfir, vrea ca Romarm să absoarbă o serie de alte companii de stat, între care se numără și IAR Brașov",
+      "url": "https://bizbrasov.ro/2026/10/19/ministru-economie-romarm-iar-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-19T16:08:48+03:00"
     },
     {
       "title": "Legendarul Ari Vatanen, invitat special la etapa finală a sezonului de viteză în coastă de la Brașov",
@@ -506,20 +513,6 @@
       "source": "MyTex",
       "category": "🌦️ Meteo",
       "published": "2026-10-18T16:59:33+03:00"
-    },
-    {
-      "title": "Răzmeriță în USR Brașov! Membrii de partid, revoltați că apropiații ministrului...",
-      "url": "https://transilvania365.ro/razmerita-in-usr-brasov-membrii-de-partid-revoltati-ca-apropiatii-ministrului-ambrozie-darau-primesc-functii-bine-platite-in-consiliile-de-administratie-ale-institutiilor-de-stat/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-18T15:27:46+03:00"
-    },
-    {
-      "title": "Brașov Dracula Film Festival 2026 și-a desemnat câștigătorii. „Heritage” a obținut Trofeul Dracula, iar Simon Boswell a fost distins cu trofeul onorific „Contele Dracula”",
-      "url": "https://bizbrasov.ro/2026/10/18/dracula-film-festival-2026/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-18T15:27:08+03:00"
     }
   ]
 }
