@@ -1,8 +1,36 @@
 {
-  "updated": "20.10.2026, 20:00",
-  "count": 96,
-  "raw_count": 115,
+  "updated": "20.10.2026, 21:00",
+  "count": 92,
+  "raw_count": 112,
   "items": [
+    {
+      "title": "Incident Violent la o Sală de Jocuri din Brașov",
+      "url": "https://www.zmbv.ro/incident-violent-la-o-sala-de-jocuri-din-brasov/20/10/2026/120329/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T20:16:31+03:00"
+    },
+    {
+      "title": "Sezonul de patinaj începe la Brașov",
+      "url": "https://www.zmbv.ro/sezonul-de-patinaj-incepe-la-brasov/20/10/2026/120327/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T20:16:09+03:00"
+    },
+    {
+      "title": "Rezultate Concurs Directori Școli Brașov: 12 Note de 10",
+      "url": "https://www.zmbv.ro/rezultate-concurs-directori-scoli-brasov-12-note-de-10/20/10/2026/120323/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T20:15:27+03:00"
+    },
+    {
+      "title": "Unde Brașovenii Pot Face Analize Decontate",
+      "url": "https://www.zmbv.ro/unde-brasovenii-pot-face-analize-decontate/20/10/2026/120317/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T20:14:36+03:00"
+    },
     {
       "title": "BRAȘOV | Au început înscrierile pentru Târgul de Crăciun 2026",
       "url": "https://mytex.ro/expres/brasov-au-inceput-inscrierile-pentru-targul-de-craciun-2026/",
@@ -53,13 +81,6 @@
       "published": "2026-10-20T17:12:39+03:00"
     },
     {
-      "title": "Unde își mai pot face brașovenii analize decontate: Lista furnizorilor care mai au fonduri de la CAS Brașov",
-      "url": "https://bizbrasov.ro/2026/10/20/analize-decontate-lista-furnizorilor-cas/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T17:08:41+03:00"
-    },
-    {
       "title": "Dansatorii brașoveni Sebastian Toadere și Mara Gonțea, pe podium la Varazdin City Trophy 2026",
       "url": "https://newsbv.ro/dansatori-brasoveni-podium/",
       "source": "NewsBV",
@@ -79,13 +100,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-20T15:52:45+03:00"
-    },
-    {
-      "title": "Au fost publicate rezultatele etapei a doua a concursului pentru funcțiile de directori de școli din județul Brașov. Sunt 12 note de 10, iar 2 candidați au picat examenul",
-      "url": "https://bizbrasov.ro/2026/10/20/rezultatele-concursului-directori-scoli/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T15:46:26+03:00"
     },
     {
       "title": "Spitalul Municipal Codlea caută medici în 12 specialități! Ce posturi sunt disponibile",
@@ -212,13 +226,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-20T14:16:14+03:00"
-    },
-    {
-      "title": "Apel pentru curățenie pe stadionul din Zărnești",
-      "url": "https://www.zmbv.ro/apel-pentru-curatenie-pe-stadionul-din-zarnesti/20/10/2026/120307/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T14:16:10+03:00"
     },
     {
       "title": "Brașov, Mediaș și Suceava: Finaliste pentru Capitala Tineretului 2028",
@@ -473,34 +480,6 @@
       "published": "2026-10-20T08:20:02+03:00"
     },
     {
-      "title": "Tentativă de omor cu furca în Săcele",
-      "url": "https://www.zmbv.ro/tentativa-de-omor-cu-furca-in-sacele/20/10/2026/120282/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T07:15:20+03:00"
-    },
-    {
-      "title": "Brașovul Își Reorganizează Urbanismul cu o Comisie Unică",
-      "url": "https://www.zmbv.ro/brasovul-isi-reorganizeaza-urbanismul-cu-o-comisie-unica/20/10/2026/120281/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T07:15:09+03:00"
-    },
-    {
-      "title": "Concurs pentru Directori de Școli în Brașov",
-      "url": "https://www.zmbv.ro/concurs-pentru-directori-de-scoli-in-brasov/20/10/2026/120277/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T07:14:44+03:00"
-    },
-    {
-      "title": "Renovări la Creșa Mămăruța din Făgăraș",
-      "url": "https://www.zmbv.ro/renovari-la-cresa-mamaruta-din-fagaras/20/10/2026/120275/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T07:14:30+03:00"
-    },
-    {
       "title": "Julia Sauter, medalie de argint la Budapest Trophy! Sportiva Coronei Brașov a obținut 179,92 puncte",
       "url": "https://newsbv.ro/julia-sauter-argint-la-budapest-trophy/",
       "source": "NewsBV",
@@ -534,6 +513,13 @@
       "source": "MyTex",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-19T21:12:38+03:00"
+    },
+    {
+      "title": "Social acum 21 de ore Tentativă de omor în Săcele: Un tânăr a ajuns la spital după ce a fost înjunghiat cu o furcă",
+      "url": "https://www.brasov.net/tentativa-de-omor-in-sacele-un-tanar-a-ajuns-la-spital-dupa-ce-a-fost-injunghiat-cu-o-furca/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-19T19:54:12+03:00"
     },
     {
       "title": "Restricții de noapte în Brașov: Se montează rosturile de dilatație la podul de pe strada Hărmanului",
@@ -660,20 +646,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-19T09:14:56+03:00"
-    },
-    {
-      "title": "Sport acum o zi Sală de fitness de 1.300 mp, la mai puțin de 6 lei pe zi: BEFIT a deschis primul său club din orașul Brașov (P)",
-      "url": "https://www.brasov.net/sala-de-fitness-de-1-300-mp-la-mai-putin-de-6-lei-pe-zi-befit-a-deschis-primul-sau-club-din-orasul-brasov-p/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-19T08:27:46+03:00"
-    },
-    {
-      "title": "BOOM HOTELIER | Brașovul devine capitala regională a turismului de lux: 11 branduri internaționale noi intră pe piață, iar 24 de șantiere sunt active în județ",
-      "url": "https://mytex.ro/economic/boom-hotelier-brasovul-devine-capitala-regionala-a-turismului-de-lux-11-branduri-internationale-noi-intra-pe-piata-iar-24-de-santiere-sunt-active-in-judet/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T08:01:13+03:00"
     }
   ]
 }
