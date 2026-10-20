@@ -1,28 +1,133 @@
 {
-  "updated": "20.10.2026, 14:00",
-  "count": 87,
-  "raw_count": 106,
+  "updated": "20.10.2026, 15:00",
+  "count": 92,
+  "raw_count": 113,
   "items": [
     {
-      "title": "Tânăr depistat la volan sub influența substanțelor psihoactive, pe bulevardul Saturn din Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/20/tanar-depistat-la-volan-sub-influenta-substantelor-psihoactive-pe-bulevardul-saturn-din-brasov/",
+      "title": "Cvadrupleții născuți prematur, internaţi la Maternitatea Braşov, au fost externaţi",
+      "url": "https://newsbv.ro/cvadrupletii-nascuti-prematur-externati/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:56:23+03:00"
+    },
+    {
+      "title": "Brașovul dezvoltă proiecte bazate pe inteligență artificială. Doar 5 din 100 de firme din România folosesc AI",
+      "url": "https://newsbv.ro/5-din-100-de-firme-din-romania-folosesc-ai/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:43:34+03:00"
+    },
+    {
+      "title": "CFR pregătește investiții de peste 4 miliarde de lei în calea ferată. Brașovul, printre regionalele vizate de lucrări",
+      "url": "https://transilvania365.ro/cfr-pregateste-investitii-de-peste-4-miliarde-de-lei-in-calea-ferata-brasovul-printre-regionalele-vizate-de-lucrari/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-20T14:40:54+03:00"
+    },
+    {
+      "title": "Corona Brașov, misiune dificilă în Italia. Meciuri tari pentru calificarea în turneul final al Cupei Continentale",
+      "url": "https://mytex.ro/sport/corona-brasov-misiune-dificila-in-italia/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-20T14:37:39+03:00"
+    },
+    {
+      "title": "Prețurile carburanților rămân stabile. Cât costă benzina și motorina în Brașov, marți, 20 octombrie",
+      "url": "https://brasovstiri.ro/preturile-carburantilor-raman-stabile-cat-costa-benzina-si-motorina-in-brasov-marti-20-octombrie/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:30:03+03:00"
+    },
+    {
+      "title": "Înscrieri deschise pentru Târgul de Crăciun din Brașov!",
+      "url": "https://transilvania365.ro/inscrieri-deschise-pentru-targul-de-craciun-din-brasov/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:27:50+03:00"
+    },
+    {
+      "title": "Diana Șoșoacă, mesaj pentru primarul Iaşului: „Suni la primarul din Brașov. Dacă nu te înțelegi cu el, pot interveni și eu. Scripcaru sigur nu va avea nimic împotrivă”",
+      "url": "https://newsbv.ro/diana-sosoaca-mesaj-pentru-primarul-iasului/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:25:10+03:00"
+    },
+    {
+      "title": "A picat Revolut! Ce trebuie să facă urgent brașovenii care s-au trezit cu banii blocați sau plățile eșuate",
+      "url": "https://mytex.ro/expres/a-picat-revolut-ce-trebuie-sa-faca-urgent-brasovenii-care-s-au-trezit-cu-banii-blocati-sau-platile-esuate/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:22:22+03:00"
+    },
+    {
+      "title": "Proiectul Valea Doftanei-Săcele avansează la 28%",
+      "url": "https://www.zmbv.ro/proiectul-valea-doftanei-sacele-avanseaza-la-28/20/10/2026/120309/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:16:25+03:00"
+    },
+    {
+      "title": "Corul Madrigal ajunge cu turneul de Crăciun şi la Braşov",
+      "url": "https://newsbv.ro/corul-madrigal-turneul-de-craciun-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:16:14+03:00"
+    },
+    {
+      "title": "Apel pentru curățenie pe stadionul din Zărnești",
+      "url": "https://www.zmbv.ro/apel-pentru-curatenie-pe-stadionul-din-zarnesti/20/10/2026/120307/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:16:10+03:00"
+    },
+    {
+      "title": "Tânăr de 23 de ani, prins drogat la volan în Brașov",
+      "url": "https://www.zmbv.ro/tanar-de-23-de-ani-prins-drogat-la-volan-in-brasov/20/10/2026/120303/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:15:47+03:00"
+    },
+    {
+      "title": "Brașov, Mediaș și Suceava: Finaliste pentru Capitala Tineretului 2028",
+      "url": "https://www.zmbv.ro/brasov-medias-si-suceava-finaliste-pentru-capitala-tineretului-2028/20/10/2026/120301/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:15:35+03:00"
+    },
+    {
+      "title": "Bărbat reținut după ce și-ar fi agresat partenera, în Săcele. Polițiștii au emis un ordin de protecție",
+      "url": "https://www.monitorulexpres.ro/2026/10/20/barbat-retinut-dupa-ce-si-ar-fi-agresat-partenera-in-sacele-politistii-au-emis-un-ordin-de-protectie/",
       "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-20T13:59:45+03:00"
-    },
-    {
-      "title": "Tânăr de 23 de ani, prins drogat la volan pe Bulevardul Saturn din Brașov",
-      "url": "https://bizbrasov.ro/2026/10/20/tanar-23-de-ani-bulevardul-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T13:55:35+03:00"
-    },
-    {
-      "title": "Bărbat violent de Săcele dus de polițiști în arest, după ce și-a agresat partenera timp de două zile",
-      "url": "https://bizbrasov.ro/2026/10/20/barbat-violent-sacele-politisti-agresat/",
-      "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-20T13:51:27+03:00"
+      "published": "2026-10-20T14:10:55+03:00"
+    },
+    {
+      "title": "Deratizare în Brașov, între 26 și 30 octombrie 2026. Unde se intervine și ce trebuie să știe locuitorii",
+      "url": "https://newsbv.ro/deratizare-brasov-26-30-octombrie-2026/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:09:53+03:00"
+    },
+    {
+      "title": "Tânăr depistat la volan sub influența substanțelor psihoactive, pe un bulevard din Brașov",
+      "url": "https://mytex.ro/delicte/tanar-depistat-la-volan-sub-influenta-substantelor-psihoactive-pe-un-bulevard-din-brasov/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:08:31+03:00"
+    },
+    {
+      "title": "Filmul lui Rodrigo Plá, distins cu o mențiune specială la Locarno, are premiera națională la Brașov",
+      "url": "https://brasovstiri.ro/filmul-lui-rodrigo-pla-distins-cu-o-mentiune-speciala-la-locarno-are-premiera-nationala-la-brasov/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-20T14:07:18+03:00"
+    },
+    {
+      "title": "Val de reacții după anunțul primarului George Scripcaru despre reconfigurarea a patru intersecții. Brașovenii reclamă „calvarul” din Tractorul – Sânpetru și podul de la CET",
+      "url": "https://mytex.ro/expres/val-de-reactii-dupa-anuntul-primarului-george-scripcaru-despre-reconfigurarea-a-patru-intersectii-brasovenii-reclama-calvarul-din-tractorul-sanpetru-si-podul-de-la-cet/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-20T14:05:24+03:00"
     },
     {
       "title": "Festivalul CULMEA, la Brașov: Proiecția specială „Nou-veniții” va fi dublată live în limba română la Cinema Modern",
@@ -46,7 +151,7 @@
       "published": "2026-10-20T13:30:05+03:00"
     },
     {
-      "title": "Apel către suporterii din Zărnești! Tribunele stadionului, lăsate pline de gunoaie după meciuri:...",
+      "title": "Apel către suporterii din Zărnești! Tribunele stadionului, lăsate pline de gunoaie...",
       "url": "https://transilvania365.ro/apel-catre-suporterii-din-zarnesti-tribunele-stadionului-lasate-pline-de-gunoaie-dupa-meciuri-arena-noastra-nu-este-o-cocina/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -60,13 +165,6 @@
       "published": "2026-10-20T13:11:07+03:00"
     },
     {
-      "title": "Brașov, Mediaș, și Suceava, finaliste pentru a deveni Capitala Tineretului din România în 2028",
-      "url": "https://newsbv.ro/brasov-capitala-tineretului-din-romania-in-2028/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-20T13:11:02+03:00"
-    },
-    {
       "title": "Colțea Brașov învață din fotbalul norvegian",
       "url": "https://www.monitorulexpres.ro/2026/10/20/coltea-brasov-invata-din-fotbalul-norvegian/",
       "source": "Monitorul Expres",
@@ -74,7 +172,7 @@
       "published": "2026-10-20T13:06:36+03:00"
     },
     {
-      "title": "Aproape 2.000 de piloți forați pe drumul Valea Doftanei – Săcele. Proiectul alternativei...",
+      "title": "Aproape 2.000 de piloți forați pe drumul Valea Doftanei – Săcele....",
       "url": "https://transilvania365.ro/aproape-2-000-de-piloti-forati-pe-drumul-valea-doftanei-sacele-proiectul-alternativei-la-dn1-a-ajuns-la-28/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -214,13 +312,6 @@
       "published": "2026-10-20T09:21:08+03:00"
     },
     {
-      "title": "Lucrări anunţate de Compania Apa Brașov, în municipiu şi judeţ, astăzi, 20 octombrie 2026",
-      "url": "https://newsbv.ro/lucrari-compania-apa-brasov-20-octombrie/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-20T09:14:23+03:00"
-    },
-    {
       "title": "VIDEO / Bătaie la o sală de jocuri de noroc din Brașov: Poliția a reținut trei bărbați și o femeie pentru agresarea agenților de pază",
       "url": "https://www.brasov.net/video-bataie-la-o-sala-de-jocuri-de-noroc-din-brasov-politia-a-retinut-trei-barbati-si-o-femeie-pentru-agresarea-agentilor-de-paza/",
       "source": "Brașov.net",
@@ -247,13 +338,6 @@
       "source": "NewsBV",
       "category": "💰 Business & economie",
       "published": "2026-10-20T09:01:14+03:00"
-    },
-    {
-      "title": "Săptămâna Comediei 2026: Spectacole gratuite pentru copii la AFI Brașov și un spectacol la Bucuria Darului. Programul complet al festivalului",
-      "url": "https://newsbv.ro/saptamana-comediei-2026-spectacole-gratuite-copii/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-20T08:35:07+03:00"
     },
     {
       "title": "Julia Sauter, argint la Budapesta! Record personal pentru patinatoarea Coronei Brașov",
@@ -354,13 +438,6 @@
       "published": "2026-10-19T19:46:45+03:00"
     },
     {
-      "title": "Bărbat arestat după ce ar fi lovit un tânăr cu furca în piept, la Săcele",
-      "url": "https://www.monitorulexpres.ro/2026/10/19/barbat-arestat-dupa-ce-ar-fi-lovit-un-tanar-cu-furca-in-piept-la-sacele/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-19T19:41:37+03:00"
-    },
-    {
       "title": "Ari Vatanen, legenda Dakarului, vine la Brașov! Spectacol cu un BMW electric pe drumul Poienii",
       "url": "https://www.monitorulexpres.ro/2026/10/19/ari-vatanen-legenda-dakarului-vine-la-brasov-spectacol-cu-un-bmw-electric-pe-drumul-poienii/",
       "source": "Monitorul Expres",
@@ -368,25 +445,11 @@
       "published": "2026-10-19T18:37:24+03:00"
     },
     {
-      "title": "Brașov lansează licitație de 56 milioane lei pentru pod",
-      "url": "https://www.zmbv.ro/brasov-lanseaza-licitatie-de-56-milioane-lei-pentru-pod/19/10/2026/120257/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-19T18:19:07+03:00"
-    },
-    {
       "title": "Restricții de noapte în Brașov: Se montează rosturile de dilatație la podul de pe strada Hărmanului",
       "url": "https://mytex.ro/expres/restrictii-de-noapte-in-brasov-se-monteaza-rosturile-de-dilatatie-la-podul-de-pe-strada-harmanului/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-19T17:41:10+03:00"
-    },
-    {
-      "title": "BRAȘOV | A ascuns sticle de alcool în haine și a încercat să plece din supermarket fără să plătească",
-      "url": "https://mytex.ro/delicte/brasov-a-ascuns-sticle-de-alcool-in-haine-si-a-incercat-sa-plece-din-supermarket-fara-sa-plateasca/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T17:39:18+03:00"
     },
     {
       "title": "DEZVOLTARE UNITARĂ NOUĂ ÎN JUD. BRAȘOV: George Scripcaru a reunit primarii și specialiștii din 19 localități pentru lansarea C.L.A.I.",
@@ -429,13 +492,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-19T15:01:19+03:00"
-    },
-    {
-      "title": "Șoferi băuți și un conducător auto fără permis, depistați în Brașov",
-      "url": "https://newsbv.ro/soferi-bauti-brasov/",
-      "source": "NewsBV",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-19T14:49:51+03:00"
     },
     {
       "title": "Atenție, brașoveni! Se ÎNCHIDE complet traficul pe DN 1 spre București! Rută ocolitoare obligatorie",
@@ -515,25 +571,11 @@
       "published": "2026-10-19T12:27:37+03:00"
     },
     {
-      "title": "Cutremur de 4,8 grade în zona Vrancea. Seismul s-a resimțit inclusiv la Brașov și în București",
-      "url": "https://brasovstiri.ro/cutremur-de-48-grade-in-zona-vrancea-seismul-s-a-resimtit-si-la-bucuresti/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-19T12:06:12+03:00"
-    },
-    {
       "title": "Fapt divers acum 21 de ore Cutremur cu magnitudinea de 4,9 resimțit la Brașov",
       "url": "https://www.brasov.net/cutremur-cu-magnitudinea-de-49-resimtit/",
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-19T12:02:38+03:00"
-    },
-    {
-      "title": "Banii din vânătoarea de urși: Cât din potențialul de 6 milioane de euro ajunge la stat și ce înseamnă noua lege pentru județul Brașov",
-      "url": "https://mytex.ro/expres/banii-din-vanatoarea-de-ursi-cat-din-potentialul-de-6-milioane-de-euro-ajunge-la-stat-si-ce-inseamna-noua-lege-pentru-judetul-brasov/",
-      "source": "MyTex",
-      "category": "💰 Business & economie",
-      "published": "2026-10-19T11:47:10+03:00"
     },
     {
       "title": "140.000 de lei pentru promovarea a zece troițe din Brașov! Pe...",
@@ -548,13 +590,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-19T11:09:28+03:00"
-    },
-    {
-      "title": "Construcțiile improvizate și focarele de infecție de pe strada Laminoarelor, înlăturate de Primăria Brașov",
-      "url": "https://brasovstiri.ro/constructiile-improvizate-si-focarele-de-infectie-de-pe-strada-laminoarelor-inlaturate-de-primaria-brasov/",
-      "source": "Brașov Știri",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-19T11:07:23+03:00"
     },
     {
       "title": "Spitalul Județean Brașov caută director medical! Concursul începe în noiembrie",
