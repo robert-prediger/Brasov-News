@@ -1,7 +1,7 @@
 {
-  "updated": "21.10.2026, 00:00",
+  "updated": "21.10.2026, 01:00",
   "count": 84,
-  "raw_count": 101,
+  "raw_count": 104,
   "items": [
     {
       "title": "Incident Violent la o Sală de Jocuri din Brașov",
@@ -114,6 +114,13 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-20T15:42:40+03:00"
+    },
+    {
+      "title": "Util acum o oră Patinoarul Olimpic Brașov își deschide porțile pentru un nou sezon",
+      "url": "https://www.brasov.net/patinoarul-olimpic-brasov-isi-deschide-portile-pentru-un-nou-sezon/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-20T15:40:33+03:00"
     },
     {
       "title": "Braconieri braşoveni prinși pe barajul Scoreiu. Aveau 11 plase lungi de peste 500 de metri",
@@ -431,6 +438,13 @@
       "published": "2026-10-20T09:21:08+03:00"
     },
     {
+      "title": "Eveniment acum 8 ore VIDEO / Bătaie la o sală de jocuri de noroc din Brașov: Poliția a reținut trei bărbați și o femeie pentru agresarea agenților de pază",
+      "url": "https://www.brasov.net/video-bataie-la-o-sala-de-jocuri-de-noroc-din-brasov-politia-a-retinut-trei-barbati-si-o-femeie-pentru-agresarea-agentilor-de-paza/",
+      "source": "Brașov.net",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-20T09:12:47+03:00"
+    },
+    {
       "title": "Gata cu dezvoltarea urbanistică haotică în zona metropolitană Brașov?",
       "url": "https://www.monitorulexpres.ro/2026/10/20/gata-cu-dezvoltarea-urbanistica-haotica-in-zona-metropolitana-brasov/",
       "source": "Monitorul Expres",
@@ -494,13 +508,6 @@
       "published": "2026-10-20T05:17:00+03:00"
     },
     {
-      "title": "BRAȘOV | Trei bărbați și o femeie, reținuți după violențele de la sala de jocuri de noroc. Doi agenți de pază au fost agresați (VIDEO)",
-      "url": "https://mytex.ro/112/brasov-trei-barbati-si-o-femeie-retinuti-dupa-violentele-de-la-sala-de-jocuri-de-noroc-doi-agenti-de-paza-au-fost-agresati-video/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T21:35:52+03:00"
-    },
-    {
       "title": "Accident mortal pe DN 13 Brașov – Sighișoara! Trafic blocat la Saschiz",
       "url": "https://mytex.ro/112/accident-mortal-pe-dn-13-brasov-sighisoara-trafic-blocat-la-saschiz/",
       "source": "MyTex",
@@ -508,11 +515,11 @@
       "published": "2026-10-19T21:12:38+03:00"
     },
     {
-      "title": "BRAȘOV | Tentativă de omor cu furca, în miez de noapte, la Săcele",
-      "url": "https://mytex.ro/112/brasov-tentativa-de-omor-cu-furca-in-miez-de-noapte-la-sacele/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T19:46:42+03:00"
+      "title": "Social acum 21 de ore Tentativă de omor în Săcele: Un tânăr a ajuns la spital după ce a fost înjunghiat cu o furcă",
+      "url": "https://www.brasov.net/tentativa-de-omor-in-sacele-un-tanar-a-ajuns-la-spital-dupa-ce-a-fost-injunghiat-cu-o-furca/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-19T19:54:12+03:00"
     },
     {
       "title": "Restricții de noapte în Brașov: Se montează rosturile de dilatație la podul de pe strada Hărmanului",
@@ -571,25 +578,18 @@
       "published": "2026-10-19T14:18:49+03:00"
     },
     {
+      "title": "Social acum o zi Patru începuturi fragile, o victorie uriașă. Cvadrupleții îngrijiți la Maternitatea Brașov pleacă acasă",
+      "url": "https://www.brasov.net/patru-inceputuri-fragile-o-victorie-uriasa-cvadrupletii-ingrijiti-la-maternitatea-brasov-pleaca-acasa/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-19T13:20:37+03:00"
+    },
+    {
       "title": "Cutremur de 4,8 în Vrancea! Pompierii brașoveni verifică dacă seismul a...",
       "url": "https://transilvania365.ro/cutremur-de-48-in-vrancea-pompierii-brasoveni-verifica-daca-seismul-a-produs-pagube/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-19T13:10:00+03:00"
-    },
-    {
-      "title": "Jazz de talie mondială la Brașov! Celebrul pianist Benoît Delbecq, în...",
-      "url": "https://transilvania365.ro/jazz-de-talie-mondiala-la-brasov-celebrul-pianist-benoit-delbecq-in-concert-la-universitatea-transilvania/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-19T12:49:33+03:00"
-    },
-    {
-      "title": "Premieră națională la Teatrul „Sică Alexandrescu” din Brașov. Spectacolul „O zi mai lungă decât veacul”",
-      "url": "https://newsbv.ro/premiera-nationala-la-teatrul-sica-alexandrescu/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-19T12:27:37+03:00"
     }
   ]
 }
