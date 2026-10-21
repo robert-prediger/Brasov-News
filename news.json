@@ -1,17 +1,122 @@
 {
-  "updated": "21.10.2026, 09:00",
-  "count": 78,
-  "raw_count": 97,
+  "updated": "21.10.2026, 10:00",
+  "count": 83,
+  "raw_count": 95,
   "items": [
     {
-      "title": "Intervenţii la reţeaua de apă, în municipiul Braşov şi în judeţ, astăzi, 21 octombrie 2026",
-      "url": "https://newsbv.ro/interventii-la-reteaua-de-apa-21-octombrie/",
-      "source": "NewsBV",
+      "title": "Bani publici irosiți la Primăria Prejmer. Neregulile uriașe descoperite de Curtea de Conturi",
+      "url": "https://bizbrasov.ro/2026/10/21/bani-primaria-prejmer-nereguli-curte-conturi/",
+      "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-21T08:51:33+03:00"
+      "published": "2026-10-21T09:58:35+03:00"
     },
     {
-      "title": "Motoare turate și restricții de circulație pe Drumul Poienii. Trofeul Poiana Brașov are loc în acest weekend",
+      "title": "Ari Vatanen și 100 de piloți iau startul la Trofeul Poiana Brașov AUTOKLASS!",
+      "url": "https://mytex.ro/sport/ari-vatanen-si-100-de-piloti-iau-startul-la-trofeul-poiana-brasov-autoklass/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:57:41+03:00"
+    },
+    {
+      "title": "Cea mai dubioasă serie de crime din istoria României a avut loc în perioada comunistă în Poiana Brașov. Fuseseră utilizate hipnoza și drogurile",
+      "url": "https://bizbrasov.ro/2026/10/21/crime-comunism-poiana-brasov-hipnoza-droguri/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:50:58+03:00"
+    },
+    {
+      "title": "Carfil Brașov pune bazele unui parteneriat cu producătorul grec de drone Altus",
+      "url": "https://newsbv.ro/carfil-brasov-parteneriat-altus/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:48:20+03:00"
+    },
+    {
+      "title": "Primarul Făgărașului cheamă Ministerul Mediului și ONG-urile la discuții pe tema parcului național de 250.000 de hectare",
+      "url": "https://newsbv.ro/primarul-fagarasului-cheama-ministerul-mediului/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:30:42+03:00"
+    },
+    {
+      "title": "Aeroportul Brașov-Ghimbav decolează în clasamentul național! A depășit Sibiu, Bacău și Oradea",
+      "url": "https://transilvania365.ro/aeroportul-brasov-ghimbav-decoleaza-in-clasamentul-national-a-depasit-sibiu-bacau-si-oradea/",
+      "source": "Transilvania365",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-21T09:21:46+03:00"
+    },
+    {
+      "title": "IAR Ghimbav, sub umbrela Romarm. Salvare sau pierderea autonomiei?",
+      "url": "https://www.monitorulexpres.ro/2026/10/21/iar-ghimbav-sub-umbrela-romarm-salvare-sau-pierderea-autonomiei/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:18:17+03:00"
+    },
+    {
+      "title": "Brașov Reconfigurează Intersecțiile Periculoase",
+      "url": "https://www.zmbv.ro/brasov-reconfigureaza-intersectiile-periculoase/21/10/2026/120371/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:17:10+03:00"
+    },
+    {
+      "title": "Brașov, locul 8 în traficul aeroportuar național",
+      "url": "https://www.zmbv.ro/brasov-locul-8-in-traficul-aeroportuar-national/21/10/2026/120364/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:15:52+03:00"
+    },
+    {
+      "title": "Dansul Romana Revine la Brașov",
+      "url": "https://www.zmbv.ro/dansul-romana-revine-la-brasov/21/10/2026/120362/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:15:33+03:00"
+    },
+    {
+      "title": "Restaurare Urgentă la Casa Sfatului din Brașov",
+      "url": "https://www.zmbv.ro/restaurare-urgenta-la-casa-sfatului-din-brasov/21/10/2026/120360/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:15:07+03:00"
+    },
+    {
+      "title": "Brașov Monitorizează 30.000 de Firme pentru Datorii și Insolvențe",
+      "url": "https://www.zmbv.ro/brasov-monitorizeaza-30-000-de-firme-pentru-datorii-si-insolvente/21/10/2026/120356/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:14:28+03:00"
+    },
+    {
+      "title": "Avioane militare vor survola trei zile Brașovul",
+      "url": "https://www.monitorulexpres.ro/2026/10/21/avioane-militare-vor-survola-trei-zile-brasovul/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:12:06+03:00"
+    },
+    {
+      "title": "CARFIL Brașov intră într-un parteneriat cu un producător grec de drone. Muniție pentru sisteme de interceptare și posibila producție în România",
+      "url": "https://bizbrasov.ro/2026/10/21/carfil-parteneriat-drone-interceptare/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:08:49+03:00"
+    },
+    {
+      "title": "Brașovul și Poiana Brașov, printre cele mai scumpe destinații de cazare în sezonul rece. În ianuarie, o noapte în...",
+      "url": "https://transilvania365.ro/brasovul-si-poiana-brasov-printre-cele-mai-scumpe-destinatii-de-cazare-in-sezonul-rece-in-ianuarie-o-noapte-in-statiune-depaseste-1-200-de-lei/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-21T09:08:43+03:00"
+    },
+    {
+      "title": "Primăria externalizează proiectarea investițiilor pentru următorii patru ani: Cec în alb sau soluție pentru proiectele Brașovului?",
+      "url": "https://www.monitorulexpres.ro/2026/10/21/primaria-externalizeaza-proiectarea-investitiilor-pentru-urmatorii-patru-ani-cec-in-alb-sau-solutie-pentru-proiectele-brasovului/",
+      "source": "Monitorul Expres",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-21T09:04:06+03:00"
+    },
+    {
+      "title": "Motoare turate și restricții de circulație pe Drumul Poienii. Trofeul Poiana Brașov are...",
       "url": "https://transilvania365.ro/motoare-turate-si-restrictii-de-circulatie-pe-drumul-poienii-trofeul-poiana-brasov-are-loc-in-acest-weekend/",
       "source": "Transilvania365",
       "category": "🚗 Trafic & transport",
@@ -39,25 +144,11 @@
       "published": "2026-10-21T08:30:56+03:00"
     },
     {
-      "title": "Aeroportul Brașov pe locul 8 în topul național al traficului de pasageri",
-      "url": "https://www.brasov.net/aeroportul-brasov-pe-locul-8-in-topul-national-al-traficului-de-pasageri/",
-      "source": "Brașov.net",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-21T08:27:34+03:00"
-    },
-    {
       "title": "Spitalul Codlea Recrutează Medici în 12 Specialități",
       "url": "https://www.zmbv.ro/spitalul-codlea-recruteaza-medici-in-12-specialitati/21/10/2026/120352/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-21T08:17:33+03:00"
-    },
-    {
-      "title": "Colectare Deșeuri Electrice și Tombolă la Sânpetru",
-      "url": "https://www.zmbv.ro/colectare-deseuri-electrice-si-tombola-la-sanpetru/21/10/2026/120346/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-21T08:16:44+03:00"
     },
     {
       "title": "Primăria Comunei Cristian-Informare publică",
@@ -74,7 +165,7 @@
       "published": "2026-10-21T08:13:57+03:00"
     },
     {
-      "title": "Campanie de colectare a deșeurilor electrice, sâmbătă, la Sânpetru. Locuitorii pot participa și...",
+      "title": "Campanie de colectare a deșeurilor electrice, sâmbătă, la Sânpetru. Locuitorii pot...",
       "url": "https://transilvania365.ro/campanie-de-colectare-a-deseurilor-electrice-sambata-la-sanpetru-locuitorii-pot-participa-si-la-o-tombola-cu-premii/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -109,13 +200,6 @@
       "published": "2026-10-21T06:44:22+03:00"
     },
     {
-      "title": "Direcția Fiscală Brașov pune sub monitorizare 30.000 de firme din municipiu. Alerte zilnice despre insolvențe sau datorii",
-      "url": "https://bizbrasov.ro/2026/10/21/directia-fiscala-brasov-firme-insolvente/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-21T05:40:00+03:00"
-    },
-    {
       "title": "FOTO Însemnările „Gazetei de Transilvania” acum 153 de ani: ROMANA, dansul emblematic care cerea „o exactitate originală”. Cum duc tradiția mai departe elevii din Brașov",
       "url": "https://bizbrasov.ro/2026/10/21/romana-insemnarile-gazetei-153-de-ani/",
       "source": "BizBrașov",
@@ -135,20 +219,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-20T20:16:31+03:00"
-    },
-    {
-      "title": "Sezonul de patinaj începe la Brașov",
-      "url": "https://www.zmbv.ro/sezonul-de-patinaj-incepe-la-brasov/20/10/2026/120327/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T20:16:09+03:00"
-    },
-    {
-      "title": "Rezultate Concurs Directori Școli Brașov: 12 Note de 10",
-      "url": "https://www.zmbv.ro/rezultate-concurs-directori-scoli-brasov-12-note-de-10/20/10/2026/120323/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T20:15:27+03:00"
     },
     {
       "title": "BRAȘOV | Au început înscrierile pentru Târgul de Crăciun 2026",
@@ -207,18 +277,11 @@
       "published": "2026-10-20T17:06:59+03:00"
     },
     {
-      "title": "Felicitări de Crăciun cu figurine plantabile, pentru susținerea unui program educațional destinat copiilor din Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/20/felicitari-de-craciun-cu-figurine-plantabile-pentru-sustinerea-unui-program-educational-destinat-copiilor-din-brasov/",
-      "source": "Monitorul Expres",
+      "title": "Au fost publicate rezultatele etapei a doua a concursului pentru funcțiile de directori de școli din județul Brașov. Sunt 12 note de 10, iar 2 candidați au picat examenul",
+      "url": "https://bizbrasov.ro/2026/10/20/rezultatele-concursului-directori-scoli/",
+      "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-20T15:52:45+03:00"
-    },
-    {
-      "title": "CSO Teutonii Ghimbav întâlneşte campioana Dinamo București în optimile de finală ale Cupei României la handbal masculin",
-      "url": "https://newsbv.ro/teutonii-ghimbav-dinamo-bucuresti-optimi/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-20T15:42:40+03:00"
+      "published": "2026-10-20T15:46:26+03:00"
     },
     {
       "title": "Util acum 17 ore Patinoarul Olimpic Brașov își deschide porțile pentru un nou sezon",
@@ -226,13 +289,6 @@
       "source": "Brașov.net",
       "category": "🔥 Local",
       "published": "2026-10-20T15:40:33+03:00"
-    },
-    {
-      "title": "Braconieri braşoveni prinși pe barajul Scoreiu. Aveau 11 plase lungi de peste 500 de metri",
-      "url": "https://newsbv.ro/braconieri-brasoveni-prinsi-pe-barajul-scoreiu/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-20T15:32:21+03:00"
     },
     {
       "title": "Deratizare în tot Brașovul, între 26 și 30 octombrie. Momeli otrăvite...",
@@ -261,13 +317,6 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-20T15:11:12+03:00"
-    },
-    {
-      "title": "Cvadrupleții născuți prematur, internaţi la Maternitatea Braşov, au fost externaţi",
-      "url": "https://newsbv.ro/cvadrupletii-nascuti-prematur-externati/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-20T14:56:23+03:00"
     },
     {
       "title": "Brașovul dezvoltă proiecte bazate pe inteligență artificială. Doar 5 din 100 de firme din România folosesc AI",
@@ -375,11 +424,11 @@
       "published": "2026-10-20T13:11:07+03:00"
     },
     {
-      "title": "Brașov, Mediaș, și Suceava, finaliste pentru a deveni Capitala Tineretului din România în 2028",
-      "url": "https://newsbv.ro/brasov-capitala-tineretului-din-romania-in-2028/",
-      "source": "NewsBV",
+      "title": "Brașovul, alături de Suceava și Mediaș, în finala pentru titlul de Capitala Tineretului din România în 2028",
+      "url": "https://bizbrasov.ro/2026/10/20/brasov-suceava-capitala-tineret/",
+      "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-20T13:11:02+03:00"
+      "published": "2026-10-20T12:16:03+03:00"
     },
     {
       "title": "Aproape 2.000 de piloți forați pe drumul Valea Doftanei – Săcele....",
@@ -431,11 +480,11 @@
       "published": "2026-10-20T10:47:48+03:00"
     },
     {
-      "title": "Țeapă de 5,5 milioane de lei: percheziții în București și Ilfov într-un dosar instrumentat de polițiștii din Brașov",
-      "url": "https://mytex.ro/delicte/teapa-de-55-milioane-de-lei-perchezitii-in-bucuresti-si-ilfov-intr-un-dosar-instrumentat-de-politistii-din-brasov/",
-      "source": "MyTex",
+      "title": "VIDEO Polițiștii brașoveni fac percheziții în Ilfov și București, astăzi, într-un dosar de înșelăciune, tăinuire și fals în înscrisuri. Prejudiciul este de peste 1 milion de euro",
+      "url": "https://bizbrasov.ro/2026/10/20/politistii-brasoveni-perchezitii-dosar/",
+      "source": "BizBrașov",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-20T10:44:58+03:00"
+      "published": "2026-10-20T10:40:40+03:00"
     },
     {
       "title": "Atenție, brașoveni! Revolut a picat la nivel internațional și în România: Aplicația și plățile sunt nefuncționale",
@@ -471,13 +520,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-20T09:54:47+03:00"
-    },
-    {
-      "title": "Brașovul caută constructor pentru noul pod de pe Drumul CET-ului. Proiectarea și lucrările ar trebui să dureze 23 de luni",
-      "url": "https://bizbrasov.ro/2026/10/20/brasov-pod-drum-cet-constructor-lucrari/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T09:53:33+03:00"
     },
     {
       "title": "Primăria Ghimbav plătește aproape 250.000 de lei pentru proiectul de modernizare...",
@@ -541,13 +583,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-20T05:38:00+03:00"
-    },
-    {
-      "title": "Accident mortal pe DN 13 Brașov – Sighișoara! Trafic blocat la Saschiz",
-      "url": "https://mytex.ro/112/accident-mortal-pe-dn-13-brasov-sighisoara-trafic-blocat-la-saschiz/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-19T21:12:38+03:00"
     }
   ]
 }
