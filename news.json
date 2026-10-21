@@ -1,8 +1,15 @@
 {
-  "updated": "21.10.2026, 05:00",
-  "count": 75,
-  "raw_count": 92,
+  "updated": "21.10.2026, 06:00",
+  "count": 72,
+  "raw_count": 89,
   "items": [
+    {
+      "title": "Direcția Fiscală Brașov pune sub monitorizare 30.000 de firme din municipiu. Alerte zilnice despre insolvențe sau datorii",
+      "url": "https://bizbrasov.ro/2026/10/21/directia-fiscala-brasov-firme-insolvente/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T05:40:00+03:00"
+    },
     {
       "title": "FOTO Însemnările „Gazetei de Transilvania” acum 153 de ani: ROMANA, dansul emblematic care cerea „o exactitate originală”. Cum duc tradiția mai departe elevii din Brașov",
       "url": "https://bizbrasov.ro/2026/10/21/romana-insemnarile-gazetei-153-de-ani/",
@@ -270,13 +277,6 @@
       "published": "2026-10-20T13:51:19+03:00"
     },
     {
-      "title": "Festivalul CULMEA, la Brașov: Proiecția specială „Nou-veniții” va fi dublată live în limba română la Cinema Modern",
-      "url": "https://bizbrasov.ro/2026/10/20/brasov-festivalul-culmea-proiectia-cinema/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-20T13:38:04+03:00"
-    },
-    {
       "title": "Trafic de persoane și proxenetism: două persoane reținute de DIICOT. Victime exploatate inclusiv în Brașov",
       "url": "https://mytex.ro/delicte/trafic-de-persoane-si-proxenetism-doua-persoane-retinute-de-diicot-victime-exploatate-inclusiv-in-brasov/",
       "source": "MyTex",
@@ -410,13 +410,6 @@
       "published": "2026-10-20T09:53:33+03:00"
     },
     {
-      "title": "Stadiu de 80% al lucrărilor pe ruta directă dintre Făgăraș și Sighișoara",
-      "url": "https://bizbrasov.ro/2026/10/20/stadiu-lucrari-ruta-fagaras-sighisoara/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T09:44:25+03:00"
-    },
-    {
       "title": "„Aventuri cu Domnul Goe”, „Tango Meets Opera” și baletul „Dama cu camelii”, la Opera Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/20/aventuri-cu-domnul-goe-tango-meets-opera-si-baletul-dama-cu-camelii-la-opera-brasov/",
       "source": "Monitorul Expres",
@@ -513,20 +506,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-19T19:46:42+03:00"
-    },
-    {
-      "title": "Restricții de noapte în Brașov: Se montează rosturile de dilatație la podul de pe strada Hărmanului",
-      "url": "https://mytex.ro/expres/restrictii-de-noapte-in-brasov-se-monteaza-rosturile-de-dilatatie-la-podul-de-pe-strada-harmanului/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T17:41:10+03:00"
-    },
-    {
-      "title": "DEZVOLTARE UNITARĂ NOUĂ ÎN JUD. BRAȘOV: George Scripcaru a reunit primarii și specialiștii din 19 localități pentru lansarea C.L.A.I.",
-      "url": "https://mytex.ro/expres/dezvoltare-unitara-noua-in-jud-brasov-george-scripcaru-a-reunit-primarii-si-specialistii-din-19-localitati-pentru-lansarea-c-l-a-i/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-19T17:24:57+03:00"
     }
   ]
 }
