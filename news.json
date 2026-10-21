@@ -1,21 +1,77 @@
 {
-  "updated": "21.10.2026, 10:00",
-  "count": 83,
-  "raw_count": 95,
+  "updated": "21.10.2026, 11:00",
+  "count": 85,
+  "raw_count": 100,
   "items": [
+    {
+      "title": "Ron Pasco, noul antrenor al Naţionalei de hochei pe gheaţă, prezentat la Brașov",
+      "url": "https://mytex.ro/mytex/ron-pasco-noul-antrenor-al-nationalei-de-hochei-pe-gheata-prezentat-la-brasov/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-21T11:00:52+03:00"
+    },
+    {
+      "title": "Vremea se schimbă radical în Brașov și în țară: Vânt puternic, ploi și vijelii până vineri dimineață",
+      "url": "https://mytex.ro/expres/vremea-se-schimba-radical-in-brasov-si-in-tara-vant-puternic-ploi-si-vijelii-pana-vineri-dimineata/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-21T10:51:32+03:00"
+    },
+    {
+      "title": "Prețurile carburanților rămân neschimbate. Cât costă benzina și motorina în Brașov, miercuri, 21 octombrie",
+      "url": "https://brasovstiri.ro/preturile-carburantilor-raman-neschimbate-cat-costa-benzina-si-motorina-in-brasov-miercuri-21-octombrie/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-21T10:46:43+03:00"
+    },
+    {
+      "title": "Femeia care a murit în accidentul de pe DN13 era din județul Brașov. O altă brașoveancă a fost grav rănită",
+      "url": "https://mytex.ro/112/femeia-care-a-murit-in-accidentul-de-pe-dn13-era-din-judetul-brasov-o-alta-brasoveanca-a-fost-grav-ranita/",
+      "source": "MyTex",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-21T10:46:30+03:00"
+    },
+    {
+      "title": "100 de concurenți la Trofeul Poiana Brașov AUTOKLASS! Campioni naționali și automobile spectaculoase",
+      "url": "https://brasovstiri.ro/100-de-concurenti-la-trofeul-poiana-brasov-autoklass-campioni-nationali-si-automobile-spectaculoase/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-21T10:36:14+03:00"
+    },
+    {
+      "title": "Ziua Armatei celebrată pe 25 octombrie la Săcele",
+      "url": "https://transilvania365.ro/ziua-armatei-celebrata-pe-25-octombrie-la-sacele/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-21T10:15:04+03:00"
+    },
+    {
+      "title": "Ghimbavul va plăti peste 270.000 de lei pentru a instala un patinoar și în această iarnă în oraș",
+      "url": "https://bizbrasov.ro/2026/10/21/ghimbav-patinoar-instala-oras/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T10:05:06+03:00"
+    },
+    {
+      "title": "Aeroportul Brașov și-a dublat traficul în primele 9 luni ale anului, prin comparație cu aceeași perioadă din 2025. Peste 464.000 de pasageri și locul 8 la nivel național",
+      "url": "https://bizbrasov.ro/2026/10/21/aeroportul-dublat-traficul-pasageri/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-21T10:04:45+03:00"
+    },
+    {
+      "title": "3 credite, în valoare de 13.000 de lei, obținute ilegal în numele unei femei din județul Brașov",
+      "url": "https://newsbv.ro/3-credite-in-valoare-de-13-000-de-lei/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-21T10:03:43+03:00"
+    },
     {
       "title": "Bani publici irosiți la Primăria Prejmer. Neregulile uriașe descoperite de Curtea de Conturi",
       "url": "https://bizbrasov.ro/2026/10/21/bani-primaria-prejmer-nereguli-curte-conturi/",
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-21T09:58:35+03:00"
-    },
-    {
-      "title": "Ari Vatanen și 100 de piloți iau startul la Trofeul Poiana Brașov AUTOKLASS!",
-      "url": "https://mytex.ro/sport/ari-vatanen-si-100-de-piloti-iau-startul-la-trofeul-poiana-brasov-autoklass/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-21T09:57:41+03:00"
     },
     {
       "title": "Cea mai dubioasă serie de crime din istoria României a avut loc în perioada comunistă în Poiana Brașov. Fuseseră utilizate hipnoza și drogurile",
@@ -60,13 +116,6 @@
       "published": "2026-10-21T09:17:10+03:00"
     },
     {
-      "title": "Brașov, locul 8 în traficul aeroportuar național",
-      "url": "https://www.zmbv.ro/brasov-locul-8-in-traficul-aeroportuar-national/21/10/2026/120364/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-21T09:15:52+03:00"
-    },
-    {
       "title": "Dansul Romana Revine la Brașov",
       "url": "https://www.zmbv.ro/dansul-romana-revine-la-brasov/21/10/2026/120362/",
       "source": "Ziarul Metropolitan Brașov",
@@ -102,7 +151,7 @@
       "published": "2026-10-21T09:08:49+03:00"
     },
     {
-      "title": "Brașovul și Poiana Brașov, printre cele mai scumpe destinații de cazare în sezonul rece. În ianuarie, o noapte în...",
+      "title": "Brașovul și Poiana Brașov, printre cele mai scumpe destinații de cazare în sezonul...",
       "url": "https://transilvania365.ro/brasovul-si-poiana-brasov-printre-cele-mai-scumpe-destinatii-de-cazare-in-sezonul-rece-in-ianuarie-o-noapte-in-statiune-depaseste-1-200-de-lei/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -116,14 +165,14 @@
       "published": "2026-10-21T09:04:06+03:00"
     },
     {
-      "title": "Motoare turate și restricții de circulație pe Drumul Poienii. Trofeul Poiana Brașov are...",
-      "url": "https://transilvania365.ro/motoare-turate-si-restrictii-de-circulatie-pe-drumul-poienii-trofeul-poiana-brasov-are-loc-in-acest-weekend/",
-      "source": "Transilvania365",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-21T08:49:03+03:00"
+      "title": "Intervenţii la reţeaua de apă, în municipiul Braşov şi în judeţ, astăzi, 21 octombrie 2026",
+      "url": "https://newsbv.ro/interventii-la-reteaua-de-apa-21-octombrie/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-21T08:51:33+03:00"
     },
     {
-      "title": "Argint balcanic pentru Brașov! Carla Man, vicecampioană la judo U16 în Grecia",
+      "title": "Argint balcanic pentru Brașov! Carla Man, vicecampioană la judo U16 în...",
       "url": "https://transilvania365.ro/argint-balcanic-pentru-brasov-carla-man-vicecampioana-la-judo-u16-in-grecia/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -172,6 +221,13 @@
       "published": "2026-10-21T08:13:40+03:00"
     },
     {
+      "title": "Aeroportul Internațional Brașov-Ghimbav, locul 8 în clasamentul celor mai tranzitate aeroporturi din România",
+      "url": "https://newsbv.ro/aeroportul-international-brasov-ghimbav-locul-8/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-21T07:37:15+03:00"
+    },
+    {
       "title": "Ghid pentru proprietarii din Brașov I Modificări fără autorizație în apartament: când poate fi dublat impozitul și cum se intră în legalitate",
       "url": "https://www.monitorulexpres.ro/2026/10/21/ghid-pentru-proprietarii-din-brasov-i-modificari-fara-autorizatie-in-apartament-cand-poate-fi-dublat-impozitul-si-cum-se-intra-in-legalitate/",
       "source": "Monitorul Expres",
@@ -184,13 +240,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-21T07:02:20+03:00"
-    },
-    {
-      "title": "Patru intersecții, din Brașov, cu risc de accidente și blocaje în trafic vor fi reconfigurate (VIDEO)",
-      "url": "https://newsbv.ro/patru-intersectii-din-brasov-reconfigurate/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-21T06:44:27+03:00"
     },
     {
       "title": "Piața imobiliară din România: Prăbușire sau simplă pauză tehnică? Ce spun cifrele ANCPI pe 2026 și ce înseamnă acestea pentru Brașov",
@@ -284,6 +333,13 @@
       "published": "2026-10-20T15:46:26+03:00"
     },
     {
+      "title": "CSO Teutonii Ghimbav întâlneşte campioana Dinamo București în optimile de finală ale Cupei României la handbal masculin",
+      "url": "https://newsbv.ro/teutonii-ghimbav-dinamo-bucuresti-optimi/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-20T15:42:40+03:00"
+    },
+    {
       "title": "Util acum 17 ore Patinoarul Olimpic Brașov își deschide porțile pentru un nou sezon",
       "url": "https://www.brasov.net/patinoarul-olimpic-brasov-isi-deschide-portile-pentru-un-nou-sezon/",
       "source": "Brașov.net",
@@ -303,6 +359,13 @@
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-20T15:27:20+03:00"
+    },
+    {
+      "title": "VIDEO. Patru intersecții, din Brașov, cu risc de accidente și blocaje...",
+      "url": "https://transilvania365.ro/video-patru-intersectii-din-brasov-cu-risc-de-accidente-si-blocaje-in-trafic-vor-fi-reconfigurate/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-20T15:17:09+03:00"
     },
     {
       "title": "BRAȘOV | Violență domestică în Săcele: Un bărbat, reținut după ce și-ar fi agresat partenera de două ori în două zile",
@@ -333,13 +396,6 @@
       "published": "2026-10-20T14:37:39+03:00"
     },
     {
-      "title": "Prețurile carburanților rămân stabile. Cât costă benzina și motorina în Brașov, marți, 20 octombrie",
-      "url": "https://brasovstiri.ro/preturile-carburantilor-raman-stabile-cat-costa-benzina-si-motorina-in-brasov-marti-20-octombrie/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-20T14:30:03+03:00"
-    },
-    {
       "title": "Înscrieri deschise pentru Târgul de Crăciun din Brașov!",
       "url": "https://transilvania365.ro/inscrieri-deschise-pentru-targul-de-craciun-din-brasov/",
       "source": "Transilvania365",
@@ -368,20 +424,6 @@
       "published": "2026-10-20T14:08:31+03:00"
     },
     {
-      "title": "Filmul lui Rodrigo Plá, distins cu o mențiune specială la Locarno, are premiera națională la Brașov",
-      "url": "https://brasovstiri.ro/filmul-lui-rodrigo-pla-distins-cu-o-mentiune-speciala-la-locarno-are-premiera-nationala-la-brasov/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-20T14:07:18+03:00"
-    },
-    {
-      "title": "Val de reacții după anunțul primarului George Scripcaru despre reconfigurarea a patru intersecții. Brașovenii reclamă „calvarul” din Tractorul – Sânpetru și podul de la CET",
-      "url": "https://mytex.ro/expres/val-de-reactii-dupa-anuntul-primarului-george-scripcaru-despre-reconfigurarea-a-patru-intersectii-brasovenii-reclama-calvarul-din-tractorul-sanpetru-si-podul-de-la-cet/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-20T14:05:24+03:00"
-    },
-    {
       "title": "Tânăr de 23 de ani, prins drogat la volan pe Bulevardul Saturn din Brașov",
       "url": "https://bizbrasov.ro/2026/10/20/tanar-23-de-ani-bulevardul-brasov/",
       "source": "BizBrașov",
@@ -394,13 +436,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-20T13:51:19+03:00"
-    },
-    {
-      "title": "Trafic de persoane și proxenetism: două persoane reținute de DIICOT. Victime exploatate inclusiv în Brașov",
-      "url": "https://mytex.ro/delicte/trafic-de-persoane-si-proxenetism-doua-persoane-retinute-de-diicot-victime-exploatate-inclusiv-in-brasov/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-20T13:35:37+03:00"
     },
     {
       "title": "Coral Impex începe deratizarea în municipiul Brașov. Rozătoarele pot transmite boli foarte grave",
@@ -424,11 +459,11 @@
       "published": "2026-10-20T13:11:07+03:00"
     },
     {
-      "title": "Brașovul, alături de Suceava și Mediaș, în finala pentru titlul de Capitala Tineretului din România în 2028",
-      "url": "https://bizbrasov.ro/2026/10/20/brasov-suceava-capitala-tineret/",
-      "source": "BizBrașov",
+      "title": "Brașov, Mediaș, și Suceava, finaliste pentru a deveni Capitala Tineretului din România în 2028",
+      "url": "https://newsbv.ro/brasov-capitala-tineretului-din-romania-in-2028/",
+      "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-20T12:16:03+03:00"
+      "published": "2026-10-20T13:11:02+03:00"
     },
     {
       "title": "Aproape 2.000 de piloți forați pe drumul Valea Doftanei – Săcele....",
@@ -494,20 +529,6 @@
       "published": "2026-10-20T10:27:58+03:00"
     },
     {
-      "title": "Un nou pas pentru centura orașului Zărnești! Primăria a contractat serviciile cadastrale pentru viitoarea șosea ocolitoare",
-      "url": "https://brasovstiri.ro/un-nou-pas-pentru-centura-orasului-zarnesti-primaria-a-contractat-serviciile-cadastrale-pentru-viitoarea-sosea-ocolitoare/",
-      "source": "Brașov Știri",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-20T10:09:31+03:00"
-    },
-    {
-      "title": "Școli, drumuri, parcuri și regenerare urbană. Primăria Brașov pregătește un acord-cadru de 170 de milioane de lei pentru proiectare",
-      "url": "https://bizbrasov.ro/2026/10/20/scoli-drumuri-primaria-brasov-proiectare/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-20T10:00:51+03:00"
-    },
-    {
       "title": "VIDEO Accident mortal pe DN13, între Sighișoara și Brașov, aseară. O femeie în vârstă de 48 de ani și-a pierdut viața",
       "url": "https://bizbrasov.ro/2026/10/20/accident-mortal-dn13/",
       "source": "BizBrașov",
@@ -569,13 +590,6 @@
       "source": "Brașov.net",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-20T06:54:21+03:00"
-    },
-    {
-      "title": "Respiro pentru proprietarii din Brașov: De ce s-a amânat impozitarea locuințelor după valoarea de piață din 2027",
-      "url": "https://mytex.ro/economic/respiro-pentru-proprietarii-din-brasov-de-ce-s-a-amanat-impozitarea-locuintelor-dupa-valoarea-de-piata-din-2027/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-20T06:24:47+03:00"
     },
     {
       "title": "Zărneștiul face un nou pas pentru centura orașului. Traseul viitoarei șosele intră în procedura de intabulare",
