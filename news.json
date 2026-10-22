@@ -1,8 +1,15 @@
 {
-  "updated": "22.10.2026, 06:00",
-  "count": 67,
-  "raw_count": 90,
+  "updated": "22.10.2026, 07:00",
+  "count": 66,
+  "raw_count": 89,
   "items": [
+    {
+      "title": "Ziua Armatei Române, celebrată pe 25 octombrie la Săcele",
+      "url": "https://newsbv.ro/ziua-armatei-romane-celebrata-la-sacele/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-22T06:51:42+03:00"
+    },
     {
       "title": "VIDEO „În doar 2 minute și 20 de secunde”, deasupra Brașovului. Cum arăta telecabina de pe Tâmpa la inaugurarea din 1970 și ce a însemnat investiția de anul trecut de 20 de milioane de euro",
       "url": "https://bizbrasov.ro/2026/10/22/brasov-telecabina-tampa-investitia/",
@@ -88,13 +95,6 @@
       "published": "2026-10-21T20:15:43+03:00"
     },
     {
-      "title": "Scădere ușoară a infecțiilor respiratorii în județul Brașov. Cresc însă cazurile de pneumonie",
-      "url": "https://newsbv.ro/infectii-respiratorii-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-21T19:31:33+03:00"
-    },
-    {
       "title": "Scandal într-un mall din Brașov! Doi tineri de 16 și 19 ani au fost reținuți după ce unul dintre ei ar fi amenințat cu un obiect contondent",
       "url": "https://mytex.ro/112/scandal-intr-un-mall-din-brasov-doi-tineri-de-16-si-19-ani-au-fost-retinuti-dupa-ce-unul-dintre-ei-ar-fi-amenintat-cu-un-obiect-contondent/",
       "source": "MyTex",
@@ -170,6 +170,13 @@
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-21T15:31:17+03:00"
+    },
+    {
+      "title": "Scădere ușoară a infecțiilor respiratorii în județul Brașov. Cazurile de pneumonie sunt în creștere",
+      "url": "https://bizbrasov.ro/2026/10/21/brasov-infectiilor-respiratorii-cazurile/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-21T15:29:30+03:00"
     },
     {
       "title": "Carfil Brașov a încheiat un parteneriat cu o companie greacă pentru sisteme anti-dronă",
@@ -333,13 +340,6 @@
       "published": "2026-10-21T10:46:30+03:00"
     },
     {
-      "title": "Ziua Armatei celebrată pe 25 octombrie la Săcele",
-      "url": "https://transilvania365.ro/ziua-armatei-celebrata-pe-25-octombrie-la-sacele/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-21T10:15:04+03:00"
-    },
-    {
       "title": "Aeroportul Brașov și-a dublat traficul în primele 9 luni ale anului, prin comparație cu aceeași perioadă din 2025. Peste 464.000 de pasageri și locul 8 la nivel național",
       "url": "https://bizbrasov.ro/2026/10/21/aeroportul-dublat-traficul-pasageri/",
       "source": "BizBrașov",
@@ -464,13 +464,6 @@
       "source": "MyTex",
       "category": "💰 Business & economie",
       "published": "2026-10-20T19:15:29+03:00"
-    },
-    {
-      "title": "Schimbări majore la Prefectura Brașov: Cine preia comanda și cine rămâne pe poziții",
-      "url": "https://mytex.ro/politic/schimbari-majore-la-prefectura-brasov-cine-preia-comanda-si-cine-ramane-pe-pozitii/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-20T18:54:35+03:00"
     }
   ]
 }
