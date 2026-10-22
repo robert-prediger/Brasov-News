@@ -1,7 +1,7 @@
 {
-  "updated": "22.10.2026, 03:00",
-  "count": 70,
-  "raw_count": 97,
+  "updated": "22.10.2026, 04:00",
+  "count": 65,
+  "raw_count": 86,
   "items": [
     {
       "title": "Vitezomanii, în vizorul polițiștilor din Brașov!",
@@ -95,25 +95,11 @@
       "published": "2026-10-21T16:39:34+03:00"
     },
     {
-      "title": "Fapt divers acum 24 de minute VIDEO / Controale Poliția Brașov în centru: 150 de persoane legitimate și zeci de șoferi testați",
-      "url": "https://www.brasov.net/video-controale-politia-brasov-in-centru-150-de-persoane-legitimate-si-zeci-de-soferi-testati/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-21T16:36:55+03:00"
-    },
-    {
       "title": "Patru ore cu 40 de polițiști și 14 radare pe drumurile din județul Brașov, ieri: 284 de amenzi -majoritatea pentru viteză și 13 permise de conducere reținute",
       "url": "https://bizbrasov.ro/2026/10/21/politisti-radare-drumurile-brasov/",
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-21T16:24:25+03:00"
-    },
-    {
-      "title": "Administrație acum 38 de minute Patru intersecții din Brașov, reconfigurate pentru fluidizarea traficului și creșterea siguranței rutiere",
-      "url": "https://www.brasov.net/patru-intersectii-din-brasov-reconfigurate-pentru-fluidizarea-traficului-si-cresterea-sigurantei-rutiere/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-21T16:22:54+03:00"
     },
     {
       "title": "Polițiștii brașoveni au aplicat 164 de amenzi într-o acțiune rutieră. 127 au fost pentru viteză",
@@ -163,6 +149,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-21T14:40:20+03:00"
+    },
+    {
+      "title": "Patru zone din Brașov, vizate de lucrări pentru fluidizarea traficului",
+      "url": "https://www.monitorulexpres.ro/2026/10/21/patru-zone-din-brasov-vizate-de-lucrari-pentru-fluidizarea-traficului/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-21T14:15:11+03:00"
     },
     {
       "title": "Dezbatere la Făgăraș. Fosta Baie Comunală ar putea deveni centru turistic...",
@@ -464,34 +457,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-20T17:06:59+03:00"
-    },
-    {
-      "title": "Au fost publicate rezultatele etapei a doua a concursului pentru funcțiile de directori de școli din județul Brașov. Sunt 12 note de 10, iar 2 candidați au picat examenul",
-      "url": "https://bizbrasov.ro/2026/10/20/rezultatele-concursului-directori-scoli/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-20T15:46:26+03:00"
-    },
-    {
-      "title": "CSO Teutonii Ghimbav întâlneşte campioana Dinamo București în optimile de finală ale Cupei României la handbal masculin",
-      "url": "https://newsbv.ro/teutonii-ghimbav-dinamo-bucuresti-optimi/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-20T15:42:40+03:00"
-    },
-    {
-      "title": "Util acum o zi Patinoarul Olimpic Brașov își deschide porțile pentru un nou sezon",
-      "url": "https://www.brasov.net/patinoarul-olimpic-brasov-isi-deschide-portile-pentru-un-nou-sezon/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-20T15:40:33+03:00"
-    },
-    {
-      "title": "Deratizare în tot Brașovul, între 26 și 30 octombrie. Momeli otrăvite...",
-      "url": "https://transilvania365.ro/deratizare-in-tot-brasovul-intre-26-si-30-octombrie-momeli-otravite-pentru-sobolani-amplasate-in-capcane-speciale/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-20T15:29:02+03:00"
     }
   ]
 }
