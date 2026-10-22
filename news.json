@@ -1,7 +1,7 @@
 {
-  "updated": "23.10.2026, 00:00",
-  "count": 81,
-  "raw_count": 102,
+  "updated": "23.10.2026, 01:00",
+  "count": 77,
+  "raw_count": 97,
   "items": [
     {
       "title": "Tânăr fără permis, prins băut la volan în Brașov",
@@ -9,20 +9,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-22T23:15:48+03:00"
-    },
-    {
-      "title": "Brașovul Își Aprinde Magia de Crăciun",
-      "url": "https://www.zmbv.ro/brasovul-isi-aprinde-magia-de-craciun/22/10/2026/120505/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-22T23:15:00+03:00"
-    },
-    {
-      "title": "Cățeluși Aruncați Peste Gardul Adăpostului din Brașov",
-      "url": "https://www.zmbv.ro/catelusi-aruncati-peste-gardul-adapostului-din-brasov/22/10/2026/120503/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-22T23:14:46+03:00"
     },
     {
       "title": "Succes remarcabil pentru luptătorii din Ghimbav la Brașov",
@@ -114,6 +100,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-22T18:35:16+03:00"
+    },
+    {
+      "title": "VIDEO Doi pui de câine, aruncați peste gardul de 2 metri al Adăpostului Public din Brașov. Cazul a fost sesizat autorităților",
+      "url": "https://newsbv.ro/pui-caine-aruncati-peste-gard-adapost-public-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-22T18:13:02+03:00"
     },
     {
       "title": "Artist Talk la Muzeul de Artă Brașov: Cinci artiști dezvăluie poveștile din spatele expoziției „Brașov, orașul (in)vizibil”",
@@ -548,27 +541,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-21T13:12:51+03:00"
-    },
-    {
-      "title": "Circulația autobuzelor spre Poiana Brașov, suspendată timp de câteva ore în...",
-      "url": "https://transilvania365.ro/circulatia-autobuzelor-spre-poiana-brasov-suspendata-timp-de-cateva-ore-in-acest-weekend/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-21T12:57:58+03:00"
-    },
-    {
-      "title": "Accident pe DN1 Brașov – Sibiu, în zona Avrig! Patru persoane rănite",
-      "url": "https://mytex.ro/112/accident-pe-dn1-brasov-sibiu-in-zona-avrig-patru-persoane-ranite/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-21T12:54:30+03:00"
-    },
-    {
-      "title": "Violator de 30 de ani din Rupea, „cazat” pentru următorii șapte ani în penitenciar",
-      "url": "https://bizbrasov.ro/2026/10/21/violator-rupea-penitenciar-sapte-ani/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-21T12:37:01+03:00"
     }
   ]
 }
