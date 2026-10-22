@@ -1,8 +1,15 @@
 {
-  "updated": "22.10.2026, 20:00",
-  "count": 88,
-  "raw_count": 108,
+  "updated": "22.10.2026, 21:00",
+  "count": 87,
+  "raw_count": 105,
   "items": [
+    {
+      "title": "Corona Brașov volei masculin, lotul pentru sezonul 2026-2027",
+      "url": "https://newsbv.ro/corona-brasov-volei-masculin-lotul-2026-2027/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-22T20:58:46+03:00"
+    },
     {
       "title": "Subprefecta USR de Brașov și-a anunțat demisia",
       "url": "https://www.monitorulexpres.ro/2026/10/22/subprefecta-usr-de-brasov-si-a-anuntat-demisia/",
@@ -604,20 +611,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-21T09:30:42+03:00"
-    },
-    {
-      "title": "Unde mai puteți face analize și investigații decontate în Brașov: Lista furnizorilor care mai au fonduri",
-      "url": "https://www.monitorulexpres.ro/2026/10/21/unde-mai-puteti-face-analize-si-investigatii-decontate-in-brasov-lista-furnizorilor-care-mai-au-fonduri/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-21T08:33:35+03:00"
-    },
-    {
-      "title": "Primăria Comunei Cristian-Informare publică",
-      "url": "https://www.monitorulexpres.ro/2026/10/21/primaria-comunei-cristian-informare-publica-2/",
-      "source": "Monitorul Expres",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-21T08:15:25+03:00"
     }
   ]
 }
