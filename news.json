@@ -1,8 +1,29 @@
 {
-  "updated": "23.10.2026, 17:00",
-  "count": 95,
-  "raw_count": 110,
+  "updated": "23.10.2026, 18:00",
+  "count": 100,
+  "raw_count": 115,
   "items": [
+    {
+      "title": "Terenul de sport de la școala de pe strada Școlii din Ghimbav a fost reabilitat. Ionel Fliundra: „Educația și sportul trebuie să existe la superlativ în orașul nostru”",
+      "url": "https://newsbv.ro/ghimbav-ionel-fliundra-teren-sport-strada-scolii/",
+      "source": "NewsBV",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-23T17:49:02+03:00"
+    },
+    {
+      "title": "Doi căței adoptați de un liceu din Brașov! Betty și Lucky au devenit parte din familia Liceului Silvic (VIDEO)",
+      "url": "https://mytex.ro/educatie/doi-catei-adoptati-de-un-liceu-din-brasov-betty-si-lucky-au-devenit-parte-din-familia-liceului-silvic-video/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-23T17:22:30+03:00"
+    },
+    {
+      "title": "Reguli mai stricte la parcările de reședință: Brașovenii cu mașini de firmă sau comodat riscă să rămână fără locuri",
+      "url": "https://mytex.ro/expres/reguli-mai-stricte-la-parcarile-de-resedinta-brasovenii-cu-masini-de-firma-sau-comodat-risca-sa-ramana-fara-locuri/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-23T17:19:31+03:00"
+    },
     {
       "title": "Sebastian Rusu, deputat PNL: Proiectele de apă, canalizare și drumuri din județul Brașov ar putea beneficia de timp suplimentar pentru contractare",
       "url": "https://newsbv.ro/sebastian-rusu-prelungire-anghel-saligny-brasov-2027/",
@@ -417,6 +438,13 @@
       "published": "2026-10-23T08:48:27+03:00"
     },
     {
+      "title": "Artist Talk la Muzeul de Artă Brașov, în cadrul expoziției de grup „Brașov, orașul (in)vizibil”",
+      "url": "https://newsbv.ro/artist-talk-la-muzeul-de-arta-brasov/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-23T08:40:02+03:00"
+    },
+    {
       "title": "Campanie de colectare a deșeurilor electrice în Sânpetru, pe 24 octombrie",
       "url": "https://www.monitorulexpres.ro/2026/10/23/campanie-de-colectare-a-deseurilor-electrice-in-sanpetru-pe-24-octombrie/",
       "source": "Monitorul Expres",
@@ -480,18 +508,11 @@
       "published": "2026-10-23T07:49:08+03:00"
     },
     {
-      "title": "Râșnov: Trecerea de pietoni de pe DN73 din zona Carrefour, a fost mutată",
-      "url": "https://newsbv.ro/rasnov-trecerea-pietoni-dn73-carrefour-mutata/",
+      "title": "CSM Corona Brașov, eșec dramatic în Liga Națională: 80–81 cu CS Vâlcea 1924 Râmnicu Vâlcea",
+      "url": "https://newsbv.ro/csm-corona-brasov-esec-dramatic-liga-nationala/",
       "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T07:01:55+03:00"
-    },
-    {
-      "title": "Spaimele imobiliare de la Brașov: Trecerea la impozitul pe valoarea de piață îi șochează pe proprietari. „Vom ajunge să ne vindem casele părintești din Centrul Istoric”",
-      "url": "https://mytex.ro/economic/spaimele-imobiliare-de-la-brasov-trecerea-la-impozitul-pe-valoarea-de-piata-ii-socheaza-pe-proprietari-vom-ajunge-sa-ne-vindem-casele-parintesti-din-centrul-istoric/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T06:44:55+03:00"
+      "category": "⚽ Sport",
+      "published": "2026-10-23T07:35:19+03:00"
     },
     {
       "title": "De la pietonale doar la „zile mari”, la un centru al Brașovului pentru oameni, nu pentru mașini. Ce nu a făcut fosta administrația și ce schimbă acum actuala conducere a municipalității",
@@ -520,6 +541,13 @@
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-23T05:28:00+03:00"
+    },
+    {
+      "title": "CSM Săcele, deplasare la Tricolorul Breaza în etapa a 10-a din Liga 3: meci sâmbătă, de la ora 15:00",
+      "url": "https://newsbv.ro/csm-sacele-deplasare-la-tricolorul-breaza-in-etapa-a-10-a-din-liga-3-meci-sambata-de-la-ora-1500/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-22T22:23:32+03:00"
     },
     {
       "title": "Baschet: Corona Brașov înfrângere dramatică în meciul cu CS Vâlcea",
@@ -555,13 +583,6 @@
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-22T17:40:14+03:00"
-    },
-    {
-      "title": "Proiectul parcărilor din Brașov: Tarife dublate în weekend, abonamente restricționate și amenzi mai mari pentru șoferi",
-      "url": "https://mytex.ro/expres/proiectul-parcarilor-din-brasov-tarife-dublate-in-weekend-abonamente-restrictionate-si-amenzi-mai-mari-pentru-soferi/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-22T17:19:53+03:00"
     },
     {
       "title": "A început instalarea celor 1,3 milioane de luminițe care vor împodobi Brașovul cu ocazia sărbătorilor de iarnă/ Ce zone vor fi luminate și de când va intra orașul în atmosfera Crăciunului",
@@ -620,6 +641,13 @@
       "published": "2026-10-22T12:22:41+03:00"
     },
     {
+      "title": "La Râșnov a fost mutată trecerea de pietoni de pe DN73...",
+      "url": "https://transilvania365.ro/la-rasnov-a-fost-mutata-trecerea-de-pietoni-de-pe-dn73-din-zona-carrefour-ce-se-schimba-pentru-pietoni/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-22T11:50:38+03:00"
+    },
+    {
       "title": "Olăritul românesc din Transilvania, redescoperit la Muzeul de Etnografie Brașov",
       "url": "https://transilvania365.ro/olaritul-romanesc-din-transilvania-redescoperit-la-muzeul-de-etnografie-brasov/",
       "source": "Transilvania365",
@@ -646,6 +674,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-22T11:12:32+03:00"
+    },
+    {
+      "title": "Nicolae Pepene, managerul Muzeului Județean de Istorie Brașov, în primul Consiliu director al Alianței Internaționale a Muzeelor Montane",
+      "url": "https://newsbv.ro/nicolae-pepene-aliantei-internationale-muzeelor-montane/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-22T11:02:28+03:00"
     },
     {
       "title": "Daniela Olariu a demisionat din funcția de subprefect al județului Brașov",
