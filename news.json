@@ -1,8 +1,36 @@
 {
-  "updated": "24.10.2026, 00:00",
-  "count": 93,
-  "raw_count": 110,
+  "updated": "24.10.2026, 01:00",
+  "count": 91,
+  "raw_count": 108,
   "items": [
+    {
+      "title": "Săptămâna Altfel la ISU Brașov: Lecții de viață",
+      "url": "https://www.zmbv.ro/saptamana-altfel-la-isu-brasov-lectii-de-viata/24/10/2026/120582/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T00:16:08+03:00"
+    },
+    {
+      "title": "Brașovul, Viitor Centru al Sportului Paralimpic Românesc",
+      "url": "https://www.zmbv.ro/brasovul-viitor-centru-al-sportului-paralimpic-romanesc/24/10/2026/120580/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T00:15:56+03:00"
+    },
+    {
+      "title": "Viitorii ofițeri depun Jurământul Militar la Brașov",
+      "url": "https://www.zmbv.ro/viitorii-ofiteri-depun-juramantul-militar-la-brasov/24/10/2026/120578/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T00:15:43+03:00"
+    },
+    {
+      "title": "Lupul din „Capra cu trei iezi” devine artist la Brașov",
+      "url": "https://www.zmbv.ro/lupul-din-capra-cu-trei-iezi-devine-artist-la-brasov/24/10/2026/120570/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T00:14:24+03:00"
+    },
     {
       "title": "Hochei: Corona Brașov, victorie clară cu SC Miercurea Ciuc! Accidentare gravă pentru David Levin",
       "url": "https://www.monitorulexpres.ro/2026/10/23/corona-brasov-victorie-clara-cu-sc-miercurea-ciuc-accidentare-grava-pentru-david-levin/",
@@ -58,13 +86,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-23T16:40:40+03:00"
-    },
-    {
-      "title": "VIDEO Lupul din „Capra cu trei iezi” devine artist la Teatrul Arlechino din Brașov: Spectacol cu lecții de canto, horoscop și multă comedie",
-      "url": "https://bizbrasov.ro/2026/10/23/capra-cu-trei-iezi-lupul-artist-teatrul/",
-      "source": "BizBrașov",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-23T16:38:22+03:00"
     },
     {
       "title": "BRAȘOV | Razie de amploare în Măieruș și Crizbav! Amenzi de 30.000 de lei și bani confiscați",
@@ -338,20 +359,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-23T11:18:12+03:00"
-    },
-    {
-      "title": "Restricții și Recomandări pentru Trofeul Poiana Brașov",
-      "url": "https://www.zmbv.ro/restrictii-si-recomandari-pentru-trofeul-poiana-brasov/23/10/2026/120537/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-23T11:16:23+03:00"
-    },
-    {
-      "title": "Cazuri de Hepatită A Suprasolicită Spitalul din Brașov",
-      "url": "https://www.zmbv.ro/cazuri-de-hepatita-a-suprasolicita-spitalul-din-brasov/23/10/2026/120528/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T11:15:14+03:00"
     },
     {
       "title": "România are peste 16.000 de structuri de cazare turistică. Constanța conduce clasamentul, iar Brașovul ocupă locul al doilea",
@@ -632,27 +639,6 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-22T13:09:30+03:00"
-    },
-    {
-      "title": "Autostrada A3 Brașov – Ploieşti: Sub 14% din forajele geotehnice au fost realizate, zona montană nu a fost încă investigată",
-      "url": "https://newsbv.ro/autostrada-brasov-ploiesti-forajele-geotehnice/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-22T12:55:43+03:00"
-    },
-    {
-      "title": "Dan Tanasă, deputat AUR de Braşov, trimis în judecată după mesajul împotriva livratorilor din Asia și Africa",
-      "url": "https://newsbv.ro/dan-tanasa-trimis-in-judecata/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-22T12:47:04+03:00"
-    },
-    {
-      "title": "Deputatul AUR de Brașov Dan Tănasă, trimis în judecată pentru infracțiunea de incitare la violenţă, ură sau discriminare după ce a îndemnat la refuzarea comenzilor dacă acestea nu sunt livrate de un român",
-      "url": "https://bizbrasov.ro/2026/10/22/deputatul-tanasa-judecata-discriminare/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-22T12:42:44+03:00"
     }
   ]
 }
