@@ -1,8 +1,22 @@
 {
-  "updated": "24.10.2026, 20:00",
-  "count": 82,
-  "raw_count": 95,
+  "updated": "24.10.2026, 21:00",
+  "count": 74,
+  "raw_count": 88,
   "items": [
+    {
+      "title": "Liga 3, etapa a 10-a: CSM Corona Brașov – Olimpic Zărnești 8-0. Victorie categorică pentru brașoveni",
+      "url": "https://newsbv.ro/corona-brasov-olimpic-zarnesti-8-0-liga-3/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-24T20:57:28+03:00"
+    },
+    {
+      "title": "Liga 4 Brașov, etapa 9 I Chimia Victoria a câștigat derbiul cu SR Brașov. Echipa lui Ionel Ganea e noul lider",
+      "url": "https://www.monitorulexpres.ro/2026/10/24/liga-4-brasov-etapa-9-i-chimia-victoria-a-castigat-derbiul-cu-sr-brasov-echipa-lui-ionel-ganea-e-noul-lider/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-24T20:29:36+03:00"
+    },
     {
       "title": "Marius Baciu, claustrofob dar copilot într-un Ferrari 488 Challenge Evo la Trofeul Poiana Brașov, alături de Radu Benea",
       "url": "https://newsbv.ro/marius-baciu-claustrofob-copilot-ferrari-488/",
@@ -249,13 +263,6 @@
       "published": "2026-10-23T17:49:02+03:00"
     },
     {
-      "title": "Doi căței adoptați de un liceu din Brașov! Betty și Lucky au devenit parte din familia Liceului Silvic (VIDEO)",
-      "url": "https://mytex.ro/educatie/doi-catei-adoptati-de-un-liceu-din-brasov-betty-si-lucky-au-devenit-parte-din-familia-liceului-silvic-video/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T17:22:30+03:00"
-    },
-    {
       "title": "Reguli mai stricte la parcările de reședință: Brașovenii cu mașini de firmă sau comodat riscă să rămână fără locuri",
       "url": "https://mytex.ro/expres/reguli-mai-stricte-la-parcarile-de-resedinta-brasovenii-cu-masini-de-firma-sau-comodat-risca-sa-ramana-fara-locuri/",
       "source": "MyTex",
@@ -438,13 +445,6 @@
       "published": "2026-10-23T12:13:07+03:00"
     },
     {
-      "title": "Liga 4 Brașov, etapa 9 | Chimia Victoria – SR Brașov, derby pentru șefia clasamentului!",
-      "url": "https://www.monitorulexpres.ro/2026/10/23/liga-4-brasov-etapa-9-chimia-victoria-sr-brasov-derby-pentru-sefia-clasamentului/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-23T11:51:09+03:00"
-    },
-    {
       "title": "VIDEO. A nins din nou pe Transfăgărășan! Drumarii intervin cu utilaje...",
       "url": "https://transilvania365.ro/video-a-nins-din-nou-pe-transfagarasan-drumarii-intervin-cu-utilaje-de-deszapezire/",
       "source": "Transilvania365",
@@ -520,62 +520,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-23T09:11:44+03:00"
-    },
-    {
-      "title": "Atenție, brașoveni! Autobuzele 2B și 9 își schimbă traseul timp de...",
-      "url": "https://transilvania365.ro/atentie-brasoveni-autobuzele-2b-si-9-isi-schimba-traseul-timp-de-o-saptamana-ce-statii-nu-vor-mai-fi-deservite/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:48:27+03:00"
-    },
-    {
-      "title": "Artist Talk la Muzeul de Artă Brașov, în cadrul expoziției de grup „Brașov, orașul (in)vizibil”",
-      "url": "https://newsbv.ro/artist-talk-la-muzeul-de-arta-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:40:02+03:00"
-    },
-    {
-      "title": "Misiune portocalie la Primăria Ghimbav. Primarul a jurizat dovlecii pregătiți de...",
-      "url": "https://transilvania365.ro/misiune-portocalie-la-primaria-ghimbav-primarul-a-jurizat-dovlecii-pregatiti-de-copii-pentru-halloween/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T08:37:57+03:00"
-    },
-    {
-      "title": "CSM Corona Brașov, săptămână cu două meciuri acasă în Divizia A1 de volei: Volei Alba Blaj și Rapid București",
-      "url": "https://newsbv.ro/volei-corona-brasov-doua-meciuri-acasa/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-23T08:35:35+03:00"
-    },
-    {
-      "title": "VIDEO. „Să nu-i uităm”! Johannes Honterus, sasul care a pus Brașovul...",
-      "url": "https://transilvania365.ro/video-sa-nu-i-uitam-johannes-honterus-sasul-care-a-pus-brasovul-pe-harta-culturii-europene/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:30:32+03:00"
-    },
-    {
-      "title": "Marian Godină zice că a dat lovitura: L-a trimis în judecată pe deputatul AUR de Brașov Dan Tanasă și acuză hărțuiri grave!",
-      "url": "https://mytex.ro/expres/marian-godina-zice-ca-a-dat-lovitura-l-a-trimis-in-judecata-pe-deputatul-aur-de-brasov-dan-tanasa-si-acuza-hartuiri-grave/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:28:22+03:00"
-    },
-    {
-      "title": "Biblioteca Județeană Brașov a donat 10 cutii cu capace din plastic...",
-      "url": "https://transilvania365.ro/biblioteca-judeteana-brasov-a-donat-10-cutii-cu-capace-din-plastic-asociatiei-capace-cu-suflet/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:16:23+03:00"
-    },
-    {
-      "title": "Lucian Pătrașcu, viceprimarul Brașovului, pelerinaj la Vârful Athon: „Mai aproape de cer. Mai aproape de Dumnezeu”",
-      "url": "https://mytex.ro/expres/lucian-patrascu-viceprimarul-brasovului-pelerinaj-la-varful-athon-mai-aproape-de-cer-mai-aproape-de-dumnezeu/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T08:07:55+03:00"
     }
   ]
 }
