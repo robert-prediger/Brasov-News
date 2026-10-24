@@ -1,8 +1,15 @@
 {
-  "updated": "24.10.2026, 07:00",
-  "count": 80,
-  "raw_count": 93,
+  "updated": "24.10.2026, 08:00",
+  "count": 79,
+  "raw_count": 92,
   "items": [
+    {
+      "title": "Coliziune frontală între un TIR şi un autoturism, pe DN 11, în judeţul Braşov. O persoană a murit. Traficul este blocat în Prejmer",
+      "url": "https://newsbv.ro/coliziune-frontala-tir-autoturism-dn-11/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T07:44:22+03:00"
+    },
     {
       "title": "Săcele: Traseul autobuzelor RATBV 710, deviat duminică, pentru ceremonialul dedicat Zilei Armatei Române",
       "url": "https://newsbv.ro/sacele-traseul-710-deviat-duminica/",
@@ -340,13 +347,6 @@
       "published": "2026-10-23T11:18:12+03:00"
     },
     {
-      "title": "România are peste 16.000 de structuri de cazare turistică. Constanța conduce clasamentul, iar Brașovul ocupă locul al doilea",
-      "url": "https://newsbv.ro/ins-capacitate-cazare-turistica-2026-constanta-brasov/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T11:11:39+03:00"
-    },
-    {
       "title": "Contract de 135,5 milioane de lei pentru securitatea aeroporturilor din România, câștigat de o firmă cu 4 angajați. Aeroportul Brașov, inclus în sistemul informatic al SRI",
       "url": "https://bizbrasov.ro/2026/10/23/contract-securitatea-aeroporturilor-firma/",
       "source": "BizBrașov",
@@ -373,13 +373,6 @@
       "source": "Transilvania365",
       "category": "💰 Business & economie",
       "published": "2026-10-23T11:00:54+03:00"
-    },
-    {
-      "title": "Cutremur în miez de noapte, la 84 de kilometri de Braşov",
-      "url": "https://newsbv.ro/cutremur-in-miez-de-noapte/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T10:52:46+03:00"
     },
     {
       "title": "Brașoveanul Cosmin Cristea, desemnat „Directorul Anului pentru Inovare”. A adus meseriile viitorului în programa națională",
