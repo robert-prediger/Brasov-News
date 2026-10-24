@@ -1,21 +1,35 @@
 {
-  "updated": "24.10.2026, 14:00",
-  "count": 80,
-  "raw_count": 91,
+  "updated": "24.10.2026, 15:00",
+  "count": 81,
+  "raw_count": 93,
   "items": [
+    {
+      "title": "Accident Fatal pe DN 11 la Prejmer",
+      "url": "https://www.zmbv.ro/accident-fatal-pe-dn-11-la-prejmer/24/10/2026/120636/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T14:14:04+03:00"
+    },
+    {
+      "title": "BRAȘOV | Bărbatul care și-a atacat soția cu un cuțit, pe Bulevardul Saturn, ar mai fi vrut să se sinucidă. Erau în pragul divorțului (VIDEO)",
+      "url": "https://mytex.ro/112/brasov-barbatul-care-si-a-atacat-sotia-cu-un-cutit-pe-bulevardul-saturn-ar-mai-fi-incercat-sa-se-sinucida-erau-in-pragul-divortului-video/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-24T14:11:13+03:00"
+    },
+    {
+      "title": "Divorțul ar fi declanșat scenele violente dintr-un apartament din Brașov. Un copil de 9 ani a asistat la atacul cu cuțitul asupra mamei sale, iar apoi tatăl său s-a încuiat în casă și s-a înjunghiat",
+      "url": "https://bizbrasov.ro/2026/10/24/divort-scene-violent-apartament-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T14:10:51+03:00"
+    },
     {
       "title": "Cod Galben de Ceață în Brașov și Alte 16 Județe",
       "url": "https://www.zmbv.ro/cod-galben-de-ceata-in-brasov-si-alte-16-judete/24/10/2026/120627/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🌦️ Meteo",
       "published": "2026-10-24T13:15:56+03:00"
-    },
-    {
-      "title": "Femeie din Brașov, înjunghiată de soț în fața copiilor",
-      "url": "https://www.zmbv.ro/femeie-din-brasov-injunghiata-de-sot-in-fata-copiilor/24/10/2026/120625/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-24T13:15:32+03:00"
     },
     {
       "title": "Piese de port săsesc furate dintr-o biserică din Brașov",
@@ -72,20 +86,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-24T10:43:42+03:00"
-    },
-    {
-      "title": "Accident pe DN 11, la Prejmer, între un TIR și un autoturism. Șoferul mașinii a murit",
-      "url": "https://newsbv.ro/accident-pe-dn-11-la-prejmer/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-24T10:21:16+03:00"
-    },
-    {
-      "title": "BRAȘOV | Accident grav pe DN 11, lângă Prejmer! Trafic blocat la primele ore ale zilei",
-      "url": "https://mytex.ro/112/brasov-accident-grav-pe-dn-11-langa-prejmer-trafic-blocat-la-primele-ore-ale-zilei/",
-      "source": "MyTex",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-24T10:05:45+03:00"
     },
     {
       "title": "Scene de coșmar sub privirile copiilor. O femeie din Brașov a cerut ajutor cu ultimele puteri după un atac sângeros al soțului, în timp ce acesta a încercat să își pună capăt zilelor",
@@ -149,6 +149,13 @@
       "source": "Monitorul Expres",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-24T08:16:18+03:00"
+    },
+    {
+      "title": "Coliziune frontală între un TIR şi un autoturism, pe DN 11, în judeţul Braşov. O persoană a murit. Traficul este blocat în Prejmer",
+      "url": "https://newsbv.ro/coliziune-frontala-tir-autoturism-dn-11/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T07:44:22+03:00"
     },
     {
       "title": "Săcele: Traseul autobuzelor RATBV 710, deviat duminică, pentru ceremonialul dedicat Zilei Armatei Române",
