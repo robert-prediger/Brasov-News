@@ -1,28 +1,42 @@
 {
-  "updated": "24.10.2026, 11:00",
-  "count": 84,
-  "raw_count": 97,
+  "updated": "24.10.2026, 12:00",
+  "count": 81,
+  "raw_count": 94,
   "items": [
+    {
+      "title": "Cinci artiști contemporani într-un Artist Talk despre spații urbane și practici artistice, la Muzeul de Artă Brașov",
+      "url": "https://brasovstiri.ro/cinci-artisti-contemporani-intr-un-artist-talk-despre-spatii-urbane-si-practici-artistice-la-muzeul-de-arta-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-24T11:54:48+03:00"
+    },
+    {
+      "title": "Au aruncat doi câini în curtea Adăpostului din Brașov și au plecat! Poliția încearcă să-i identifice pe făptași",
+      "url": "https://transilvania365.ro/au-aruncat-doi-caini-in-curtea-adapostului-din-brasov-si-au-plecat-politia-incearca-sa-i-identifice-pe-faptasi/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-24T11:53:19+03:00"
+    },
+    {
+      "title": "Accident mortal pe DN11, între Lunca Câlnicului și Hărman. Un tânăr de 24 de ani a murit după o coliziune frontală",
+      "url": "https://brasovstiri.ro/accident-mortal-pe-dn11-intre-lunca-calnicului-si-harman-un-tanar-de-24-de-ani-a-murit-dupa-o-coliziune-frontala/",
+      "source": "Brașov Știri",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T11:49:52+03:00"
+    },
+    {
+      "title": "BRAȘOV | Tentativă de omor în cazul agresiunii de pe Bulevardul Saturn! Dosarul, preluat de Parchetul de pe lângă Tribunal",
+      "url": "https://mytex.ro/112/brasov-tentativa-de-omor-in-cazul-agresiunii-de-pe-bulevardul-saturn-dosarul-preluat-de-parchetul-de-pe-langa-tribunal/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-24T11:30:14+03:00"
+    },
     {
       "title": "Ron Pasco, noul antrenor principal al echipei naționale de hochei, a fost prezentat la Braşov",
       "url": "https://newsbv.ro/ron-pasco-noul-antrenor-principal-hochei/",
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-24T10:43:42+03:00"
-    },
-    {
-      "title": "Accident pe DN 11, la Prejmer, între un TIR și un autoturism. Șoferul mașinii a murit",
-      "url": "https://newsbv.ro/accident-pe-dn-11-la-prejmer/",
-      "source": "NewsBV",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-24T10:21:16+03:00"
-    },
-    {
-      "title": "Conflict conjugal pe bulevardul Saturn, Brașov",
-      "url": "https://www.zmbv.ro/conflict-conjugal-pe-bulevardul-saturn-brasov/24/10/2026/120602/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-24T10:16:33+03:00"
     },
     {
       "title": "BRAȘOV | Accident grav pe DN 11, lângă Prejmer! Trafic blocat la primele ore ale zilei",
@@ -65,13 +79,6 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-24T09:10:00+03:00"
-    },
-    {
-      "title": "Util acum 39 de minute Atenție, șoferi! Cod galben de ceață densă în județul Brașov",
-      "url": "https://www.brasov.net/atentie-soferi-cod-galben-de-ceata-densa-in-judetul-brasov/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-24T09:00:57+03:00"
     },
     {
       "title": "Directorul Colegiului Tehnic Energetic din Brașov, premiat la Gala Premiilor pentru Directorii Anului 2026",
@@ -263,13 +270,6 @@
       "published": "2026-10-23T14:48:29+03:00"
     },
     {
-      "title": "Eveniment acum 19 ore O nouă generație de viitori ofițeri a depus Jurământul Militar în Piața Sfatului din Brașov",
-      "url": "https://www.brasov.net/o-noua-generatie-de-viitori-ofiteri-a-depus-juramantul-militar-in-piata-sfatului-din-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-23T14:46:34+03:00"
-    },
-    {
       "title": "BRAȘOV | Bătaie în curtea unei case din Prejmer!",
       "url": "https://mytex.ro/112/brasov-bataie-in-curtea-unei-case-din-prejmer/",
       "source": "MyTex",
@@ -296,13 +296,6 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-23T14:12:54+03:00"
-    },
-    {
-      "title": "Administrație acum 20 de ore Brașovul face pași importanți pentru a deveni centrul sportului paralimpic din România",
-      "url": "https://www.brasov.net/brasovul-face-pasi-importanti-pentru-a-deveni-centrul-sportului-paralimpic-din-romania/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T14:10:09+03:00"
     },
     {
       "title": "Parcul Național Munții Făgăraș nu se poate înființa fără consultarea comunităților locale",
@@ -333,25 +326,11 @@
       "published": "2026-10-23T13:52:31+03:00"
     },
     {
-      "title": "Social acum 20 de ore FOTO / „Săptămâna Altfel” la pompierii brașoveni",
-      "url": "https://www.brasov.net/foto-saptamana-altfel-la-pompierii-brasoveni/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:43:53+03:00"
-    },
-    {
       "title": "Concurs de istorie dedicat Zilei Armatei României, organizat pentru elevii din Brașov",
       "url": "https://brasovstiri.ro/concurs-de-istorie-dedicat-zilei-armatei-romaniei-organizat-pentru-elevii-din-brasov/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-23T13:40:15+03:00"
-    },
-    {
-      "title": "Social acum 20 de ore Patru directori care schimbă educația din România, printre care și unul din Brașov. Cine sunt câștigătorii Galei Directorilor Anului 2026",
-      "url": "https://www.brasov.net/patru-directori-care-schimba-educatia-din-romania-printre-care-si-unul-din-brasov-cine-sunt-castigatorii-galei-directorilor-anului-2026/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:34:53+03:00"
     },
     {
       "title": "FOTO Iarnă în toată regula în Postăvatul. Ninge în în Munţii Făgăraş şi la Vf. Omu",
@@ -394,13 +373,6 @@
       "source": "Brașov Știri",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-23T12:22:46+03:00"
-    },
-    {
-      "title": ",,Copilărie”, tema sărbătorilor de iarnă și a iluminatului de sărbători în Brașov",
-      "url": "https://brasovstiri.ro/copilarie-tema-sarbatorilor-de-iarna-si-a-iluminatului-de-sarbatori-in-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-23T12:19:01+03:00"
     },
     {
       "title": "A nins din nou pe Transfăgărășan! Avertisment pentru șoferi",
@@ -492,6 +464,13 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-23T09:11:44+03:00"
+    },
+    {
+      "title": "„Copilărie”, tema sărbătorilor de iarnă la Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/23/copilarie-tema-sarbatorilor-de-iarna-la-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-23T08:57:00+03:00"
     },
     {
       "title": "Atenție, brașoveni! Autobuzele 2B și 9 își schimbă traseul timp de...",
