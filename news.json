@@ -1,8 +1,15 @@
 {
-  "updated": "24.10.2026, 22:00",
-  "count": 66,
-  "raw_count": 80,
+  "updated": "24.10.2026, 23:00",
+  "count": 70,
+  "raw_count": 85,
   "items": [
+    {
+      "title": "Liga 3, etapa 10| Corona Brașov a zdrobit Zărneștiul! Scor de tenis în derby",
+      "url": "https://www.monitorulexpres.ro/2026/10/24/liga-3-etapa-10-corona-brasov-a-zdrobit-zarnestiul-scor-de-tenis-in-derby/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-24T22:02:57+03:00"
+    },
     {
       "title": "Victorie importantă pentru Corona Brașov în Divizia A1 la volei feminin! Succes cu 3-2 pe terenul Constanței",
       "url": "https://newsbv.ro/constanta-corona-brasov-2-3-volei-feminin/",
@@ -11,18 +18,18 @@
       "published": "2026-10-24T21:43:28+03:00"
     },
     {
-      "title": "Liga 3, etapa a 10-a: CSM Corona Brașov – Olimpic Zărnești 8-0. Victorie categorică pentru brașoveni",
-      "url": "https://newsbv.ro/corona-brasov-olimpic-zarnesti-8-0-liga-3/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-24T20:57:28+03:00"
-    },
-    {
       "title": "Liga 4 Brașov, etapa 9 I Chimia Victoria a câștigat derbiul cu SR Brașov. Echipa lui Ionel Ganea e noul lider",
       "url": "https://www.monitorulexpres.ro/2026/10/24/liga-4-brasov-etapa-9-i-chimia-victoria-a-castigat-derbiul-cu-sr-brasov-echipa-lui-ionel-ganea-e-noul-lider/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-24T20:29:36+03:00"
+    },
+    {
+      "title": "Spectacol în nocturnă: Corona Brașov a spulberat-o pe Olimpic Zărnești si s-a desprins în fruntea seriei din Liga 3",
+      "url": "https://mytex.ro/sport/spectacol-in-nocturna-corona-brasov-a-spulberat-o-pe-olimpic-zarnesti-si-s-a-desprins-in-fruntea-seriei-din-liga-3/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-24T20:16:09+03:00"
     },
     {
       "title": "Marius Baciu, claustrofob dar copilot într-un Ferrari 488 Challenge Evo la Trofeul Poiana Brașov, alături de Radu Benea",
@@ -109,6 +116,20 @@
       "published": "2026-10-24T12:39:31+03:00"
     },
     {
+      "title": "Avertisment Salvamont Brașov: Condiții de iarnă pe traseele montane și reguli stricte pentru turiști",
+      "url": "https://www.brasov.net/avertisment-salvamont-brasov-conditii-de-iarna-pe-traseele-montane-si-reguli-stricte-pentru-turisti/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T12:10:50+03:00"
+    },
+    {
+      "title": "Eveniment acum 21 de minute VIDEO / Șocant: Femeie din Brașov, înjunghiată de soț sub privirile copiilor. Agresorul a încercat să se sinucidă",
+      "url": "https://www.brasov.net/video-socant-femeie-din-brasov-injunghiata-de-sot-sub-privirile-copiilor-agresorul-a-incercat-sa-se-sinucida/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-24T12:01:15+03:00"
+    },
+    {
       "title": "Cinci artiști contemporani într-un Artist Talk despre spații urbane și practici artistice, la Muzeul de Artă Brașov",
       "url": "https://brasovstiri.ro/cinci-artisti-contemporani-intr-un-artist-talk-despre-spatii-urbane-si-practici-artistice-la-muzeul-de-arta-brasov/",
       "source": "Brașov Știri",
@@ -163,6 +184,13 @@
       "source": "Monitorul Expres",
       "category": "🎭 Evenimente & timp liber",
       "published": "2026-10-24T09:19:45+03:00"
+    },
+    {
+      "title": "Util acum 3 ore Atenție, șoferi! Cod galben de ceață densă în județul Brașov",
+      "url": "https://www.brasov.net/atentie-soferi-cod-galben-de-ceata-densa-in-judetul-brasov/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T09:00:57+03:00"
     },
     {
       "title": "Directorul Colegiului Tehnic Energetic din Brașov, premiat la Gala Premiilor pentru Directorii Anului 2026",
@@ -226,13 +254,6 @@
       "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-23T20:43:23+03:00"
-    },
-    {
-      "title": "Liga 3 | ACS Mediaș a egalat Corona la puncte! Derby brașovean pentru șefia seriei",
-      "url": "https://www.monitorulexpres.ro/2026/10/23/liga-3-acs-medias-a-egalat-corona-la-puncte-derby-brasovean-pentru-sefia-seriei/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-23T20:00:11+03:00"
     },
     {
       "title": "Trei brașoveni, printre care o femeie, condamnați pentru trafic de droguri, au ajuns în penitenciar",
@@ -319,6 +340,13 @@
       "published": "2026-10-23T14:55:26+03:00"
     },
     {
+      "title": "Eveniment acum 22 de ore O nouă generație de viitori ofițeri a depus Jurământul Militar în Piața Sfatului din Brașov",
+      "url": "https://www.brasov.net/o-noua-generatie-de-viitori-ofiteri-a-depus-juramantul-militar-in-piata-sfatului-din-brasov/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-23T14:46:34+03:00"
+    },
+    {
       "title": "BRAȘOV | Bătaie în curtea unei case din Prejmer!",
       "url": "https://mytex.ro/112/brasov-bataie-in-curtea-unei-case-din-prejmer/",
       "source": "MyTex",
@@ -345,6 +373,13 @@
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-23T14:12:54+03:00"
+    },
+    {
+      "title": "Administrație acum 22 de ore Brașovul face pași importanți pentru a deveni centrul sportului paralimpic din România",
+      "url": "https://www.brasov.net/brasovul-face-pasi-importanti-pentru-a-deveni-centrul-sportului-paralimpic-din-romania/",
+      "source": "Brașov.net",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-23T14:10:09+03:00"
     },
     {
       "title": "Parcul Național Munții Făgăraș nu se poate înființa fără consultarea comunităților locale",
@@ -457,13 +492,6 @@
       "source": "Transilvania365",
       "category": "💰 Business & economie",
       "published": "2026-10-23T11:00:54+03:00"
-    },
-    {
-      "title": "Reguli noi pentru parcările publice din Brașov: abonamente pentru riverani, tarife majorate și amenzi care pot fi evitate. Ce propuneri ale brașovenilor au fost acceptate și ce solicitări au fost respinse",
-      "url": "https://bizbrasov.ro/2026/10/23/parcare-brasov-riverani-propuneri-accept/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-23T10:13:09+03:00"
     }
   ]
 }
