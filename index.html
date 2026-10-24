@@ -53,7 +53,16 @@ function titleWords(title){
    "incendiul":"incendiu",
    "decedat":"deces","decedata":"deces","decedata":"deces",
    "murit":"deces","moarta":"deces","moarte":"deces",
-   "femeie":"persoana","tanara":"persoana",
+   "sotia":"partener","sotiei":"partener","sot":"partener","sotul":"partener",
+   "sotului":"partener","soti":"partener","sotii":"partener",
+   "partenera":"partener","partenerei":"partener",
+   "atacat":"atac","atacul":"atac","agresiune":"atac","agresiunii":"atac",
+   "injunghiata":"injunghiere","injunghiat":"injunghiere",
+   "cutitul":"cutit","conjugal":"conjugal",
+   "caini":"caine","catei":"caine","catelusi":"caine",
+   "aruncat":"abandon","aruncati":"abandon",
+   "adapostului":"adapost","curtea":"curte",
+   "divortului":"divort","copiilor":"copil","copilului":"copil","copii":"copil",
    "pacienti":"pacient","evacuati":"evacuare","evacuat":"evacuare",
    "victorie":"castig","victoria":"castig","invins":"castig",
    "steaua":"steaua","rosie":"rosie",
@@ -84,6 +93,25 @@ function sameTopic(a,b){
  const A=new Set(titleWords(a));
  const B=new Set(titleWords(b));
  if(!A.size || !B.size) return false;
+
+ /* Ancore semantice: cerem atât relația, cât și tipul incidentului.
+    Nu grupăm două știri numai pentru că vorbesc despre o femeie sau un oraș. */
+ const domestic=S=>S.has("partener") &&
+   hasAny(S,["atac","injunghiere","conjugal","cutit"]);
+ if(domestic(A) && domestic(B)){
+   const places=["sacele","saturn","prejmer","codlea","rasnov","zarnesti","fagaras"];
+   const pA=places.filter(p=>A.has(p)), pB=places.filter(p=>B.has(p));
+   if(!pA.length || !pB.length || pA.some(p=>pB.includes(p))){
+     const knife=S=>hasAny(S,["cutit","injunghiere"]);
+     if((knife(A)&&knife(B)) ||
+        (A.has("conjugal")&&B.has("conjugal")) ||
+        (A.has("saturn")&&B.has("saturn")) ||
+        (hasAny(A,["copil","divort"])&&hasAny(B,["copil","divort"]))) return true;
+   }
+ }
+ if(A.has("caine")&&B.has("caine")&&
+    A.has("adapost")&&B.has("adapost")&&
+    A.has("abandon")&&B.has("abandon")) return true;
 
  const common=[...A].filter(w=>B.has(w));
  const smaller=Math.min(A.size,B.size);
@@ -125,21 +153,31 @@ function sameTopic(a,b){
 }
 
 function getBriefItems(items,limit=5){
- const chosen=[];
-
- /* Caută prin toată lista până găsește 5 evenimente distincte. */
+ if(limit<=0) return [];
+ const groups=[];
+ const withinWindow=(a,b)=>{
+   const ta=Date.parse(a.published),tb=Date.parse(b.published);
+   return !Number.isFinite(ta)||!Number.isFinite(tb)||Math.abs(ta-tb)<=36*60*60*1000;
+ };
+ /* Verificăm și variantele omise: o actualizare poate lega două formulări
+    care nu au suficiente cuvinte comune cu titlul ales inițial. */
  for(const item of items){
    if(!item || !item.title) continue;
-
-   const duplicate=chosen.some(existing=>
-     sameTopic(item.title,existing.title)
-   );
-
-   if(!duplicate) chosen.push(item);
-   if(chosen.length>=limit) break;
+   const matches=[];
+   groups.forEach((group,i)=>{
+     if(group.some(other=>withinWindow(item,other)&&
+       (normalizeTitle(item.title)===normalizeTitle(other.title)||
+        sameTopic(item.title,other.title)))) matches.push(i);
+   });
+   if(!matches.length){groups.push([item]);continue;}
+   const group=groups[matches[0]];
+   group.push(item);
+   for(let i=matches.length-1;i>=1;i--){
+     group.push(...groups[matches[i]]);
+     groups.splice(matches[i],1);
+   }
  }
-
- return chosen;
+ return groups.slice(0,limit).map(group=>group[0]);
 }
 
 function draw(cat=ACTIVE_CATEGORY){
