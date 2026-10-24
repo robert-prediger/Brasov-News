@@ -1,8 +1,22 @@
 {
-  "updated": "25.10.2026, 01:00",
-  "count": 65,
-  "raw_count": 81,
+  "updated": "25.10.2026, 02:00",
+  "count": 52,
+  "raw_count": 65,
   "items": [
+    {
+      "title": "Atac Sângeros în Brașov: Copil Martor la Tragedie",
+      "url": "https://www.zmbv.ro/atac-sangeros-in-brasov-copil-martor-la-tragedie/25/10/2026/120657/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-25T01:14:41+03:00"
+    },
+    {
+      "title": "Tren internațional întârziat 10 ore între Brașov și Sighișoara",
+      "url": "https://www.zmbv.ro/tren-international-intarziat-10-ore-intre-brasov-si-sighisoara/25/10/2026/120653/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-25T01:14:12+03:00"
+    },
     {
       "title": "Câini abandonați la adăpostul din Brașov",
       "url": "https://www.zmbv.ro/caini-abandonati-la-adapostul-din-brasov/24/10/2026/120651/",
@@ -16,20 +30,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-24T23:15:12+03:00"
-    },
-    {
-      "title": "Marius Baciu, Copilot în Ferrari la Poiana Brașov",
-      "url": "https://www.zmbv.ro/marius-baciu-copilot-in-ferrari-la-poiana-brasov/24/10/2026/120645/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-24T23:14:59+03:00"
-    },
-    {
-      "title": "Corona Brașov zdrobește Olimpic Zărnești cu 8-0",
-      "url": "https://www.zmbv.ro/corona-brasov-zdrobeste-olimpic-zarnesti-cu-8-0/24/10/2026/120643/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-24T23:14:47+03:00"
     },
     {
       "title": "Liga 3, etapa 10| Corona Brașov a zdrobit Zărneștiul! Scor de tenis în derby",
@@ -60,18 +60,18 @@
       "published": "2026-10-24T20:16:09+03:00"
     },
     {
+      "title": "Marius Baciu, claustrofob dar copilot într-un Ferrari 488 Challenge Evo la Trofeul Poiana Brașov, alături de Radu Benea",
+      "url": "https://newsbv.ro/marius-baciu-claustrofob-copilot-ferrari-488/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-24T18:35:39+03:00"
+    },
+    {
       "title": "BRAȘOV | Un tânăr din Săcele, arestat preventiv pentru 30 de zile după ce și-ar fi agresat și amenințat partenera",
       "url": "https://mytex.ro/112/brasov-un-tanar-din-sacele-arestat-preventiv-pentru-30-de-zile-dupa-ce-si-ar-fi-agresat-si-amenintat-partenera/",
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-24T17:16:00+03:00"
-    },
-    {
-      "title": "Un nou „record” la CFR: un tren internațional a făcut 10 ore de la Brașov, la Sighișoara",
-      "url": "https://bizbrasov.ro/2026/10/24/record-cfr-tren-brasov-sighisoara/",
-      "source": "BizBrașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-24T15:25:32+03:00"
     },
     {
       "title": "Prețurile pentru un sejur de Revelion la hotelul Simonei Halep din Poiana Brașov pleacă de la 2.860 de euro pentru un cuplu",
@@ -109,20 +109,6 @@
       "published": "2026-10-24T13:15:56+03:00"
     },
     {
-      "title": "Piese de port săsesc furate dintr-o biserică din Brașov",
-      "url": "https://www.zmbv.ro/piese-de-port-sasesc-furate-dintr-o-biserica-din-brasov/24/10/2026/120620/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-24T13:14:48+03:00"
-    },
-    {
-      "title": "Atac Sângeros în Brașov: Femeie Înjunghiată de Soț",
-      "url": "https://www.zmbv.ro/atac-sangeros-in-brasov-femeie-injunghiata-de-sot/24/10/2026/120618/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-24T13:14:34+03:00"
-    },
-    {
       "title": "Tânăr de 24 de ani, mort într-un accident între Lunca Câlnicului și Hărman",
       "url": "https://www.monitorulexpres.ro/2026/10/24/tanar-de-24-de-ani-mort-intr-un-accident-intre-lunca-calnicului-si-harman/",
       "source": "Monitorul Expres",
@@ -135,20 +121,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-24T12:39:31+03:00"
-    },
-    {
-      "title": "Avertisment Salvamont Brașov: Condiții de iarnă pe traseele montane și reguli stricte pentru turiști",
-      "url": "https://www.brasov.net/avertisment-salvamont-brasov-conditii-de-iarna-pe-traseele-montane-si-reguli-stricte-pentru-turisti/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-24T12:10:50+03:00"
-    },
-    {
-      "title": "Eveniment acum 12 ore VIDEO / Șocant: Femeie din Brașov, înjunghiată de soț sub privirile copiilor. Agresorul a încercat să se sinucidă",
-      "url": "https://www.brasov.net/video-socant-femeie-din-brasov-injunghiata-de-sot-sub-privirile-copiilor-agresorul-a-incercat-sa-se-sinucida/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-24T12:01:15+03:00"
     },
     {
       "title": "Cinci artiști contemporani într-un Artist Talk despre spații urbane și practici artistice, la Muzeul de Artă Brașov",
@@ -207,11 +179,11 @@
       "published": "2026-10-24T09:19:45+03:00"
     },
     {
-      "title": "Util acum 15 ore Atenție, șoferi! Cod galben de ceață densă în județul Brașov",
-      "url": "https://www.brasov.net/atentie-soferi-cod-galben-de-ceata-densa-in-judetul-brasov/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-24T09:00:57+03:00"
+      "title": "Cinci piese de port săsesc furate dintr-o biserică fortificată din județul Brașov: „Nu sunt doar textile. Sunt biografii cusute”",
+      "url": "https://bizbrasov.ro/2026/10/24/port-sasesc-furat-biserica-fortificata-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-24T09:10:00+03:00"
     },
     {
       "title": "Directorul Colegiului Tehnic Energetic din Brașov, premiat la Gala Premiilor pentru Directorii Anului 2026",
@@ -361,13 +333,6 @@
       "published": "2026-10-23T14:55:26+03:00"
     },
     {
-      "title": "Eveniment acum o zi O nouă generație de viitori ofițeri a depus Jurământul Militar în Piața Sfatului din Brașov",
-      "url": "https://www.brasov.net/o-noua-generatie-de-viitori-ofiteri-a-depus-juramantul-militar-in-piata-sfatului-din-brasov/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-23T14:46:34+03:00"
-    },
-    {
       "title": "BRAȘOV | Bătaie în curtea unei case din Prejmer!",
       "url": "https://mytex.ro/112/brasov-bataie-in-curtea-unei-case-din-prejmer/",
       "source": "MyTex",
@@ -396,67 +361,11 @@
       "published": "2026-10-23T14:12:54+03:00"
     },
     {
-      "title": "Administrație acum o zi Brașovul face pași importanți pentru a deveni centrul sportului paralimpic din România",
-      "url": "https://www.brasov.net/brasovul-face-pasi-importanti-pentru-a-deveni-centrul-sportului-paralimpic-din-romania/",
-      "source": "Brașov.net",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T14:10:09+03:00"
-    },
-    {
       "title": "Parcul Național Munții Făgăraș nu se poate înființa fără consultarea comunităților locale",
       "url": "https://newsbv.ro/parcul-national-muntii-fagaras-consultarea-comunitatilor/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-23T14:08:40+03:00"
-    },
-    {
-      "title": "Patru linii metropolitane și una din Brașov își modifică graficele de circulație pe parcursul săptămânii viitoare",
-      "url": "https://bizbrasov.ro/2026/10/23/linii-metropolitane-brasov-circulatie/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:58:57+03:00"
-    },
-    {
-      "title": "Brașovul vrea să devină un centru important pentru sportul paralimpic din România",
-      "url": "https://newsbv.ro/sportul-paralimpic-romania/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:52:31+03:00"
-    },
-    {
-      "title": "Concurs de istorie dedicat Zilei Armatei României, organizat pentru elevii din Brașov",
-      "url": "https://brasovstiri.ro/concurs-de-istorie-dedicat-zilei-armatei-romaniei-organizat-pentru-elevii-din-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:40:15+03:00"
-    },
-    {
-      "title": "Social acum o zi Patru directori care schimbă educația din România, printre care și unul din Brașov. Cine sunt câștigătorii Galei Directorilor Anului 2026",
-      "url": "https://www.brasov.net/patru-directori-care-schimba-educatia-din-romania-printre-care-si-unul-din-brasov-cine-sunt-castigatorii-galei-directorilor-anului-2026/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:34:53+03:00"
-    },
-    {
-      "title": "Turism acum o zi A nins din nou pe Transfăgărășan, se circulă în condiții de iarnă",
-      "url": "https://www.brasov.net/a-nins-din-nou-pe-transfagarasan-se-circula-in-conditii-de-iarna/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-23T13:12:15+03:00"
-    },
-    {
-      "title": "FOTO Iarnă în toată regula în Postăvatul. Ninge în în Munţii Făgăraş şi la Vf. Omu",
-      "url": "https://newsbv.ro/iarna-in-toata-regula-in-postavatul/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T13:06:10+03:00"
-    },
-    {
-      "title": "România joacă astăzi cu Croația. Patru handbaliste de la Corona Brașov, în lotul naționalei",
-      "url": "https://www.monitorulexpres.ro/2026/10/23/romania-joaca-astazi-cu-croatia-patru-handbaliste-de-la-corona-brasov-in-lotul-nationalei/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-23T13:04:20+03:00"
     }
   ]
 }
