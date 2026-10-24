@@ -1,8 +1,15 @@
 {
-  "updated": "24.10.2026, 06:00",
+  "updated": "24.10.2026, 07:00",
   "count": 80,
-  "raw_count": 94,
+  "raw_count": 93,
   "items": [
+    {
+      "title": "Săcele: Traseul autobuzelor RATBV 710, deviat duminică, pentru ceremonialul dedicat Zilei Armatei Române",
+      "url": "https://newsbv.ro/sacele-traseul-710-deviat-duminica/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T06:39:18+03:00"
+    },
     {
       "title": "Săptămâna Altfel la ISU Brașov: Lecții de viață",
       "url": "https://www.zmbv.ro/saptamana-altfel-la-isu-brasov-lectii-de-viata/24/10/2026/120582/",
@@ -555,13 +562,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-22T21:14:16+03:00"
-    },
-    {
-      "title": "Subprefecta USR de Brașov și-a anunțat demisia",
-      "url": "https://www.monitorulexpres.ro/2026/10/22/subprefecta-usr-de-brasov-si-a-anuntat-demisia/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-22T18:35:16+03:00"
     }
   ]
 }
