@@ -1,5 +1,5 @@
 {
-  "updated": "25.10.2026, 05:00",
+  "updated": "25.10.2026, 06:00",
   "count": 40,
   "raw_count": 51,
   "items": [
@@ -9,6 +9,13 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-25T01:14:41+03:00"
+    },
+    {
+      "title": "Hepatita A a umplut până la refuz Spitalul de Boli Infecțioase Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/25/hepatita-a-a-umplut-pana-la-refuz-spitalul-de-boli-infectioase-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-25T00:15:22+03:00"
     },
     {
       "title": "Câini abandonați la adăpostul din Brașov",
@@ -275,13 +282,6 @@
       "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-23T19:46:06+03:00"
-    },
-    {
-      "title": "Reguli mai stricte la parcările de reședință: Brașovenii cu mașini de firmă sau comodat riscă să rămână fără locuri",
-      "url": "https://mytex.ro/expres/reguli-mai-stricte-la-parcarile-de-resedinta-brasovenii-cu-masini-de-firma-sau-comodat-risca-sa-ramana-fara-locuri/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T17:19:31+03:00"
     }
   ]
 }
