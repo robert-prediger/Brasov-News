@@ -1,7 +1,7 @@
 {
-  "updated": "26.10.2026, 00:00",
-  "count": 42,
-  "raw_count": 53,
+  "updated": "26.10.2026, 01:00",
+  "count": 38,
+  "raw_count": 50,
   "items": [
     {
       "title": "Bărbat Arestat pentru Violență Domestică în Brașov",
@@ -23,13 +23,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-25T23:15:18+02:00"
-    },
-    {
-      "title": "Prefectul Brașovului Demisionează după 7 Ani de Mandat",
-      "url": "https://www.zmbv.ro/prefectul-brasovului-demisioneaza-dupa-7-ani-de-mandat/26/10/2026/120706/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-25T23:14:55+02:00"
     },
     {
       "title": "BRAȘOV | Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
@@ -123,7 +116,7 @@
       "published": "2026-10-25T12:59:49+02:00"
     },
     {
-      "title": "VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
+      "title": "Eveniment acum 12 ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov Un bărbat în vârstă de 28 de ani a fost arestat preventiv pentru 30 de zile, după ce și-ar fi...",
       "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -228,13 +221,6 @@
       "published": "2026-10-24T18:35:39+03:00"
     },
     {
-      "title": "BRAȘOV | Un tânăr din Săcele, arestat preventiv pentru 30 de zile după ce și-ar fi agresat și amenințat partenera",
-      "url": "https://mytex.ro/112/brasov-un-tanar-din-sacele-arestat-preventiv-pentru-30-de-zile-dupa-ce-si-ar-fi-agresat-si-amenintat-partenera/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-24T17:16:00+03:00"
-    },
-    {
       "title": "Un nou „record” la CFR: un tren internațional a făcut 10 ore de la Brașov, la Sighișoara",
       "url": "https://bizbrasov.ro/2026/10/24/record-cfr-tren-brasov-sighisoara/",
       "source": "BizBrașov",
@@ -270,32 +256,18 @@
       "published": "2026-10-24T14:10:51+03:00"
     },
     {
+      "title": "Cod Galben de Ceață în Brașov și Alte 16 Județe",
+      "url": "https://www.zmbv.ro/cod-galben-de-ceata-in-brasov-si-alte-16-judete/24/10/2026/120627/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T13:15:56+03:00"
+    },
+    {
       "title": "Tânăr de 24 de ani, mort într-un accident între Lunca Câlnicului și Hărman",
       "url": "https://www.monitorulexpres.ro/2026/10/24/tanar-de-24-de-ani-mort-intr-un-accident-intre-lunca-calnicului-si-harman/",
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-24T13:03:43+03:00"
-    },
-    {
-      "title": "BRAȘOV | Doi cățeluși, aruncați peste gardul Adăpostului Public! Poliția face verificări",
-      "url": "https://mytex.ro/delicte/brasov-doi-catelusi-aruncati-peste-gardul-adapostului-public-politia-face-verificari/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-24T12:39:31+03:00"
-    },
-    {
-      "title": "Turism acum o zi Avertisment Salvamont Brașov: Condiții de iarnă pe traseele montane și reguli stricte pentru turiști",
-      "url": "https://www.brasov.net/avertisment-salvamont-brasov-conditii-de-iarna-pe-traseele-montane-si-reguli-stricte-pentru-turisti/",
-      "source": "Brașov.net",
-      "category": "🌦️ Meteo",
-      "published": "2026-10-24T12:10:50+03:00"
-    },
-    {
-      "title": "Eveniment acum o zi VIDEO / Șocant: Femeie din Brașov, înjunghiată de soț sub privirile copiilor. Agresorul a încercat să se sinucidă",
-      "url": "https://www.brasov.net/video-socant-femeie-din-brasov-injunghiata-de-sot-sub-privirile-copiilor-agresorul-a-incercat-sa-se-sinucida/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-24T12:01:15+03:00"
     }
   ]
 }
