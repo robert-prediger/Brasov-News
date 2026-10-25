@@ -1,14 +1,49 @@
 {
-  "updated": "25.10.2026, 13:00",
-  "count": 45,
-  "raw_count": 57,
+  "updated": "25.10.2026, 14:00",
+  "count": 48,
+  "raw_count": 62,
   "items": [
     {
-      "title": "Noul Orient Express a ajuns în această dimineață la Brașov. Pasagerii au plătit de la 20.000 de euro pentru o călătorie pe ruta Roma – Istanbul",
-      "url": "https://bizbrasov.ro/2026/10/25/orient-express-brasov-istanbul-roma/",
+      "title": "Tânăr arestat după ce și-a agresat prietena pe o stradă din Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/25/tanar-arestat-dupa-ce-si-a-agresat-prietena-pe-o-strada-din-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-25T13:41:16+02:00"
+    },
+    {
+      "title": "Brașovul își onorează militarii de Ziua Armatei Române. Tricolorul va lumina sigla de pe Tâmpa și clădirea Primăriei",
+      "url": "https://bizbrasov.ro/2026/10/25/brasov-militari-ziua-armatei-romane/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-25T12:59:49+02:00"
+      "published": "2026-10-25T13:16:39+02:00"
+    },
+    {
+      "title": "Bărbat arestat pentru agresiune în Brașov",
+      "url": "https://www.zmbv.ro/barbat-arestat-pentru-agresiune-in-brasov/25/10/2026/120687/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-25T13:16:06+02:00"
+    },
+    {
+      "title": "Halloween terifiant la Castelul Bran",
+      "url": "https://www.zmbv.ro/halloween-terifiant-la-castelul-bran/25/10/2026/120685/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-25T13:15:42+02:00"
+    },
+    {
+      "title": "Șoferi cu permisul suspendat și băuți, prinși la Brașov",
+      "url": "https://www.zmbv.ro/soferi-cu-permisul-suspendat-si-bauti-prinsi-la-brasov/25/10/2026/120681/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-25T13:15:05+02:00"
+    },
+    {
+      "title": "Orient Express ajunge la Brașov pe ruta Roma-Istanbul",
+      "url": "https://www.zmbv.ro/orient-express-ajunge-la-brasov-pe-ruta-roma-istanbul/25/10/2026/120679/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-25T13:14:45+02:00"
     },
     {
       "title": "VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
@@ -18,15 +53,8 @@
       "published": "2026-10-25T12:37:22+02:00"
     },
     {
-      "title": "Șoferi cu permisul suspendat, prinși în trafic la Brașov și Cincu. Doi dintre conducătorii auto erau și băuți",
-      "url": "https://bizbrasov.ro/2026/10/25/soferi-permis-trafic-brasov-cincu-bauti/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-25T12:35:14+02:00"
-    },
-    {
       "title": "Corona Brașov, victorie de moral în prima etapă a Diviziei A1 la volei masculin. Steaua, răpusă sub Tâmpa",
-      "url": "https://mytex.ro/mytex/corona-brasov-victorie-de-moral-steaua/",
+      "url": "https://mytex.ro/sport/corona-brasov-victorie-de-moral-steaua/",
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-25T11:33:57+02:00"
@@ -86,13 +114,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-25T06:49:15+02:00"
-    },
-    {
-      "title": "Atac Sângeros în Brașov: Copil Martor la Tragedie",
-      "url": "https://www.zmbv.ro/atac-sangeros-in-brasov-copil-martor-la-tragedie/25/10/2026/120657/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-25T01:14:41+03:00"
     },
     {
       "title": "Hepatita A a umplut până la refuz Spitalul de Boli Infecțioase Brașov",
@@ -312,11 +333,11 @@
       "published": "2026-10-24T08:16:18+03:00"
     },
     {
-      "title": "Coliziune frontală între un TIR şi un autoturism, pe DN 11, în judeţul Braşov. O persoană a murit. Traficul este blocat în Prejmer",
-      "url": "https://newsbv.ro/coliziune-frontala-tir-autoturism-dn-11/",
+      "title": "Săcele: Traseul autobuzelor RATBV 710, deviat duminică, pentru ceremonialul dedicat Zilei Armatei Române",
+      "url": "https://newsbv.ro/sacele-traseul-710-deviat-duminica/",
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
-      "published": "2026-10-24T07:44:22+03:00"
+      "published": "2026-10-24T06:39:18+03:00"
     }
   ]
 }
