@@ -1,8 +1,29 @@
 {
-  "updated": "25.10.2026, 08:00",
-  "count": 36,
-  "raw_count": 45,
+  "updated": "25.10.2026, 09:00",
+  "count": 41,
+  "raw_count": 50,
   "items": [
+    {
+      "title": "Valul extremist din social media, analizat de procurori: Marian Godină și un șef de partid, martori cheie în dosarul de incitare la ură care îl vizează pe deputatul de Brașov Dan Tanasă",
+      "url": "https://bizbrasov.ro/2026/10/25/procurori-godina-brasov-dan-tanasa/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-25T08:43:18+02:00"
+    },
+    {
+      "title": "Cod Galben de ceață densă în Brașov și Transilvania! Vizibilitate scăzută",
+      "url": "https://mytex.ro/expres/cod-galben-de-ceata-densa-in-brasov-si-transilvania-vizibilitate-scazuta/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-25T08:28:20+02:00"
+    },
+    {
+      "title": "Ziua Armatei aduce restricții de circulație la Brașov. Semnificația sărbătorii",
+      "url": "https://www.monitorulexpres.ro/2026/10/25/ziua-armatei-ceremonie-care-aduce-restrictii-de-circulatie-semnificatia-sarbatorii/",
+      "source": "Monitorul Expres",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-25T08:22:07+02:00"
+    },
     {
       "title": "Anunț de la Ministrul Muncii! Cât va fi salariul minim de la 1 ianuarie 2027: Vestea momentului pentru toți angajații din Brașov",
       "url": "https://mytex.ro/economic/anunt-de-la-ministrul-muncii-cat-va-fi-salariul-minim-de-la-1-ianuarie-2027-vestea-momentului-pentru-toti-angajatii-din-brasov/",
@@ -137,6 +158,20 @@
       "published": "2026-10-24T12:39:31+03:00"
     },
     {
+      "title": "Avertisment Salvamont Brașov: Condiții de iarnă pe traseele montane și reguli stricte pentru turiști",
+      "url": "https://www.brasov.net/avertisment-salvamont-brasov-conditii-de-iarna-pe-traseele-montane-si-reguli-stricte-pentru-turisti/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T12:10:50+03:00"
+    },
+    {
+      "title": "Eveniment acum 12 ore VIDEO / Șocant: Femeie din Brașov, înjunghiată de soț sub privirile copiilor. Agresorul a încercat să se sinucidă",
+      "url": "https://www.brasov.net/video-socant-femeie-din-brasov-injunghiata-de-sot-sub-privirile-copiilor-agresorul-a-incercat-sa-se-sinucida/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-24T12:01:15+03:00"
+    },
+    {
       "title": "Cinci artiști contemporani într-un Artist Talk despre spații urbane și practici artistice, la Muzeul de Artă Brașov",
       "url": "https://brasovstiri.ro/cinci-artisti-contemporani-intr-un-artist-talk-despre-spatii-urbane-si-practici-artistice-la-muzeul-de-arta-brasov/",
       "source": "Brașov Știri",
@@ -200,6 +235,13 @@
       "published": "2026-10-24T09:10:00+03:00"
     },
     {
+      "title": "Util acum 15 ore Atenție, șoferi! Cod galben de ceață densă în județul Brașov",
+      "url": "https://www.brasov.net/atentie-soferi-cod-galben-de-ceata-densa-in-judetul-brasov/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T09:00:57+03:00"
+    },
+    {
       "title": "Directorul Colegiului Tehnic Energetic din Brașov, premiat la Gala Premiilor pentru Directorii Anului 2026",
       "url": "https://newsbv.ro/directorul-colegiului-tehnic-energetic-brasov-premiat/",
       "source": "NewsBV",
@@ -247,13 +289,6 @@
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
       "published": "2026-10-23T22:25:44+03:00"
-    },
-    {
-      "title": "BRAȘOV | Conflict violent între soți, într-o locuință de pe Bulevardul Saturn! Ambii au fost transportați la spital",
-      "url": "https://mytex.ro/112/brasov-conflict-violent-intre-soti-intr-o-locuinta-de-pe-bulevardul-saturn-ambii-au-fost-transportati-la-spital/",
-      "source": "MyTex",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T20:43:23+03:00"
     }
   ]
 }
