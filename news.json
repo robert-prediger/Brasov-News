@@ -1,7 +1,7 @@
 {
-  "updated": "25.10.2026, 02:00",
-  "count": 52,
-  "raw_count": 65,
+  "updated": "25.10.2026, 03:00",
+  "count": 48,
+  "raw_count": 60,
   "items": [
     {
       "title": "Atac Sângeros în Brașov: Copil Martor la Tragedie",
@@ -9,13 +9,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
       "published": "2026-10-25T01:14:41+03:00"
-    },
-    {
-      "title": "Tren internațional întârziat 10 ore între Brașov și Sighișoara",
-      "url": "https://www.zmbv.ro/tren-international-intarziat-10-ore-intre-brasov-si-sighisoara/25/10/2026/120653/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-25T01:14:12+03:00"
     },
     {
       "title": "Câini abandonați la adăpostul din Brașov",
@@ -74,6 +67,13 @@
       "published": "2026-10-24T17:16:00+03:00"
     },
     {
+      "title": "Un nou „record” la CFR: un tren internațional a făcut 10 ore de la Brașov, la Sighișoara",
+      "url": "https://bizbrasov.ro/2026/10/24/record-cfr-tren-brasov-sighisoara/",
+      "source": "BizBrașov",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-24T15:25:32+03:00"
+    },
+    {
       "title": "Prețurile pentru un sejur de Revelion la hotelul Simonei Halep din Poiana Brașov pleacă de la 2.860 de euro pentru un cuplu",
       "url": "https://bizbrasov.ro/2026/10/24/preturi-sejur-hotel-halep-poiana-brasov/",
       "source": "BizBrașov",
@@ -121,6 +121,20 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-24T12:39:31+03:00"
+    },
+    {
+      "title": "Avertisment Salvamont Brașov: Condiții de iarnă pe traseele montane și reguli stricte pentru turiști",
+      "url": "https://www.brasov.net/avertisment-salvamont-brasov-conditii-de-iarna-pe-traseele-montane-si-reguli-stricte-pentru-turisti/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T12:10:50+03:00"
+    },
+    {
+      "title": "Eveniment acum 12 ore VIDEO / Șocant: Femeie din Brașov, înjunghiată de soț sub privirile copiilor. Agresorul a încercat să se sinucidă",
+      "url": "https://www.brasov.net/video-socant-femeie-din-brasov-injunghiata-de-sot-sub-privirile-copiilor-agresorul-a-incercat-sa-se-sinucida/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-24T12:01:15+03:00"
     },
     {
       "title": "Cinci artiști contemporani într-un Artist Talk despre spații urbane și practici artistice, la Muzeul de Artă Brașov",
@@ -184,6 +198,13 @@
       "source": "BizBrașov",
       "category": "🔥 Local",
       "published": "2026-10-24T09:10:00+03:00"
+    },
+    {
+      "title": "Util acum 15 ore Atenție, șoferi! Cod galben de ceață densă în județul Brașov",
+      "url": "https://www.brasov.net/atentie-soferi-cod-galben-de-ceata-densa-in-judetul-brasov/",
+      "source": "Brașov.net",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-24T09:00:57+03:00"
     },
     {
       "title": "Directorul Colegiului Tehnic Energetic din Brașov, premiat la Gala Premiilor pentru Directorii Anului 2026",
@@ -317,55 +338,6 @@
       "source": "Monitorul Expres",
       "category": "🚨 Evenimente / urgențe",
       "published": "2026-10-23T15:20:55+03:00"
-    },
-    {
-      "title": "Zece copii brașoveni, rezultate de excepție la Olimpiada Națională de Aritmetică Mentală SmartyKids 2026 (FOTO)",
-      "url": "https://www.monitorulexpres.ro/2026/10/23/zece-copii-brasoveni-rezultate-de-exceptie-la-olimpiada-nationala-de-aritmetica-mentala-smartykids-2026-foto/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-23T15:00:12+03:00"
-    },
-    {
-      "title": "Antrenorul brașovean Laszlo Balint, la un pas de revenirea pe bancă! Cu ce echipă din Superligă a negociat",
-      "url": "https://mytex.ro/sport/antrenorul-brasovean-laszlo-balint-la-un-pas-de-revenirea-pe-banca-cu-ce-echipa-din-superliga-a-negociat/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-23T14:55:26+03:00"
-    },
-    {
-      "title": "BRAȘOV | Bătaie în curtea unei case din Prejmer!",
-      "url": "https://mytex.ro/112/brasov-bataie-in-curtea-unei-case-din-prejmer/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-23T14:39:01+03:00"
-    },
-    {
-      "title": "Spitalul Județean Brașov pregătește camere de supraveghere video în patru secții!...",
-      "url": "https://transilvania365.ro/spitalul-judetean-brasov-pregateste-camere-de-supraveghere-video-in-patru-sectii-investitie-estimata-la-peste-270-000-de-lei/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-23T14:29:24+03:00"
-    },
-    {
-      "title": "Trei persoane din Brașov, încarcerate la Penitenciarul Codlea pentru infracțiuni legate de droguri",
-      "url": "https://www.monitorulexpres.ro/2026/10/23/trei-persoane-din-brasov-incarcerate-la-penitenciarul-codlea-pentru-infractiuni-legate-de-droguri/",
-      "source": "Monitorul Expres",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-23T14:22:43+03:00"
-    },
-    {
-      "title": "Un director din Brașov, premiat printre cei mai buni din țară!...",
-      "url": "https://transilvania365.ro/un-director-din-brasov-premiat-printre-cei-mai-buni-din-tara-a-atras-milioane-de-euro-pentru-scoala-si-ii-pregateste-pe-elevi-pentru-meseriile-viitorului/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-23T14:12:54+03:00"
-    },
-    {
-      "title": "Parcul Național Munții Făgăraș nu se poate înființa fără consultarea comunităților locale",
-      "url": "https://newsbv.ro/parcul-national-muntii-fagaras-consultarea-comunitatilor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-23T14:08:40+03:00"
     }
   ]
 }
