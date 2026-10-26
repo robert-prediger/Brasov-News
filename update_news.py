@@ -613,6 +613,7 @@ class ArticleHeadlineParser(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.meta = {}
+        self.descriptions = []
         self.h1 = []
         self.in_h1 = False
 
@@ -622,6 +623,8 @@ class ArticleHeadlineParser(HTMLParser):
             key = (attrs.get("property") or attrs.get("name") or "").lower()
             if key in {"og:title", "twitter:title", "og:description", "description"} and attrs.get("content"):
                 self.meta.setdefault(key, attrs["content"])
+                if key in {"og:description", "description"}:
+                    self.descriptions.append(attrs["content"])
         elif tag == "h1" and not self.h1:
             self.in_h1 = True
 
@@ -644,6 +647,8 @@ class ArticleLeadParser(HTMLParser):
         self.stack = []
         self.paragraph = None
         self.paragraphs = []
+        self.in_paragraph = False
+        self.references = []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -651,14 +656,22 @@ class ArticleLeadParser(HTMLParser):
         active = bool(self.stack and self.stack[-1][1])
         active |= tag == "article" or attrs.get("itemprop", "").lower() == "articlebody" or bool(
             re.search(r"(?:entry-content|post-content|article-content|content-main|article-body)", marker))
-        blocked = bool(self.stack and self.stack[-1][2]) or tag in self.BLOCKED or bool(
-            re.search(r"(?:^|[\s_-])(?:ads?|advert\w*|related|recommended|comments?|author|newsletter|social|share)(?:$|[\s_-])", marker))
+        marker_blocked = tag not in {"html", "body"} and bool(
+            re.search(r"(?:^|\s)(?:ads?|advert\w*)(?:$|[\s_-])", marker) or
+            re.search(r"(?:^|[\s_-])(?:related|recommended|comments?|author|newsletter|social|share)(?:$|[\s_-])", marker))
+        blocked = bool(self.stack and self.stack[-1][2]) or tag in self.BLOCKED or marker_blocked
         if tag not in self.VOID:
             self.stack.append((tag, active, blocked))
-        if tag == "p" and active and not blocked and len(self.paragraphs) < 4:
-            self.paragraph = []
+        if tag == "p" and active and not blocked:
+            self.in_paragraph = True
+            if len(self.paragraphs) < 4:
+                self.paragraph = []
+        if tag == "a" and active and not blocked and self.in_paragraph and attrs.get("href"):
+            self.references.append(attrs["href"])
 
     def handle_endtag(self, tag):
+        if tag == "p":
+            self.in_paragraph = False
         if tag == "p" and self.paragraph is not None:
             text = clean(" ".join(self.paragraph))
             if len(text) >= 50:
@@ -674,19 +687,25 @@ class ArticleLeadParser(HTMLParser):
             self.paragraph.append(data)
 
 
-def extract_content_evidence(page):
+def extract_body_metadata(page):
     parser = ArticleLeadParser()
     try:
         parser.feed(page)
     except Exception:
-        return [], []
+        return [], [], []
     lead = " ".join(parser.paragraphs)[:1800]
     # Store only unordered terms and address facts, not copied article prose.
     terms = sorted(story_tokens(lead))[:160]
     streets = re.findall(
         r"\b(?:strada|str\.?|bulevardul|bdul\.?)\s+([A-ZĂÂÎȘȚ0-9][\w-]*(?:\s+[A-ZĂÂÎȘȚ0-9][\w-]*){0,2})",
         lead)
-    return terms, sorted({simple(street) for street in streets})
+    references = sorted({canonical_url(url) for url in parser.references
+                         if url.startswith(("https://", "http://"))})[:20]
+    return terms, sorted({simple(street) for street in streets}), references
+
+
+def extract_content_evidence(page):
+    return extract_body_metadata(page)[:2]
 
 
 def clean_headline(title, source=""):
@@ -710,8 +729,7 @@ def extract_metadata(page, fallback, source=""):
         parser.feed(page)
     except Exception:
         return fallback, ""
-    descriptions = [clean(parser.meta.get(key) or "")[:1000]
-                    for key in ("og:description", "description")]
+    descriptions = [clean(value)[:1000] for value in parser.descriptions]
     for value in (parser.meta.get("og:title"), parser.meta.get("twitter:title"),
                   " ".join(parser.h1)):
         title = clean(value or "")
@@ -725,10 +743,11 @@ def choose_description(descriptions, title):
     title_terms = story_tokens(title)
     relevant = [text for text in descriptions
                 if len(story_tokens(text) & title_terms) >= 2
-                and len(story_tokens(text) & title_terms) / max(1, len(title_terms)) >= .25]
+                and len(story_tokens(text) & title_terms) / max(1, len(title_terms)) >= .15
+                and len(story_tokens(text) & title_terms) / max(1, len(story_tokens(text))) >= .15]
     return max(relevant,
                key=lambda text: len(story_tokens(text) - title_terms),
-               default=descriptions[0] if descriptions else "")
+               default="")
 
 
 def extract_headline(page, fallback):
@@ -811,12 +830,13 @@ def check_article(article):
             return None
 
         title, summary = extract_metadata(page, article["title"], article["source"])
-        content_terms, streets = extract_content_evidence(page)
+        content_terms, streets, references = extract_body_metadata(page)
         return {
             "title": title,
             "summary": summary,
             "content_terms": content_terms,
             "streets": streets,
+            "references": references,
             "url": article["url"],
             "source": article["source"],
             "category": category(title),

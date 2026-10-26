@@ -5,7 +5,12 @@ on:
   workflow_call:
   push:
     branches: [main]
-    paths: ['.github/workflows/update-news.yml']
+    paths:
+      - '.github/workflows/update-news.yml'
+      - 'update_news.py'
+      - 'story_dedupe.py'
+      - 'test_story_dedupe.py'
+      - 'story_regressions.json'
   schedule:
     - cron: '0 * * * *'
 

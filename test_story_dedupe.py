@@ -5,7 +5,7 @@ import tempfile
 from pathlib import Path
 from unittest.mock import patch
 from story_dedupe import deduplicate, tokens, StoryMatcher
-from update_news import extract_headline, clean_headline, extract_metadata, extract_content_evidence
+from update_news import extract_headline, clean_headline, extract_metadata, extract_content_evidence, extract_body_metadata
 
 
 def article(title, slug, day='2026-10-26T12:00:00+02:00'):
@@ -146,7 +146,7 @@ class StoryDeduplicationTests(unittest.TestCase):
                 result = json.loads(Path('news.json').read_text())
             finally:
                 os.chdir(previous_cwd)
-        self.assertEqual(result['dedupe_version'], 3)
+        self.assertEqual(result['dedupe_version'], 4)
         self.assertEqual(result['count'], 1)
         self.assertEqual(result['raw_count'], 2)
         self.assertEqual(len(result['items'][0]['coverage']), 2)
@@ -164,6 +164,14 @@ class StoryDeduplicationTests(unittest.TestCase):
         page = f'<meta property="og:title" content="{title}"><meta property="og:description" content="{detail}"><meta name="description" content="{site}">'
         self.assertEqual(extract_metadata(page, title)[1], detail)
 
+    def test_later_article_metadata_replaces_early_site_boilerplate(self):
+        title = 'Laboratorul digital pentru elevi a fost inaugurat'
+        detail = 'Laboratorul digital pentru elevi este dotat cu echipamente noi.'
+        site = 'Suntem ziarul cu știri locale și informații culturale, economice și sportive.'
+        page = f'<meta property="og:title" content="{title}"><meta property="og:description" content="{site}"><meta property="og:description" content="{detail}">'
+        self.assertEqual(extract_metadata(page, title)[1], detail)
+        self.assertEqual(extract_metadata(f'<meta property="og:title" content="{title}"><meta name="description" content="{site}">', title)[1], '')
+
     def test_real_duplicate_headlines_use_body_evidence(self):
         cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
         for a, b in cases['same_story']:
@@ -179,13 +187,13 @@ class StoryDeduplicationTests(unittest.TestCase):
                 self.assertEqual(len(deduplicate([a, b])), 2)
 
     def test_body_evidence_ignores_ads_navigation_and_related_articles(self):
-        page = '''<nav><p>Navigație cu accident pe autostradă și vremea de mâine.</p></nav>
+        page = '''<body class="single-post single-author has-header-ad has-sidebar"><nav><p>Navigație cu accident pe autostradă și vremea de mâine.</p></nav>
           <article><header><p>Informații despre redacție și autorul acestui articol.</p></header>
           <div class="entry-content"><p>Incendiul de la locuința de pe strada General Moșoiu a provocat arsuri unei femei.</p>
           <div class="advertisement"><p>Ofertă specială pentru consultații medicale la clinica Test.</p></div>
           <p>Echipajele SMURD au intervenit cu trei autospeciale pentru stingerea incendiului.</p>
           <div class="related-posts"><p>Un alt incendiu a avut loc într-o altă localitate, cu alte victime.</p></div>
-          </div></article><footer><p>Informații despre abonamente și politica editorială a publicației.</p></footer>'''
+          </div></article><footer><p>Informații despre abonamente și politica editorială a publicației.</p></footer></body>'''
         terms, streets = extract_content_evidence(page)
         self.assertIn('smurd', terms)
         self.assertEqual(streets, ['general mosoiu'])
@@ -204,6 +212,20 @@ class StoryDeduplicationTests(unittest.TestCase):
         a['streets'], b['streets'] = ['general mosoiu'], ['valeriu bologa']
         a['content_terms'] = b['content_terms'] = sorted(tokens('Pompierii intervin cu trei autospeciale la casa cuprinsă de flăcări, unde o femeie a suferit arsuri la mâini.'))
         self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_body_citations_exclude_automatic_related_widgets(self):
+        page = '''<body class="has-header-ad"><article class="post-content"><div class="entry-content">
+        <p>Articolul descrie un incendiu la o locuință, unde pompierii au intervenit pentru a salva o femeie.</p>
+        <div id="inline-related-post"><p>Alt articol: <a href="https://example.com/unrelated">Articol recomandat automat despre alt incendiu</a></p></div>
+        <p>Actualizare despre <a href="https://example.com/original">același eveniment prezentat anterior</a>.</p>
+        </div></article></body>'''
+        _, _, refs = extract_body_metadata(page)
+        self.assertEqual(refs, ['https://example.com/original'])
+
+    def test_followup_links_to_original_event_from_another_publisher(self):
+        cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
+        a, b = cases['followup']
+        self.assertEqual(len(deduplicate([a, b])), 1)
 
 
 if __name__ == '__main__':

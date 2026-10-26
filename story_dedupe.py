@@ -10,7 +10,7 @@ import unicodedata
 from datetime import datetime
 from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 
-VERSION = 3
+VERSION = 4
 STOP = set('''a ai ale al am an are ar au ca care cat cate ce cei cel cele cu cum
 de din dupa e este fost fi in intr intru la le li lor lui mai mi ne nu o pe pentru
 prin sa se si sunt spre sau iar un una unei unui va vor vi dintr fara pana peste
@@ -39,7 +39,7 @@ for root, forms in {
     'autoturism': 'masina masinile masini masinilor autoturisme autoturismul',
     'victorie': 'victorii victoria castigat invins triumfa',
     'infrangere': 'pierdut infrangerea esec invinsa',
-    'incendiu': 'incendiul incendii incendiile',
+    'incendiu': 'incendiul incendiului incendii incendiile',
     'retinere': 'retinut retinuti retinuta arestat arestati arestata arestare',
     'sofer': 'soferi soferii soferilor',
     'permis': 'permise permisele permiselor permisul',
@@ -157,6 +157,14 @@ class StoryMatcher:
             return True
         if conflicts(a, b):
             return False
+        urls = lambda item: {canonical_url(source.get('url'))
+                            for source in [item, *item.get('coverage', [])]}
+        references = lambda item: {canonical_url(url) for url in item.get('references', [])}
+        cited = (references(a) & urls(b)) | (references(b) & urls(a))
+        if cited - {''}:
+            context_shared = self.words(a, True) & self.words(b, True)
+            if len(context_shared) >= 3 and len(context_shared - GENERIC) >= 2:
+                return True
         if normalize(a.get('title')) == normalize(b.get('title')):
             return bool(normalize(a.get('title')))
         wa, wb = self.words(a), self.words(b)
