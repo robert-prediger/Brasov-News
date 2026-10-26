@@ -33,7 +33,7 @@ function normalizeTitle(title){
    .toLocaleLowerCase("ro-RO")
    .normalize("NFD")
    .replace(/[\u0300-\u036f]/g,"")
-   .replace(/[^a-z0-9\s-]/g," ")
+   .replace(/[^a-z0-9\s]/g," ")
    .replace(/\s+/g," ")
    .trim();
 }
@@ -61,6 +61,7 @@ function titleWords(title){
    "cutitul":"cutit","conjugal":"conjugal",
    "caini":"caine","catei":"caine","catelusi":"caine",
    "aruncat":"abandon","aruncati":"abandon",
+   "abandonat":"abandon","abandonati":"abandon","abandonarea":"abandon",
    "adapostului":"adapost","curtea":"curte",
    "divortului":"divort","copiilor":"copil","copilului":"copil","copii":"copil",
    "pacienti":"pacient","evacuati":"evacuare","evacuat":"evacuare",
@@ -152,6 +153,20 @@ function sameTopic(a,b){
  return false;
 }
 
+/* Unele surse trunchiază titlul înaintea informației decisive.
+   Slugul articolului păstrează de obicei titlul complet. */
+function topicText(item){
+ let slug="";
+ try{
+   const url=new URL(item.url);
+   if(/^https?:$/.test(url.protocol)){
+     slug=decodeURIComponent(url.pathname).split("/").filter(part=>
+       part && !/^(?:\\d+|html?|php|aspx?)$/i.test(part)).join(" ");
+   }
+ }catch(e){ /* Titlul rămâne suficient pentru URL-uri lipsă sau invalide. */ }
+ return String(item.title||"")+" "+slug;
+}
+
 function getBriefItems(items,limit=5){
  if(limit<=0) return [];
  const groups=[];
@@ -167,7 +182,8 @@ function getBriefItems(items,limit=5){
    groups.forEach((group,i)=>{
      if(group.some(other=>withinWindow(item,other)&&
        (normalizeTitle(item.title)===normalizeTitle(other.title)||
-        sameTopic(item.title,other.title)))) matches.push(i);
+        sameTopic(item.title,other.title)||
+        sameTopic(topicText(item),topicText(other))))) matches.push(i);
    });
    if(!matches.length){groups.push([item]);continue;}
    const group=groups[matches[0]];
