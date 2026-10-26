@@ -1,21 +1,119 @@
 {
-  "updated": "26.10.2026, 08:00",
-  "count": 35,
-  "raw_count": 46,
+  "updated": "26.10.2026, 09:00",
+  "count": 46,
+  "raw_count": 57,
   "items": [
+    {
+      "title": "Compania Apa Brașov anunță lucrări și întreruperi de apă luni, 26 octombrie",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/compania-apa-brasov-anunta-lucrari-si-intreruperi-de-apa-luni-26-octombrie/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T09:00:34+02:00"
+    },
+    {
+      "title": "Kronmedica Brașov, împreună cu dr. Alin Costantin, vă oferă consultații și ecografii specializate pentru diagnosticul și tratamentul endometriozei",
+      "url": "https://bizbrasov.ro/2026/10/26/kronmedica-consultatii-ecografii-brasov-endometrioza/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:56:40+02:00"
+    },
+    {
+      "title": "Aeroportul Brașov-Ghimbav suspendă temporar zborurile directe spre Katowice și Varșovia",
+      "url": "https://brasovstiri.ro/aeroportul-brasov-suspenda-temporar-zborurile-directe-spre-katowice-si-varsovia/",
+      "source": "Brașov Știri",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-26T08:54:44+02:00"
+    },
+    {
+      "title": "Zeci de mașini date în urmărire, depistate de RAR Brașov. 24 de cazuri în 2025 și alte 19 în...",
+      "url": "https://transilvania365.ro/zeci-de-masini-date-in-urmarire-depistate-de-rar-brasov-24-de-cazuri-in-2025-si-alte-19-in-2026/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:42:36+02:00"
+    },
+    {
+      "title": "BRAȘOV | Cod galben de ceață în tot județul! Vizibilitatea poate scădea sub 50 de metri",
+      "url": "https://mytex.ro/expres/brasov-cod-galben-de-ceata-in-tot-judetul-vizibilitatea-poate-scadea-sub-50-de-metri/",
+      "source": "MyTex",
+      "category": "🌦️ Meteo",
+      "published": "2026-10-26T08:39:31+02:00"
+    },
+    {
+      "title": "Cristianul își pregătește iluminatul festiv pentru sărbătorile de iarnă. Cât costă montarea decorațiunilor...",
+      "url": "https://transilvania365.ro/cristianul-isi-pregateste-iluminatul-festiv-pentru-sarbatorile-de-iarna-cat-costa-montarea-decoratiunilor-luminoase/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:26:00+02:00"
+    },
+    {
+      "title": "BIPA deschide magazin în Sânpetru şi face angajări",
+      "url": "https://newsbv.ro/bipa-magazin-sanpetru-face-angajari/",
+      "source": "NewsBV",
+      "category": "💰 Business & economie",
+      "published": "2026-10-26T08:25:32+02:00"
+    },
+    {
+      "title": "Doi campioni naționali și un vicecampion pentru Corona Brașov la patinaj viteză",
+      "url": "https://brasovstiri.ro/doi-campioni-nationali-si-un-vicecampion-pentru-corona-brasov-la-patinaj-viteza/",
+      "source": "Brașov Știri",
+      "category": "⚽ Sport",
+      "published": "2026-10-26T08:24:40+02:00"
+    },
+    {
+      "title": "Piața Unirii din Brașov a fost plină de emoție de Ziua Armatei României",
+      "url": "https://brasovstiri.ro/piata-unirii-din-brasov-a-fost-plina-de-emotie-de-ziua-armatei-romaniei/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:20:08+02:00"
+    },
+    {
+      "title": "Hochei | Corona Brașov, înfrângere dramatică la Remetea! Harghitenii au întors meciul în prelungiri",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/hochei-corona-brasov-infrangere-dramatica-la-remetea-harghitenii-au-intors-meciul-in-prelungiri/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-10-26T08:15:19+02:00"
+    },
+    {
+      "title": "S-a deschis sezonul de patinaj public la Patinoarul Olimpic din Brașov",
+      "url": "https://brasovstiri.ro/s-a-deschis-sezonul-de-patinaj-public-la-patinoarul-olimpic-din-brasov/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:14:28+02:00"
+    },
+    {
+      "title": "Recunoștință pentru militari: Brașovul a sărbătorit Ziua Armatei prin ceremonii solemne",
+      "url": "https://www.brasov.net/recunostinta-pentru-militari-brasovul-a-sarbatorit-ziua-armatei-prin-ceremonii-solemne/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:14:02+02:00"
+    },
+    {
+      "title": "Peste 50.000 de lei pentru consultanță la proiectul de eficiență energetică al Brașovului",
+      "url": "https://transilvania365.ro/peste-50-000-de-lei-pentru-consultanta-la-proiectul-de-eficienta-energetica-al-brasovului/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:11:48+02:00"
+    },
+    {
+      "title": "Trenul internațional Dacia a parcurs distanța Brașov – Sighișoara în 10 ore",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/trenul-international-dacia-a-parcurs-distanta-brasov-sighisoara-in-10-ore/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:07:16+02:00"
+    },
+    {
+      "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își...",
+      "url": "https://transilvania365.ro/siguranta-in-scolile-din-judetul-brasov-prioritate-absoluta-d-o-security-isi-afirma-sprijinul-logistic-si-experienta-pentru-implementarea-noilor-masuri-guvernamentale/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-26T08:04:46+02:00"
+    },
     {
       "title": "Colegiul Național „Dr. Ioan Meșotă” din Brașov a găzduit Concursul Național de Fizică „EVRIKA”",
       "url": "https://brasovstiri.ro/colegiul-national-dr-ioan-mesota-din-brasov-a-gazduit-concursul-national-de-fizica-evrika/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
       "published": "2026-10-26T07:35:00+02:00"
-    },
-    {
-      "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își afirmă sprijinul logistic și experiența pentru implementarea noilor măsuri guvernamentale",
-      "url": "https://newsbv.ro/siguranta-scoli-brasov-prioritate-d-o-security/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-26T06:45:31+02:00"
     },
     {
       "title": "Autostrada A13 Sibiu – Făgăraș: Lucrări la ultimul segment al podului în arc de pe tronsonul 3 (VIDEO)",
@@ -95,7 +193,7 @@
       "published": "2026-10-25T17:25:35+02:00"
     },
     {
-      "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente festive",
+      "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente...",
       "url": "https://transilvania365.ro/foto-brasovul-se-pregateste-deja-de-sarbatori-au-aparut-primele-ornamente-festive/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -107,13 +205,6 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-25T16:31:00+02:00"
-    },
-    {
-      "title": "VIDEO. Trafic de coșmar pe Valea Prahovei! Coloana de mașini dintre Predeal și...",
-      "url": "https://transilvania365.ro/video-trafic-de-cosmar-pe-valea-prahovei-coloana-de-masini-dintre-predeal-si-sinaia-ar-putea-intra-in-cartea-recordurilor/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-25T16:11:44+02:00"
     },
     {
       "title": "PSD vrea să-l numească pe Lucian Mija prefect. Acesta a mai deținut funcția de subprefect și a fost unul dintre fondatorii grupului de inițiativă al USR la Făgăraș",
@@ -151,7 +242,7 @@
       "published": "2026-10-25T12:59:49+02:00"
     },
     {
-      "title": "Eveniment acum 12 ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov Un bărbat în vârstă de 28 de ani a fost arestat preventiv pentru 30 de zile, după ce și-ar fi...",
+      "title": "Eveniment acum 20 de ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
       "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -233,20 +324,6 @@
       "source": "NewsBV",
       "category": "⚽ Sport",
       "published": "2026-10-24T21:43:28+03:00"
-    },
-    {
-      "title": "Liga 4 Brașov, etapa 9 I Chimia Victoria a câștigat derbiul cu SR Brașov. Echipa lui Ionel Ganea e noul lider",
-      "url": "https://www.monitorulexpres.ro/2026/10/24/liga-4-brasov-etapa-9-i-chimia-victoria-a-castigat-derbiul-cu-sr-brasov-echipa-lui-ionel-ganea-e-noul-lider/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-24T20:29:36+03:00"
-    },
-    {
-      "title": "Spectacol în nocturnă: Corona Brașov a spulberat-o pe Olimpic Zărnești si s-a desprins în fruntea seriei din Liga 3",
-      "url": "https://mytex.ro/sport/spectacol-in-nocturna-corona-brasov-a-spulberat-o-pe-olimpic-zarnesti-si-s-a-desprins-in-fruntea-seriei-din-liga-3/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-24T20:16:09+03:00"
     }
   ]
 }
