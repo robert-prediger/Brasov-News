@@ -8,7 +8,7 @@ from pathlib import Path
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from html.parser import HTMLParser
-from story_dedupe import VERSION as DEDUPE_VERSION, deduplicate
+from story_dedupe import VERSION as DEDUPE_VERSION, deduplicate, tokens as story_tokens
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/9.0)"}
@@ -634,6 +634,61 @@ class ArticleHeadlineParser(HTMLParser):
             self.h1.append(data)
 
 
+class ArticleLeadParser(HTMLParser):
+    """Read opening body paragraphs, excluding navigation, ads and related posts."""
+    VOID = set("area base br col embed hr img input link meta param source track wbr".split())
+    BLOCKED = {"script", "style", "nav", "aside", "header", "footer", "form"}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.stack = []
+        self.paragraph = None
+        self.paragraphs = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        marker = " ".join([attrs.get("id", ""), attrs.get("class", "")]).lower()
+        active = bool(self.stack and self.stack[-1][1])
+        active |= tag == "article" or attrs.get("itemprop", "").lower() == "articlebody" or bool(
+            re.search(r"(?:entry-content|post-content|article-content|content-main|article-body)", marker))
+        blocked = bool(self.stack and self.stack[-1][2]) or tag in self.BLOCKED or bool(
+            re.search(r"(?:^|[\s_-])(?:ads?|advert\w*|related|recommended|comments?|author|newsletter|social|share)(?:$|[\s_-])", marker))
+        if tag not in self.VOID:
+            self.stack.append((tag, active, blocked))
+        if tag == "p" and active and not blocked and len(self.paragraphs) < 4:
+            self.paragraph = []
+
+    def handle_endtag(self, tag):
+        if tag == "p" and self.paragraph is not None:
+            text = clean(" ".join(self.paragraph))
+            if len(text) >= 50:
+                self.paragraphs.append(text)
+            self.paragraph = None
+        for i in range(len(self.stack) - 1, -1, -1):
+            if self.stack[i][0] == tag:
+                del self.stack[i:]
+                break
+
+    def handle_data(self, data):
+        if self.paragraph is not None and self.stack and not self.stack[-1][2]:
+            self.paragraph.append(data)
+
+
+def extract_content_evidence(page):
+    parser = ArticleLeadParser()
+    try:
+        parser.feed(page)
+    except Exception:
+        return [], []
+    lead = " ".join(parser.paragraphs)[:1800]
+    # Store only unordered terms and address facts, not copied article prose.
+    terms = sorted(story_tokens(lead))[:160]
+    streets = re.findall(
+        r"\b(?:strada|str\.?|bulevardul|bdul\.?)\s+([A-ZĂÂÎȘȚ0-9][\w-]*(?:\s+[A-ZĂÂÎȘȚ0-9][\w-]*){0,2})",
+        lead)
+    return terms, sorted({simple(street) for street in streets})
+
+
 def clean_headline(title, source=""):
     """Remove publisher suffixes, retaining separators inside the headline."""
     parts = re.split(r"\s+[-|•»]\s+", title)
@@ -655,13 +710,25 @@ def extract_metadata(page, fallback, source=""):
         parser.feed(page)
     except Exception:
         return fallback, ""
-    summary = clean(parser.meta.get("og:description") or parser.meta.get("description") or "")[:1000]
+    descriptions = [clean(parser.meta.get(key) or "")[:1000]
+                    for key in ("og:description", "description")]
     for value in (parser.meta.get("og:title"), parser.meta.get("twitter:title"),
                   " ".join(parser.h1)):
         title = clean(value or "")
         if 20 <= len(title) <= 500 and len(words(title)) >= 3:
+            summary = choose_description(descriptions, title)
             return clean_headline(title, source), summary
-    return fallback, summary
+    return fallback, choose_description(descriptions, fallback)
+
+
+def choose_description(descriptions, title):
+    title_terms = story_tokens(title)
+    relevant = [text for text in descriptions
+                if len(story_tokens(text) & title_terms) >= 2
+                and len(story_tokens(text) & title_terms) / max(1, len(title_terms)) >= .25]
+    return max(relevant,
+               key=lambda text: len(story_tokens(text) - title_terms),
+               default=descriptions[0] if descriptions else "")
 
 
 def extract_headline(page, fallback):
@@ -744,9 +811,12 @@ def check_article(article):
             return None
 
         title, summary = extract_metadata(page, article["title"], article["source"])
+        content_terms, streets = extract_content_evidence(page)
         return {
             "title": title,
             "summary": summary,
+            "content_terms": content_terms,
+            "streets": streets,
             "url": article["url"],
             "source": article["source"],
             "category": category(title),
@@ -867,3 +937,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

@@ -1,18 +1,16 @@
 """Conservative, source-independent grouping of local news coverage.
 
 No event names or dates are hard-coded. Uses full headlines, URL slugs,
-Romanian word forms, corpus-weighted overlap and explicit conflict guards.
+Romanian word forms, article-body evidence and explicit conflict guards.
 """
 import hashlib
 import html
-import math
 import re
 import unicodedata
-from collections import Counter
 from datetime import datetime
 from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 
-VERSION = 2
+VERSION = 3
 STOP = set('''a ai ale al am an are ar au ca care cat cate ce cei cel cele cu cum
 de din dupa e este fost fi in intr intru la le li lor lui mai mi ne nu o pe pentru
 prin sa se si sunt spre sau iar un una unei unui va vor vi dintr fara pana peste
@@ -97,6 +95,7 @@ def article_text(item, contextual=False):
     text = str(item.get('title', '')) + ' ' + slug
     if contextual:
         text += ' ' + str(item.get('summary', ''))[:1000]
+        text += ' ' + ' '.join(item.get('content_terms', []))
     return text
 
 TOWNS = set('sacele ghimbav codlea zarnesti rasnov fagaras cristian sanpetru harman predeal bran rupea feldioara budila prejmer'.split())
@@ -114,6 +113,10 @@ def parsed_time(item):
 def conflicts(a, b):
     ta, tb = parsed_time(a), parsed_time(b)
     if ta is not None and tb is not None and abs(ta - tb) > 36 * 3600:
+        return True
+    sa, sb = a.get('streets', []), b.get('streets', [])
+    if sa and sb and not any(left.endswith(right) or right.endswith(left)
+                            for left in sa for right in sb):
         return True
     wa, wb = set(normalize(article_text(a)).split()), set(normalize(article_text(b)).split())
     for vocabulary in (TOWNS, SPORTS, DAYS):
@@ -141,11 +144,6 @@ def conflicts(a, b):
 class StoryMatcher:
     def __init__(self, items):
         self.cache = {}
-        df = Counter()
-        for item in items:
-            df.update(self.words(item, contextual=True))
-        n = len(items)
-        self.weights = {w: 1 + math.log((n + 1) / (count + 1)) for w, count in df.items()}
 
     def words(self, item, contextual=False):
         text = article_text(item, contextual=contextual)
@@ -163,7 +161,9 @@ class StoryMatcher:
             return bool(normalize(a.get('title')))
         wa, wb = self.words(a), self.words(b)
         shared = wa & wb
-        weight = lambda words: sum(self.weights.get(w, 1) for w in words)
+        # Scores are pairwise and stable: unrelated new articles cannot change
+        # whether two existing reports are considered the same story.
+        weight = lambda words: sum(.5 if w in GENERIC else 1 for w in words)
 
         def scores(left, right):
             common = left & right
@@ -183,8 +183,18 @@ class StoryMatcher:
         if len(shared) >= 2 and a.get('summary') and b.get('summary'):
             ca, cb = self.words(a, True), self.words(b, True)
             count, containment, jaccard = scores(ca, cb)
-            return (len((ca & cb) - GENERIC) >= 4 and count >= 6
-                    and containment >= .55 and jaccard >= .30)
+            if (len((ca & cb) - GENERIC) >= 4 and count >= 6
+                    and containment >= .55 and jaccard >= .30):
+                return True
+        # Actual body evidence can confirm unrelated-looking headlines. Unlike
+        # metadata, it must supply numerous specific shared terms; explicit
+        # locations, roads, dates and event conflicts are still checked first.
+        if a.get('content_terms') or b.get('content_terms'):
+            ca, cb = self.words(a, True), self.words(b, True)
+            count, containment, jaccard = scores(ca, cb)
+            if len((ca & cb) - GENERIC) >= 5:
+                return ((count >= 8 and containment >= .66 and jaccard >= .16)
+                        or (count >= 12 and containment >= .50 and jaccard >= .18))
         return False
 
 def deduplicate(items):
@@ -229,3 +239,4 @@ def deduplicate(items):
         ).hexdigest()[:16]
         result.append(representative)
     return result
+

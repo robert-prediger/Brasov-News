@@ -4,8 +4,8 @@ import os
 import tempfile
 from pathlib import Path
 from unittest.mock import patch
-from story_dedupe import deduplicate
-from update_news import extract_headline, clean_headline
+from story_dedupe import deduplicate, tokens, StoryMatcher
+from update_news import extract_headline, clean_headline, extract_metadata, extract_content_evidence
 
 
 def article(title, slug, day='2026-10-26T12:00:00+02:00'):
@@ -146,11 +146,66 @@ class StoryDeduplicationTests(unittest.TestCase):
                 result = json.loads(Path('news.json').read_text())
             finally:
                 os.chdir(previous_cwd)
-        self.assertEqual(result['dedupe_version'], 2)
+        self.assertEqual(result['dedupe_version'], 3)
         self.assertEqual(result['count'], 1)
         self.assertEqual(result['raw_count'], 2)
         self.assertEqual(len(result['items'][0]['coverage']), 2)
 
+    def test_informative_description_beats_title_repeated_as_og_description(self):
+        title = 'Incendiu în Bran: o femeie a ajuns la spital'
+        detail = 'Un incendiu a afectat o casă în Bran, pe strada General Moșoiu. Intervin echipajele SMURD.'
+        page = f'<meta property="og:title" content="{title}"><meta property="og:description" content="{title}"><meta name="description" content="{detail}">'
+        self.assertEqual(extract_metadata(page, title)[1], detail)
+
+    def test_site_wide_description_cannot_replace_article_description(self):
+        title = 'Laboratorul digital pentru elevi a fost inaugurat'
+        detail = 'Laboratorul digital pentru elevi este dotat cu echipamente noi.'
+        site = 'Suntem un ziar care vă ține la curent cu evenimente culturale, economice, mondene și tot ce trebuie să știți. Răsfoiți articolele noastre.'
+        page = f'<meta property="og:title" content="{title}"><meta property="og:description" content="{detail}"><meta name="description" content="{site}">'
+        self.assertEqual(extract_metadata(page, title)[1], detail)
+
+    def test_real_duplicate_headlines_use_body_evidence(self):
+        cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
+        for a, b in cases['same_story']:
+            with self.subTest(title=a['title']):
+                self.assert_grouped(a, b)
+                noise = [article('Alte știri despre Bran, biciclete și incendii', f'noise-{i}') for i in range(100)]
+                self.assertTrue(StoryMatcher([a, b, *noise]).same(a, b))
+
+    def test_real_unrelated_articles_with_shared_publisher_are_separate(self):
+        cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
+        for a, b in cases['different_stories']:
+            with self.subTest(title=a['title']):
+                self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_body_evidence_ignores_ads_navigation_and_related_articles(self):
+        page = '''<nav><p>Navigație cu accident pe autostradă și vremea de mâine.</p></nav>
+          <article><header><p>Informații despre redacție și autorul acestui articol.</p></header>
+          <div class="entry-content"><p>Incendiul de la locuința de pe strada General Moșoiu a provocat arsuri unei femei.</p>
+          <div class="advertisement"><p>Ofertă specială pentru consultații medicale la clinica Test.</p></div>
+          <p>Echipajele SMURD au intervenit cu trei autospeciale pentru stingerea incendiului.</p>
+          <div class="related-posts"><p>Un alt incendiu a avut loc într-o altă localitate, cu alte victime.</p></div>
+          </div></article><footer><p>Informații despre abonamente și politica editorială a publicației.</p></footer>'''
+        terms, streets = extract_content_evidence(page)
+        self.assertIn('smurd', terms)
+        self.assertEqual(streets, ['general mosoiu'])
+        for excluded in ('autostrada', 'redactie', 'clinica', 'victime', 'abonamente'):
+            self.assertNotIn(excluded, terms)
+
+    def test_pair_decision_is_independent_of_other_news_in_feed(self):
+        a = article('Apă oprită în Săcele marți', 'apa-oprita-sacele-marti')
+        b = article('Străzile din Săcele rămân fără apă marți', 'strazi-sacele-fara-apa-marti')
+        noise = [article('Apă în Săcele și Bran, alte evenimente marți', f'noise-{i}') for i in range(100)]
+        self.assertEqual(StoryMatcher([a, b]).same(a, b), StoryMatcher([a, b, *noise]).same(a, b))
+
+    def test_two_fires_at_different_streets_are_not_merged(self):
+        a = article('Incendiu la o casă din Bran. O femeie a suferit arsuri', 'first')
+        b = article(a['title'], 'second')
+        a['streets'], b['streets'] = ['general mosoiu'], ['valeriu bologa']
+        a['content_terms'] = b['content_terms'] = sorted(tokens('Pompierii intervin cu trei autospeciale la casa cuprinsă de flăcări, unde o femeie a suferit arsuri la mâini.'))
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
 
 if __name__ == '__main__':
     unittest.main()
+

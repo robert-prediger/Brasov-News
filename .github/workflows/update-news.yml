@@ -33,7 +33,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Test story grouping before publishing
+      - name: Test grouping, article extraction and regression cases
         run: python -m unittest -v test_story_dedupe.py
 
       - name: Check whether this hour needs an update
@@ -87,3 +87,4 @@ jobs:
           git commit -m "Update Brasov news"
           git pull --rebase origin main
           git push origin main
+
