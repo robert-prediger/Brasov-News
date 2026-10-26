@@ -1,8 +1,43 @@
 {
-  "updated": "26.10.2026, 12:00",
-  "count": 71,
-  "raw_count": 86,
+  "updated": "26.10.2026, 13:00",
+  "count": 69,
+  "raw_count": 84,
   "items": [
+    {
+      "title": "KIMONO, expoziţie foto la Centrul Cultural „Reduta” Brașov",
+      "url": "https://newsbv.ro/kimono-expozitie-foto-reduta/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-26T12:58:57+02:00"
+    },
+    {
+      "title": "Damian Drăghici și Filarmonica Brașov deschid luna sărbătorilor cu un concert de excepție",
+      "url": "https://newsbv.ro/damian-draghici-si-filarmonica-brasov/",
+      "source": "NewsBV",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-26T12:48:11+02:00"
+    },
+    {
+      "title": "Muzica clasică, pe înțelesul celor mici! Concert educativ de pian, la Brașov",
+      "url": "https://transilvania365.ro/muzica-clasica-pe-intelesul-celor-mici-concert-educativ-de-pian-la-brasov/",
+      "source": "Transilvania365",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-26T12:34:04+02:00"
+    },
+    {
+      "title": "Jérôme France triumfă la Trofeul Poiana Brașov AUTOKLASS 2026! Finala sezonului a decis noi campioni naționali",
+      "url": "https://brasovstiri.ro/jerome-france-triumfa-la-trofeul-poiana-brasov-autoklass-2026-finala-sezonului-a-decis-noi-campioni-nationali/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-26T12:24:42+02:00"
+    },
+    {
+      "title": "Credit de 25 de milioane de euro pentru Compania Apa Brașov. Ce vrea...",
+      "url": "https://transilvania365.ro/credit-de-25-de-milioane-de-euro-pentru-compania-apa-brasov-ce-vrea-sa-faca-societatea-cu-banii-imprumutati-de-la-berd/",
+      "source": "Transilvania365",
+      "category": "💰 Business & economie",
+      "published": "2026-10-26T12:13:41+02:00"
+    },
     {
       "title": "Au spart ghinionul la Covasna: Prima victorie pentru Kids Tâmpa Brașov, după 9 înfrângeri consecutive!",
       "url": "https://www.monitorulexpres.ro/2026/10/26/au-spart-ghinionul-la-covasna-prima-victorie-pentru-kids-tampa-brasov-dupa-9-infrangeri-consecutive/",
@@ -11,7 +46,7 @@
       "published": "2026-10-26T11:57:32+02:00"
     },
     {
-      "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30 octombrie și 1 noiembrie",
+      "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30 octombrie și...",
       "url": "https://transilvania365.ro/pasari-exotice-spectaculoase-la-rasnov-expozitie-cu-intrare-gratuita-intre-30-octombrie-si-1-noiembrie/",
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
@@ -53,7 +88,7 @@
       "published": "2026-10-26T11:21:45+02:00"
     },
     {
-      "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea costa 5.500...",
+      "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea...",
       "url": "https://transilvania365.ro/schiatul-in-poiana-brasov-se-scumpeste-abonamentul-de-sezon-ar-putea-costa-5-500-de-lei/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -86,20 +121,6 @@
       "source": "Ziarul Metropolitan Brașov",
       "category": "🏙️ Oraș & administrație",
       "published": "2026-10-26T11:15:42+02:00"
-    },
-    {
-      "title": "Hala Star din Brașov, reparații de peste 780.000 lei",
-      "url": "https://www.zmbv.ro/hala-star-din-brasov-reparatii-de-peste-780-000-lei/26/10/2026/120740/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-26T11:15:26+02:00"
-    },
-    {
-      "title": "Corona Brașov: Doi Campioni Naționali la Patinaj Viteză",
-      "url": "https://www.zmbv.ro/corona-brasov-doi-campioni-nationali-la-patinaj-viteza/26/10/2026/120738/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-26T11:15:13+02:00"
     },
     {
       "title": "Automobilism | Jérôme France, victorie și la Poiana Brașov! Francezul a dominat sezonul de viteză în coastă",
@@ -151,6 +172,13 @@
       "published": "2026-10-26T10:31:10+02:00"
     },
     {
+      "title": "2 campioni naționali pentru Corona Brașov la patinaj viteză. Paul Turjan, pe primul loc mondial la categoria sa de vârstă",
+      "url": "https://newsbv.ro/2-campioni-nationali-corona-brasov-la-patinaj-viteza/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-26T10:09:24+02:00"
+    },
+    {
       "title": "Brașovul se apropie de fenomentul de „turistificare”. Localnicii au ajuns să nu mai meargă în Centru vara sau în vârfurile de sezon",
       "url": "https://bizbrasov.ro/2026/10/26/brasov-turistificare-vara-varf-sezon/",
       "source": "BizBrașov",
@@ -172,13 +200,6 @@
       "published": "2026-10-26T09:48:12+02:00"
     },
     {
-      "title": "Fapt divers acum 2 ore Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
-      "url": "https://www.brasov.net/record-negativ-pe-calea-ferata-10-ore-cu-trenul-international-dacia-intre-brasov-si-sighisoara/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-26T09:43:41+02:00"
-    },
-    {
       "title": "Primăria Brașov va cere aproximativ 15 milioane de lei de la UE pentru proiectul promenadei de pe Castanilor, cu orgă de apă și plajă urbană",
       "url": "https://bizbrasov.ro/2026/10/26/primaria-brasov-promenade-castanilor/",
       "source": "BizBrașov",
@@ -186,18 +207,18 @@
       "published": "2026-10-26T09:42:22+02:00"
     },
     {
-      "title": "Expoziția foto „KIMONO”. O întâlnire fotografică cu eleganța și misterul culturii japoneze, la Centrul Cultural „Reduta” Brașov",
-      "url": "https://brasovstiri.ro/expozitia-foto-kimono-o-intalnire-fotografica-cu-eleganta-si-misterul-culturii-japoneze-la-centrul-cultural-reduta-brasov/",
-      "source": "Brașov Știri",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T09:40:16+02:00"
-    },
-    {
       "title": "BRAȘOV | Apa, oprită temporar pe str. Zizinului și Brândușelor",
       "url": "https://mytex.ro/expres/brasov-apa-oprita-temporar-pe-str-zizinului-si-branduselor/",
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-26T09:37:56+02:00"
+    },
+    {
+      "title": "Record pe calea ferată! 10 ore cu trenul între Braşov şi Sighişoara",
+      "url": "https://newsbv.ro/10-ore-cu-trenul-intre-brasov-si-sighisoara/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-26T09:35:03+02:00"
     },
     {
       "title": "VIDEO. A început amenajarea unui nou sens giratoriu la Hărman. Primarul...",
@@ -284,20 +305,6 @@
       "published": "2026-10-26T08:15:19+02:00"
     },
     {
-      "title": "S-a deschis sezonul de patinaj public la Patinoarul Olimpic din Brașov",
-      "url": "https://brasovstiri.ro/s-a-deschis-sezonul-de-patinaj-public-la-patinoarul-olimpic-din-brasov/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-26T08:14:28+02:00"
-    },
-    {
-      "title": "Recunoștință pentru militari: Brașovul a sărbătorit Ziua Armatei prin ceremonii solemne",
-      "url": "https://www.brasov.net/recunostinta-pentru-militari-brasovul-a-sarbatorit-ziua-armatei-prin-ceremonii-solemne/",
-      "source": "Brașov.net",
-      "category": "🔥 Local",
-      "published": "2026-10-26T08:14:02+02:00"
-    },
-    {
       "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își...",
       "url": "https://transilvania365.ro/siguranta-in-scolile-din-judetul-brasov-prioritate-absoluta-d-o-security-isi-afirma-sprijinul-logistic-si-experienta-pentru-implementarea-noilor-masuri-guvernamentale/",
       "source": "Transilvania365",
@@ -305,25 +312,11 @@
       "published": "2026-10-26T08:04:46+02:00"
     },
     {
-      "title": "Colegiul Național „Dr. Ioan Meșotă” din Brașov a găzduit Concursul Național de Fizică „EVRIKA”",
-      "url": "https://brasovstiri.ro/colegiul-national-dr-ioan-mesota-din-brasov-a-gazduit-concursul-national-de-fizica-evrika/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-26T07:35:00+02:00"
-    },
-    {
       "title": "Autostrada A13 Sibiu – Făgăraș: Lucrări la ultimul segment al podului în arc de pe tronsonul 3 (VIDEO)",
       "url": "https://newsbv.ro/autostrada-a13-sibiu-fagaras-lucrari-podului-arc/",
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
       "published": "2026-10-26T06:43:25+02:00"
-    },
-    {
-      "title": "Cererea de muniție readuce în plan instalații industriale din anii ’80. Tohan Zărnești a primit primul gir de la Mediu pentru a pregăti investiții în vederea creșterii producției",
-      "url": "https://bizbrasov.ro/2026/10/26/munitie-instalatii-tohan-zarnesti-mediu/",
-      "source": "BizBrașov",
-      "category": "💰 Business & economie",
-      "published": "2026-10-26T05:42:00+02:00"
     },
     {
       "title": "La Săcele, sărbătorile oficiale vin la pachet cu plăcinte. Ce s-a pregătit de Ziua Armatei",
@@ -438,11 +431,11 @@
       "published": "2026-10-25T12:59:49+02:00"
     },
     {
-      "title": "Eveniment acum 23 de ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
-      "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
-      "source": "Brașov.net",
+      "title": "BRAȘOV | Și-ar fi agresat concubina pe stradă și i-ar fi distrus telefonul! Bărbat arestat preventiv pentru 30 de zile",
+      "url": "https://mytex.ro/delicte/brasov-si-ar-fi-agresat-concubina-pe-strada-si-i-ar-fi-distrus-telefonul-barbat-arestat-preventiv-pentru-30-de-zile/",
+      "source": "MyTex",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-25T12:37:22+02:00"
+      "published": "2026-10-25T12:24:32+02:00"
     },
     {
       "title": "Corona Brașov, victorie de moral în prima etapă a Diviziei A1 la volei masculin. Steaua, răpusă sub Tâmpa",
@@ -492,13 +485,6 @@
       "source": "MyTex",
       "category": "🔥 Local",
       "published": "2026-10-25T06:49:15+02:00"
-    },
-    {
-      "title": "Hepatita A a umplut până la refuz Spitalul de Boli Infecțioase Brașov",
-      "url": "https://www.monitorulexpres.ro/2026/10/25/hepatita-a-a-umplut-pana-la-refuz-spitalul-de-boli-infectioase-brasov/",
-      "source": "Monitorul Expres",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-25T00:15:22+03:00"
     }
   ]
 }
