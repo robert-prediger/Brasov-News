@@ -7,7 +7,8 @@ import unicodedata
 from pathlib import Path
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
-from difflib import SequenceMatcher
+from html.parser import HTMLParser
+from story_dedupe import VERSION as DEDUPE_VERSION, deduplicate
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; BrasovNewsDailyBrief/9.0)"}
@@ -608,110 +609,63 @@ def recent(date):
     )
 
 
-def similarity_values(a, b):
-    sa, sb = simple(a), simple(b)
+class ArticleHeadlineParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.meta = {}
+        self.h1 = []
+        self.in_h1 = False
 
-    seq = SequenceMatcher(None, sa, sb).ratio()
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "meta":
+            key = (attrs.get("property") or attrs.get("name") or "").lower()
+            if key in {"og:title", "twitter:title", "og:description", "description"} and attrs.get("content"):
+                self.meta.setdefault(key, attrs["content"])
+        elif tag == "h1" and not self.h1:
+            self.in_h1 = True
 
-    wa, wb = words(a), words(b)
+    def handle_endtag(self, tag):
+        if tag == "h1":
+            self.in_h1 = False
 
-    if not wa or not wb:
-        return seq, 0, 0, 0
-
-    common = wa & wb
-
-    return (
-        seq,
-        len(common) / min(len(wa), len(wb)),
-        len(common) / len(wa | wb),
-        len(common)
-    )
+    def handle_data(self, data):
+        if self.in_h1:
+            self.h1.append(data)
 
 
-def same_story(a, b):
-    if canonical_url(a["url"]) == canonical_url(b["url"]):
-        return True
+def clean_headline(title, source=""):
+    """Remove publisher suffixes, retaining separators inside the headline."""
+    parts = re.split(r"\s+[-|•»]\s+", title)
+    publisher = simple(source).replace(" ", "")
+    boilerplate = {"stiri", "news", "din", "brasov", "ro"}
+    while len(parts) > 1:
+        tail = simple(parts[-1])
+        if (set(tail.split()) <= boilerplate or
+                (publisher and publisher in tail.replace(" ", "") and len(tail.split()) <= 10)):
+            parts.pop()
+        else:
+            break
+    return " - ".join(parts)
 
-    seq, containment, jaccard, common_count = similarity_values(
-        a["title"],
-        b["title"]
-    )
 
-    fa = event_fingerprint(a["title"])
-    fb = event_fingerprint(b["title"])
+def extract_metadata(page, fallback, source=""):
+    parser = ArticleHeadlineParser()
+    try:
+        parser.feed(page)
+    except Exception:
+        return fallback, ""
+    summary = clean(parser.meta.get("og:description") or parser.meta.get("description") or "")[:1000]
+    for value in (parser.meta.get("og:title"), parser.meta.get("twitter:title"),
+                  " ".join(parser.h1)):
+        title = clean(value or "")
+        if 20 <= len(title) <= 500 and len(words(title)) >= 3:
+            return clean_headline(title, source), summary
+    return fallback, summary
 
-    common_fp = fa & fb
 
-    fp_containment = (
-        len(common_fp) / min(len(fa), len(fb))
-        if fa and fb
-        else 0
-    )
-
-    fp_jaccard = (
-        len(common_fp) / len(fa | fb)
-        if fa and fb
-        else 0
-    )
-
-    same_numbers = bool(
-        numbers(a["title"]) & numbers(b["title"])
-    )
-
-    ca = event_core(a["title"])
-    cb = event_core(b["title"])
-
-    common_core = ca & cb
-
-    if seq >= 0.72:
-        return True
-
-    if containment >= 0.68 and common_count >= 4:
-        return True
-
-    if jaccard >= 0.44 and common_count >= 4:
-        return True
-
-    if (
-        same_numbers
-        and common_count >= 3
-        and containment >= 0.42
-    ):
-        return True
-
-    if (
-        len(common_fp) >= 4
-        and fp_containment >= 0.58
-    ):
-        return True
-
-    if (
-        same_numbers
-        and len(common_fp) >= 3
-        and fp_containment >= 0.38
-    ):
-        return True
-
-    if (
-        len(common_fp) >= 5
-        and fp_jaccard >= 0.32
-    ):
-        return True
-
-    if (
-        len(common_core) >= 3
-        and len(common_fp) >= 3
-    ):
-        return True
-
-    if (
-        len(common_core) >= 2
-        and len(common_fp) >= 4
-        and fp_containment >= 0.40
-    ):
-        return True
-
-    return False
+def extract_headline(page, fallback):
+    return extract_metadata(page, fallback)[0]
 
 
 def collect_links(source):
@@ -789,11 +743,13 @@ def check_article(article):
         if not recent(published):
             return None
 
+        title, summary = extract_metadata(page, article["title"], article["source"])
         return {
-            "title": article["title"],
+            "title": title,
+            "summary": summary,
             "url": article["url"],
             "source": article["source"],
-            "category": category(article["title"]),
+            "category": category(title),
             "published": published.isoformat()
         }
 
@@ -808,124 +764,106 @@ def check_article(article):
         return None
 
 
-cfg = json.loads(
-    Path("sources.json").read_text(
+def main():
+    cfg = json.loads(
+        Path("sources.json").read_text(
+            encoding="utf-8"
+        )
+    )
+
+    links = []
+
+    for source in cfg["sources"]:
+        links.extend(
+            collect_links(source)
+        )
+
+
+    unique_links = []
+    seen_urls = set()
+
+    for article in links:
+        cu = canonical_url(article["url"])
+
+        if cu not in seen_urls:
+            seen_urls.add(cu)
+            unique_links.append(article)
+
+
+    print(
+        "Checking",
+        len(unique_links),
+        "candidate article pages in parallel..."
+    )
+
+
+    candidates = []
+
+    with ThreadPoolExecutor(
+        max_workers=MAX_WORKERS
+    ) as executor:
+
+        future_map = {
+            executor.submit(check_article, a): a
+            for a in unique_links
+        }
+
+        for future in as_completed(future_map):
+
+            try:
+                result = future.result()
+
+                if result is not None:
+                    candidates.append(result)
+
+            except Exception as e:
+                a = future_map[future]
+
+                print(
+                    "WORKER ERROR:",
+                    a["source"],
+                    a["url"],
+                    e
+                )
+
+
+    candidates.sort(
+        key=lambda x: x["published"],
+        reverse=True
+    )
+
+
+    out = deduplicate(candidates)
+
+
+    Path("news.json").write_text(
+        json.dumps(
+            {
+                "updated": NOW.strftime(
+                    "%d.%m.%Y, %H:%M"
+                ),
+                "count": len(out),
+                "dedupe_version": DEDUPE_VERSION,
+                "raw_count": len(candidates),
+                "items": out
+            },
+            ensure_ascii=False,
+            indent=2
+        ),
         encoding="utf-8"
     )
-)
 
-links = []
 
-for source in cfg["sources"]:
-    links.extend(
-        collect_links(source)
+    print(
+        "Saved",
+        len(out),
+        "unique recent Brasov stories from",
+        len(candidates),
+        "verified recent candidates and",
+        len(cfg["sources"]),
+        "sources"
     )
 
 
-unique_links = []
-seen_urls = set()
-
-for article in links:
-    cu = canonical_url(article["url"])
-
-    if cu not in seen_urls:
-        seen_urls.add(cu)
-        unique_links.append(article)
-
-
-print(
-    "Checking",
-    len(unique_links),
-    "candidate article pages in parallel..."
-)
-
-
-candidates = []
-
-with ThreadPoolExecutor(
-    max_workers=MAX_WORKERS
-) as executor:
-
-    future_map = {
-        executor.submit(check_article, a): a
-        for a in unique_links
-    }
-
-    for future in as_completed(future_map):
-
-        try:
-            result = future.result()
-
-            if result is not None:
-                candidates.append(result)
-
-        except Exception as e:
-            a = future_map[future]
-
-            print(
-                "WORKER ERROR:",
-                a["source"],
-                a["url"],
-                e
-            )
-
-
-candidates.sort(
-    key=lambda x: x["published"],
-    reverse=True
-)
-
-
-out = []
-
-for article in candidates:
-
-    duplicate = False
-
-    for existing in out:
-
-        if same_story(article, existing):
-
-            duplicate = True
-
-            print(
-                "DUPLICATE:",
-                article["source"],
-                article["title"],
-                "==",
-                existing["source"],
-                existing["title"]
-            )
-
-            break
-
-    if not duplicate:
-        out.append(article)
-
-
-Path("news.json").write_text(
-    json.dumps(
-        {
-            "updated": NOW.strftime(
-                "%d.%m.%Y, %H:%M"
-            ),
-            "count": len(out),
-            "raw_count": len(candidates),
-            "items": out
-        },
-        ensure_ascii=False,
-        indent=2
-    ),
-    encoding="utf-8"
-)
-
-
-print(
-    "Saved",
-    len(out),
-    "unique recent Brasov stories from",
-    len(candidates),
-    "verified recent candidates and",
-    len(cfg["sources"]),
-    "sources"
-)
+if __name__ == "__main__":
+    main()

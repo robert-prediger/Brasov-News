@@ -1,6 +1,6 @@
 {
   "updated": "26.10.2026, 15:00",
-  "count": 76,
+  "count": 66,
   "raw_count": 92,
   "items": [
     {
@@ -8,532 +8,1107 @@
       "url": "https://www.monitorulexpres.ro/2026/10/26/barbat-din-brasov-amendat-cu-12-000-de-lei-dupa-ce-ar-fi-abandonat-doi-caini-la-un-adapost/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T14:56:10+02:00"
-    },
-    {
-      "title": "S-a găsit făptașul! Amendă de 12.000 de lei pentru brașoveanul de 55 de ani care a aruncat, fără milă,...",
-      "url": "https://transilvania365.ro/s-a-gasit-faptasul-amenda-de-12-000-de-lei-pentru-brasoveanul-de-55-de-ani-care-a-aruncat-fara-mila-doi-catelusi-peste-gardul-adapostului-de-animale-brasov/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-26T14:55:14+02:00"
+      "published": "2026-10-26T14:56:10+02:00",
+      "summary": "Un brașovean de 55 de ani a fost amendat cu 12.000 de lei după ce ar fi abandonat doi câini în incinta unui adăpost de animale din Brașov.",
+      "coverage": [
+        {
+          "title": "Bărbat din Brașov, amendat cu 12.000 de lei după ce ar fi abandonat doi câini la un adăpost",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/barbat-din-brasov-amendat-cu-12-000-de-lei-dupa-ce-ar-fi-abandonat-doi-caini-la-un-adapost/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "S-a găsit făptașul! Amendă de 12.000 de lei pentru brașoveanul de 55 de ani care a aruncat, fără milă, doi cățeluși peste gardul Adăpostului de animale Brașov",
+          "url": "https://transilvania365.ro/s-a-gasit-faptasul-amenda-de-12-000-de-lei-pentru-brasoveanul-de-55-de-ani-care-a-aruncat-fara-mila-doi-catelusi-peste-gardul-adapostului-de-animale-brasov/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "8dd148332d00725a"
     },
     {
       "title": "Facturi mai mici la energie? Primăria Cristian anunță un eveniment dedicat soluțiilor moderne",
       "url": "https://transilvania365.ro/facturi-mai-mici-la-energie-primaria-cristian-anunta-un-eveniment-dedicat-solutiilor-moderne/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-26T14:42:52+02:00"
+      "published": "2026-10-26T14:42:52+02:00",
+      "summary": "Potrivit anunțului publicat de Primăria Cristian, accesul este gratuit, pe baza unei invitații care poate fi obținută de pe site-ul",
+      "coverage": [
+        {
+          "title": "Facturi mai mici la energie? Primăria Cristian anunță un eveniment dedicat soluțiilor moderne",
+          "url": "https://transilvania365.ro/facturi-mai-mici-la-energie-primaria-cristian-anunta-un-eveniment-dedicat-solutiilor-moderne/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "5013ac7a97d65a4c"
     },
     {
       "title": "Aro Palace cade la bursă. Transilvania Investments Alliance începe delistarea companiei care va opera viitorul hotel Hyatt din Brașov",
       "url": "https://newsbv.ro/aro-palace-cade-la-bursa/",
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T14:42:13+02:00"
+      "published": "2026-10-26T14:42:13+02:00",
+      "summary": "Transilvania Investments Alliance (TRANSI), care concentrează 95,99% din acțiunile companiei hoteliere Aro Palace din Brașov (ARO), pachet care permite",
+      "coverage": [
+        {
+          "title": "Aro Palace cade la bursă. Transilvania Investments Alliance începe delistarea companiei care va opera viitorul hotel Hyatt din Brașov",
+          "url": "https://newsbv.ro/aro-palace-cade-la-bursa/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "5bac5904e1d3580a"
     },
     {
-      "title": "Liga 3 | CSM Săcele a dat lovitura la Breaza! Trei victorii consecutive pentru elevii lui Marian Cristescu",
+      "title": "Liga 3 - CSM Săcele a dat lovitura la Breaza! Trei victorii consecutive pentru elevii lui Marian Cristescu",
       "url": "https://www.monitorulexpres.ro/2026/10/26/liga-3-csm-sacele-a-dat-lovitura-la-breaza-trei-victorii-consecutive-pentru-elevii-lui-marian-cristescu/",
       "source": "Monitorul Expres",
       "category": "⚽ Sport",
-      "published": "2026-10-26T14:21:11+02:00"
+      "published": "2026-10-26T14:21:11+02:00",
+      "summary": "Liga 3 | CSM Săcele a dat lovitura la Breaza! Trei victorii consecutive pentru elevii lui Marian Cristescu",
+      "coverage": [
+        {
+          "title": "Liga 3 - CSM Săcele a dat lovitura la Breaza! Trei victorii consecutive pentru elevii lui Marian Cristescu",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/liga-3-csm-sacele-a-dat-lovitura-la-breaza-trei-victorii-consecutive-pentru-elevii-lui-marian-cristescu/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "226536d5b74a5766"
     },
     {
       "title": "Pompierii brașoveni au participat la demonstrații de descarcerare și prezentări de echipamente moderne (FOTO)",
       "url": "https://www.monitorulexpres.ro/2026/10/26/pompierii-brasoveni-au-participat-la-demonstratii-de-descarcerare-si-prezentari-de-echipamente-moderne-foto/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T14:21:04+02:00"
+      "published": "2026-10-26T14:21:04+02:00",
+      "summary": "ISU Brașov a găzduit demonstrații de descarcerare și prezentări de echipamente susținute de reprezentanții WEBER pentru pompierii brașoveni.",
+      "coverage": [
+        {
+          "title": "Pompierii brașoveni au participat la demonstrații de descarcerare și prezentări de echipamente moderne (FOTO)",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/pompierii-brasoveni-au-participat-la-demonstratii-de-descarcerare-si-prezentari-de-echipamente-moderne-foto/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "720f9449d5ebeb42"
     },
     {
       "title": "Linia 56T din Brașov rămâne în teste încă trei luni. Apare o nouă stație pe strada Zizinului",
       "url": "https://www.brasov.net/linia-56t-din-brasov-ramane-in-teste-inca-trei-luni-apare-o-noua-statie-pe-strada-zizinului/",
       "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-10-26T14:20:41+02:00"
+      "published": "2026-10-26T14:20:41+02:00",
+      "summary": "Linia 56T din Brașov rămâne în teste încă trei luni. Apare o nouă stație pe strada Zizinului",
+      "coverage": [
+        {
+          "title": "Linia 56T din Brașov rămâne în teste încă trei luni. Apare o nouă stație pe strada Zizinului",
+          "url": "https://www.brasov.net/linia-56t-din-brasov-ramane-in-teste-inca-trei-luni-apare-o-noua-statie-pe-strada-zizinului/",
+          "source": "Brașov.net"
+        }
+      ],
+      "story_id": "8278f4f16085e26f"
     },
     {
       "title": "Concert Inedit cu Damian Drăghici și Filarmonica Brașov",
       "url": "https://www.zmbv.ro/concert-inedit-cu-damian-draghici-si-filarmonica-brasov/26/10/2026/120780/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T14:15:36+02:00"
+      "published": "2026-10-26T14:15:36+02:00",
+      "summary": "Damian & Brothers și Filarmonica Brașov vor susține un concert special pe 4 decembrie, combinând muzica balcanică cu o orchestră simfonică.",
+      "coverage": [
+        {
+          "title": "Concert Inedit cu Damian Drăghici și Filarmonica Brașov",
+          "url": "https://www.zmbv.ro/concert-inedit-cu-damian-draghici-si-filarmonica-brasov/26/10/2026/120780/",
+          "source": "Ziarul Metropolitan Brașov"
+        }
+      ],
+      "story_id": "6f9727f2545992cf"
     },
     {
       "title": "EXCLUSIV: Irineu Darău anunță că vrea să candideze la președinția Consiliului Județean Brașov: „Sunt foarte hotărât să câștig!”",
       "url": "https://www.zmbv.ro/exclusiv-irineu-darau-anunta-ca-vrea-sa-candideze-la-presedintia-consiliului-judetean-brasov-sunt-foarte-hotarat-sa-castig/26/10/2026/120768/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T14:03:52+02:00"
+      "published": "2026-10-26T14:03:52+02:00",
+      "summary": "EXCLUSIV: Irineu Darău anunță că vrea să candideze la președinția Consiliului Județean Brașov: „Sunt foarte hotărât să câștig!” Ziarul Metropolitan Brasov -",
+      "coverage": [
+        {
+          "title": "EXCLUSIV: Irineu Darău anunță că vrea să candideze la președinția Consiliului Județean Brașov: „Sunt foarte hotărât să câștig!”",
+          "url": "https://www.zmbv.ro/exclusiv-irineu-darau-anunta-ca-vrea-sa-candideze-la-presedintia-consiliului-judetean-brasov-sunt-foarte-hotarat-sa-castig/26/10/2026/120768/",
+          "source": "Ziarul Metropolitan Brașov"
+        }
+      ],
+      "story_id": "e4fa6d79ca0c358b"
     },
     {
       "title": "Corona Brașov a pierdut la Gheorgheni, după prelungiri, scor 3-4. „Lupii” rămân lideri în Erste Liga",
       "url": "https://brasovstiri.ro/corona-brasov-a-pierdut-la-gheorgheni-dupa-prelungiri-scor-3-4-lupii-raman-lideri-in-erste-liga/",
       "source": "Brașov Știri",
       "category": "⚽ Sport",
-      "published": "2026-10-26T13:56:22+02:00"
+      "published": "2026-10-26T13:56:22+02:00",
+      "summary": "Corona Brașov a fost învinsă duminică, 25 octombrie 2026, în deplasare, de formația ACSH Gheorgheni, cu scorul de 4-3, după prelungiri, într-o partidă disputată la Remetea Ice Arena. Meciul a contat atât pentru Campionatul Național de hochei pe gheață, cât și pentru Erste Liga. Potrivit Radio România Brașov FM, brașovenii au început excelent partida și […]",
+      "coverage": [
+        {
+          "title": "Corona Brașov a pierdut la Gheorgheni, după prelungiri, scor 3-4. „Lupii” rămân lideri în Erste Liga",
+          "url": "https://brasovstiri.ro/corona-brasov-a-pierdut-la-gheorgheni-dupa-prelungiri-scor-3-4-lupii-raman-lideri-in-erste-liga/",
+          "source": "Brașov Știri"
+        },
+        {
+          "title": "Hochei - Corona Brașov, înfrângere dramatică la Remetea! Harghitenii au întors meciul în prelungiri",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/hochei-corona-brasov-infrangere-dramatica-la-remetea-harghitenii-au-intors-meciul-in-prelungiri/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "Corona Brașov, doar un punct de la Remetea. „Lupii” au condus cu 3-1, dar...",
+          "url": "https://mytex.ro/sport/corona-brasov-doar-un-punct-de-la-remetea/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "03ef7cc404ab9e1c"
     },
     {
       "title": "CSM Corona Brașov 2, egal în deplasare",
       "url": "https://brasovstiri.ro/csm-corona-brasov-2-egal-in-deplasare/",
       "source": "Brașov Știri",
       "category": "⚽ Sport",
-      "published": "2026-10-26T13:55:27+02:00"
+      "published": "2026-10-26T13:55:27+02:00",
+      "summary": "Echipa a 2-a de fotbal a Coronei a obținut un egal, scor 1-1, în deplasarea disputată la Vulcan, contra celor de la ACAS Internațional Brașov. Meciul a contat pentru etapa a 9-a din Liga 4 Brașov. Pentru CSM Corona Brașov 2 a marcat Cosmin Turcu. După 9 etape disputate în campionat, Corona 2 se află […]",
+      "coverage": [
+        {
+          "title": "CSM Corona Brașov 2, egal în deplasare",
+          "url": "https://brasovstiri.ro/csm-corona-brasov-2-egal-in-deplasare/",
+          "source": "Brașov Știri"
+        }
+      ],
+      "story_id": "4dd46d38041483cd"
     },
     {
       "title": "Start perfect în Campionatul Național U19 pentru CSM Corona Brașov",
       "url": "https://brasovstiri.ro/start-perfect-in-campionatul-national-u19-pentru-csm-corona-brasov/",
       "source": "Brașov Știri",
       "category": "⚽ Sport",
-      "published": "2026-10-26T13:54:14+02:00"
+      "published": "2026-10-26T13:54:14+02:00",
+      "summary": "Start perfect în Campionatul Național U19 pentru CSM Corona Brașov! Echipa noastră a încheiat primul turneu al sezonului, găzduit de ACS Juvenil Brașov, cu trei victorii din tot atâtea meciuri disputate și maximum de puncte adunate. Rezultatele meciurilor:CSM Corona Brașov – ASC Bravol Brașov 3-1 (24-26, 26-25, 25-15, 25-14) CSM Corona Brașov – ACS Juvenil […]",
+      "coverage": [
+        {
+          "title": "Start perfect în Campionatul Național U19 pentru CSM Corona Brașov",
+          "url": "https://brasovstiri.ro/start-perfect-in-campionatul-national-u19-pentru-csm-corona-brasov/",
+          "source": "Brașov Știri"
+        }
+      ],
+      "story_id": "1c1fe805c4c7b5bd"
     },
     {
       "title": "Irineu Darău îi provoacă la dezbatere pe Veștea, Scripcaru și Sucaciu: „Abia aștept să ieșim în piața publică să dezbatem viitorul județului Brașov”",
       "url": "https://www.zmbv.ro/irineu-darau-ii-provoaca-la-dezbatere-pe-vestea-scripcaru-si-sucaciu-abia-astept-sa-iesim-in-piata-publica-sa-dezbatem-viitorul-judetului-brasov/26/10/2026/120765/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:48:31+02:00"
+      "published": "2026-10-26T13:48:31+02:00",
+      "summary": "Irineu Darău îi provoacă la dezbatere pe Veștea, Scripcaru și Sucaciu: „Abia aștept să ieșim în piața publică să dezbatem viitorul județului Brașov” Ziarul",
+      "coverage": [
+        {
+          "title": "Irineu Darău îi provoacă la dezbatere pe Veștea, Scripcaru și Sucaciu: „Abia aștept să ieșim în piața publică să dezbatem viitorul județului Brașov”",
+          "url": "https://www.zmbv.ro/irineu-darau-ii-provoaca-la-dezbatere-pe-vestea-scripcaru-si-sucaciu-abia-astept-sa-iesim-in-piata-publica-sa-dezbatem-viitorul-judetului-brasov/26/10/2026/120765/",
+          "source": "Ziarul Metropolitan Brașov"
+        }
+      ],
+      "story_id": "6e240d488c6791b8"
     },
     {
-      "title": "BRAȘOV | Doliu la Colegiul Național „Andrei Șaguna”! A murit profesoara Ileana Hașdeu",
+      "title": "BRAȘOV - Doliu la Colegiul Național „Andrei Șaguna”! A murit profesoara Ileana Hașdeu",
       "url": "https://mytex.ro/educatie/brasov-doliu-la-colegiul-national-andrei-saguna-a-murit-profesoara-ileana-hasdeu/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:43:00+02:00"
+      "published": "2026-10-26T13:43:00+02:00",
+      "summary": "Comunitatea Colegiului Național „Andrei Șaguna” din Brașov este în doliu după trecerea în neființă a profesoarei Ileana Hașdeu, care a marcat numeroase generații de elevi. Vestea tristă a fost anunțată de reprezentanții colegiului, care au transmis un mesaj emoționant în memoria celei care a fost apreciată pentru delicatețea, eleganța și dragostea sa pentru Limba Română. …",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Doliu la Colegiul Național „Andrei Șaguna”! A murit profesoara Ileana Hașdeu",
+          "url": "https://mytex.ro/educatie/brasov-doliu-la-colegiul-national-andrei-saguna-a-murit-profesoara-ileana-hasdeu/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "9be77f1ee1db7752"
     },
     {
       "title": "Burrito Madre, lanțul de restaurante specializat în preparate de inspirație mexicană, intră pe piața din România și vrea să deschidă o locație și în Brașov",
       "url": "https://bizbrasov.ro/2026/10/26/burrito-madre-restaurant-mexican-brasov/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:36:50+02:00"
+      "published": "2026-10-26T13:36:50+02:00",
+      "summary": "Lanțul de restaurante Burrito Madre, unul de tip fast-casual, specializat în preparate de inspirație mexicană (burritos, tacos, quesadillas), confirmă că",
+      "coverage": [
+        {
+          "title": "Burrito Madre, lanțul de restaurante specializat în preparate de inspirație mexicană, intră pe piața din România și vrea să deschidă o locație și în Brașov",
+          "url": "https://bizbrasov.ro/2026/10/26/burrito-madre-restaurant-mexican-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "f77badc5c06ba722"
     },
     {
-      "title": "Irineu Darău, dezvăluiri la Radio Hit FM Brașov despre banii de la ADR: „Cine a făcut chestii proaste managerial sau financiar va trebui să...",
+      "title": "Irineu Darău, dezvăluiri la Radio Hit FM Brașov despre banii de la ADR: „Cine a făcut chestii proaste managerial sau financiar va trebui să plătească”",
       "url": "https://www.zmbv.ro/irineu-darau-dezvaluiri-la-radio-hit-fm-brasov-despre-banii-de-la-adr-cine-a-facut-chestii-proaste-managerial-sau-financiar-va-trebui-sa-plateasca/26/10/2026/120757/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:26:55+02:00"
+      "published": "2026-10-26T13:26:55+02:00",
+      "summary": "Irineu Darău, dezvăluiri la Radio Hit FM Brașov despre banii de la ADR: „Cine a făcut chestii proaste managerial sau financiar va trebui să plătească” Ziarul",
+      "coverage": [
+        {
+          "title": "Irineu Darău, dezvăluiri la Radio Hit FM Brașov despre banii de la ADR: „Cine a făcut chestii proaste managerial sau financiar va trebui să plătească”",
+          "url": "https://www.zmbv.ro/irineu-darau-dezvaluiri-la-radio-hit-fm-brasov-despre-banii-de-la-adr-cine-a-facut-chestii-proaste-managerial-sau-financiar-va-trebui-sa-plateasca/26/10/2026/120757/",
+          "source": "Ziarul Metropolitan Brașov"
+        }
+      ],
+      "story_id": "5fbb18bf3c71dd67"
     },
     {
-      "title": "Ghimbavul plătește peste 260.000 de lei pentru supravegherea lucrărilor la viitoarea...",
+      "title": "Ghimbavul plătește peste 260.000 de lei pentru supravegherea lucrărilor la viitoarea policlinică",
       "url": "https://transilvania365.ro/ghimbavul-plateste-peste-260-000-de-lei-pentru-supravegherea-lucrarilor-la-viitoarea-policlinica/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:26:23+02:00"
+      "published": "2026-10-26T13:26:23+02:00",
+      "summary": "Construirea viitoarei policlinici din Ghimbav vine cu o cheltuială suplimentară de peste un sfert de milion de lei. Primăria a atribuit un contract de 267.400",
+      "coverage": [
+        {
+          "title": "Ghimbavul plătește peste 260.000 de lei pentru supravegherea lucrărilor la viitoarea policlinică",
+          "url": "https://transilvania365.ro/ghimbavul-plateste-peste-260-000-de-lei-pentru-supravegherea-lucrarilor-la-viitoarea-policlinica/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "24fe0d5d093dd94e"
     },
     {
       "title": "Apă oprită în Săcele marți, 27 octombrie",
       "url": "https://www.monitorulexpres.ro/2026/10/26/apa-oprita-in-sacele-marti-27-octombrie/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:18:40+02:00"
+      "published": "2026-10-26T13:18:40+02:00",
+      "summary": "Compania Apa Brașov anunță întreruperea apei în Săcele pe 27 octombrie, între orele 8:00 și 18:00. Vezi lista străzilor afectate.",
+      "coverage": [
+        {
+          "title": "Apă oprită în Săcele marți, 27 octombrie",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/apa-oprita-in-sacele-marti-27-octombrie/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "BRAȘOV - Opriri de apă marți, în Săcele! Mai multe străzi vor fi afectate. Vezi lista completă",
+          "url": "https://mytex.ro/expres/brasov-opriri-de-apa-marti-in-sacele-mai-multe-strazi-vor-fi-afectate-vezi-lista-completa/",
+          "source": "MyTex"
+        },
+        {
+          "title": "Mai multe străzi din Săcele rămân fără apă potabilă marți. Rezervorul Bunloc va fi igienizat",
+          "url": "https://transilvania365.ro/mai-multe-strazi-din-sacele-raman-fara-apa-potabila-marti-rezervorul-bunloc-va-fi-igienizat/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "d3d0e7567d1e56d6"
     },
     {
       "title": "Irineu Darău, la Radio Hit FM Brașov, despre plecarea din Guvern: „Singurul regret este că aveam niște proiecte în derulare”",
       "url": "https://www.zmbv.ro/irineu-darau-la-radio-hit-fm-brasov-despre-plecarea-din-guvern-singurul-regret-este-ca-aveam-niste-proiecte-in-derulare/26/10/2026/120752/",
       "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:15:48+02:00"
+      "published": "2026-10-26T13:15:48+02:00",
+      "summary": "Irineu Darău, la Radio Hit FM Brașov, despre plecarea din Guvern: „Singurul regret este că aveam niște proiecte în derulare” Ziarul Metropolitan Brasov -",
+      "coverage": [
+        {
+          "title": "Irineu Darău, la Radio Hit FM Brașov, despre plecarea din Guvern: „Singurul regret este că aveam niște proiecte în derulare”",
+          "url": "https://www.zmbv.ro/irineu-darau-la-radio-hit-fm-brasov-despre-plecarea-din-guvern-singurul-regret-este-ca-aveam-niste-proiecte-in-derulare/26/10/2026/120752/",
+          "source": "Ziarul Metropolitan Brașov"
+        }
+      ],
+      "story_id": "8493ad90e96615e1"
     },
     {
       "title": "Braşoveanul Marian Godină depune o nouă plângere penală împotriva deputatului AUR Dan Tanasă",
       "url": "https://newsbv.ro/marian-godina-plangere-dan-tanasa/",
       "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:15:30+02:00"
+      "published": "2026-10-26T13:15:30+02:00",
+      "summary": "Braşoveanul Marian Godină depune o nouă plângere penală împotriva deputatului AUR Dan Tanasă. Deputatul AUR Dan Tanasă, trimis în judecată săptămâna trecută",
+      "coverage": [
+        {
+          "title": "Braşoveanul Marian Godină depune o nouă plângere penală împotriva deputatului AUR Dan Tanasă",
+          "url": "https://newsbv.ro/marian-godina-plangere-dan-tanasa/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "00616988288265a1"
     },
     {
       "title": "Mai mulți bani în bugetul Brașovului decât se anticipa",
       "url": "https://brasovstiri.ro/mai-multi-bani-in-bugetul-brasovului-decat-se-anticipa/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
-      "published": "2026-10-26T13:09:59+02:00"
+      "published": "2026-10-26T13:09:59+02:00",
+      "summary": "Direcția Fiscală Brașov a încasat cu peste 11,2 milioane de lei mai mult decât estimările bugetare, potrivit datelor centralizate până la 13 octombrie 2026. Veniturile suplimentare provin în principal din impozitele achitate de persoanele juridice și ar putea permite o nouă rectificare a bugetului municipiului Brașov. Potrivit Radio România Brașov FM, cifrele sunt prezentate într-un […]",
+      "coverage": [
+        {
+          "title": "Mai mulți bani în bugetul Brașovului decât se anticipa",
+          "url": "https://brasovstiri.ro/mai-multi-bani-in-bugetul-brasovului-decat-se-anticipa/",
+          "source": "Brașov Știri"
+        }
+      ],
+      "story_id": "212cdccf02dde9f3"
     },
     {
       "title": "KIMONO, expoziţie foto la Centrul Cultural „Reduta” Brașov",
       "url": "https://newsbv.ro/kimono-expozitie-foto-reduta/",
       "source": "NewsBV",
       "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T12:58:57+02:00"
+      "published": "2026-10-26T12:58:57+02:00",
+      "summary": "Centrul Cultural „Reduta” Brașov găzduiește expoziția foto „KIMONO”, semnată de Ana Georgia Busuioc, un proiect artistic în care fotografia devine o punte",
+      "coverage": [
+        {
+          "title": "KIMONO, expoziţie foto la Centrul Cultural „Reduta” Brașov",
+          "url": "https://newsbv.ro/kimono-expozitie-foto-reduta/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "c8b6cac48b98ee50"
     },
     {
       "title": "Jérôme France triumfă la Trofeul Poiana Brașov AUTOKLASS 2026! Finala sezonului a decis noi campioni naționali",
       "url": "https://brasovstiri.ro/jerome-france-triumfa-la-trofeul-poiana-brasov-autoklass-2026-finala-sezonului-a-decis-noi-campioni-nationali/",
       "source": "Brașov Știri",
       "category": "🔥 Local",
-      "published": "2026-10-26T12:24:42+02:00"
+      "published": "2026-10-26T12:24:42+02:00",
+      "summary": "Trofeul Poiana Brașov AUTOKLASS a pus punct sezonului 2026 al Campionatului Național de Viteză în Coastă, după un weekend care a adus la Brașov unii dintre cei mai importanți sportivi ai disciplinei, automobile spectaculoase și momente care au demonstrat că, dincolo de rezultatele sportive, siguranța și solidaritatea rămân valori esențiale ale motorsportului. Desfășurată în perioada […]",
+      "coverage": [
+        {
+          "title": "Jérôme France triumfă la Trofeul Poiana Brașov AUTOKLASS 2026! Finala sezonului a decis noi campioni naționali",
+          "url": "https://brasovstiri.ro/jerome-france-triumfa-la-trofeul-poiana-brasov-autoklass-2026-finala-sezonului-a-decis-noi-campioni-nationali/",
+          "source": "Brașov Știri"
+        },
+        {
+          "title": "Automobilism - Jérôme France, victorie și la Poiana Brașov! Francezul a dominat sezonul de viteză în coastă",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/automobilism-jerome-france-victorie-si-la-poiana-brasov-francezul-a-dominat-sezonul-de-viteza-in-coasta/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "3125d02e9d815f1e"
     },
     {
-      "title": "Credit de 25 de milioane de euro pentru Compania Apa Brașov....",
+      "title": "Credit de 25 de milioane de euro pentru Compania Apa Brașov. Ce vrea să facă societatea cu banii împrumutați de la BERD",
       "url": "https://transilvania365.ro/credit-de-25-de-milioane-de-euro-pentru-compania-apa-brasov-ce-vrea-sa-faca-societatea-cu-banii-imprumutati-de-la-berd/",
       "source": "Transilvania365",
       "category": "💰 Business & economie",
-      "published": "2026-10-26T12:13:41+02:00"
+      "published": "2026-10-26T12:13:41+02:00",
+      "summary": "Consiliul Local Brașov va dezbate vineri, 30 octombrie, un proiect de hotărâre privind aprobarea pre-acordului de finanțare pentru contractarea unui credit de",
+      "coverage": [
+        {
+          "title": "Credit de 25 de milioane de euro pentru Compania Apa Brașov. Ce vrea să facă societatea cu banii împrumutați de la BERD",
+          "url": "https://transilvania365.ro/credit-de-25-de-milioane-de-euro-pentru-compania-apa-brasov-ce-vrea-sa-faca-societatea-cu-banii-imprumutati-de-la-berd/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "1219771b38ce762a"
     },
     {
       "title": "Au spart ghinionul la Covasna: Prima victorie pentru Kids Tâmpa Brașov, după 9 înfrângeri consecutive!",
       "url": "https://www.monitorulexpres.ro/2026/10/26/au-spart-ghinionul-la-covasna-prima-victorie-pentru-kids-tampa-brasov-dupa-9-infrangeri-consecutive/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:57:32+02:00"
+      "published": "2026-10-26T11:57:32+02:00",
+      "summary": "Au spart ghinionul la Covasna: Prima victorie pentru Kids Tâmpa Brașov, după 9 înfrângeri consecutive!",
+      "coverage": [
+        {
+          "title": "Au spart ghinionul la Covasna: Prima victorie pentru Kids Tâmpa Brașov, după 9 înfrângeri consecutive!",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/au-spart-ghinionul-la-covasna-prima-victorie-pentru-kids-tampa-brasov-dupa-9-infrangeri-consecutive/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "2dda4e29cd606bb0"
     },
     {
-      "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30...",
+      "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30 octombrie și 1 noiembrie",
       "url": "https://transilvania365.ro/pasari-exotice-spectaculoase-la-rasnov-expozitie-cu-intrare-gratuita-intre-30-octombrie-si-1-noiembrie/",
       "source": "Transilvania365",
       "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T11:53:14+02:00"
+      "published": "2026-10-26T11:53:14+02:00",
+      "summary": "Expoziția de păsări exotice revine la Râșnov, în perioada 30 octombrie – 1 noiembrie 2026, cu exemplare spectaculoase, culori impresionante și triluri",
+      "coverage": [
+        {
+          "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30 octombrie și 1 noiembrie",
+          "url": "https://transilvania365.ro/pasari-exotice-spectaculoase-la-rasnov-expozitie-cu-intrare-gratuita-intre-30-octombrie-si-1-noiembrie/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "525910873116eef0"
     },
     {
-      "title": "BRAȘOV | Traseul autobuzului 36, deviat astăzi în Tractorul! Una dintre stații nu poate fi deservită",
+      "title": "BRAȘOV - Traseul autobuzului 36, deviat astăzi în Tractorul! Una dintre stații nu poate fi deservită",
       "url": "https://mytex.ro/expres/brasov-traseul-autobuzului-36-deviat-astazi-in-tractorul-una-dintre-statii-nu-poate-fi-deservita/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:43:36+02:00"
+      "published": "2026-10-26T11:43:36+02:00",
+      "summary": "Călătorii care folosesc linia de transport public 36 din Brașov trebuie să țină cont de o modificare temporară a traseului. Autobuzele vor circula deviat în zona cartierului Tractorul și nu vor opri în stația „Alexandru Ciurcu”. De ce a fost modificat traseul Măsura este valabilă astăzi și a fost impusă de lucrările de infrastructură desfășurate …",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Traseul autobuzului 36, deviat astăzi în Tractorul! Una dintre stații nu poate fi deservită",
+          "url": "https://mytex.ro/expres/brasov-traseul-autobuzului-36-deviat-astazi-in-tractorul-una-dintre-statii-nu-poate-fi-deservita/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "aa59a734c13f4b77"
     },
     {
       "title": "DOCUMENT Cât vor plăti schiorii pentru transportul pe cablu din Poiana Brașov în sezonul 2026 – 2027",
       "url": "https://bizbrasov.ro/2026/10/26/plati-schiori-transport-cablu-poiana-brasov/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:35:02+02:00"
+      "published": "2026-10-26T11:35:02+02:00",
+      "summary": "Pasionații de sporturi de iarnă care vor schia în Poiana Brașov în sezonul 2026 – 2027 vor trebui să scoată mai mulți bani din buzunar pentru transportul pe",
+      "coverage": [
+        {
+          "title": "DOCUMENT Cât vor plăti schiorii pentru transportul pe cablu din Poiana Brașov în sezonul 2026 – 2027",
+          "url": "https://bizbrasov.ro/2026/10/26/plati-schiori-transport-cablu-poiana-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "f2f2f30132c19f09"
     },
     {
-      "title": "Ju-jitsu | Alex Blănaru a cucerit Germania! Aur pentru sportivul clubului CS Tadashi Brașov",
+      "title": "Ju-jitsu - Alex Blănaru a cucerit Germania! Aur pentru sportivul clubului CS Tadashi Brașov",
       "url": "https://www.monitorulexpres.ro/2026/10/26/ju-jitsu-alex-blanaru-a-cucerit-germania-aur-pentru-sportivul-clubului-cs-tadashi-brasov/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:21:45+02:00"
+      "published": "2026-10-26T11:21:45+02:00",
+      "summary": "Ju-jitsu | Alex Blănaru a cucerit Germania! Aur pentru sportivul clubului CS Tadashi Brașov",
+      "coverage": [
+        {
+          "title": "Ju-jitsu - Alex Blănaru a cucerit Germania! Aur pentru sportivul clubului CS Tadashi Brașov",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/ju-jitsu-alex-blanaru-a-cucerit-germania-aur-pentru-sportivul-clubului-cs-tadashi-brasov/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "Aur la Open-ul Germaniei pentru Alexandru-Ștefan Blănaru, sportiv al Clubului Tadashi Brașov",
+          "url": "https://bizbrasov.ro/2026/10/26/aur-sportiv-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "fbaa912b82d19d7a"
     },
     {
-      "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea...",
+      "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea costa 5.500 de lei",
       "url": "https://transilvania365.ro/schiatul-in-poiana-brasov-se-scumpeste-abonamentul-de-sezon-ar-putea-costa-5-500-de-lei/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:19:45+02:00"
+      "published": "2026-10-26T11:19:45+02:00",
+      "summary": "Brașovenii și turiștii ar putea plăti mai mult pentru transportul pe cablu în Poiana Brașov, în sezonul de iarnă 2026–2027. Un proiect de hotărâre care",
+      "coverage": [
+        {
+          "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea costa 5.500 de lei",
+          "url": "https://transilvania365.ro/schiatul-in-poiana-brasov-se-scumpeste-abonamentul-de-sezon-ar-putea-costa-5-500-de-lei/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "bdbeace6d1d3e216"
     },
     {
       "title": "EXCLUSIV Dr. Andreea Petecilă, medic psihiatru la Brașov: „O societate care discută despre violență numai după producerea unei tragedii este o societate care intervine prea târziu”",
       "url": "https://newsbv.ro/dr-andreea-peticila-violenta-scoli-preventie/",
       "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-26T11:19:14+02:00"
-    },
-    {
-      "title": "Automobilism | Jérôme France, victorie și la Poiana Brașov! Francezul a dominat sezonul de viteză în coastă",
-      "url": "https://www.monitorulexpres.ro/2026/10/26/automobilism-jerome-france-victorie-si-la-poiana-brasov-francezul-a-dominat-sezonul-de-viteza-in-coasta/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-10-26T11:03:21+02:00"
+      "published": "2026-10-26T11:19:14+02:00",
+      "summary": "Dr. Andreea Petecilă, medic primar psihiatru la Brașov, subliniază rolul familiei, al profesorilor și al instituțiilor în prevenirea violenței școlare.",
+      "coverage": [
+        {
+          "title": "EXCLUSIV Dr. Andreea Petecilă, medic psihiatru la Brașov: „O societate care discută despre violență numai după producerea unei tragedii este o societate care intervine prea târziu”",
+          "url": "https://newsbv.ro/dr-andreea-peticila-violenta-scoli-preventie/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "b32b980ceb51ce09"
     },
     {
       "title": "Revelion de peste 4.000 de euro la hotelul Simonei Halep din Poiana Braşov",
       "url": "https://newsbv.ro/revelion-hotelul-simonei-halep-din-poiana-brasov/",
       "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-26T10:48:49+02:00"
-    },
-    {
-      "title": "BRAȘOV | Opriri de apă marți, în Săcele! Mai multe străzi vor fi afectate. Vezi lista completă",
-      "url": "https://mytex.ro/expres/brasov-opriri-de-apa-marti-in-sacele-mai-multe-strazi-vor-fi-afectate-vezi-lista-completa/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-26T10:41:28+02:00"
+      "published": "2026-10-26T10:48:49+02:00",
+      "summary": "Simona Halep se pregătește să organizeze un nou Revelion la hotelul său din Poiana Brașov. Unitatea fostei campioane la tenis propune pachete de patru nopți,",
+      "coverage": [
+        {
+          "title": "Revelion de peste 4.000 de euro la hotelul Simonei Halep din Poiana Braşov",
+          "url": "https://newsbv.ro/revelion-hotelul-simonei-halep-din-poiana-brasov/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "ac9f85879a72d73f"
     },
     {
       "title": "Parcare gratuită într-o zonă a Brașovului începând de sâmbătă. Locurile publice vor fi „la liber” în permanență",
       "url": "https://bizbrasov.ro/2026/10/26/parcare-grtuit-brasov-locuri-publice/",
       "source": "BizBrașov",
       "category": "🚗 Trafic & transport",
-      "published": "2026-10-26T10:39:27+02:00"
+      "published": "2026-10-26T10:39:27+02:00",
+      "summary": "De altfel, anterior, la propunerea consilierului local Gheorghe Cojocaru, edilii luaseră decizia ca parcarea de lângă poarta cimitirului să fie la liber",
+      "coverage": [
+        {
+          "title": "Parcare gratuită într-o zonă a Brașovului începând de sâmbătă. Locurile publice vor fi „la liber” în permanență",
+          "url": "https://bizbrasov.ro/2026/10/26/parcare-grtuit-brasov-locuri-publice/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "166cd6f0e1b9c248"
     },
     {
-      "title": "Gheorghe Sucaciu organizează o dezbatere publică despre Parcul Național Făgăraș: „Nu...",
+      "title": "Gheorghe Sucaciu organizează o dezbatere publică despre Parcul Național Făgăraș: „Nu a existat o dezbatere publică reală”",
       "url": "https://transilvania365.ro/gheorghe-sucaciu-organizeaza-o-dezbatere-publica-despre-parcul-national-fagaras-nu-a-existat-o-dezbatere-publica-reala/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-26T10:36:54+02:00"
-    },
-    {
-      "title": "Aur la Open-ul Germaniei pentru Alexandru-Ștefan Blănaru, sportiv al Clubului Tadashi Brașov",
-      "url": "https://bizbrasov.ro/2026/10/26/aur-sportiv-brasov/",
-      "source": "BizBrașov",
-      "category": "⚽ Sport",
-      "published": "2026-10-26T10:34:02+02:00"
-    },
-    {
-      "title": "Mai multe străzi din Săcele rămân fără apă potabilă marți. Rezervorul...",
-      "url": "https://transilvania365.ro/mai-multe-strazi-din-sacele-raman-fara-apa-potabila-marti-rezervorul-bunloc-va-fi-igienizat/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-26T10:33:40+02:00"
-    },
-    {
-      "title": "Corona Brașov, doar un punct de la Remetea. „Lupii” au condus cu 3-1, dar…",
-      "url": "https://mytex.ro/sport/corona-brasov-doar-un-punct-de-la-remetea/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-26T10:31:10+02:00"
+      "published": "2026-10-26T10:36:54+02:00",
+      "summary": "Primarul municipiului Făgăraș, Gheorghe Sucaciu, anunță organizarea unei dezbateri publice privind înființarea Parcului Național Făgăraș. Evenimentul este",
+      "coverage": [
+        {
+          "title": "Gheorghe Sucaciu organizează o dezbatere publică despre Parcul Național Făgăraș: „Nu a existat o dezbatere publică reală”",
+          "url": "https://transilvania365.ro/gheorghe-sucaciu-organizeaza-o-dezbatere-publica-despre-parcul-national-fagaras-nu-a-existat-o-dezbatere-publica-reala/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "ce6318dab21122b8"
     },
     {
       "title": "2 campioni naționali pentru Corona Brașov la patinaj viteză. Paul Turjan, pe primul loc mondial la categoria sa de vârstă",
       "url": "https://newsbv.ro/2-campioni-nationali-corona-brasov-la-patinaj-viteza/",
       "source": "NewsBV",
       "category": "⚽ Sport",
-      "published": "2026-10-26T10:09:24+02:00"
+      "published": "2026-10-26T10:09:24+02:00",
+      "summary": "Sportivii de la CSM Corona Brașov au obținut rezultate foarte bune la Campionatul Național de Sprint la Patinaj Viteză, desfășurat la Inzell, în Germania.",
+      "coverage": [
+        {
+          "title": "2 campioni naționali pentru Corona Brașov la patinaj viteză. Paul Turjan, pe primul loc mondial la categoria sa de vârstă",
+          "url": "https://newsbv.ro/2-campioni-nationali-corona-brasov-la-patinaj-viteza/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "73df8fe7249af5fa"
     },
     {
       "title": "Brașovul se apropie de fenomentul de „turistificare”. Localnicii au ajuns să nu mai meargă în Centru vara sau în vârfurile de sezon",
       "url": "https://bizbrasov.ro/2026/10/26/brasov-turistificare-vara-varf-sezon/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T10:01:45+02:00"
+      "published": "2026-10-26T10:01:45+02:00",
+      "summary": "Un studiu făcut la Sibiu arată că orașul riscă să ajungă la „turistificare” - fenomenul prin care o destinație satisface mai mult nevoile turiștilor decât ale",
+      "coverage": [
+        {
+          "title": "Brașovul se apropie de fenomentul de „turistificare”. Localnicii au ajuns să nu mai meargă în Centru vara sau în vârfurile de sezon",
+          "url": "https://bizbrasov.ro/2026/10/26/brasov-turistificare-vara-varf-sezon/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "d5d4ad04966cdece"
     },
     {
-      "title": "Mai multe intervenții la rețeaua de apă din Brașov, luni, 26...",
+      "title": "Mai multe intervenții la rețeaua de apă din Brașov, luni, 26 octombrie",
       "url": "https://transilvania365.ro/mai-multe-interventii-la-reteaua-de-apa-din-brasov-luni-26-octombrie/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T10:01:21+02:00"
+      "published": "2026-10-26T10:01:21+02:00",
+      "summary": "Compania Apa Brașov desfășoară luni, 26 octombrie, mai multe intervenții la rețeaua de alimentare cu apă și la infrastructură, în diferite zone ale orașului.",
+      "coverage": [
+        {
+          "title": "Mai multe intervenții la rețeaua de apă din Brașov, luni, 26 octombrie",
+          "url": "https://transilvania365.ro/mai-multe-interventii-la-reteaua-de-apa-din-brasov-luni-26-octombrie/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "e8f7abd7a21a62c8"
     },
     {
-      "title": "Fapt divers acum 5 ore Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
+      "title": "Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
       "url": "https://www.brasov.net/record-negativ-pe-calea-ferata-10-ore-cu-trenul-international-dacia-intre-brasov-si-sighisoara/",
       "source": "Brașov.net",
       "category": "🔥 Local",
-      "published": "2026-10-26T09:43:41+02:00"
+      "published": "2026-10-26T09:43:41+02:00",
+      "summary": "Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
+      "coverage": [
+        {
+          "title": "Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
+          "url": "https://www.brasov.net/record-negativ-pe-calea-ferata-10-ore-cu-trenul-international-dacia-intre-brasov-si-sighisoara/",
+          "source": "Brașov.net"
+        }
+      ],
+      "story_id": "29528e2eb42d0b92"
     },
     {
       "title": "Primăria Brașov va cere aproximativ 15 milioane de lei de la UE pentru proiectul promenadei de pe Castanilor, cu orgă de apă și plajă urbană",
       "url": "https://bizbrasov.ro/2026/10/26/primaria-brasov-promenade-castanilor/",
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-26T09:42:22+02:00"
+      "published": "2026-10-26T09:42:22+02:00",
+      "summary": "Propus inițial înainte de anul 2020, abandonat în perioada 2020 – 2024 și readus recent în actualitate, proiectul ce vizează amenajarea unei promenade moderne",
+      "coverage": [
+        {
+          "title": "Primăria Brașov va cere aproximativ 15 milioane de lei de la UE pentru proiectul promenadei de pe Castanilor, cu orgă de apă și plajă urbană",
+          "url": "https://bizbrasov.ro/2026/10/26/primaria-brasov-promenade-castanilor/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "ee5504e3a94e6fc2"
     },
     {
-      "title": "BRAȘOV | Apa, oprită temporar pe str. Zizinului și Brândușelor",
+      "title": "BRAȘOV - Apa, oprită temporar pe str. Zizinului și Brândușelor",
       "url": "https://mytex.ro/expres/brasov-apa-oprita-temporar-pe-str-zizinului-si-branduselor/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-26T09:37:56+02:00"
+      "published": "2026-10-26T09:37:56+02:00",
+      "summary": "Apa este oprită temporar astăzi, la adrese de pe str. Zizinului și Brândușelor, conform Companiei Apa. Iată lucrările anunțate astăzi. Str. Brândușelor nr. 4Înlocuire robinet defect.Furnizarea apei este oprită, între orele 8.30 – 11.00, pe următoarele străzi: Zizinului nr.7 – 11, Brândușelor nr.4 – 6Str. Ioan Popasu nr. 20Reparație spărtură conductăStr. Warthe nr. 4Reparație spărtură …",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Apa, oprită temporar pe str. Zizinului și Brândușelor",
+          "url": "https://mytex.ro/expres/brasov-apa-oprita-temporar-pe-str-zizinului-si-branduselor/",
+          "source": "MyTex"
+        },
+        {
+          "title": "Apa, oprită pe străzile Zizinului şi Brânduşelor. Reparaţii pe alte 6 străzi din Braşov",
+          "url": "https://newsbv.ro/apa-oprita-zizinului-si-branduselor/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "4c91a25d722f54f0"
     },
     {
-      "title": "VIDEO. A început amenajarea unui nou sens giratoriu la Hărman. Primarul...",
+      "title": "VIDEO. A început amenajarea unui nou sens giratoriu la Hărman. Primarul estimează că lucrările ar putea fi gata până la sfârșitul anului",
       "url": "https://transilvania365.ro/video-a-inceput-amenajarea-unui-nou-sens-giratoriu-la-harman-primarul-estimeaza-ca-lucrarile-ar-putea-fi-gata-pana-la-sfarsitul-anului/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T09:30:18+02:00"
+      "published": "2026-10-26T09:30:18+02:00",
+      "summary": "Lucrările la un nou sens giratoriu au început în comuna Hărman, în colaborare cu Direcția Regională de Drumuri și Poduri (DRDP) Brașov. Potrivit primarului",
+      "coverage": [
+        {
+          "title": "VIDEO. A început amenajarea unui nou sens giratoriu la Hărman. Primarul estimează că lucrările ar putea fi gata până la sfârșitul anului",
+          "url": "https://transilvania365.ro/video-a-inceput-amenajarea-unui-nou-sens-giratoriu-la-harman-primarul-estimeaza-ca-lucrarile-ar-putea-fi-gata-pana-la-sfarsitul-anului/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "48b186e6e05ea06f"
     },
     {
       "title": "11,39 milioane de lei pentru 50.000 de metri cubi de apă în plus, ce vor fi transformați în zăpadă artificială pentru pârtiile din Poiana Brașov",
       "url": "https://bizbrasov.ro/2026/10/26/milioane-apa-zapada-poiana-brasov/",
       "source": "BizBrașov",
       "category": "🌦️ Meteo",
-      "published": "2026-10-26T09:29:53+02:00"
-    },
-    {
-      "title": "Apa, oprită pe străzile Zizinului şi Brânduşelor. Reparaţii pe alte 6 străzi din Braşov",
-      "url": "https://newsbv.ro/apa-oprita-zizinului-si-branduselor/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-26T09:08:05+02:00"
+      "published": "2026-10-26T09:29:53+02:00",
+      "summary": "Dat în funcțiune în anul 2012, lacul de acumulare de pe platoul Ruia din Poiana Brașov urmează să intre într-un amplu proces de extindere. Investiția va fi",
+      "coverage": [
+        {
+          "title": "11,39 milioane de lei pentru 50.000 de metri cubi de apă în plus, ce vor fi transformați în zăpadă artificială pentru pârtiile din Poiana Brașov",
+          "url": "https://bizbrasov.ro/2026/10/26/milioane-apa-zapada-poiana-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "72ca3d8cb8fbc619"
     },
     {
       "title": "Compania Apa Brașov anunță lucrări și întreruperi de apă luni, 26 octombrie",
       "url": "https://www.monitorulexpres.ro/2026/10/26/compania-apa-brasov-anunta-lucrari-si-intreruperi-de-apa-luni-26-octombrie/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-26T09:00:34+02:00"
+      "published": "2026-10-26T09:00:34+02:00",
+      "summary": "Află unde se oprește apa în Brașov luni, 26 octombrie 2026. Compania Apa Brașov anunță lucrări și întreruperi pe mai multe străzi.",
+      "coverage": [
+        {
+          "title": "Compania Apa Brașov anunță lucrări și întreruperi de apă luni, 26 octombrie",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/compania-apa-brasov-anunta-lucrari-si-intreruperi-de-apa-luni-26-octombrie/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "8ba7f604cf81dcbf"
     },
     {
       "title": "Kronmedica Brașov, împreună cu dr. Alin Costantin, vă oferă consultații și ecografii specializate pentru diagnosticul și tratamentul endometriozei",
       "url": "https://bizbrasov.ro/2026/10/26/kronmedica-consultatii-ecografii-brasov-endometrioza/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T08:56:40+02:00"
+      "published": "2026-10-26T08:56:40+02:00",
+      "summary": "Kronmedica își extinde serviciile dedicate sănătății femeii prin consultații și ecografii transvaginale specializate pentru endometrioză. Pacientele din",
+      "coverage": [
+        {
+          "title": "Kronmedica Brașov, împreună cu dr. Alin Costantin, vă oferă consultații și ecografii specializate pentru diagnosticul și tratamentul endometriozei",
+          "url": "https://bizbrasov.ro/2026/10/26/kronmedica-consultatii-ecografii-brasov-endometrioza/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "776427a543d63945"
     },
     {
-      "title": "Zeci de mașini date în urmărire, depistate de RAR Brașov. 24...",
+      "title": "Zeci de mașini date în urmărire, depistate de RAR Brașov. 24 de cazuri în 2025 și alte 19 în 2026",
       "url": "https://transilvania365.ro/zeci-de-masini-date-in-urmarire-depistate-de-rar-brasov-24-de-cazuri-in-2025-si-alte-19-in-2026/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T08:42:36+02:00"
+      "published": "2026-10-26T08:42:36+02:00",
+      "summary": "Registrul Auto Român (RAR) Brașov a identificat 43 de vehicule semnalate ca fiind date în urmărire în anii 2025 și 2026. Dintre acestea, 24 au fost depistate",
+      "coverage": [
+        {
+          "title": "Zeci de mașini date în urmărire, depistate de RAR Brașov. 24 de cazuri în 2025 și alte 19 în 2026",
+          "url": "https://transilvania365.ro/zeci-de-masini-date-in-urmarire-depistate-de-rar-brasov-24-de-cazuri-in-2025-si-alte-19-in-2026/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "5ef54f20f0e998b1"
     },
     {
-      "title": "BRAȘOV | Cod galben de ceață în tot județul! Vizibilitatea poate scădea sub 50 de metri",
+      "title": "BRAȘOV - Cod galben de ceață în tot județul! Vizibilitatea poate scădea sub 50 de metri",
       "url": "https://mytex.ro/expres/brasov-cod-galben-de-ceata-in-tot-judetul-vizibilitatea-poate-scadea-sub-50-de-metri/",
       "source": "MyTex",
       "category": "🌦️ Meteo",
-      "published": "2026-10-26T08:39:31+02:00"
+      "published": "2026-10-26T08:39:31+02:00",
+      "summary": "Administrația Națională de Meteorologie (ANM) a emis o atenționare nowcasting Cod galben de ceață, care vizează luni dimineață, 26 octombrie, mai multe zone din județul Brașov. Vizibilitatea poate scădea local sub 200 de metri și, izolat, chiar sub 50 de metri. Ce localități din Brașov sunt vizate Potrivit avertizării ANM, emisă la ora 7:42, atenționarea …",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Cod galben de ceață în tot județul! Vizibilitatea poate scădea sub 50 de metri",
+          "url": "https://mytex.ro/expres/brasov-cod-galben-de-ceata-in-tot-judetul-vizibilitatea-poate-scadea-sub-50-de-metri/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "b88d99c990d02be8"
     },
     {
-      "title": "Cristianul își pregătește iluminatul festiv pentru sărbătorile de iarnă. Cât costă...",
+      "title": "Cristianul își pregătește iluminatul festiv pentru sărbătorile de iarnă. Cât costă montarea decorațiunilor luminoase",
       "url": "https://transilvania365.ro/cristianul-isi-pregateste-iluminatul-festiv-pentru-sarbatorile-de-iarna-cat-costa-montarea-decoratiunilor-luminoase/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T08:26:00+02:00"
+      "published": "2026-10-26T08:26:00+02:00",
+      "summary": "Comuna Cristian se pregătește pentru sărbătorile de iarnă, iar amenajarea iluminatului festiv va costa 123.808 lei, fără TVA. Primăria a atribuit direct",
+      "coverage": [
+        {
+          "title": "Cristianul își pregătește iluminatul festiv pentru sărbătorile de iarnă. Cât costă montarea decorațiunilor luminoase",
+          "url": "https://transilvania365.ro/cristianul-isi-pregateste-iluminatul-festiv-pentru-sarbatorile-de-iarna-cat-costa-montarea-decoratiunilor-luminoase/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "d822c38d26a5eb26"
     },
     {
       "title": "BIPA deschide magazin în Sânpetru şi face angajări",
       "url": "https://newsbv.ro/bipa-magazin-sanpetru-face-angajari/",
       "source": "NewsBV",
       "category": "💰 Business & economie",
-      "published": "2026-10-26T08:25:32+02:00"
+      "published": "2026-10-26T08:25:32+02:00",
+      "summary": "Lanțul BIPA extinde rețeaua în România și deschide magazine noi în patrulocalităţi, printre care şi Sânpetru.",
+      "coverage": [
+        {
+          "title": "BIPA deschide magazin în Sânpetru şi face angajări",
+          "url": "https://newsbv.ro/bipa-magazin-sanpetru-face-angajari/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "b1774342f977f630"
     },
     {
-      "title": "Hochei | Corona Brașov, înfrângere dramatică la Remetea! Harghitenii au întors meciul în prelungiri",
-      "url": "https://www.monitorulexpres.ro/2026/10/26/hochei-corona-brasov-infrangere-dramatica-la-remetea-harghitenii-au-intors-meciul-in-prelungiri/",
-      "source": "Monitorul Expres",
-      "category": "⚽ Sport",
-      "published": "2026-10-26T08:15:19+02:00"
-    },
-    {
-      "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își...",
+      "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își afirmă sprijinul logistic și experiența pentru implementarea noilor măsuri guvernamentale",
       "url": "https://transilvania365.ro/siguranta-in-scolile-din-judetul-brasov-prioritate-absoluta-d-o-security-isi-afirma-sprijinul-logistic-si-experienta-pentru-implementarea-noilor-masuri-guvernamentale/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-26T08:04:46+02:00"
+      "published": "2026-10-26T08:04:46+02:00",
+      "summary": "În contextul incidentelor de securitate înregistrate recent la nivel național și ca urmare a deciziilor luate de Guvernul României pentru întărirea pazei și",
+      "coverage": [
+        {
+          "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își afirmă sprijinul logistic și experiența pentru implementarea noilor măsuri guvernamentale",
+          "url": "https://transilvania365.ro/siguranta-in-scolile-din-judetul-brasov-prioritate-absoluta-d-o-security-isi-afirma-sprijinul-logistic-si-experienta-pentru-implementarea-noilor-masuri-guvernamentale/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "60abb3e0bea9a235"
     },
     {
       "title": "Autostrada A13 Sibiu – Făgăraș: Lucrări la ultimul segment al podului în arc de pe tronsonul 3 (VIDEO)",
       "url": "https://newsbv.ro/autostrada-a13-sibiu-fagaras-lucrari-podului-arc/",
       "source": "NewsBV",
       "category": "🚗 Trafic & transport",
-      "published": "2026-10-26T06:43:25+02:00"
+      "published": "2026-10-26T06:43:25+02:00",
+      "summary": "Pe Autostrada A13 Sibiu – Făgăraș, s-a montat ultimul segment al arcului metalic al unui pod de pe tronsonul 3",
+      "coverage": [
+        {
+          "title": "Autostrada A13 Sibiu – Făgăraș: Lucrări la ultimul segment al podului în arc de pe tronsonul 3 (VIDEO)",
+          "url": "https://newsbv.ro/autostrada-a13-sibiu-fagaras-lucrari-podului-arc/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "f62f3ed093de1684"
     },
     {
       "title": "La Săcele, sărbătorile oficiale vin la pachet cu plăcinte. Ce s-a pregătit de Ziua Armatei",
       "url": "https://bizbrasov.ro/2026/10/26/sacele-sarbatori-placinte-ziua-armatei/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-26T05:38:00+02:00"
+      "published": "2026-10-26T05:38:00+02:00",
+      "summary": "La Săcele, ceremoniile oficiale prilejuite de sărbătorile naționale par să aibă un ingredient care nu lipsește din meniu: plăcintele. Dacă la evenimentele din",
+      "coverage": [
+        {
+          "title": "La Săcele, sărbătorile oficiale vin la pachet cu plăcinte. Ce s-a pregătit de Ziua Armatei",
+          "url": "https://bizbrasov.ro/2026/10/26/sacele-sarbatori-placinte-ziua-armatei/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "b5c5750078dfe624"
     },
     {
       "title": "Consiliul Județean Brașov se apucă de vândut lemne. 50,90 lei/mc, prețul cel mai mic",
       "url": "https://bizbrasov.ro/2026/10/26/consiliul-judetean-brasov-vandut-lemne/",
       "source": "BizBrașov",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-26T05:31:00+02:00"
+      "published": "2026-10-26T05:31:00+02:00",
+      "summary": "Consiliul Județean Brașov scoate la vânzare masa lemnoasă provenită din zonele de protecție ale unor drumuri județene din județ. Licitația publică este",
+      "coverage": [
+        {
+          "title": "Consiliul Județean Brașov se apucă de vândut lemne. 50,90 lei/mc, prețul cel mai mic",
+          "url": "https://bizbrasov.ro/2026/10/26/consiliul-judetean-brasov-vandut-lemne/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "a501eb6224055c9e"
     },
     {
       "title": "Povestea olarilor din Țara Făgărașului: De la breslele din secolul al XVII-lea, la expoziția de la Muzeul de Etnografie Brașov",
       "url": "https://bizbrasov.ro/2026/10/26/brasov-povestea-olarilor-tara-fagarasului/",
       "source": "BizBrașov",
       "category": "🎭 Evenimente & timp liber",
-      "published": "2026-10-26T04:27:00+02:00"
+      "published": "2026-10-26T04:27:00+02:00",
+      "summary": "Povestea olarilor din Țara Făgărașului: De la breslele din secolul al XVII-lea, la expoziția de la Muzeul de Etnografie Brașov",
+      "coverage": [
+        {
+          "title": "Povestea olarilor din Țara Făgărașului: De la breslele din secolul al XVII-lea, la expoziția de la Muzeul de Etnografie Brașov",
+          "url": "https://bizbrasov.ro/2026/10/26/brasov-povestea-olarilor-tara-fagarasului/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "bc079fa5d75e2eea"
     },
     {
-      "title": "BRAȘOV | Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
+      "title": "BRAȘOV - Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
       "url": "https://mytex.ro/politic/brasov-prefectul-mihai-catalin-vasii-si-a-anuntat-demisia-dupa-aproape-7-ani-in-functie/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-25T17:25:35+02:00"
+      "published": "2026-10-25T17:25:35+02:00",
+      "summary": "Prefectul județului Brașov, Mihai Cătălin Văsii, a anunțat că își va da demisia din funcție, după aproape șapte ani de la preluarea mandatului. Acesta a precizat că va înainta demisia ministrului Afacerilor Interne luni, 26 octombrie. Decizia ar fi fost luată de mai multe zile, însă prefectul a declarat că a dorit să își ducă …",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
+          "url": "https://mytex.ro/politic/brasov-prefectul-mihai-catalin-vasii-si-a-anuntat-demisia-dupa-aproape-7-ani-in-functie/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "2bdf85fe331cca33"
     },
     {
-      "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente...",
+      "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente festive",
       "url": "https://transilvania365.ro/foto-brasovul-se-pregateste-deja-de-sarbatori-au-aparut-primele-ornamente-festive/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-25T16:32:25+02:00"
+      "published": "2026-10-25T16:32:25+02:00",
+      "summary": "Timid, orașul de la poalele Tâmpei se pregătește pentru sărbătorile de iarnă.La Brașov au fost montate deja primele ornamente ce țin de iluminatul festiv de",
+      "coverage": [
+        {
+          "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente festive",
+          "url": "https://transilvania365.ro/foto-brasovul-se-pregateste-deja-de-sarbatori-au-aparut-primele-ornamente-festive/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "076563eb8921a072"
     },
     {
-      "title": "Corona – Zărnești 8-0 | Constantinescu cere mai mult, Stere acuză șocul: „Un duș extrem de rece”",
+      "title": "Corona – Zărnești 8-0 - Constantinescu cere mai mult, Stere acuză șocul: „Un duș extrem de rece”",
       "url": "https://www.monitorulexpres.ro/2026/10/25/corona-zarnesti-8-0-constantinescu-cere-mai-mult-stere-acuza-socul-un-dus-extrem-de-rece/",
       "source": "Monitorul Expres",
       "category": "🔥 Local",
-      "published": "2026-10-25T16:31:00+02:00"
+      "published": "2026-10-25T16:31:00+02:00",
+      "summary": "Corona – Zărnești 8-0 | Constantinescu cere mai mult, Stere acuză șocul: „Un duș extrem de rece”",
+      "coverage": [
+        {
+          "title": "Corona – Zărnești 8-0 - Constantinescu cere mai mult, Stere acuză șocul: „Un duș extrem de rece”",
+          "url": "https://www.monitorulexpres.ro/2026/10/25/corona-zarnesti-8-0-constantinescu-cere-mai-mult-stere-acuza-socul-un-dus-extrem-de-rece/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "cba6345ec4c70dc6"
     },
     {
       "title": "FOTO. Centrul Brașovului, luat cu asalt de turiști și localnici",
       "url": "https://transilvania365.ro/foto-centrul-brasovului-luat-cu-asalt-de-turisti-si-localnici/",
       "source": "Transilvania365",
       "category": "🔥 Local",
-      "published": "2026-10-25T16:05:04+02:00"
+      "published": "2026-10-25T16:05:04+02:00",
+      "summary": "Vremea frumoasă și vacanța elevilor au animat centrul Brașovului. Strada Republicii și Piața Sfatului au fost pline de brașoveni și turiști care au profitat",
+      "coverage": [
+        {
+          "title": "FOTO. Centrul Brașovului, luat cu asalt de turiști și localnici",
+          "url": "https://transilvania365.ro/foto-centrul-brasovului-luat-cu-asalt-de-turisti-si-localnici/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "3af466f21eda2a42"
     },
     {
-      "title": "Brașovul îmbracă culorile tricolorului de Ziua Armatei Române. Primăria și literele...",
+      "title": "Brașovul îmbracă culorile tricolorului de Ziua Armatei Române. Primăria și literele de pe Tâmpa vor fi iluminate festiv",
       "url": "https://transilvania365.ro/brasovul-imbraca-culorile-tricolorului-de-ziua-armatei-romane-primaria-si-literele-de-pe-tampa-vor-fi-iluminate-festiv/",
       "source": "Transilvania365",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-25T15:29:47+02:00"
+      "published": "2026-10-25T15:29:47+02:00",
+      "summary": "Primarul George Scripcaru a participat astăzi, împreună cu viceprimarul Lucian Patrașcu, alături de celelalte oficialități civile și militare, la ceremonialul",
+      "coverage": [
+        {
+          "title": "Brașovul îmbracă culorile tricolorului de Ziua Armatei Române. Primăria și literele de pe Tâmpa vor fi iluminate festiv",
+          "url": "https://transilvania365.ro/brasovul-imbraca-culorile-tricolorului-de-ziua-armatei-romane-primaria-si-literele-de-pe-tampa-vor-fi-iluminate-festiv/",
+          "source": "Transilvania365"
+        },
+        {
+          "title": "Brașovul își onorează militarii de Ziua Armatei Române. Tricolorul va lumina sigla de pe Tâmpa și clădirea Primăriei",
+          "url": "https://bizbrasov.ro/2026/10/25/brasov-militari-ziua-armatei-romane/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "c79f8b4951026a8e"
     },
     {
       "title": "PSD vrea să-l numească pe Lucian Mija prefect. Acesta a mai deținut funcția de subprefect și a fost unul dintre fondatorii grupului de inițiativă al USR la Făgăraș",
       "url": "https://bizbrasov.ro/2026/10/25/psd-lucian-mija-prefect-fost-usr-fagaras/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-25T15:14:02+02:00"
+      "published": "2026-10-25T15:14:02+02:00",
+      "summary": "Odată cu instalarea noului Guvern și demisia oficială a lui Mihai Cătălin Văsii din funcția de prefect al Brașovului, aceasta ar urma să fie preluată de către",
+      "coverage": [
+        {
+          "title": "PSD vrea să-l numească pe Lucian Mija prefect. Acesta a mai deținut funcția de subprefect și a fost unul dintre fondatorii grupului de inițiativă al USR la Făgăraș",
+          "url": "https://bizbrasov.ro/2026/10/25/psd-lucian-mija-prefect-fost-usr-fagaras/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "aa52d11f13205073"
     },
     {
       "title": "Șoferi cercetați penal în Brașov: 2 prinși băuți la volan, alții conduceau cu permisele suspendate",
       "url": "https://newsbv.ro/sofer-cercetat-penal-baut/",
       "source": "NewsBV",
       "category": "🔥 Local",
-      "published": "2026-10-25T15:10:13+02:00"
+      "published": "2026-10-25T15:10:13+02:00",
+      "summary": "Doi șoferi au fost depistați băuți la volan, iar alții conduceau cu permisul suspendat. Polițiștii continuă cercetările în județul Brașov.",
+      "coverage": [
+        {
+          "title": "Șoferi cercetați penal în Brașov: 2 prinși băuți la volan, alții conduceau cu permisele suspendate",
+          "url": "https://newsbv.ro/sofer-cercetat-penal-baut/",
+          "source": "NewsBV"
+        },
+        {
+          "title": "BRAȘOV - Trei șoferi, prinși în trafic cu probleme grave! Doi erau băuți, iar unul conducea cu permisul suspendat",
+          "url": "https://mytex.ro/delicte/brasov-trei-soferi-prinsi-in-trafic-cu-probleme-grave-doi-erau-bauti-iar-unul-conducea-cu-permisul-suspendat/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "30dd359f276dee8a"
     },
     {
-      "title": "BRAȘOV | Trei șoferi, prinși în trafic cu probleme grave! Doi erau băuți, iar unul conducea cu permisul suspendat",
-      "url": "https://mytex.ro/delicte/brasov-trei-soferi-prinsi-in-trafic-cu-probleme-grave-doi-erau-bauti-iar-unul-conducea-cu-permisul-suspendat/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-25T15:09:09+02:00"
-    },
-    {
-      "title": "Brașovul își onorează militarii de Ziua Armatei Române. Tricolorul va lumina sigla de pe Tâmpa și clădirea Primăriei",
-      "url": "https://bizbrasov.ro/2026/10/25/brasov-militari-ziua-armatei-romane/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-10-25T13:16:39+02:00"
-    },
-    {
-      "title": "Noul Orient Express a ajuns în această dimineață la Brașov. Pasagerii au plătit de la 20.000 de euro pentru o călătorie pe ruta Roma – Istanbul",
+      "title": "Noul Orient Express a ajuns în această dimineață la Brașov. Pasagerii au plătit de la 20.000 de euro pentru o călătorie pe ruta Roma - Istanbul",
       "url": "https://bizbrasov.ro/2026/10/25/orient-express-brasov-istanbul-roma/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-25T12:59:49+02:00"
+      "published": "2026-10-25T12:59:49+02:00",
+      "summary": "La mai bine de 140 de ani după ce Orient Express a devenit sinonim cu luxul și aventura de altădată, o nouă rută Roma–Istanbul a fost lansată anul acesta,",
+      "coverage": [
+        {
+          "title": "Noul Orient Express a ajuns în această dimineață la Brașov. Pasagerii au plătit de la 20.000 de euro pentru o călătorie pe ruta Roma - Istanbul",
+          "url": "https://bizbrasov.ro/2026/10/25/orient-express-brasov-istanbul-roma/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "add0f4709e91a41b"
     },
     {
-      "title": "Eveniment acum o zi VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
+      "title": "VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
       "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-25T12:37:22+02:00"
+      "published": "2026-10-25T12:37:22+02:00",
+      "summary": "VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
+      "coverage": [
+        {
+          "title": "VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
+          "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
+          "source": "Brașov.net"
+        }
+      ],
+      "story_id": "584a1b906c759d0e"
     },
     {
       "title": "Corona Brașov, victorie de moral în prima etapă a Diviziei A1 la volei masculin. Steaua, răpusă sub Tâmpa",
       "url": "https://mytex.ro/sport/corona-brasov-victorie-de-moral-steaua/",
       "source": "MyTex",
       "category": "⚽ Sport",
-      "published": "2026-10-25T11:33:57+02:00"
+      "published": "2026-10-25T11:33:57+02:00",
+      "summary": "Corona Brașov a pornit cu un succes în noul sezon al Diviziei A1 la volei masculin. La Sala Sporturilor „D.P. Colibaşi”, trupa antrenată de Laurenţiu Lică a dispus de Steaua Bucureşti, 3-2 (23-25, 25-23, 27-25, 22-25, 15-11), la capătul unui meci intens. Unul dintre derby-urile rundei inaugurale şi-a respectat statutul, disputa de la Brașov fiind …",
+      "coverage": [
+        {
+          "title": "Corona Brașov, victorie de moral în prima etapă a Diviziei A1 la volei masculin. Steaua, răpusă sub Tâmpa",
+          "url": "https://mytex.ro/sport/corona-brasov-victorie-de-moral-steaua/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "4682b1dbc9becc50"
     },
     {
       "title": "Tururi speciale de Halloween la Castelul Bran. Decoruri care transformă fiecare colț într-o scenă de film horror",
       "url": "https://bizbrasov.ro/2026/10/25/halloween-castel-bran-decor-filme-horror/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-25T10:17:32+02:00"
+      "published": "2026-10-25T10:17:32+02:00",
+      "summary": "Dacă vă plac vacanțele cu adrenalină, decoruri înfricoșătoare și prețuri care vă dau fiori, Brașovul ar putea fi destinația perfectă de Halloween.",
+      "coverage": [
+        {
+          "title": "Tururi speciale de Halloween la Castelul Bran. Decoruri care transformă fiecare colț într-o scenă de film horror",
+          "url": "https://bizbrasov.ro/2026/10/25/halloween-castel-bran-decor-filme-horror/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "55eedd9b526624c0"
     },
     {
       "title": "Valul extremist din social media, analizat de procurori: Marian Godină și un șef de partid, martori cheie în dosarul de incitare la ură care îl vizează pe deputatul de Brașov Dan Tanasă",
       "url": "https://bizbrasov.ro/2026/10/25/procurori-godina-brasov-dan-tanasa/",
       "source": "BizBrașov",
       "category": "🔥 Local",
-      "published": "2026-10-25T08:43:18+02:00"
+      "published": "2026-10-25T08:43:18+02:00",
+      "summary": "Anchetatorii parchetului instanței supreme explică în dosarul ajuns pe masa judecătorilor ICCJ că Tanasă „s-a evidențiat ca jurnalist ce luptă pentru",
+      "coverage": [
+        {
+          "title": "Valul extremist din social media, analizat de procurori: Marian Godină și un șef de partid, martori cheie în dosarul de incitare la ură care îl vizează pe deputatul de Brașov Dan Tanasă",
+          "url": "https://bizbrasov.ro/2026/10/25/procurori-godina-brasov-dan-tanasa/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "aac392d4c032a516"
     },
     {
       "title": "Cod Galben de ceață densă în Brașov și Transilvania! Vizibilitate scăzută",
       "url": "https://mytex.ro/expres/cod-galben-de-ceata-densa-in-brasov-si-transilvania-vizibilitate-scazuta/",
       "source": "MyTex",
       "category": "🌦️ Meteo",
-      "published": "2026-10-25T08:28:20+02:00"
+      "published": "2026-10-25T08:28:20+02:00",
+      "summary": "Administrația Națională de Meteorologie (ANM) a emis o avertizare Cod Galben de ceață și vizibilitate redusă, valabilă și pentru județul Brașov. Șoferii sunt sfătuiți să circule cu maximă prudență. Fenomenul va determina scăderea vizibilității sub 200 de metri și, izolat, sub 50 de metri, creând condiții periculoase în trafic, în special în zonele depresionare și …",
+      "coverage": [
+        {
+          "title": "Cod Galben de ceață densă în Brașov și Transilvania! Vizibilitate scăzută",
+          "url": "https://mytex.ro/expres/cod-galben-de-ceata-densa-in-brasov-si-transilvania-vizibilitate-scazuta/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "cb454e42a043e73e"
     },
     {
       "title": "Anunț de la Ministrul Muncii! Cât va fi salariul minim de la 1 ianuarie 2027: Vestea momentului pentru toți angajații din Brașov",
       "url": "https://mytex.ro/economic/anunt-de-la-ministrul-muncii-cat-va-fi-salariul-minim-de-la-1-ianuarie-2027-vestea-momentului-pentru-toti-angajatii-din-brasov/",
       "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-25T06:49:15+02:00"
+      "published": "2026-10-25T06:49:15+02:00",
+      "summary": "Ministrul Muncii a făcut anunțul așteptat de milioane de români cu privire la banii pe care îi vor primi angajații la începutul anului viitor. Oficialul a clarificat ce se va întâmpla cu salariul minim de la 1 ianuarie 2027 și ce pași urmează în perioada imediat următoare. Ce se întâmplă cu veniturile de la 1 …",
+      "coverage": [
+        {
+          "title": "Anunț de la Ministrul Muncii! Cât va fi salariul minim de la 1 ianuarie 2027: Vestea momentului pentru toți angajații din Brașov",
+          "url": "https://mytex.ro/economic/anunt-de-la-ministrul-muncii-cat-va-fi-salariul-minim-de-la-1-ianuarie-2027-vestea-momentului-pentru-toti-angajatii-din-brasov/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "4a793c9a1eec2b16"
     }
-  ]
+  ],
+  "dedupe_version": 2
 }

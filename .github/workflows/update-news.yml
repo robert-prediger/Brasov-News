@@ -33,6 +33,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Test story grouping before publishing
+        run: python -m unittest -v test_story_dedupe.py
+
       - name: Check whether this hour needs an update
         id: freshness
         env:
