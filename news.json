@@ -1,8 +1,22 @@
 {
-  "updated": "26.10.2026, 06:00",
-  "count": 33,
-  "raw_count": 44,
+  "updated": "26.10.2026, 07:00",
+  "count": 34,
+  "raw_count": 45,
   "items": [
+    {
+      "title": "Siguranța în școlile din județul Brașov, prioritate absolută: D.O. Security își afirmă sprijinul logistic și experiența pentru implementarea noilor măsuri guvernamentale",
+      "url": "https://newsbv.ro/siguranta-scoli-brasov-prioritate-d-o-security/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-26T06:45:31+02:00"
+    },
+    {
+      "title": "Autostrada A13 Sibiu – Făgăraș: Lucrări la ultimul segment al podului în arc de pe tronsonul 3 (VIDEO)",
+      "url": "https://newsbv.ro/autostrada-a13-sibiu-fagaras-lucrari-podului-arc/",
+      "source": "NewsBV",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-10-26T06:43:25+02:00"
+    },
     {
       "title": "Cererea de muniție readuce în plan instalații industriale din anii ’80. Tohan Zărnești a primit primul gir de la Mediu pentru a pregăti investiții în vederea creșterii producției",
       "url": "https://bizbrasov.ro/2026/10/26/munitie-instalatii-tohan-zarnesti-mediu/",
@@ -226,13 +240,6 @@
       "source": "MyTex",
       "category": "⚽ Sport",
       "published": "2026-10-24T20:16:09+03:00"
-    },
-    {
-      "title": "Marius Baciu, claustrofob dar copilot într-un Ferrari 488 Challenge Evo la Trofeul Poiana Brașov, alături de Radu Benea",
-      "url": "https://newsbv.ro/marius-baciu-claustrofob-copilot-ferrari-488/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-24T18:35:39+03:00"
     }
   ]
 }
