@@ -1,8 +1,113 @@
 {
-  "updated": "26.10.2026, 11:00",
-  "count": 60,
-  "raw_count": 73,
+  "updated": "26.10.2026, 12:00",
+  "count": 71,
+  "raw_count": 86,
   "items": [
+    {
+      "title": "Au spart ghinionul la Covasna: Prima victorie pentru Kids Tâmpa Brașov, după 9 înfrângeri consecutive!",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/au-spart-ghinionul-la-covasna-prima-victorie-pentru-kids-tampa-brasov-dupa-9-infrangeri-consecutive/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:57:32+02:00"
+    },
+    {
+      "title": "Păsări exotice spectaculoase, la Râșnov! Expoziție cu intrare gratuită, între 30 octombrie și 1 noiembrie",
+      "url": "https://transilvania365.ro/pasari-exotice-spectaculoase-la-rasnov-expozitie-cu-intrare-gratuita-intre-30-octombrie-si-1-noiembrie/",
+      "source": "Transilvania365",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-26T11:53:14+02:00"
+    },
+    {
+      "title": "BRAȘOV | Traseul autobuzului 36, deviat astăzi în Tractorul! Una dintre stații nu poate fi deservită",
+      "url": "https://mytex.ro/expres/brasov-traseul-autobuzului-36-deviat-astazi-in-tractorul-una-dintre-statii-nu-poate-fi-deservita/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:43:36+02:00"
+    },
+    {
+      "title": "Concert simfonic Grieg–Rahmaninov, la Filarmonica Brașov",
+      "url": "https://brasovstiri.ro/concert-simfonic-grieg-rahmaninov-la-filarmonica-brasov/",
+      "source": "Brașov Știri",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-26T11:38:00+02:00"
+    },
+    {
+      "title": "DOCUMENT Cât vor plăti schiorii pentru transportul pe cablu din Poiana Brașov în sezonul 2026 – 2027",
+      "url": "https://bizbrasov.ro/2026/10/26/plati-schiori-transport-cablu-poiana-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:35:02+02:00"
+    },
+    {
+      "title": "Traseu deviat pentru autobuzele liniei 36 din Brașov. Stația „Alexandru Ciurcu” nu este deservită",
+      "url": "https://brasovstiri.ro/traseu-deviat-pentru-autobuzele-liniei-36-din-brasov-statia-alexandru-ciurcu-nu-este-deservita/",
+      "source": "Brașov Știri",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:34:43+02:00"
+    },
+    {
+      "title": "Ju-jitsu | Alex Blănaru a cucerit Germania! Aur pentru sportivul clubului CS Tadashi Brașov",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/ju-jitsu-alex-blanaru-a-cucerit-germania-aur-pentru-sportivul-clubului-cs-tadashi-brasov/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:21:45+02:00"
+    },
+    {
+      "title": "Schiatul în Poiana Brașov se scumpește. Abonamentul de sezon ar putea costa 5.500...",
+      "url": "https://transilvania365.ro/schiatul-in-poiana-brasov-se-scumpeste-abonamentul-de-sezon-ar-putea-costa-5-500-de-lei/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:19:45+02:00"
+    },
+    {
+      "title": "EXCLUSIV Dr. Andreea Petecilă, medic psihiatru la Brașov: „O societate care discută despre violență numai după producerea unei tragedii este o societate care intervine prea târziu”",
+      "url": "https://newsbv.ro/dr-andreea-peticila-violenta-scoli-preventie/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:19:14+02:00"
+    },
+    {
+      "title": "Aur pentru Brașov: Blănaru triumfă la Open-ul Germaniei",
+      "url": "https://www.zmbv.ro/aur-pentru-brasov-blanaru-triumfa-la-open-ul-germaniei/26/10/2026/120746/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:16:12+02:00"
+    },
+    {
+      "title": "Oprire temporară a apei în Săcele pentru igienizare",
+      "url": "https://www.zmbv.ro/oprire-temporara-a-apei-in-sacele-pentru-igienizare/26/10/2026/120744/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:15:54+02:00"
+    },
+    {
+      "title": "Dezbatere Publică pentru Parcul Național Făgăraș",
+      "url": "https://www.zmbv.ro/dezbatere-publica-pentru-parcul-national-fagaras/26/10/2026/120742/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-26T11:15:42+02:00"
+    },
+    {
+      "title": "Hala Star din Brașov, reparații de peste 780.000 lei",
+      "url": "https://www.zmbv.ro/hala-star-din-brasov-reparatii-de-peste-780-000-lei/26/10/2026/120740/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:15:26+02:00"
+    },
+    {
+      "title": "Corona Brașov: Doi Campioni Naționali la Patinaj Viteză",
+      "url": "https://www.zmbv.ro/corona-brasov-doi-campioni-nationali-la-patinaj-viteza/26/10/2026/120738/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "⚽ Sport",
+      "published": "2026-10-26T11:15:13+02:00"
+    },
+    {
+      "title": "Automobilism | Jérôme France, victorie și la Poiana Brașov! Francezul a dominat sezonul de viteză în coastă",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/automobilism-jerome-france-victorie-si-la-poiana-brasov-francezul-a-dominat-sezonul-de-viteza-in-coasta/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T11:03:21+02:00"
+    },
     {
       "title": "Revelion de peste 4.000 de euro la hotelul Simonei Halep din Poiana Braşov",
       "url": "https://newsbv.ro/revelion-hotelul-simonei-halep-din-poiana-brasov/",
@@ -25,13 +130,6 @@
       "published": "2026-10-26T10:39:27+02:00"
     },
     {
-      "title": "Gheorghe Sucaciu organizează o dezbatere publică despre Parcul Național Făgăraș: „Nu a existat o dezbatere publică reală”",
-      "url": "https://transilvania365.ro/gheorghe-sucaciu-organizeaza-o-dezbatere-publica-despre-parcul-national-fagaras-nu-a-existat-o-dezbatere-publica-reala/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-26T10:36:54+02:00"
-    },
-    {
       "title": "Aur la Open-ul Germaniei pentru Alexandru-Ștefan Blănaru, sportiv al Clubului Tadashi Brașov",
       "url": "https://bizbrasov.ro/2026/10/26/aur-sportiv-brasov/",
       "source": "BizBrașov",
@@ -39,7 +137,7 @@
       "published": "2026-10-26T10:34:02+02:00"
     },
     {
-      "title": "Mai multe străzi din Săcele rămân fără apă potabilă marți. Rezervorul Bunloc va...",
+      "title": "Mai multe străzi din Săcele rămân fără apă potabilă marți. Rezervorul...",
       "url": "https://transilvania365.ro/mai-multe-strazi-din-sacele-raman-fara-apa-potabila-marti-rezervorul-bunloc-va-fi-igienizat/",
       "source": "Transilvania365",
       "category": "🔥 Local",
@@ -53,20 +151,6 @@
       "published": "2026-10-26T10:31:10+02:00"
     },
     {
-      "title": "Aur pentru Brașov în Germania! Alexandru-Ștefan Blănaru a câștigat Open-ul la ju-jitsu",
-      "url": "https://transilvania365.ro/aur-pentru-brasov-in-germania-alexandru-stefan-blanaru-a-castigat-open-ul-la-ju-jitsu/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-26T10:09:52+02:00"
-    },
-    {
-      "title": "2 campioni naționali pentru Corona Brașov la patinaj viteză. Paul Turjan, pe primul loc mondial la categoria sa de vârstă",
-      "url": "https://newsbv.ro/2-campioni-nationali-corona-brasov-la-patinaj-viteza/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-26T10:09:24+02:00"
-    },
-    {
       "title": "Brașovul se apropie de fenomentul de „turistificare”. Localnicii au ajuns să nu mai meargă în Centru vara sau în vârfurile de sezon",
       "url": "https://bizbrasov.ro/2026/10/26/brasov-turistificare-vara-varf-sezon/",
       "source": "BizBrașov",
@@ -74,18 +158,11 @@
       "published": "2026-10-26T10:01:45+02:00"
     },
     {
-      "title": "Mai multe intervenții la rețeaua de apă din Brașov, luni, 26 octombrie",
+      "title": "Mai multe intervenții la rețeaua de apă din Brașov, luni, 26...",
       "url": "https://transilvania365.ro/mai-multe-interventii-la-reteaua-de-apa-din-brasov-luni-26-octombrie/",
       "source": "Transilvania365",
       "category": "🔥 Local",
       "published": "2026-10-26T10:01:21+02:00"
-    },
-    {
-      "title": "Jérôme France a câștigat Trofeul Poiana Brașov și a încheiat sezonul ca lider al Campionatului Național de Viteză în Coastă",
-      "url": "https://brasovstiri.ro/jerome-france-a-castigat-trofeul-poiana-brasov-si-a-incheiat-sezonul-ca-lider-al-campionatului-national-de-viteza-in-coasta/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-10-26T09:57:08+02:00"
     },
     {
       "title": "Doliu la Colegiul Național „Andrei Șaguna” din Brașov! A murit profesoara...",
@@ -95,7 +172,7 @@
       "published": "2026-10-26T09:48:12+02:00"
     },
     {
-      "title": "Fapt divers acum o oră Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
+      "title": "Fapt divers acum 2 ore Record negativ pe calea ferată: 10 ore cu trenul internațional Dacia între Brașov și Sighișoara",
       "url": "https://www.brasov.net/record-negativ-pe-calea-ferata-10-ore-cu-trenul-international-dacia-intre-brasov-si-sighisoara/",
       "source": "Brașov.net",
       "category": "🔥 Local",
@@ -142,6 +219,13 @@
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-10-26T09:08:05+02:00"
+    },
+    {
+      "title": "Compania Apa Brașov anunță lucrări și întreruperi de apă luni, 26 octombrie",
+      "url": "https://www.monitorulexpres.ro/2026/10/26/compania-apa-brasov-anunta-lucrari-si-intreruperi-de-apa-luni-26-octombrie/",
+      "source": "Monitorul Expres",
+      "category": "🔥 Local",
+      "published": "2026-10-26T09:00:34+02:00"
     },
     {
       "title": "Kronmedica Brașov, împreună cu dr. Alin Costantin, vă oferă consultații și ecografii specializate pentru diagnosticul și tratamentul endometriozei",
@@ -284,20 +368,6 @@
       "published": "2026-10-26T01:14:54+02:00"
     },
     {
-      "title": "Bărbat Arestat pentru Violență Domestică în Brașov",
-      "url": "https://www.zmbv.ro/barbat-arestat-pentru-violenta-domestica-in-brasov/26/10/2026/120715/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-25T23:15:54+02:00"
-    },
-    {
-      "title": "Centrul Brașovului, Destinație Populară pentru Turiști și Localnici",
-      "url": "https://www.zmbv.ro/centrul-brasovului-destinatie-populara-pentru-turisti-si-localnici/26/10/2026/120713/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-10-25T23:15:42+02:00"
-    },
-    {
       "title": "BRAȘOV | Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
       "url": "https://mytex.ro/politic/brasov-prefectul-mihai-catalin-vasii-si-a-anuntat-demisia-dupa-aproape-7-ani-in-functie/",
       "source": "MyTex",
@@ -317,6 +387,13 @@
       "source": "Monitorul Expres",
       "category": "🔥 Local",
       "published": "2026-10-25T16:31:00+02:00"
+    },
+    {
+      "title": "FOTO. Centrul Brașovului, luat cu asalt de turiști și localnici",
+      "url": "https://transilvania365.ro/foto-centrul-brasovului-luat-cu-asalt-de-turisti-si-localnici/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-10-25T16:05:04+02:00"
     },
     {
       "title": "PSD vrea să-l numească pe Lucian Mija prefect. Acesta a mai deținut funcția de subprefect și a fost unul dintre fondatorii grupului de inițiativă al USR la Făgăraș",
@@ -347,6 +424,13 @@
       "published": "2026-10-25T13:41:16+02:00"
     },
     {
+      "title": "Bărbat arestat pentru agresiune în Brașov",
+      "url": "https://www.zmbv.ro/barbat-arestat-pentru-agresiune-in-brasov/25/10/2026/120687/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🚨 Evenimente / urgențe",
+      "published": "2026-10-25T13:16:06+02:00"
+    },
+    {
       "title": "Noul Orient Express a ajuns în această dimineață la Brașov. Pasagerii au plătit de la 20.000 de euro pentru o călătorie pe ruta Roma – Istanbul",
       "url": "https://bizbrasov.ro/2026/10/25/orient-express-brasov-istanbul-roma/",
       "source": "BizBrașov",
@@ -354,7 +438,7 @@
       "published": "2026-10-25T12:59:49+02:00"
     },
     {
-      "title": "Eveniment acum 22 de ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
+      "title": "Eveniment acum 23 de ore VIDEO/ Bărbat arestat preventiv după ce și-ar fi agresat concubina și i-ar fi distrus telefonul, pe o stradă din Brașov",
       "url": "https://www.brasov.net/video-barbat-arestat-preventiv-dupa-ce-si-ar-fi-agresat-concubina-si-i-ar-fi-distrus-telefonul-pe-o-strada-din-brasov/",
       "source": "Brașov.net",
       "category": "🚨 Evenimente / urgențe",
@@ -401,13 +485,6 @@
       "source": "MyTex",
       "category": "🌦️ Meteo",
       "published": "2026-10-25T08:28:20+02:00"
-    },
-    {
-      "title": "Ziua Armatei aduce restricții de circulație la Brașov. Semnificația sărbătorii",
-      "url": "https://www.monitorulexpres.ro/2026/10/25/ziua-armatei-ceremonie-care-aduce-restrictii-de-circulatie-semnificatia-sarbatorii/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-10-25T08:22:07+02:00"
     },
     {
       "title": "Anunț de la Ministrul Muncii! Cât va fi salariul minim de la 1 ianuarie 2027: Vestea momentului pentru toți angajații din Brașov",
