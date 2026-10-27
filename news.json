@@ -1,9 +1,104 @@
 {
-  "updated": "27.10.2026, 05:00",
-  "count": 64,
+  "updated": "27.10.2026, 06:00",
+  "count": 68,
   "dedupe_version": 4,
-  "raw_count": 99,
+  "raw_count": 103,
   "items": [
+    {
+      "title": "O firmă din Brașov a creat un asistent AI pentru IMM-uri. Își propune să aibă 150 - 200 de clienți după primul an de funcționare",
+      "summary": "Start-up-ul ARIA Knows din Braşov, care a lansat în septembrie un asistent AI pentru IMM-uri ce răspunde clienţilor la telefon şi pe WhatsApp şi preia o parte",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/10/27/asistent-ai-imm-uri-dogaru-clienti/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-27T05:52:00+02:00",
+      "coverage": [
+        {
+          "title": "O firmă din Brașov a creat un asistent AI pentru IMM-uri. Își propune să aibă 150 - 200 de clienți după primul an de funcționare",
+          "url": "https://bizbrasov.ro/2026/10/27/asistent-ai-imm-uri-dogaru-clienti/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "a8deb064eefb1008"
+    },
+    {
+      "title": "Stabilus investește 2,5 milioane de euro în fabrica din Brașov. O nouă linie de vopsire va putea procesa șapte milioane de piese pe an",
+      "summary": "Producătorul de amortizoare cu gaz Stabilus România, subsidiara grupului german Stabilus, pregătește o nouă investiție la fabrica din Sânpetru. Compania",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/10/27/stabilus-euro-fabrica-brasov-piese/",
+      "source": "BizBrașov",
+      "category": "💰 Business & economie",
+      "published": "2026-10-27T05:41:00+02:00",
+      "coverage": [
+        {
+          "title": "Stabilus investește 2,5 milioane de euro în fabrica din Brașov. O nouă linie de vopsire va putea procesa șapte milioane de piese pe an",
+          "url": "https://bizbrasov.ro/2026/10/27/stabilus-euro-fabrica-brasov-piese/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "036fc76a31764f69"
+    },
+    {
+      "title": "Măsură de la Curtea de Conturi. Până pe 29 ianuarie 2027 va trebui recuperat prejudiciul de peste 2,4 milioane de lei de la Opera Brașov, respectiv plățile salariale fără bază legală",
+      "summary": "",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/10/27/masura-curtea-conturi-opera-brasov-plati/",
+      "source": "BizBrașov",
+      "category": "🎭 Evenimente & timp liber",
+      "published": "2026-10-27T05:38:00+02:00",
+      "coverage": [
+        {
+          "title": "Măsură de la Curtea de Conturi. Până pe 29 ianuarie 2027 va trebui recuperat prejudiciul de peste 2,4 milioane de lei de la Opera Brașov, respectiv plățile salariale fără bază legală",
+          "url": "https://bizbrasov.ro/2026/10/27/masura-curtea-conturi-opera-brasov-plati/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "79aaa8b91361d38d"
+    },
+    {
+      "title": "Un copil de 6 ani a rezolvat 150 de exerciții de aritmetică mentală în 8 minute. Ștefan a câștigat locul I la Olimpiada Națională de Aritmetică Mentală SmartyKids 2026, organizată la Brașov",
+      "summary": "Un copil de 6 ani a rezolvat 150 de exerciții de aritmetică mentală în 8 minute. Ștefan a câștigat locul I la Olimpiada Națională de Aritmetică Mentală SmartyKids 2026, organizată la Brașov",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/10/27/copil-6-ani-aritmetica/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-10-27T05:36:00+02:00",
+      "coverage": [
+        {
+          "title": "Un copil de 6 ani a rezolvat 150 de exerciții de aritmetică mentală în 8 minute. Ștefan a câștigat locul I la Olimpiada Națională de Aritmetică Mentală SmartyKids 2026, organizată la Brașov",
+          "url": "https://bizbrasov.ro/2026/10/27/copil-6-ani-aritmetica/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "36c0af4527de36df"
+    },
+    {
+      "title": "Pașapoartele și Înmatriculările se vor muta din zona Tractorul, cel puțin pentru o perioadă de un an, într-o altă clădire din municipiul Brașov",
+      "summary": "",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/10/27/pasapoarte-inmatriculari-cladire-brasov/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-27T05:19:00+02:00",
+      "coverage": [
+        {
+          "title": "Pașapoartele și Înmatriculările se vor muta din zona Tractorul, cel puțin pentru o perioadă de un an, într-o altă clădire din municipiul Brașov",
+          "url": "https://bizbrasov.ro/2026/10/27/pasapoarte-inmatriculari-cladire-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "013327a3e60d3012"
+    },
     {
       "title": "Transport Gratuit pentru Biciclete în Poiana Brașov, Prelungit",
       "summary": "Transport Gratuit pentru Biciclete în Poiana Brașov, Prelungit Ziarul Metropolitan Brasov -",
@@ -4859,99 +4954,6 @@
         }
       ],
       "story_id": "a501eb6224055c9e"
-    },
-    {
-      "title": "BRAȘOV - Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
-      "summary": "Prefectul județului Brașov, Mihai Cătălin Văsii, a anunțat că își va da demisia din funcție, după aproape șapte ani de la preluarea mandatului. Acesta a precizat că va înainta demisia ministrului Afacerilor Interne luni, 26 octombrie. Decizia ar fi fost luată de mai multe zile, însă prefectul a declarat că a dorit să își ducă …",
-      "content_terms": [
-        "afacer",
-        "angajament",
-        "anuntat",
-        "apreciat",
-        "aproape",
-        "armatei",
-        "avut",
-        "carora",
-        "catalin",
-        "ceremonia",
-        "colaborator",
-        "coleg",
-        "dar",
-        "decizia",
-        "dedicarea",
-        "dedicata",
-        "demisia",
-        "demisiona",
-        "despre",
-        "dorit",
-        "duca",
-        "echipa",
-        "functia",
-        "functie",
-        "guvern",
-        "imi",
-        "inainta",
-        "inclusiv",
-        "indeplinire",
-        "insa",
-        "institutia",
-        "institutionali",
-        "interne",
-        "isi",
-        "luat",
-        "luata",
-        "luni",
-        "mandat",
-        "mea",
-        "mesaj",
-        "mihai",
-        "ministr",
-        "ministru",
-        "moment",
-        "multumit",
-        "octombrie",
-        "ocupat",
-        "onorez",
-        "participarea",
-        "perioada",
-        "perioadei",
-        "precizat",
-        "prefect",
-        "preluarea",
-        "preluat",
-        "profesionalism",
-        "provocarile",
-        "reprezenta",
-        "responsabilitatea",
-        "romaniei",
-        "sapte",
-        "spirit",
-        "teritoriu",
-        "tinut",
-        "transmis",
-        "ultima",
-        "vasii",
-        "voi",
-        "vorbit",
-        "zilei"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/MihaiCatalinVasii",
-        "https://mytex.ro/politic/schimbari-majore-la-prefectura-brasov-cine-preia-comanda-si-cine-ramane-pe-pozitii"
-      ],
-      "url": "https://mytex.ro/politic/brasov-prefectul-mihai-catalin-vasii-si-a-anuntat-demisia-dupa-aproape-7-ani-in-functie/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-10-25T17:25:35+02:00",
-      "coverage": [
-        {
-          "title": "BRAȘOV - Prefectul Mihai Cătălin Văsii și-a anunțat demisia după aproape 7 ani în funcție",
-          "url": "https://mytex.ro/politic/brasov-prefectul-mihai-catalin-vasii-si-a-anuntat-demisia-dupa-aproape-7-ani-in-functie/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "2bdf85fe331cca33"
     }
   ]
 }
