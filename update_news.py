@@ -653,12 +653,16 @@ class ArticleLeadParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         marker = " ".join([attrs.get("id", ""), attrs.get("class", "")]).lower()
+        # Layout flags describe the page; they do not make the whole wrapper
+        # an ad, sharing widget or related-posts block.
+        widget_marker = " ".join(token for token in marker.split()
+                                 if not re.match(r"^(?:has|is|with|without|no)[-_]", token))
         active = bool(self.stack and self.stack[-1][1])
         active |= tag == "article" or attrs.get("itemprop", "").lower() == "articlebody" or bool(
             re.search(r"(?:entry-content|post-content|article-content|content-main|article-body)", marker))
         marker_blocked = tag not in {"html", "body"} and bool(
-            re.search(r"(?:^|\s)(?:ads?|advert\w*)(?:$|[\s_-])", marker) or
-            re.search(r"(?:^|[\s_-])(?:related|recommended|comments?|author|newsletter|social|share)(?:$|[\s_-])", marker))
+            re.search(r"(?:^|\s)(?:ads?|advert\w*)(?:$|[\s_-])", widget_marker) or
+            re.search(r"(?:^|[\s_-])(?:related|recommended|comments?|author|newsletter|social|share)(?:$|[\s_-])", widget_marker))
         blocked = bool(self.stack and self.stack[-1][2]) or tag in self.BLOCKED or marker_blocked
         if tag not in self.VOID:
             self.stack.append((tag, active, blocked))
@@ -957,4 +961,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

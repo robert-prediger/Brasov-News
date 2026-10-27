@@ -10,7 +10,7 @@ import unicodedata
 from datetime import datetime
 from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 
-VERSION = 4
+VERSION = 5
 STOP = set('''a ai ale al am an are ar au ca care cat cate ce cei cel cele cu cum
 de din dupa e este fost fi in intr intru la le li lor lui mai mi ne nu o pe pentru
 prin sa se si sunt spre sau iar un una unei unui va vor vi dintr fara pana peste
@@ -247,4 +247,5 @@ def deduplicate(items):
         ).hexdigest()[:16]
         result.append(representative)
     return result
+
 

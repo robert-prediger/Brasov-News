@@ -146,7 +146,7 @@ class StoryDeduplicationTests(unittest.TestCase):
                 result = json.loads(Path('news.json').read_text())
             finally:
                 os.chdir(previous_cwd)
-        self.assertEqual(result['dedupe_version'], 4)
+        self.assertEqual(result['dedupe_version'], 5)
         self.assertEqual(result['count'], 1)
         self.assertEqual(result['raw_count'], 2)
         self.assertEqual(len(result['items'][0]['coverage']), 2)
@@ -200,6 +200,23 @@ class StoryDeduplicationTests(unittest.TestCase):
         for excluded in ('autostrada', 'redactie', 'clinica', 'victime', 'abonamente'):
             self.assertNotIn(excluded, terms)
 
+    def test_layout_flags_do_not_hide_the_article_wrapper(self):
+        page = '''<div class="post-content-wrap has-share-float has-related-posts has-author-info">
+          <div class="post-share-float"><p>Distribuie articolul cu toți prietenii pe rețelele sociale populare.</p></div>
+          <div class="post-content cf entry-content content-spacious">
+          <p>Traficul rutier pe Transfăgărășan este închis din cauza ninsorilor abundente și a vizibilității scăzute.</p>
+          <div class="inline-related-post"><p>Un concert special de operă va avea loc la sfârșitul săptămânii.</p></div>
+          </div></div>'''
+        terms, _ = extract_content_evidence(page)
+        self.assertIn('transfagarasan', terms)
+        for excluded in ('distribuie', 'prieteni', 'concert'):
+            self.assertNotIn(excluded, terms)
+
+    def test_road_closure_regression_with_repeated_headline_metadata(self):
+        cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
+        a, enriched = cases['road_closure']
+        self.assert_grouped(a, enriched)
+
     def test_pair_decision_is_independent_of_other_news_in_feed(self):
         a = article('Apă oprită în Săcele marți', 'apa-oprita-sacele-marti')
         b = article('Străzile din Săcele rămân fără apă marți', 'strazi-sacele-fara-apa-marti')
@@ -230,4 +247,5 @@ class StoryDeduplicationTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
 
