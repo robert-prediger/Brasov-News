@@ -1,8 +1,8 @@
 {
-  "updated": "27.10.2026, 04:00",
-  "count": 66,
+  "updated": "27.10.2026, 05:00",
+  "count": 64,
   "dedupe_version": 4,
-  "raw_count": 103,
+  "raw_count": 99,
   "items": [
     {
       "title": "Transport Gratuit pentru Biciclete în Poiana Brașov, Prelungit",
@@ -84,123 +84,6 @@
         }
       ],
       "story_id": "ef75b33471b7b126"
-    },
-    {
-      "title": "Incendiu Devastator în Bran: Femeie Grav Rănită",
-      "summary": "Incendiu Devastator în Bran: Femeie Grav Rănită Ziarul Metropolitan Brasov -",
-      "content_terms": [
-        "acestia",
-        "acorda",
-        "afectand",
-        "ajutor",
-        "alaturi",
-        "amploare",
-        "apa",
-        "aproximativ",
-        "arsuri",
-        "autospeciale",
-        "bran",
-        "capului",
-        "desfasurare",
-        "doua",
-        "echipaj",
-        "echipaje",
-        "fata",
-        "fiind",
-        "focului",
-        "general",
-        "grave",
-        "incendiu",
-        "inspectorat",
-        "intervenit",
-        "interventia",
-        "izbucnit",
-        "lichidarea",
-        "localitatea",
-        "localizarea",
-        "locuinta",
-        "locului",
-        "lucrand",
-        "main",
-        "medicale",
-        "metri",
-        "mobilizand",
-        "mosoiu",
-        "nivel",
-        "patrati",
-        "pompier",
-        "prim",
-        "rapid",
-        "situat",
-        "smurd",
-        "sosite",
-        "spital",
-        "spuma",
-        "stinge",
-        "suferit",
-        "suprafata",
-        "transportata",
-        "trei",
-        "urgenta"
-      ],
-      "streets": [
-        "general mosoiu"
-      ],
-      "references": [
-        "https://brasov.net/incendiu-in-bran-o-femeie-a-ajuns-la-spital-cu-arsuri-grave"
-      ],
-      "url": "https://www.zmbv.ro/incendiu-devastator-in-bran-femeie-grav-ranita/27/10/2026/120835/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-10-27T03:15:45+02:00",
-      "coverage": [
-        {
-          "title": "Incendiu Devastator în Bran: Femeie Grav Rănită",
-          "url": "https://www.zmbv.ro/incendiu-devastator-in-bran-femeie-grav-ranita/27/10/2026/120835/",
-          "source": "Ziarul Metropolitan Brașov"
-        },
-        {
-          "title": "BREAKING NEWS - Incendiu la o casă din Bran. O femeie a suferit arsuri la cap și la mâini",
-          "url": "https://newsbv.ro/incendiu-bran-casa-strada-general-mosoiu/",
-          "source": "NewsBV"
-        },
-        {
-          "title": "Incendiu în Bran: O femeie a ajuns la spital cu arsuri grave",
-          "url": "https://www.brasov.net/incendiu-in-bran-o-femeie-a-ajuns-la-spital-cu-arsuri-grave/",
-          "source": "Brașov.net"
-        },
-        {
-          "title": "BRAȘOV - Incendiul din Bran a distrus casa! Două persoane au ajuns la spital",
-          "url": "https://mytex.ro/112/brasov-incendiul-din-bran-a-distrus-casa-doua-persoane-au-ajuns-la-spital/",
-          "source": "MyTex"
-        },
-        {
-          "title": "BRAȘOV - Femeie transportată la spital în urma incendiului din Bran! Poliția a deschis dosar penal. Trafic îngreunat pe DN 73",
-          "url": "https://mytex.ro/112/brasov-femeie-transportata-la-spital-in-urma-incendiului-din-bran-politia-a-deschis-dosar-penal-trafic-ingreunat-pe-dn-73/",
-          "source": "MyTex"
-        },
-        {
-          "title": "Incendiu la o casă din Bran. O femeie a suferit arsuri la cap și la mâini",
-          "url": "https://www.monitorulexpres.ro/2026/10/26/incendiu-la-o-casa-din-bran-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
-          "source": "Monitorul Expres"
-        },
-        {
-          "title": "BRAȘOV - Incendiu la o casă din Bran! O femeie a suferit arsuri la cap și la mâini",
-          "url": "https://mytex.ro/112/brasov-incendiu-la-o-casa-din-bran-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
-          "source": "MyTex"
-        },
-        {
-          "title": "Incendiu violent la Bran! Casă cuprinsă de flăcări. O femeie a suferit arsuri la cap și la mâini",
-          "url": "https://transilvania365.ro/incendiu-violent-la-bran-o-casa-cuprinsa-de-flacari-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
-          "source": "Transilvania365"
-        },
-        {
-          "title": "VIDEO O casă din Bran a fost cuprinsă de flăcări. O femeie prezintă arsuri la nivelul capului și mâinilor",
-          "url": "https://bizbrasov.ro/2026/10/26/casa-bran-cuprinsa-flacari/",
-          "source": "BizBrașov"
-        }
-      ],
-      "story_id": "1aa38ba59ec93220"
     },
     {
       "title": "Opera „Tosca” la Brașov: Spectacole Speciale",
@@ -776,6 +659,119 @@
         }
       ],
       "story_id": "81c57e08fcb5053a"
+    },
+    {
+      "title": "BRAȘOV - Incendiul din Bran a distrus casa! Două persoane au ajuns la spital",
+      "summary": "Incendiul izbucnit astăzi după-masă la o casă din Bran a fost lichidat, însă pagubele sunt însemnate. Casa a fost afectată în proporție de aproximativ 90%, iar două persoane, în vârstă de 57 și 86 de ani, au fost transportate la spital, conform ISU Brașov. Potrivit informațiilor transmise de pompieri, o femeie în vârstă de 57 …",
+      "content_terms": [
+        "acuza",
+        "afectand",
+        "afectata",
+        "ameteala",
+        "aproximativ",
+        "arsuri",
+        "bran",
+        "casa",
+        "cauza",
+        "clinic",
+        "conform",
+        "deocamdata",
+        "distrugeri",
+        "doua",
+        "echipaj",
+        "fie",
+        "fiind",
+        "flacarile",
+        "importante",
+        "incendiu",
+        "incheiat",
+        "informat",
+        "ingrijiri",
+        "insa",
+        "insemnate",
+        "interventia",
+        "investigat",
+        "isu",
+        "izbucnir",
+        "izbucnit",
+        "judetean",
+        "lichidat",
+        "locuinta",
+        "masa",
+        "medicale",
+        "orasenesc",
+        "pagub",
+        "pompier",
+        "pompieri",
+        "potrivit",
+        "preluata",
+        "proportie",
+        "provocat",
+        "smurd",
+        "specialitate",
+        "spital",
+        "stabilita",
+        "stari",
+        "suferit",
+        "transmise",
+        "transportata",
+        "transportate",
+        "urgenta",
+        "urmeaza",
+        "varsta",
+        "zarnesti"
+      ],
+      "streets": [],
+      "references": [
+        "https://mytex.ro/112/brasov-femeie-transportata-la-spital-in-urma-incendiului-din-bran-politia-a-deschis-dosar-penal-trafic-ingreunat-pe-dn-73"
+      ],
+      "url": "https://mytex.ro/112/brasov-incendiul-din-bran-a-distrus-casa-doua-persoane-au-ajuns-la-spital/",
+      "source": "MyTex",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-10-26T18:53:50+02:00",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Incendiul din Bran a distrus casa! Două persoane au ajuns la spital",
+          "url": "https://mytex.ro/112/brasov-incendiul-din-bran-a-distrus-casa-doua-persoane-au-ajuns-la-spital/",
+          "source": "MyTex"
+        },
+        {
+          "title": "BRAȘOV - Femeie transportată la spital în urma incendiului din Bran! Poliția a deschis dosar penal. Trafic îngreunat pe DN 73",
+          "url": "https://mytex.ro/112/brasov-femeie-transportata-la-spital-in-urma-incendiului-din-bran-politia-a-deschis-dosar-penal-trafic-ingreunat-pe-dn-73/",
+          "source": "MyTex"
+        },
+        {
+          "title": "Incendiu în Bran: O femeie a ajuns la spital cu arsuri grave",
+          "url": "https://www.brasov.net/incendiu-in-bran-o-femeie-a-ajuns-la-spital-cu-arsuri-grave/",
+          "source": "Brașov.net"
+        },
+        {
+          "title": "BREAKING NEWS - Incendiu la o casă din Bran. O femeie a suferit arsuri la cap și la mâini",
+          "url": "https://newsbv.ro/incendiu-bran-casa-strada-general-mosoiu/",
+          "source": "NewsBV"
+        },
+        {
+          "title": "Incendiu la o casă din Bran. O femeie a suferit arsuri la cap și la mâini",
+          "url": "https://www.monitorulexpres.ro/2026/10/26/incendiu-la-o-casa-din-bran-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "BRAȘOV - Incendiu la o casă din Bran! O femeie a suferit arsuri la cap și la mâini",
+          "url": "https://mytex.ro/112/brasov-incendiu-la-o-casa-din-bran-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
+          "source": "MyTex"
+        },
+        {
+          "title": "Incendiu violent la Bran! Casă cuprinsă de flăcări. O femeie a suferit arsuri la cap și la mâini",
+          "url": "https://transilvania365.ro/incendiu-violent-la-bran-o-casa-cuprinsa-de-flacari-o-femeie-a-suferit-arsuri-la-cap-si-la-maini/",
+          "source": "Transilvania365"
+        },
+        {
+          "title": "VIDEO O casă din Bran a fost cuprinsă de flăcări. O femeie prezintă arsuri la nivelul capului și mâinilor",
+          "url": "https://bizbrasov.ro/2026/10/26/casa-bran-cuprinsa-flacari/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "78d49c4613f7a0e8"
     },
     {
       "title": "BRAȘOV - Trei cetățeni străini, acuzați că făceau parte dintr-o rețea de sabotaj! Incendiul de lângă CARFIL, în centrul anchetei DIICOT",
@@ -3156,11 +3152,6 @@
           "title": "Damian Drăghici și Filarmonica Brașov deschid luna sărbătorilor cu un concert de excepție",
           "url": "https://newsbv.ro/damian-draghici-si-filarmonica-brasov/",
           "source": "NewsBV"
-        },
-        {
-          "title": "Damian Drăghici și Filarmonica Brașov, concert de excepție la început de decembrie. Ce evenimente mai sunt anunțate pentru melomani până la începutul lunii sărbătorilor",
-          "url": "https://bizbrasov.ro/2026/10/26/damian-draghici-filarmonica-brasov-concert/",
-          "source": "BizBrașov"
         }
       ],
       "story_id": "3acfab280dd25fcc"
@@ -4961,44 +4952,6 @@
         }
       ],
       "story_id": "2bdf85fe331cca33"
-    },
-    {
-      "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente festive",
-      "summary": "Timid, orașul de la poalele Tâmpei se pregătește pentru sărbătorile de iarnă.La Brașov au fost montate deja primele ornamente ce țin de iluminatul festiv de",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://transilvania365.ro/foto-brasovul-se-pregateste-deja-de-sarbatori-au-aparut-primele-ornamente-festive/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-25T16:32:25+02:00",
-      "coverage": [
-        {
-          "title": "FOTO. Brașovul se pregătește deja de sărbători. Au apărut primele ornamente festive",
-          "url": "https://transilvania365.ro/foto-brasovul-se-pregateste-deja-de-sarbatori-au-aparut-primele-ornamente-festive/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "076563eb8921a072"
-    },
-    {
-      "title": "FOTO. Centrul Brașovului, luat cu asalt de turiști și localnici",
-      "summary": "Vremea frumoasă și vacanța elevilor au animat centrul Brașovului. Strada Republicii și Piața Sfatului au fost pline de brașoveni și turiști care au profitat",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://transilvania365.ro/foto-centrul-brasovului-luat-cu-asalt-de-turisti-si-localnici/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-10-25T16:05:04+02:00",
-      "coverage": [
-        {
-          "title": "FOTO. Centrul Brașovului, luat cu asalt de turiști și localnici",
-          "url": "https://transilvania365.ro/foto-centrul-brasovului-luat-cu-asalt-de-turisti-si-localnici/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "3af466f21eda2a42"
     }
   ]
 }
