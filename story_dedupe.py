@@ -10,7 +10,7 @@ import unicodedata
 from datetime import datetime
 from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 
-VERSION = 5
+VERSION = 6
 STOP = set('''a ai ale al am an are ar au ca care cat cate ce cei cel cele cu cum
 de din dupa e este fost fi in intr intru la le li lor lui mai mi ne nu o pe pentru
 prin sa se si sunt spre sau iar un una unei unui va vor vi dintr fara pana peste
@@ -103,6 +103,38 @@ SPORTS = set('hochei volei handbal fotbal baschet patinaj rugby tenis'.split())
 DAYS = set('luni marti miercuri joi vineri sambata duminica'.split())
 GENERIC = tokens('corona csm echipa spital politie pompieri accident incendiu atac deces apa partener copil victorie infrangere primar primaria consiliul judetean bani amenda abandon autoturism')
 ACTIONS = tokens('incendiu accident reabilitare modernizare demisie numire candidatura dezbatere abandon adoptie oprire victorie infrangere')
+INCIDENTS = tokens('incendiu accident injunghiere atac furt sechestrare explozie')
+CITATION_BOILERPLATE = tokens('politie politist politiei retinere dosar penal cercetari verificari ancheta spital persoana persoane ranit ranita')
+APPOINTMENT_ROLES = tokens('antrenor director manager presedinte vicepresedinte ministru secretar coordonator adjunct')
+SPORT_RESULTS = {'victorie', 'infrangere', 'egal', 'scor'}
+
+
+def headline_names(item):
+    """Full names in headlines, excluding place and organization boilerplate."""
+    capitalized = r"[A-ZĂÂÎȘŞȚŢ][a-zăâîșşțţ]+(?:[-'][A-ZĂÂÎȘŞȚŢ][a-zăâîșşțţ]+)?"
+    pairs = re.findall(r'\b(' + capitalized + r'\s+' + capitalized + r')\b', item.get('title', ''))
+    return {normalize(name) for name in pairs
+            if not (set(normalize(name).split()) & (STOP | GENERIC | TOWNS))}
+
+
+def appointment_roles(item):
+    primary = normalize(str(item.get('title', '')) + ' ' + str(item.get('summary', '')))
+    # A biographical mention of an earlier appointment does not make a match
+    # result, resignation, dismissal or investigation an appointment story.
+    if tokens(item.get('title', '')) & SPORT_RESULTS or re.search(
+            r'\b(?:demis\w*|demision\w*|conced\w*|deced\w*|murit|anchet\w*|arestat\w*)\b', primary):
+        return set()
+    signals = {'numit', 'numita', 'numiti', 'numire', 'numirea', 'cooptat', 'cooptarea',
+               'prezentat', 'prezentata', 'angajat', 'angajata', 'alatura', 'desemnat'}
+    new_role = re.search(r'\b(?:noul|noua|noului)\s+(?:antrenor|director|manager|presedinte|ministru|secretar)\b', primary)
+    if not (set(primary.split()) & signals or new_role):
+        return set()
+    return tokens(article_text(item, True)) & APPOINTMENT_ROLES
+
+
+def other_person_event(item):
+    return bool(re.search(r'\b(?:demis\w*|conced\w*|deced\w*|murit|anchet\w*|arestat\w*)\b',
+                          normalize(item.get('title', ''))))
 
 def parsed_time(item):
     try:
@@ -113,6 +145,16 @@ def parsed_time(item):
 def conflicts(a, b):
     ta, tb = parsed_time(a), parsed_time(b)
     if ta is not None and tb is not None and abs(ta - tb) > 36 * 3600:
+        return True
+    if (appointment_roles(a) and appointment_roles(b) and
+            headline_names(a) and headline_names(b) and
+            not headline_names(a) & headline_names(b)):
+        return True
+    if ((appointment_roles(a) and other_person_event(b)) or
+            (appointment_roles(b) and other_person_event(a))):
+        return True
+    if ((appointment_roles(a) and tokens(b.get('title', '')) & SPORT_RESULTS) or
+            (appointment_roles(b) and tokens(a.get('title', '')) & SPORT_RESULTS)):
         return True
     sa, sb = a.get('streets', []), b.get('streets', [])
     if sa and sb and not any(left.endswith(right) or right.endswith(left)
@@ -157,13 +199,23 @@ class StoryMatcher:
             return True
         if conflicts(a, b):
             return False
+        # Different reporting angles on the same appointment need not share
+        # many words. Require the same full headline name and a shared role.
+        if (headline_names(a) & headline_names(b) and
+                appointment_roles(a) & appointment_roles(b)):
+            return True
         urls = lambda item: {canonical_url(source.get('url'))
                             for source in [item, *item.get('coverage', [])]}
         references = lambda item: {canonical_url(url) for url in item.get('references', [])}
         cited = (references(a) & urls(b)) | (references(b) & urls(a))
         if cited - {''}:
-            context_shared = self.words(a, True) & self.words(b, True)
-            if len(context_shared) >= 3 and len(context_shared - GENERIC) >= 2:
+            # "Read also" links are often recommendations, even inside a
+            # paragraph. A link alone cannot join unrelated sports coverage.
+            primary = lambda item: dict(item, content_terms=[])
+            context_shared = self.words(primary(a), True) & self.words(primary(b), True)
+            place_shared = context_shared & TOWNS
+            detail_shared = context_shared - GENERIC - TOWNS - INCIDENTS - CITATION_BOILERPLATE
+            if context_shared & INCIDENTS and place_shared and detail_shared:
                 return True
         if normalize(a.get('title')) == normalize(b.get('title')):
             return bool(normalize(a.get('title')))
@@ -247,5 +299,6 @@ def deduplicate(items):
         ).hexdigest()[:16]
         result.append(representative)
     return result
+
 
 

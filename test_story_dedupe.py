@@ -146,7 +146,7 @@ class StoryDeduplicationTests(unittest.TestCase):
                 result = json.loads(Path('news.json').read_text())
             finally:
                 os.chdir(previous_cwd)
-        self.assertEqual(result['dedupe_version'], 5)
+        self.assertEqual(result['dedupe_version'], 6)
         self.assertEqual(result['count'], 1)
         self.assertEqual(result['raw_count'], 2)
         self.assertEqual(len(result['items'][0]['coverage']), 2)
@@ -217,6 +217,50 @@ class StoryDeduplicationTests(unittest.TestCase):
         a, enriched = cases['road_closure']
         self.assert_grouped(a, enriched)
 
+    def test_same_appointment_with_different_reporting_angles(self):
+        cases = json.loads(Path(__file__).with_name('story_regressions.json').read_text())
+        items = cases['coach_appointment']
+        grouped = deduplicate(items)
+        self.assertEqual(len(grouped), 1)
+        self.assertEqual(len(grouped[0]['coverage']), 3)
+
+    def test_full_name_alone_does_not_merge_unrelated_news(self):
+        a = article('Adrian Chiruț, prezentat ca noul antrenor la Corona', 'appointment')
+        b = article('Adrian Chiruț critică programul competițional', 'opinion')
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_different_people_with_the_same_role_are_not_merged(self):
+        a = article('Adrian Chiruț, noul antrenor secund la Corona Brașov, prezentat oficial', 'first')
+        b = article('Bogdan Burcea, noul antrenor secund la Corona Brașov, prezentat oficial', 'second')
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_body_recommendation_cannot_merge_appointment_and_match_result(self):
+        a = article('Adrian Chiruț, noul antrenor secund la Corona Brașov', 'appointment')
+        a['summary'] = 'Adrian Chiruț se alătură echipei de handbal feminin, ca antrenor secund.'
+        b = article('Corona Brașov, victorie cu Steaua București', 'match')
+        b['summary'] = 'Echipa de handbal feminin Corona a câștigat meciul, iar antrenorul a comentat victoria.'
+        b['references'] = [a['url']]
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_body_recommendation_cannot_merge_appointment_and_national_roster(self):
+        a = article('Adrian Chiruț, noul antrenor secund la Corona Brașov', 'appointment')
+        a['summary'] = 'Adrian Chiruț se alătură echipei de handbal feminin, ca antrenor secund.'
+        b = article('Corona Brașov are șapte jucătoare în lotul lărgit pentru EURO', 'roster')
+        b['summary'] = 'Echipa de handbal feminin Corona trimite jucătoare la lot. Antrenorul a comentat selecția.'
+        b['references'] = [a['url']]
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_same_person_resigning_is_not_an_appointment_update(self):
+        a = article('Adrian Chiruț, noul antrenor secund la Corona Brașov', 'appointment')
+        b = article('Adrian Chiruț a demisionat din postul de antrenor secund la Corona Brașov', 'resignation')
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
+    def test_police_boilerplate_and_related_link_do_not_join_distinct_thefts(self):
+        a = article('Bărbat reținut pentru furt de bicicletă în Săcele', 'bicycle')
+        b = article('Bărbat reținut pentru furt de cabluri în Săcele', 'cables')
+        b['references'] = [a['url']]
+        self.assertEqual(len(deduplicate([a, b])), 2)
+
     def test_pair_decision_is_independent_of_other_news_in_feed(self):
         a = article('Apă oprită în Săcele marți', 'apa-oprita-sacele-marti')
         b = article('Străzile din Săcele rămân fără apă marți', 'strazi-sacele-fara-apa-marti')
@@ -247,5 +291,6 @@ class StoryDeduplicationTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
 
 

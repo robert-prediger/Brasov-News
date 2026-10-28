@@ -1,7 +1,7 @@
 {
   "updated": "28.10.2026, 23:00",
-  "count": 85,
-  "dedupe_version": 5,
+  "count": 86,
+  "dedupe_version": 6,
   "raw_count": 119,
   "items": [
     {
@@ -123,66 +123,14 @@
           "source": "Monitorul Expres"
         },
         {
-          "title": "Mutare de ultimă oră la Corona Brașov! Adrian Chiruț vine din Italia înaintea duelului cu Dunărea Brăila",
-          "url": "https://www.monitorulexpres.ro/2026/10/28/mutare-de-ultima-ora-la-corona-brasov-adrian-chirut-vine-din-italia-inaintea-duelului-cu-dunarea-braila/",
-          "source": "Monitorul Expres"
-        }
-      ],
-      "story_id": "ebf4aa301aff6066"
-    },
-    {
-      "title": "Surpriză la Corona Brașov. Adrian Chiruţ nu e „principal”. Va fi „secundul” Marianei Târcă",
-      "summary": "Surpriză la Corona Brașov. Adrian Chiruţ nu va fi antrenor principal la echipa de handbal feminin Corona Brașov. Clubul de la poalele Tâmpei a anunţat în această seară numirea tehnicianului sucevean în postul de antrenor secund, „principal” urmând să rămână Mariana Târcă. Decizia antrenorului este una surprinzătoare, mai ales că, în toamna anului trecut, a …",
-      "content_terms": [
-        "adrian",
-        "ales",
-        "antrenor",
-        "anului",
-        "anuntat",
-        "avut",
-        "chirut",
-        "club",
-        "corona",
-        "dar",
-        "decizia",
-        "echipa",
-        "echipei",
-        "feminin",
-        "handbal",
-        "mariana",
-        "numirea",
-        "oferta",
-        "poal",
-        "post",
-        "principal",
-        "ramana",
-        "refuzat",
-        "seara",
-        "secund",
-        "sucevean",
-        "surprinzatoare",
-        "surpriza",
-        "tampei",
-        "tarca",
-        "tehnician",
-        "toamna",
-        "trecut",
-        "urmand"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
-        "https://mytex.ro/sport/corona-brasov-adrian-chirut-e-noul-principal"
-      ],
-      "url": "https://mytex.ro/sport/surpriza-la-corona-brasov-adrian-chirut/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-10-28T20:17:19+02:00",
-      "coverage": [
-        {
           "title": "Surpriză la Corona Brașov. Adrian Chiruţ nu e „principal”. Va fi „secundul” Marianei Târcă",
           "url": "https://mytex.ro/sport/surpriza-la-corona-brasov-adrian-chirut/",
           "source": "MyTex"
+        },
+        {
+          "title": "Adrian Chiruț, noul antrenor secund al Coronei Brașov. Va lucra alături de Mariana Tîrcă",
+          "url": "https://newsbv.ro/adrian-chirut-antrenor-secund-corona-brasov/",
+          "source": "NewsBV"
         },
         {
           "title": "Corona Braşov, mutare pe banca tehnică. Adrian Chiruţ e noul „principal”. Debut de foc pentru tehnicianul sucevean",
@@ -190,125 +138,12 @@
           "source": "MyTex"
         },
         {
-          "title": "Corona Brașov, victorie cu Steaua Bucureşti",
-          "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-steaua-bucuresti-2/",
-          "source": "MyTex"
-        },
-        {
-          "title": "5 brașovence, în lotul preliminar al României pentru Campionatul European de handbal feminin",
-          "url": "https://newsbv.ro/handbaliste-brasovene-lot-preliminar-romania-euro/",
-          "source": "NewsBV"
-        },
-        {
-          "title": "România a anunțat lotul lărgit pentru EURO 2026! Șapte jucătoare de la Corona Brașov, pe lista lui Mihăilă",
-          "url": "https://www.monitorulexpres.ro/2026/10/28/romania-a-anuntat-lotul-largit-pentru-euro-2026-sapte-jucatoare-de-la-corona-brasov-pe-lista-lui-mihaila/",
+          "title": "Mutare de ultimă oră la Corona Brașov! Adrian Chiruț vine din Italia înaintea duelului cu Dunărea Brăila",
+          "url": "https://www.monitorulexpres.ro/2026/10/28/mutare-de-ultima-ora-la-corona-brasov-adrian-chirut-vine-din-italia-inaintea-duelului-cu-dunarea-braila/",
           "source": "Monitorul Expres"
-        },
-        {
-          "title": "Corona Brașov are 7 jucătoare în lotul lărgit pentru Campionatul European de handbal feminin",
-          "url": "https://mytex.ro/sport/corona-brasov-7-jucatoare-lot-largit-euro/",
-          "source": "MyTex"
         }
       ],
-      "story_id": "415ab3ee99f8edb0"
-    },
-    {
-      "title": "Adrian Chiruț, noul antrenor secund al Coronei Brașov. Va lucra alături de Mariana Tîrcă",
-      "summary": "Adrian Chiruț se alătură Coronei Brașov ca antrenor secund și va lucra alături de Mariana Tîrcă la echipa de handbal feminin.",
-      "content_terms": [
-        "activat",
-        "acumulat",
-        "adrian",
-        "alaturi",
-        "antrenor",
-        "antrenorat",
-        "asteptar",
-        "atat",
-        "banca",
-        "brasovene",
-        "buzau",
-        "cariera",
-        "castigarea",
-        "chirut",
-        "coach",
-        "colabora",
-        "competit",
-        "completeaza",
-        "contribui",
-        "corona",
-        "coronei",
-        "csm",
-        "csu",
-        "cupei",
-        "detinator",
-        "dezvoltarea",
-        "dinamo",
-        "echipei",
-        "ehf",
-        "evoluat",
-        "experienta",
-        "feminin",
-        "formatiei",
-        "gloria",
-        "handbal",
-        "important",
-        "include",
-        "internationala",
-        "internationale",
-        "interne",
-        "isi",
-        "italiei",
-        "jiu",
-        "jomi",
-        "jucator",
-        "licentei",
-        "ligii",
-        "mariana",
-        "masculin",
-        "master",
-        "masura",
-        "nationale",
-        "nivel",
-        "obiectiv",
-        "obtinerea",
-        "parcurs",
-        "ploiesti",
-        "prahova",
-        "precum",
-        "principal",
-        "rezultate",
-        "salerno",
-        "secund",
-        "senioare",
-        "slatina",
-        "staff",
-        "suceava",
-        "targu",
-        "tehnic",
-        "tehnica",
-        "teren",
-        "tirca",
-        "ulterior",
-        "unor",
-        "vine"
-      ],
-      "streets": [],
-      "references": [
-        "https://newsbv.ro/wp-content/uploads/2026/10/corona-brasov-targu-jiu.jpg",
-        "https://newsbv.ro?s=mariana+tirca"
-      ],
-      "url": "https://newsbv.ro/adrian-chirut-antrenor-secund-corona-brasov/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-10-28T19:43:57+02:00",
-      "coverage": [
-        {
-          "title": "Adrian Chiruț, noul antrenor secund al Coronei Brașov. Va lucra alături de Mariana Tîrcă",
-          "url": "https://newsbv.ro/adrian-chirut-antrenor-secund-corona-brasov/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "cd21a4828aacdb16"
+      "story_id": "ebf4aa301aff6066"
     },
     {
       "title": "Accident cu trei vehicule în Brașov! Ambulanță aflată în misiune, cu pacient la bord, implicată într-o coliziune cu un autocar și un autoturism!",
@@ -483,6 +318,9 @@
     },
     {
       "title": "BRAȘOV - RO-Alert: Urs semnalat pe strada Laminoarelor",
+      "url": "https://mytex.ro/expres/brasov-ro-alert-urs-semnalat-pe-strada-laminoarelor/",
+      "source": "MyTex",
+      "published": "2026-10-28T18:12:24+02:00",
       "summary": "",
       "content_terms": [
         "animal",
@@ -530,10 +368,7 @@
         "laminoarelor"
       ],
       "references": [],
-      "url": "https://mytex.ro/expres/brasov-ro-alert-urs-semnalat-pe-strada-laminoarelor/",
-      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-28T18:12:24+02:00",
       "coverage": [
         {
           "title": "BRAȘOV - RO-Alert: Urs semnalat pe strada Laminoarelor",
@@ -545,6 +380,9 @@
     },
     {
       "title": "Marian Constantinescu şi pictorii de la Corona Brașov. „Au avut pensula în mână, au pictat frumos, dar nu au reuşit să vândă tabloul”",
+      "url": "https://mytex.ro/sport/marian-constantinescu-si-pictorii-corona/",
+      "source": "MyTex",
+      "published": "2026-10-28T18:05:19+02:00",
       "summary": "Marian Constantinescu, antrenorul echipei Corona Brașov, s-a arătat mulţumit de evoluţia formației din meciul cu FC Argeș, din runda a doua a Grupei C din Cupa României. Marian Constantinescu şi pictorii de la Corona Brașov. „Au avut pensula în mână, au pictat frumos, dar nu au reuşit să vândă tabloul” FOTO: Corona Braşov Deşi oaspeţii …",
       "content_terms": [
         "acei",
@@ -596,19 +434,11 @@
         "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
         "https://mytex.ro/sport/corona-brasov-prima-infrangere-a-sezonului"
       ],
-      "url": "https://mytex.ro/sport/marian-constantinescu-si-pictorii-corona/",
-      "source": "MyTex",
       "category": "⚽ Sport",
-      "published": "2026-10-28T18:05:19+02:00",
       "coverage": [
         {
           "title": "Marian Constantinescu şi pictorii de la Corona Brașov. „Au avut pensula în mână, au pictat frumos, dar nu au reuşit să vândă tabloul”",
           "url": "https://mytex.ro/sport/marian-constantinescu-si-pictorii-corona/",
-          "source": "MyTex"
-        },
-        {
-          "title": "Corona Brașov, prima înfrângere a sezonului. FC Argeș, prea tare pentru trupa lui Marian Constantinescu",
-          "url": "https://mytex.ro/sport/corona-brasov-prima-infrangere-a-sezonului/",
           "source": "MyTex"
         }
       ],
@@ -692,6 +522,9 @@
     },
     {
       "title": "BRAȘOV - Sediul Serviciilor de Pașapoarte și Permise Auto se va muta temporar pe strada Panselelor",
+      "url": "https://mytex.ro/expres/brasov-sediul-serviciilor-de-pasapoarte-si-permise-auto-se-va-muta-temporar-pe-strada-panselelor/",
+      "source": "MyTex",
+      "published": "2026-10-28T17:30:00+02:00",
       "summary": "",
       "content_terms": [
         "activitat",
@@ -755,10 +588,7 @@
         "panselelor"
       ],
       "references": [],
-      "url": "https://mytex.ro/expres/brasov-sediul-serviciilor-de-pasapoarte-si-permise-auto-se-va-muta-temporar-pe-strada-panselelor/",
-      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-28T17:30:00+02:00",
       "coverage": [
         {
           "title": "BRAȘOV - Sediul Serviciilor de Pașapoarte și Permise Auto se va muta temporar pe strada Panselelor",
@@ -1147,6 +977,115 @@
         }
       ],
       "story_id": "de1f502f69067477"
+    },
+    {
+      "title": "5 brașovence, în lotul preliminar al României pentru Campionatul European de handbal feminin",
+      "summary": "Cinci handbaliste brașovene, plus patru de la CSM Corona Brașov, sunt în lotul preliminar al României pentru Campionatul European din decembrie.",
+      "content_terms": [
+        "aici",
+        "alaturi",
+        "ana",
+        "anamaria",
+        "andreea",
+        "anuntat",
+        "asadar",
+        "asta",
+        "atentia",
+        "bazaliu",
+        "berbece",
+        "bianca",
+        "brasovenc",
+        "brasovene",
+        "camp",
+        "campionat",
+        "celor",
+        "cinci",
+        "competitia",
+        "consistenta",
+        "continentala",
+        "corona",
+        "csm",
+        "decembrie",
+        "definitivat",
+        "denisa",
+        "deschide",
+        "despre",
+        "dificila",
+        "dumitrascu",
+        "european",
+        "eva",
+        "figureaza",
+        "final",
+        "gabriela",
+        "grozav",
+        "handbal",
+        "handbaliste",
+        "inca",
+        "jucatoar",
+        "jucatoare",
+        "kerekes",
+        "largit",
+        "lot",
+        "lotul",
+        "marti",
+        "merg",
+        "mihaila",
+        "nationalei",
+        "necula",
+        "noastra",
+        "nume",
+        "octombrie",
+        "opreste",
+        "ovidiu",
+        "parte",
+        "patru",
+        "popa",
+        "portar",
+        "preliminar",
+        "prezenta",
+        "ramane",
+        "rebeca",
+        "romaniei",
+        "sandru",
+        "selectie",
+        "selectioner",
+        "serban",
+        "sorina",
+        "staff",
+        "tampa",
+        "tehnic",
+        "tricolor",
+        "trupa",
+        "turne",
+        "valoarea",
+        "zona"
+      ],
+      "streets": [],
+      "references": [
+        "https://newsbv.ro?s=CSM+Corona+Bra%C8%99ov"
+      ],
+      "url": "https://newsbv.ro/handbaliste-brasovene-lot-preliminar-romania-euro/",
+      "source": "NewsBV",
+      "category": "⚽ Sport",
+      "published": "2026-10-28T16:26:21+02:00",
+      "coverage": [
+        {
+          "title": "5 brașovence, în lotul preliminar al României pentru Campionatul European de handbal feminin",
+          "url": "https://newsbv.ro/handbaliste-brasovene-lot-preliminar-romania-euro/",
+          "source": "NewsBV"
+        },
+        {
+          "title": "România a anunțat lotul lărgit pentru EURO 2026! Șapte jucătoare de la Corona Brașov, pe lista lui Mihăilă",
+          "url": "https://www.monitorulexpres.ro/2026/10/28/romania-a-anuntat-lotul-largit-pentru-euro-2026-sapte-jucatoare-de-la-corona-brasov-pe-lista-lui-mihaila/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "Corona Brașov are 7 jucătoare în lotul lărgit pentru Campionatul European de handbal feminin",
+          "url": "https://mytex.ro/sport/corona-brasov-7-jucatoare-lot-largit-euro/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "631092836c6b734d"
     },
     {
       "title": "Consiliul Județean Brașov câștigă trei procese privind proiectul SMID. Instanțele au respins acțiunile împotriva investiției de 185 de milioane de euro",
@@ -2849,6 +2788,113 @@
       "story_id": "16a1362431b06835"
     },
     {
+      "title": "Corona Brașov, victorie cu Steaua Bucureşti",
+      "summary": "",
+      "content_terms": [
+        "acsh",
+        "acshc",
+        "andrei",
+        "aseara",
+        "ashcheulov",
+        "avantaj",
+        "bucuresten",
+        "bucuresti",
+        "campionat",
+        "ciuc",
+        "clasament",
+        "club",
+        "colby",
+        "conduce",
+        "corona",
+        "daniel",
+        "dar",
+        "deac",
+        "deplasare",
+        "deschis",
+        "doua",
+        "dvorak",
+        "dvtk",
+        "egalitatea",
+        "erste",
+        "fata",
+        "fenestela",
+        "fiind",
+        "final",
+        "gheata",
+        "gheorgheni",
+        "goluri",
+        "golurile",
+        "hochei",
+        "insa",
+        "intrat",
+        "koger",
+        "liga",
+        "lupii",
+        "marit",
+        "mcauley",
+        "meci",
+        "meciuri",
+        "miercurea",
+        "national",
+        "noiembrie",
+        "oaspet",
+        "octombrie",
+        "olimpic",
+        "owen",
+        "parte",
+        "patida",
+        "patinoar",
+        "pauza",
+        "prima",
+        "primei",
+        "puncte",
+        "radim",
+        "refacut",
+        "repriza",
+        "reprize",
+        "reprzei",
+        "restabilit",
+        "reusit",
+        "rezultat",
+        "rokaly",
+        "scor",
+        "secunde",
+        "semnate",
+        "sport",
+        "stabilit",
+        "steaua",
+        "szilard",
+        "tabela",
+        "teamriuc",
+        "treaca",
+        "treia",
+        "ungaria",
+        "urmata",
+        "urmeaza",
+        "valchar",
+        "vasile",
+        "victorie",
+        "williams"
+      ],
+      "streets": [],
+      "references": [
+        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
+        "https://mytex.ro/sport/corona-brasov-adrian-chirut-e-noul-principal"
+      ],
+      "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-steaua-bucuresti-2/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-10-28T12:45:14+02:00",
+      "coverage": [
+        {
+          "title": "Corona Brașov, victorie cu Steaua Bucureşti",
+          "url": "https://mytex.ro/sport/corona-brasov-victorie-cu-steaua-bucuresti-2/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "96f487741332a300"
+    },
+    {
       "title": "FC Argeș, în criză profundă, vine la Brașov cu sabia deasupra capului! Bogdan Andone: „Victoria este vitală”",
       "summary": "FC Argeș, în criză profundă, vine la Brașov cu sabia deasupra capului! Bogdan Andone: „Victoria este vitală”",
       "content_terms": [
@@ -4265,6 +4311,9 @@
     },
     {
       "title": "BRAȘOV - Încă o bovină, ridicată de Poliția Locală Făgăraș de pe domeniul municipiului",
+      "url": "https://mytex.ro/expres/brasov-inca-o-bovina-ridicata-de-politia-locala-fagaras-de-pe-domeniul-municipiului/",
+      "source": "MyTex",
+      "published": "2026-10-28T09:17:38+02:00",
       "summary": "",
       "content_terms": [
         "actiunea",
@@ -4332,10 +4381,7 @@
       "references": [
         "https://mytex.ro/expres/brasov-doua-vaci-lasate-nesupravegheate-prin-fagaras-ridicate-de-politia-locala"
       ],
-      "url": "https://mytex.ro/expres/brasov-inca-o-bovina-ridicata-de-politia-locala-fagaras-de-pe-domeniul-municipiului/",
-      "source": "MyTex",
       "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-28T09:17:38+02:00",
       "coverage": [
         {
           "title": "BRAȘOV - Încă o bovină, ridicată de Poliția Locală Făgăraș de pe domeniul municipiului",
@@ -4670,6 +4716,9 @@
     },
     {
       "title": "Dispeceratul Poliției Locale Brașov, disponibil temporar la un singur număr de telefon",
+      "url": "https://mytex.ro/expres/dispeceratul-politiei-locale-brasov-disponibil-temporar-la-un-singur-numar-de-telefon/",
+      "source": "MyTex",
+      "published": "2026-10-28T08:41:26+02:00",
       "summary": "Astăzi, 28 octombrie 2026, în intervalul orar 09:00 – 11:00, Dispeceratul Poliției Locale Brașov va putea fi contactat la numărul de telefon 0728.289.662. În acest interval, numerele 0268.954, 0368.004.179 și 0368.457.013 nu vor fi funcționale, ca urmare a unor lucrări de mentenanță la centrala telefonică. Cetățenii care doresc să ia legătura cu Dispeceratul Poliției Locale …",
       "content_terms": [
         "centrala",
@@ -4702,10 +4751,7 @@
       ],
       "streets": [],
       "references": [],
-      "url": "https://mytex.ro/expres/dispeceratul-politiei-locale-brasov-disponibil-temporar-la-un-singur-numar-de-telefon/",
-      "source": "MyTex",
       "category": "🔥 Local",
-      "published": "2026-10-28T08:41:26+02:00",
       "coverage": [
         {
           "title": "Dispeceratul Poliției Locale Brașov, disponibil temporar la un singur număr de telefon",
@@ -7091,6 +7137,9 @@
     },
     {
       "title": "Compania COMPREST S.A. Brașov angajează urgent ȘOFERI PROFESIONIȘTI PENTRU ACTIVITATEA DE DESZĂPEZIRE.",
+      "url": "https://www.zmbv.ro/compania-comprest-s-a-brasov-angajeaza-urgent-soferi-profesionisti-pentru-activitatea-de-deszapezire/27/10/2026/120853/",
+      "source": "Ziarul Metropolitan Brașov",
+      "published": "2026-10-27T11:04:32+02:00",
       "summary": "Compania COMPREST S.A. Brașov angajează urgent ȘOFERI PROFESIONIȘTI PENTRU ACTIVITATEA DE DESZĂPEZIRE. Ziarul Metropolitan Brasov -",
       "content_terms": [
         "activitatea",
@@ -7140,10 +7189,7 @@
         "http://comprest.ro",
         "http://comprest.ro/cariere"
       ],
-      "url": "https://www.zmbv.ro/compania-comprest-s-a-brasov-angajeaza-urgent-soferi-profesionisti-pentru-activitatea-de-deszapezire/27/10/2026/120853/",
-      "source": "Ziarul Metropolitan Brașov",
       "category": "🔥 Local",
-      "published": "2026-10-27T11:04:32+02:00",
       "coverage": [
         {
           "title": "Compania COMPREST S.A. Brașov angajează urgent ȘOFERI PROFESIONIȘTI PENTRU ACTIVITATEA DE DESZĂPEZIRE.",
@@ -7152,6 +7198,20 @@
         }
       ],
       "story_id": "ca6c11b1475510ca"
+    },
+    {
+      "title": "Corona Brașov, prima înfrângere a sezonului. FC Argeș, prea tare pentru trupa lui Marian Constantinescu",
+      "url": "https://mytex.ro/sport/corona-brasov-prima-infrangere-a-sezonului/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "coverage": [
+        {
+          "title": "Corona Brașov, prima înfrângere a sezonului. FC Argeș, prea tare pentru trupa lui Marian Constantinescu",
+          "url": "https://mytex.ro/sport/corona-brasov-prima-infrangere-a-sezonului/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "0333fcde8d88321b"
     }
   ]
 }
