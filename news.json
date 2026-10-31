@@ -1,8 +1,8 @@
 {
-  "updated": "31.10.2026, 21:00",
-  "count": 68,
+  "updated": "31.10.2026, 22:00",
+  "count": 67,
   "dedupe_version": 6,
-  "raw_count": 95,
+  "raw_count": 94,
   "items": [
     {
       "title": "Consilieră locală PSD din Brașov, vizată într-un dosar de înșelăciune. Reacția social-democraților",
@@ -6252,25 +6252,6 @@
         }
       ],
       "story_id": "46b1e11045c60f09"
-    },
-    {
-      "title": "Spitalul Județean Brașov face noi angajări. 27 posturi sunt disponibile",
-      "summary": "Noi angajări! Spitalul Clinic Județean de Urgență Brașov anunță organizarea unui concurs pentru 27 de posturi în vederea încadrării pe perioadă",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://transilvania365.ro/spitalul-judetean-brasov-face-noi-angajari-27-posturi-sunt-disponibile/",
-      "source": "Transilvania365",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-10-30T09:48:58+02:00",
-      "coverage": [
-        {
-          "title": "Spitalul Județean Brașov face noi angajări. 27 posturi sunt disponibile",
-          "url": "https://transilvania365.ro/spitalul-judetean-brasov-face-noi-angajari-27-posturi-sunt-disponibile/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "9cfe384c9617b896"
     }
   ]
 }
