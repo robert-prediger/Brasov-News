@@ -1,8 +1,8 @@
 {
-  "updated": "01.11.2026, 05:00",
-  "count": 37,
+  "updated": "01.11.2026, 06:00",
+  "count": 36,
   "dedupe_version": 6,
-  "raw_count": 54,
+  "raw_count": 52,
   "items": [
     {
       "title": "Consilieră PSD Reținută pentru Înșelăciune la Brașov",
@@ -3120,11 +3120,6 @@
           "title": "CJ Braşov a aprobat planul de deszăpezire pentru iarna 2026–2027: Două firme vor asigura intervenţiile pe drumurile județene, iar 9 sectoare de drumuri vor fi închise",
           "url": "https://newsbv.ro/cj-brasov-aprobat-deszapezire-iarna-2026-2027/",
           "source": "NewsBV"
-        },
-        {
-          "title": "Se închid nouă sectoare de drum din județul Brașov! Ce măsuri pregătesc autoritățile pentru iarna 2026-2027",
-          "url": "https://brasovstiri.ro/se-inchid-noua-sectoare-de-drum-din-judetul-brasov-ce-masuri-pregatesc-autoritatile-pentru-iarna-2026-2027/",
-          "source": "Brașov Știri"
         }
       ],
       "story_id": "ec4757c604cc91df"
@@ -3521,79 +3516,6 @@
         }
       ],
       "story_id": "35bb01daab3f78dc"
-    },
-    {
-      "title": "Campanie de colectare a deșeurilor electrice în Zărnești. Locuitorii pot participa și la o tombolă cu premii",
-      "summary": "Zărnești organizează pe 31 octombrie o campanie de colectare a deșeurilor electrice. Predarea aparatelor aduce participarea la o tombolă cu premii.",
-      "content_terms": [
-        "aduce",
-        "ajutor",
-        "aparate",
-        "astfel",
-        "automat",
-        "bater",
-        "cadr",
-        "campania",
-        "campaniei",
-        "cetaten",
-        "colectare",
-        "colectate",
-        "conectate",
-        "defecte",
-        "dese",
-        "direct",
-        "disponibile",
-        "domiciliu",
-        "echipament",
-        "echipamente",
-        "electrice",
-        "electronice",
-        "folosesc",
-        "functioneaza",
-        "gratuit",
-        "interval",
-        "intra",
-        "locuitor",
-        "numar",
-        "octombrie",
-        "organizator",
-        "pot",
-        "predau",
-        "prem",
-        "primaria",
-        "priza",
-        "programarea",
-        "programata",
-        "puncte",
-        "ridicar",
-        "ridicate",
-        "sambata",
-        "sune",
-        "tombola",
-        "transmit",
-        "trebuie",
-        "trei",
-        "vechi",
-        "voluminoase",
-        "zarnesti"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/ecocivicacenter",
-        "https://newsbv.ro/wp-content/uploads/2026/10/puncte-colectare-deseuri-electrice-zarnesti.jpg"
-      ],
-      "url": "https://newsbv.ro/campanie-colectare-deseuri-electrice-zarnesti-octombrie/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-10-30T17:21:56+02:00",
-      "coverage": [
-        {
-          "title": "Campanie de colectare a deșeurilor electrice în Zărnești. Locuitorii pot participa și la o tombolă cu premii",
-          "url": "https://newsbv.ro/campanie-colectare-deseuri-electrice-zarnesti-octombrie/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "231155b8cc68a43b"
     }
   ]
 }
