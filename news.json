@@ -1,9 +1,28 @@
 {
-  "updated": "02.11.2026, 21:00",
-  "count": 76,
+  "updated": "02.11.2026, 22:00",
+  "count": 77,
   "dedupe_version": 6,
-  "raw_count": 92,
+  "raw_count": 94,
   "items": [
+    {
+      "title": "Tinerii din Brașov ar putea primi 500 de lei lunar pentru chirie. Proiectul prevede și reduceri de 50% la transport",
+      "summary": "Un proiect de lege propune un ajutor de 500 de lei pentru chirie tinerilor din Brașov și reduceri de 50% la abonamentele de transport.",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://newsbv.ro/tineri-brasov-ajutor-chirie-500-lei-reduceri-transport/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-11-02T21:14:41+02:00",
+      "coverage": [
+        {
+          "title": "Tinerii din Brașov ar putea primi 500 de lei lunar pentru chirie. Proiectul prevede și reduceri de 50% la transport",
+          "url": "https://newsbv.ro/tineri-brasov-ajutor-chirie-500-lei-reduceri-transport/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "f9f61dd2e40569e0"
+    },
     {
       "title": "Marian Cristescu i-a stricat seria lui Vali Lazăr! CSM Săcele a învins-o pe CSO Băicoi",
       "summary": "CSM Săcele a încheiat turul Seriei a 2-a din Liga a 3-a cu o victorie importantă. Echipa pregătită de Marian Cristescu s-a impus sâmbătă, pe teren propriu, cu scorul de 4-2 (2-1), în fața celor de la CSO Băicoi, formație care a suferit astfel primul eșec din acest sezon sub comanda lui Valentin Lază",
@@ -2185,6 +2204,11 @@
           "source": "MyTex"
         },
         {
+          "title": "Peste 2.300 de șoferi testați pentru alcool și droguri într-o razie de noapte pe șoselele din Brașov",
+          "url": "https://www.brasov.net/peste-2-300-de-soferi-testati-pentru-alcool-si-droguri-intr-o-razie-de-noapte-pe-soselele-din-brasov/",
+          "source": "Brașov.net"
+        },
+        {
           "title": "Polițiștii brașoveni au efectuat peste 2.300 de teste pentru depistarea șoferilor băuți sau drogați",
           "url": "https://www.monitorulexpres.ro/2026/11/02/politistii-brasoveni-au-efectuat-peste-2-300-de-teste-pentru-depistarea-soferilor-bauti-sau-drogati/",
           "source": "Monitorul Expres"
@@ -2474,6 +2498,11 @@
           "title": "Doi salvamontiști brașoveni obțin centura neagră 2 DAN",
           "url": "https://www.zmbv.ro/doi-salvamontisti-brasoveni-obtin-centura-neagra-2-dan/02/11/2026/121361/",
           "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Performanță de excepție pentru doi membri Salvamont Brașov: Centura neagră 2 DAN la arte marțiale",
+          "url": "https://www.brasov.net/performanta-de-exceptie-pentru-doi-membri-salvamont-brasov-centura-neagra-2-dan-la-arte-martiale/",
+          "source": "Brașov.net"
         }
       ],
       "story_id": "3098c3c3af701dc0"
@@ -5525,11 +5554,6 @@
           "title": "The Prodigy, vizită la Castelul Bran: „A trebuit să-i fac o vizită lui Dracula, la el acasă” (VIDEO)",
           "url": "https://newsbv.ro/the-prodigy-vizita-la-castelul-bran/",
           "source": "NewsBV"
-        },
-        {
-          "title": "VIDEO The Prodigy, videoclip de Halloween despre Castelul Bran: „L-am admirat întotdeauna pe Dracula pentru felul în care își face treaba. Așa că a trebuit să-i fac o vizită la el acasă”",
-          "url": "https://bizbrasov.ro/2026/11/01/the-prodigy-videoclip-de-halloween/",
-          "source": "BizBrașov"
         }
       ],
       "story_id": "0fed2f92aba26977"
