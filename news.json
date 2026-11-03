@@ -1,8 +1,8 @@
 {
-  "updated": "03.11.2026, 22:01",
-  "count": 80,
+  "updated": "03.11.2026, 23:00",
+  "count": 79,
   "dedupe_version": 6,
-  "raw_count": 115,
+  "raw_count": 114,
   "items": [
     {
       "title": "Făgărașul are o nouă bază sportivă! Investiție de 1,7 milioane de euro, inaugurată în prezența lui Răzvan Burleanu",
@@ -7495,80 +7495,6 @@
         }
       ],
       "story_id": "af9f3d3db9e87fcb"
-    },
-    {
-      "title": "Corona Brașov, victorie în prelungiri în Erste Liga",
-      "summary": "Corona Brașov a învins-o pe DVTK Jegesmedvek cu scorul de 4-3 (3-0, 0-0, 0-3, 1-0), după prelungiri, duminică, în deplasare, într-un meci din Erste Liga la hochei pe gheață. Corona Brașov, victorie în prelungiri în Erste Liga Jared Michael Van Wormer, Balazs Gajdo (2) și Colby William McAuley au marcat pentru brașoveni. Celelalte trei echipe […]",
-      "content_terms": [
-        "acelbikak",
-        "acsh",
-        "acshc",
-        "akademia",
-        "balazs",
-        "budapest",
-        "celelalte",
-        "ciuc",
-        "clasament",
-        "club",
-        "colby",
-        "corona",
-        "dar",
-        "deac",
-        "deplasare",
-        "duminica",
-        "dunaujvarosi",
-        "dvtk",
-        "echipe",
-        "erste",
-        "feha19",
-        "fenestela",
-        "gajdo",
-        "gheata",
-        "gheorgheni",
-        "hochei",
-        "infrangere",
-        "jared",
-        "jegesmedvek",
-        "jegkorong",
-        "jocuri",
-        "liga",
-        "marcat",
-        "mcauley",
-        "meci",
-        "michael",
-        "miercurea",
-        "obtinut",
-        "prelungiri",
-        "punct",
-        "puncte",
-        "romanesti",
-        "scor",
-        "sport",
-        "sustinute",
-        "trei",
-        "ute",
-        "van",
-        "victorie",
-        "william",
-        "wormer"
-      ],
-      "streets": [],
-      "references": [
-        "https://newsbv.ro/corona-brasov-dunarea-braila",
-        "https://sportbv.ro/corona-brasov-victorie-in-prelungiri-in-erste-liga"
-      ],
-      "url": "https://newsbv.ro/corona-brasov-victorie-in-prelungiri-in-erste-liga/",
-      "source": "NewsBV",
-      "category": "⚽ Sport",
-      "published": "2026-11-02T10:42:46+02:00",
-      "coverage": [
-        {
-          "title": "Corona Brașov, victorie în prelungiri în Erste Liga",
-          "url": "https://newsbv.ro/corona-brasov-victorie-in-prelungiri-in-erste-liga/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "5a98a1f32156fe5e"
     }
   ]
 }
