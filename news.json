@@ -1,9 +1,88 @@
 {
-  "updated": "04.11.2026, 23:00",
-  "count": 82,
+  "updated": "05.11.2026, 00:00",
+  "count": 81,
   "dedupe_version": 6,
   "raw_count": 134,
   "items": [
+    {
+      "title": "Scade numărul infecțiilor respiratorii în Brașov",
+      "summary": "Scade numărul infecțiilor respiratorii în Brașov Ziarul Metropolitan Brasov -",
+      "content_terms": [
+        "acute",
+        "analize",
+        "anterioara",
+        "asemenea",
+        "autoritatile",
+        "cailor",
+        "cazuri",
+        "ceea",
+        "clinica",
+        "comparativ",
+        "confirmat",
+        "conform",
+        "datelor",
+        "doua",
+        "fata",
+        "furnizate",
+        "gripa",
+        "infect",
+        "inregistrat",
+        "laboratoar",
+        "noiembrie",
+        "numar",
+        "octombrie",
+        "perioada",
+        "pneumonie",
+        "precedenta",
+        "priveste",
+        "raportate",
+        "recente",
+        "respirator",
+        "sanitare",
+        "saptamana",
+        "scadere",
+        "scazut",
+        "specifice",
+        "superioare",
+        "totalizand"
+      ],
+      "streets": [],
+      "references": [
+        "https://transilvania365.ro/peste-1-600-de-brasoveni-au-ajuns-la-medic-cu-infectii-respiratorii-au-fost-confirmate-si-doua-cazuri-de-gripa"
+      ],
+      "url": "https://www.zmbv.ro/scade-numarul-infectiilor-respiratorii-in-brasov/05/11/2026/121555/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-11-04T23:14:04+02:00",
+      "coverage": [
+        {
+          "title": "Scade numărul infecțiilor respiratorii în Brașov",
+          "url": "https://www.zmbv.ro/scade-numarul-infectiilor-respiratorii-in-brasov/05/11/2026/121555/",
+          "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Scădere a numărului de infecții respiratorii în județul Brașov. DSP a raportat 1.607 cazuri într-o săptămână",
+          "url": "https://www.monitorulexpres.ro/2026/11/04/scadere-a-numarului-de-infectii-respiratorii-in-judetul-brasov-dsp-a-raportat-1-607-cazuri-intr-o-saptamana/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "Scădere semnificativă a cazurilor de infecții respiratorii în județul Brașov la finalul lunii octombrie",
+          "url": "https://bizbrasov.ro/2026/11/04/brasov-scadere-semnificativa-infectii/",
+          "source": "BizBrașov"
+        },
+        {
+          "title": "Peste 1.600 de brașoveni au ajuns la medic cu infecții respiratorii! Au fost confirmate și două cazuri de gripă",
+          "url": "https://transilvania365.ro/peste-1-600-de-brasoveni-au-ajuns-la-medic-cu-infectii-respiratorii-au-fost-confirmate-si-doua-cazuri-de-gripa/",
+          "source": "Transilvania365"
+        },
+        {
+          "title": "Veste bună pentru brașoveni: Infecțiile respiratorii și gripa, în scădere semnificativă! Datele DSP",
+          "url": "https://mytex.ro/sanatate/veste-buna-pentru-brasoveni-infectiile-respiratorii-si-gripa-in-scadere-semnificativa-datele-dsp/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "778803fb41fe6bcb"
+    },
     {
       "title": "Ultimatum pentru Râșnoveni: Ridicați Lemnele Până la 31 Decembrie",
       "summary": "Ultimatum pentru Râșnoveni: Ridicați Lemnele Până la 31 Decembrie Ziarul Metropolitan Brasov -",
@@ -1243,69 +1322,6 @@
         }
       ],
       "story_id": "3d8f933701984288"
-    },
-    {
-      "title": "Scădere a numărului de infecții respiratorii în județul Brașov. DSP a raportat 1.607 cazuri într-o săptămână",
-      "summary": "Direcția de Sănătate Publică (DSP) Brașov a anunțat că în perioada 26.10-01.11.2026, în județul Brașov, au fost raportate 1607 cazuri de infecții respiratorii, spre deosebire de săptămâna anterioară, când au fost raportate 1919 cazuri: 15 cazuri de gripă clinică, comparativ cu 25 de cazuri înregist",
-      "content_terms": [
-        "acute",
-        "anterioara",
-        "anuntat",
-        "cailor",
-        "cand",
-        "cazuri",
-        "clinica",
-        "comparatie",
-        "comparativ",
-        "confirmate",
-        "deosebire",
-        "directia",
-        "dsp",
-        "gripa",
-        "infect",
-        "inregistrate",
-        "laborator",
-        "perioada",
-        "pneumonie",
-        "publica",
-        "raportate",
-        "respirator",
-        "sanatate",
-        "saptamana",
-        "superioare"
-      ],
-      "streets": [],
-      "references": [
-        "https://google.com/preferences/source?q=https%3A%2F%2Fwww.monitorulexpres.ro",
-        "https://news.google.com/publications/CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Ym1sMGIzSjFiR1Y0Y0hKbGN5NXlieWdBUAE?hl=ro&gl=RO&ceid=RO%3Aro"
-      ],
-      "url": "https://www.monitorulexpres.ro/2026/11/04/scadere-a-numarului-de-infectii-respiratorii-in-judetul-brasov-dsp-a-raportat-1-607-cazuri-intr-o-saptamana/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-11-04T16:51:13+02:00",
-      "coverage": [
-        {
-          "title": "Scădere a numărului de infecții respiratorii în județul Brașov. DSP a raportat 1.607 cazuri într-o săptămână",
-          "url": "https://www.monitorulexpres.ro/2026/11/04/scadere-a-numarului-de-infectii-respiratorii-in-judetul-brasov-dsp-a-raportat-1-607-cazuri-intr-o-saptamana/",
-          "source": "Monitorul Expres"
-        },
-        {
-          "title": "Scădere semnificativă a cazurilor de infecții respiratorii în județul Brașov la finalul lunii octombrie",
-          "url": "https://bizbrasov.ro/2026/11/04/brasov-scadere-semnificativa-infectii/",
-          "source": "BizBrașov"
-        },
-        {
-          "title": "Peste 1.600 de brașoveni au ajuns la medic cu infecții respiratorii! Au fost confirmate și două cazuri de gripă",
-          "url": "https://transilvania365.ro/peste-1-600-de-brasoveni-au-ajuns-la-medic-cu-infectii-respiratorii-au-fost-confirmate-si-doua-cazuri-de-gripa/",
-          "source": "Transilvania365"
-        },
-        {
-          "title": "Veste bună pentru brașoveni: Infecțiile respiratorii și gripa, în scădere semnificativă! Datele DSP",
-          "url": "https://mytex.ro/sanatate/veste-buna-pentru-brasoveni-infectiile-respiratorii-si-gripa-in-scadere-semnificativa-datele-dsp/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "70c13741d4086388"
     },
     {
       "title": "Flacăra olimpică va ajunge la Brașov, în apropierea Crăciunului",
@@ -7805,28 +7821,6 @@
         }
       ],
       "story_id": "0784068eef24805b"
-    },
-    {
-      "title": "Autostrada A13 Brașov–Bacău ar putea fi gata abia în 2036",
-      "summary": "Termenul de finalizare a studiului de fezabilitate pentru Autostrada A13 Brașov-Bacău a fost prelungit până în martie 2028, amânând livrarea completă a proiectului până în aprilie 2036. Finalizarea Autostrăzii A13 pe segmentul Brașov - Bacău ar putea fi amânată până în aprilie 2036, ca urmare a pre",
-      "content_terms": [],
-      "streets": [],
-      "references": [
-        "https://google.com/preferences/source?q=https%3A%2F%2Fwww.monitorulexpres.ro",
-        "https://news.google.com/publications/CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Ym1sMGIzSjFiR1Y0Y0hKbGN5NXlieWdBUAE?hl=ro&gl=RO&ceid=RO%3Aro"
-      ],
-      "url": "https://www.monitorulexpres.ro/2026/11/03/autostrada-a13-brasov-bacau-ar-putea-fi-gata-abia-in-2036/",
-      "source": "Monitorul Expres",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-11-03T11:43:13+02:00",
-      "coverage": [
-        {
-          "title": "Autostrada A13 Brașov–Bacău ar putea fi gata abia în 2036",
-          "url": "https://www.monitorulexpres.ro/2026/11/03/autostrada-a13-brasov-bacau-ar-putea-fi-gata-abia-in-2036/",
-          "source": "Monitorul Expres"
-        }
-      ],
-      "story_id": "4d3e2233e4054b3e"
     }
   ]
 }
