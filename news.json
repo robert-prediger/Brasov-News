@@ -1,8 +1,8 @@
 {
-  "updated": "05.11.2026, 01:00",
+  "updated": "05.11.2026, 02:00",
   "count": 77,
   "dedupe_version": 6,
-  "raw_count": 130,
+  "raw_count": 128,
   "items": [
     {
       "title": "Scade numărul infecțiilor respiratorii în Brașov",
@@ -2209,11 +2209,6 @@
           "source": "Monitorul Expres"
         },
         {
-          "title": "VIDEO/ Peste un kilogram de cocaină, ascuns în tablouri sculptate și table de șah cu compartimente secrete! Droguri vândute chiar într-o sală de sport din Brașov",
-          "url": "https://www.brasov.net/video-peste-un-kilogram-de-cocaina-ascuns-in-tablouri-sculptate-si-table-de-sah-cu-compartimente-secrete-droguri-vandute-chiar-intr-o-sala-de-sport-din-brasov/",
-          "source": "Brașov.net"
-        },
-        {
           "title": "VIDEO Peste 1 kilogram de cocaină, ascuns în table de șah și tablouri: Traficantul a fost prins de polițiști după ce a vândut stupefiantele într-o sală de sport din Brașov",
           "url": "https://bizbrasov.ro/2026/11/04/brasov-cocaina-ascuns-table-de-sah-prins/",
           "source": "BizBrașov"
@@ -3002,11 +2997,6 @@
           "title": "Vizită diplomatică de nivel înalt la Brașov: Ambasadoarea Germaniei, primită la Primărie",
           "url": "https://mytex.ro/politic/vizita-diplomatica-de-nivel-inalt-la-brasov-ambasadoarea-germaniei-primita-la-primarie/",
           "source": "MyTex"
-        },
-        {
-          "title": "Ambasadoarea Germaniei, în vizită oficială la Brașov",
-          "url": "https://transilvania365.ro/ambasadoarea-germaniei-in-vizita-oficiala-la-brasov/",
-          "source": "Transilvania365"
         }
       ],
       "story_id": "b0cd2bff909e7d95"
