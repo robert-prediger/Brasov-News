@@ -1,9 +1,116 @@
 {
-  "updated": "07.11.2026, 03:00",
-  "count": 73,
+  "updated": "07.11.2026, 04:00",
+  "count": 70,
   "dedupe_version": 6,
-  "raw_count": 117,
+  "raw_count": 113,
   "items": [
+    {
+      "title": "Brașov transformă fostul punct termic în centru pentru autism",
+      "summary": "Brașov transformă fostul punct termic în centru pentru autism Ziarul Metropolitan Brasov -",
+      "content_terms": [
+        "activitati",
+        "adaptate",
+        "adult",
+        "adulti",
+        "amenajarea",
+        "anterior",
+        "anunt",
+        "apelor",
+        "aproximativ",
+        "atat",
+        "atribuit",
+        "autism",
+        "cauza",
+        "centr",
+        "centru",
+        "cladir",
+        "cladirea",
+        "consiliere",
+        "contract",
+        "creeze",
+        "degradate",
+        "depune",
+        "destinat",
+        "doreste",
+        "dotarea",
+        "educationale",
+        "estimata",
+        "evacuare",
+        "finisaj",
+        "firm",
+        "functionat",
+        "gloriei",
+        "imobil",
+        "include",
+        "incluzand",
+        "infiltrat",
+        "initiativa",
+        "interesate",
+        "intervent",
+        "investitie",
+        "lansat",
+        "licitatia",
+        "licitatie",
+        "lucrar",
+        "majore",
+        "milioane",
+        "municipalitatea",
+        "municipi",
+        "necesita",
+        "noiembrie",
+        "ocupationale",
+        "oferi",
+        "oferte",
+        "online",
+        "participare",
+        "pluviale",
+        "pot",
+        "precum",
+        "primaria",
+        "printr",
+        "problem",
+        "procedura",
+        "publicat",
+        "punct",
+        "reabilitarea",
+        "renovarea",
+        "servic",
+        "serviciu",
+        "sigure",
+        "situat",
+        "social",
+        "spat",
+        "terapeutice",
+        "termic",
+        "transformat",
+        "tva",
+        "valoarea",
+        "viitor"
+      ],
+      "streets": [
+        "gloriei"
+      ],
+      "references": [
+        "https://newsbv.ro/centru-zi-adulti-autism-brasov-strada-gloriei"
+      ],
+      "url": "https://www.zmbv.ro/brasov-transforma-fostul-punct-termic-in-centru-pentru-autism/07/11/2026/121752/",
+      "source": "Ziarul Metropolitan Brașov",
+      "category": "🔥 Local",
+      "published": "2026-11-07T03:14:57+02:00",
+      "coverage": [
+        {
+          "title": "Brașov transformă fostul punct termic în centru pentru autism",
+          "url": "https://www.zmbv.ro/brasov-transforma-fostul-punct-termic-in-centru-pentru-autism/07/11/2026/121752/",
+          "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Fostul punct termic de pe strada Gloriei va deveni centru de zi pentru adulți cu autism. Primăria Brașov a lansat licitația",
+          "url": "https://newsbv.ro/centru-zi-adulti-autism-brasov-strada-gloriei/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "55d6322d8879e7f1"
+    },
     {
       "title": "Afaceri imobiliare ilegale la Brașov: prejudiciu de 1,1 milioane lei",
       "summary": "Afaceri imobiliare ilegale la Brașov: prejudiciu de 1,1 milioane lei Ziarul Metropolitan Brasov -",
@@ -188,252 +295,6 @@
         }
       ],
       "story_id": "a3eb4751a10fe0c8"
-    },
-    {
-      "title": "Urs Observat în Centrul Civic din Brașov",
-      "summary": "Urs Observat în Centrul Civic din Brașov Ziarul Metropolitan Brasov -",
-      "content_terms": [
-        "alert",
-        "animal",
-        "asemenea",
-        "asupra",
-        "autoritatile",
-        "avertizand",
-        "cetaten",
-        "comunitat",
-        "emis",
-        "esentiale",
-        "evita",
-        "fotografieze",
-        "harman",
-        "hraneasca",
-        "incident",
-        "indemnati",
-        "locuinte",
-        "locuitor",
-        "masurile",
-        "mesaj",
-        "neplacut",
-        "orice",
-        "precautie",
-        "prezentei",
-        "ramana",
-        "salbatic",
-        "sfatuiti",
-        "siguranta",
-        "urs",
-        "ursului"
-      ],
-      "streets": [
-        "harmanului"
-      ],
-      "references": [
-        "https://transilvania365.ro/alerta-in-brasov-urs-surprins-in-centrul-civic"
-      ],
-      "url": "https://www.zmbv.ro/urs-observat-in-centrul-civic-din-brasov/07/11/2026/121742/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-11-07T02:14:53+02:00",
-      "coverage": [
-        {
-          "title": "Urs Observat în Centrul Civic din Brașov",
-          "url": "https://www.zmbv.ro/urs-observat-in-centrul-civic-din-brasov/07/11/2026/121742/",
-          "source": "Ziarul Metropolitan Brașov"
-        },
-        {
-          "title": "Alertă în Brașov! Urs surprins în Centrul Civic",
-          "url": "https://transilvania365.ro/alerta-in-brasov-urs-surprins-in-centrul-civic/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "c0f910a7a46c28af"
-    },
-    {
-      "title": "Amenințare cu bombă într-un tren spre Brașov",
-      "summary": "Amenințare cu bombă într-un tren spre Brașov Ziarul Metropolitan Brasov -",
-      "content_terms": [
-        "abuziva",
-        "aflat",
-        "ajunga",
-        "amenda",
-        "amenintare",
-        "apel",
-        "apelant",
-        "asemenea",
-        "asupra",
-        "autoritatile",
-        "barbat",
-        "bistrita",
-        "bomba",
-        "calator",
-        "calatori",
-        "confirmat",
-        "conform",
-        "control",
-        "demersuri",
-        "efectuat",
-        "evaluarea",
-        "gasite",
-        "identificat",
-        "identifice",
-        "impreuna",
-        "inainte",
-        "indrepta",
-        "initiat",
-        "inspectorat",
-        "intervenit",
-        "istoric",
-        "judetean",
-        "lucru",
-        "medicala",
-        "mobil",
-        "nasaud",
-        "noiembrie",
-        "numar",
-        "obiecte",
-        "periculoase",
-        "politie",
-        "politist",
-        "prahova",
-        "rapid",
-        "recunoscut",
-        "regionala",
-        "reusit",
-        "sectia",
-        "sosire",
-        "specialitate",
-        "statia",
-        "suspect",
-        "telefon",
-        "timp",
-        "transporturi",
-        "tren",
-        "urgenta",
-        "urma",
-        "utilizarea",
-        "verificat"
-      ],
-      "streets": [],
-      "references": [
-        "https://transilvania365.ro/un-barbat-a-amenintat-ca-va-arunca-in-aer-un-tren-de-calatori"
-      ],
-      "url": "https://www.zmbv.ro/amenintare-cu-bomba-intr-un-tren-spre-brasov/07/11/2026/121740/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🚗 Trafic & transport",
-      "published": "2026-11-07T02:14:41+02:00",
-      "coverage": [
-        {
-          "title": "Amenințare cu bombă într-un tren spre Brașov",
-          "url": "https://www.zmbv.ro/amenintare-cu-bomba-intr-un-tren-spre-brasov/07/11/2026/121740/",
-          "source": "Ziarul Metropolitan Brașov"
-        },
-        {
-          "title": "Alertă în Gara Brașov! Un bărbat a amenințat că aruncă în aer un tren de călători",
-          "url": "https://mytex.ro/112/alerta-in-gara-brasov-un-barbat-a-amenintat-ca-arunca-in-aer-un-tren-de-calatori/",
-          "source": "MyTex"
-        },
-        {
-          "title": "Alertă într-un tren de călători spre Brașov! Un bărbat a amenințat că îl aruncă în aer și a fost amendat cu 4.000 de lei",
-          "url": "https://brasovstiri.ro/alerta-intr-un-tren-de-calatori-spre-brasov-un-barbat-a-amenintat-ca-il-arunca-in-aer-si-a-fost-amendat-cu-4-000-de-lei/",
-          "source": "Brașov Știri"
-        },
-        {
-          "title": "Un bărbat, aflat în drum spre Brașov, a amenințat că va arunca în aer un tren de călători",
-          "url": "https://transilvania365.ro/un-barbat-a-amenintat-ca-va-arunca-in-aer-un-tren-de-calatori/",
-          "source": "Transilvania365"
-        },
-        {
-          "title": "Amenințare cu bombă într-un tren spre Brașov. Un bărbat de 62 de ani a fost amendat cu 4.000 de lei",
-          "url": "https://newsbv.ro/amenintare-bomba-tren-brasov-barbat-amendat/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "48a5ffda290d2d1e"
-    },
-    {
-      "title": "Urs Semnalat în Brașov: Recomandări de Siguranță",
-      "summary": "Urs Semnalat în Brașov: Recomandări de Siguranță Ziarul Metropolitan Brasov -",
-      "content_terms": [
-        "acestea",
-        "alert",
-        "alerta",
-        "animal",
-        "apropie",
-        "autoritat",
-        "autoritatile",
-        "bruste",
-        "cazul",
-        "companie",
-        "comunicand",
-        "cont",
-        "contacteze",
-        "contine",
-        "crucial",
-        "deoarece",
-        "descurajata",
-        "dezactiveze",
-        "distanta",
-        "esentiale",
-        "evite",
-        "exact",
-        "expune",
-        "fiind",
-        "fotografieze",
-        "harman",
-        "hraneasca",
-        "important",
-        "incerce",
-        "indicat",
-        "informat",
-        "interventia",
-        "isu",
-        "locuinte",
-        "locuitor",
-        "locul",
-        "masurile",
-        "miscari",
-        "notificarile",
-        "observat",
-        "observatiei",
-        "paraseasca",
-        "pastreze",
-        "pericol",
-        "pot",
-        "propriu",
-        "protejeze",
-        "ramana",
-        "recomanda",
-        "respecte",
-        "rezolvarea",
-        "sfatuiti",
-        "siguranta",
-        "sistem",
-        "situatiei",
-        "transmisa",
-        "trebuie",
-        "urs",
-        "ursul",
-        "vazut",
-        "zona"
-      ],
-      "streets": [
-        "harmanului"
-      ],
-      "references": [
-        "https://newsbv.ro/alerta-urs-strada-harmanului-brasov-ro-alert"
-      ],
-      "url": "https://www.zmbv.ro/urs-semnalat-in-brasov-recomandari-de-siguranta/07/11/2026/121738/",
-      "source": "Ziarul Metropolitan Brașov",
-      "category": "🔥 Local",
-      "published": "2026-11-07T02:14:26+02:00",
-      "coverage": [
-        {
-          "title": "Urs Semnalat în Brașov: Recomandări de Siguranță",
-          "url": "https://www.zmbv.ro/urs-semnalat-in-brasov-recomandari-de-siguranta/07/11/2026/121738/",
-          "source": "Ziarul Metropolitan Brașov"
-        }
-      ],
-      "story_id": "0cfd971ffe15ab17"
     },
     {
       "title": "Locul de joacă de pe strada Gospodarilor din Brașov a fost modernizat. Copiii au acum un castel, tobogane și leagăne noi",
@@ -698,6 +559,71 @@
       "story_id": "8e731a7dc2d929fe"
     },
     {
+      "title": "Un bărbat a amenințat că aruncă în aer un tren. A fost depistat în Gara Brașov",
+      "summary": "Un bărbat de 62 de ani din Bistriţa a fost amendat, vineri, cu 4.000 de lei după ce a sunat la 112 şi a ameninţat că va arunca în aer un tren de călători. El a făcut apelul în timp ce se afla în tren, în judeţul Prahova, fiind identificat în scurt timp, la sosirea în Gara Braşov, şi a recunoscut",
+      "content_terms": [
+        "apel",
+        "avea",
+        "daca",
+        "decide",
+        "evaluat",
+        "fie",
+        "fiind",
+        "gara",
+        "identificat",
+        "impune",
+        "internat",
+        "obiecte",
+        "periculoase",
+        "prahova",
+        "recunoscut",
+        "scurt",
+        "sosirea",
+        "specialisti",
+        "sunat",
+        "timp",
+        "tren",
+        "urma"
+      ],
+      "streets": [],
+      "references": [
+        "https://google.com/preferences/source?q=https%3A%2F%2Fwww.monitorulexpres.ro",
+        "https://news.google.com/publications/CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Ym1sMGIzSjFiR1Y0Y0hKbGN5NXlieWdBUAE?hl=ro&gl=RO&ceid=RO%3Aro"
+      ],
+      "url": "https://www.monitorulexpres.ro/2026/11/06/un-barbat-a-amenintat-ca-arunca-in-aer-un-tren-de-calatori/",
+      "source": "Monitorul Expres",
+      "category": "🚗 Trafic & transport",
+      "published": "2026-11-06T23:24:02+02:00",
+      "coverage": [
+        {
+          "title": "Un bărbat a amenințat că aruncă în aer un tren. A fost depistat în Gara Brașov",
+          "url": "https://www.monitorulexpres.ro/2026/11/06/un-barbat-a-amenintat-ca-arunca-in-aer-un-tren-de-calatori/",
+          "source": "Monitorul Expres"
+        },
+        {
+          "title": "Alertă într-un tren de călători spre Brașov! Un bărbat a amenințat că îl aruncă în aer și a fost amendat cu 4.000 de lei",
+          "url": "https://brasovstiri.ro/alerta-intr-un-tren-de-calatori-spre-brasov-un-barbat-a-amenintat-ca-il-arunca-in-aer-si-a-fost-amendat-cu-4-000-de-lei/",
+          "source": "Brașov Știri"
+        },
+        {
+          "title": "Alertă în Gara Brașov! Un bărbat a amenințat că aruncă în aer un tren de călători",
+          "url": "https://mytex.ro/112/alerta-in-gara-brasov-un-barbat-a-amenintat-ca-arunca-in-aer-un-tren-de-calatori/",
+          "source": "MyTex"
+        },
+        {
+          "title": "Un bărbat, aflat în drum spre Brașov, a amenințat că va arunca în aer un tren de călători",
+          "url": "https://transilvania365.ro/un-barbat-a-amenintat-ca-va-arunca-in-aer-un-tren-de-calatori/",
+          "source": "Transilvania365"
+        },
+        {
+          "title": "Amenințare cu bombă într-un tren spre Brașov. Un bărbat de 62 de ani a fost amendat cu 4.000 de lei",
+          "url": "https://newsbv.ro/amenintare-bomba-tren-brasov-barbat-amendat/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "1578fc09de737be9"
+    },
+    {
       "title": "CSM Corona Brașov 2, succes în deplasare în Divizia A de handbal feminin: 29–27 cu CSM Galați",
       "summary": "CSM Corona Brașov 2 a câștigat la Galați, 29–27, în Divizia A de handbal feminin, după ce a recuperat 5 goluri. Denisa Lache a marcat 6 goluri.",
       "content_terms": [
@@ -783,25 +709,6 @@
         }
       ],
       "story_id": "2e3c71d0aaaa9c21"
-    },
-    {
-      "title": "Fostul punct termic de pe strada Gloriei va deveni centru de zi pentru adulți cu autism. Primăria Brașov a lansat licitația",
-      "summary": "Un fost punct termic de pe strada Gloriei nr. 13 va fi transformat în centru de zi pentru adulți cu autism. Investiția este estimată la 3,45 milioane de lei.",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://newsbv.ro/centru-zi-adulti-autism-brasov-strada-gloriei/",
-      "source": "NewsBV",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-11-06T21:13:40+02:00",
-      "coverage": [
-        {
-          "title": "Fostul punct termic de pe strada Gloriei va deveni centru de zi pentru adulți cu autism. Primăria Brașov a lansat licitația",
-          "url": "https://newsbv.ro/centru-zi-adulti-autism-brasov-strada-gloriei/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "2ca7e72bee3072e8"
     },
     {
       "title": "Ro-Alert la Brașov: Urs semnalat pe strada Hărmanului. Populația, sfătuită să rămână în case",
@@ -893,6 +800,49 @@
         }
       ],
       "story_id": "2a399e20ef4ca638"
+    },
+    {
+      "title": "Alertă în Brașov! Urs surprins în Centrul Civic",
+      "summary": "",
+      "content_terms": [
+        "alert",
+        "animal",
+        "atentie",
+        "cetaten",
+        "faca",
+        "harman",
+        "hraneasca",
+        "instiintati",
+        "locuinte",
+        "mesaj",
+        "poze",
+        "prezenta",
+        "printr",
+        "putin",
+        "ramana",
+        "salbatic",
+        "sfatuiti",
+        "simtita",
+        "timp",
+        "urma",
+        "urs"
+      ],
+      "streets": [
+        "harmanului"
+      ],
+      "references": [],
+      "url": "https://transilvania365.ro/alerta-in-brasov-urs-surprins-in-centrul-civic/",
+      "source": "Transilvania365",
+      "category": "🔥 Local",
+      "published": "2026-11-06T19:26:53+02:00",
+      "coverage": [
+        {
+          "title": "Alertă în Brașov! Urs surprins în Centrul Civic",
+          "url": "https://transilvania365.ro/alerta-in-brasov-urs-surprins-in-centrul-civic/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "33ffef04e2cfd89c"
     },
     {
       "title": "Femeie accidentată MORTAL de un TIR, pe DN 1 Sibiu",
@@ -5536,11 +5486,6 @@
           "title": "Ce taxe și impozite ar putea plăti brașovenii în 2027",
           "url": "https://www.monitorulexpres.ro/2026/11/05/ce-taxe-si-impozite-ar-putea-plati-brasovenii-in-2027/",
           "source": "Monitorul Expres"
-        },
-        {
-          "title": "Taxele și impozitele locale din Brașov, propuse la același nivel și în 2027. Două proiecte au fost puse în dezbatere publică",
-          "url": "https://transilvania365.ro/taxele-si-impozitele-locale-din-brasov-propuse-la-acelasi-nivel-si-in-2027-doua-proiecte-au-fost-puse-in-dezbatere-publica/",
-          "source": "Transilvania365"
         }
       ],
       "story_id": "d84eadbc663c7c1d"
@@ -5991,135 +5936,6 @@
         }
       ],
       "story_id": "a59cfb212bdeb66a"
-    },
-    {
-      "title": "Parcarea Aeroportului Brașov se ieftinește. Cât vor plăti șoferii începând de vineri",
-      "summary": "Șoferii care își lasă mașinile în parcarea Aeroportului Internațional Brașov-Ghimbav vor plăti mai puțin începând de vineri, 6 noiembrie.",
-      "content_terms": [
-        "abonament",
-        "achitarea",
-        "adauga",
-        "aeroport",
-        "ajunge",
-        "amenajate",
-        "amplasate",
-        "asemenea",
-        "astfel",
-        "automat",
-        "autoturism",
-        "bancar",
-        "beneficiaza",
-        "card",
-        "colaborator",
-        "condit",
-        "cost",
-        "destinat",
-        "detin",
-        "dispozitie",
-        "dizabilitati",
-        "fiecare",
-        "ghimbav",
-        "gratuitate",
-        "iesi",
-        "incepand",
-        "institutiei",
-        "international",
-        "interval",
-        "intra",
-        "introduce",
-        "isi",
-        "lasa",
-        "legitimatie",
-        "locurile",
-        "lunar",
-        "miez",
-        "noiembrie",
-        "noile",
-        "nopt",
-        "numerar",
-        "parcare",
-        "parcarea",
-        "persoan",
-        "plata",
-        "plati",
-        "poate",
-        "prevad",
-        "prim",
-        "prima",
-        "putin",
-        "regulament",
-        "respectiv",
-        "sofer",
-        "special",
-        "stationare",
-        "suplimentar",
-        "suplimentara",
-        "tarif",
-        "tarife",
-        "valabil",
-        "vigoare",
-        "vineri"
-      ],
-      "streets": [],
-      "references": [],
-      "url": "https://transilvania365.ro/parcarea-aeroportului-brasov-se-ieftineste-cat-vor-plati-soferii-incepand-de-vineri/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-11-05T15:52:56+02:00",
-      "coverage": [
-        {
-          "title": "Parcarea Aeroportului Brașov se ieftinește. Cât vor plăti șoferii începând de vineri",
-          "url": "https://transilvania365.ro/parcarea-aeroportului-brasov-se-ieftineste-cat-vor-plati-soferii-incepand-de-vineri/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "50d6af21c4a8c4aa"
-    },
-    {
-      "title": "BRAȘOV - Accident pe Bulevardul Gării! Un autoturism a ajuns pe trotuar",
-      "summary": "Un accident rutier a avut loc, în această după-amiază, pe Bulevardul Gării, din municipiul Brașov. Un autoturism a ajuns pe trotuar. Evenimentul rutier a avut loc în apropierea centrului comercial Unirea. Un alt participant la trafic a postat pe rețelele de socializare un filmuleț de la fața locului. Un echipaj de poliție se afla la …",
-      "content_terms": [
-        "accident",
-        "ajuns",
-        "alt",
-        "amiaza",
-        "apropierea",
-        "autoturism",
-        "avut",
-        "centr",
-        "comercial",
-        "echipaj",
-        "eveniment",
-        "fata",
-        "filmulet",
-        "garii",
-        "loc",
-        "locului",
-        "municipi",
-        "participant",
-        "politie",
-        "postat",
-        "retel",
-        "rutier",
-        "socializare",
-        "trafic",
-        "trotuar",
-        "unirea"
-      ],
-      "streets": [],
-      "references": [],
-      "url": "https://mytex.ro/112/brasov-accident-pe-bulevardul-garii-un-autoturism-a-ajuns-pe-trotuar/",
-      "source": "MyTex",
-      "category": "🚨 Evenimente / urgențe",
-      "published": "2026-11-05T15:51:25+02:00",
-      "coverage": [
-        {
-          "title": "BRAȘOV - Accident pe Bulevardul Gării! Un autoturism a ajuns pe trotuar",
-          "url": "https://mytex.ro/112/brasov-accident-pe-bulevardul-garii-un-autoturism-a-ajuns-pe-trotuar/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "0c6223555398aa73"
     }
   ]
 }
