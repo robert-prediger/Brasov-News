@@ -1,8 +1,8 @@
 {
-  "updated": "07.11.2026, 19:00",
-  "count": 73,
+  "updated": "07.11.2026, 20:00",
+  "count": 72,
   "dedupe_version": 6,
-  "raw_count": 107,
+  "raw_count": 106,
   "items": [
     {
       "title": "Creștere Semnificativă a Traficului la Aeroportul Brașov",
@@ -3531,85 +3531,6 @@
         }
       ],
       "story_id": "cbf5239db9f5e75f"
-    },
-    {
-      "title": "ALERTĂ în Brașov! Urs semnalat pe strada Hărmanului. Recomandările ISU pentru locuitori",
-      "summary": "Urs semnalat pe strada Hărmanului din Brașov. Mesaj RO-ALERT și recomandările ISU: evitați zona, rămâneți în locuințe și nu vă apropiați de animal.",
-      "content_terms": [
-        "aflati",
-        "alert",
-        "animal",
-        "anuntata",
-        "apropierea",
-        "autoritatile",
-        "avertizare",
-        "cateva",
-        "cazul",
-        "deplasarile",
-        "distanta",
-        "evitati",
-        "evite",
-        "fata",
-        "fotografiati",
-        "harman",
-        "hraniti",
-        "importante",
-        "incercati",
-        "isu",
-        "locuinte",
-        "locuite",
-        "locului",
-        "masur",
-        "mesaj",
-        "municipi",
-        "oamen",
-        "pastrati",
-        "potrivit",
-        "prezenta",
-        "prezentei",
-        "printr",
-        "prudenta",
-        "ramaneti",
-        "recomanda",
-        "recomandar",
-        "recomandarea",
-        "reguli",
-        "respectarea",
-        "respecte",
-        "salbatic",
-        "semnalat",
-        "sfatuiti",
-        "siguranta",
-        "similare",
-        "situat",
-        "transmisa",
-        "transmise",
-        "trebuie",
-        "urs",
-        "ursilor",
-        "zona",
-        "zone"
-      ],
-      "streets": [
-        "harmanului"
-      ],
-      "references": [
-        "https://facebook.com/messages/t/1240975384850209",
-        "https://newsbv.ro/wp-content/uploads/2021/12/urs-2.jpg",
-        "https://newsbv.ro?s=RO-ALERT"
-      ],
-      "url": "https://newsbv.ro/alerta-urs-strada-harmanului-brasov-ro-alert/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-11-06T18:50:37+02:00",
-      "coverage": [
-        {
-          "title": "ALERTĂ în Brașov! Urs semnalat pe strada Hărmanului. Recomandările ISU pentru locuitori",
-          "url": "https://newsbv.ro/alerta-urs-strada-harmanului-brasov-ro-alert/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "d09ddf4fc59cee9c"
     },
     {
       "title": "Se va întrerupe alimentarea cu energie electrică în Brașov și în mai multe localități din județ",
