@@ -1,9 +1,28 @@
 {
-  "updated": "08.11.2026, 12:00",
-  "count": 44,
+  "updated": "08.11.2026, 13:00",
+  "count": 46,
   "dedupe_version": 6,
-  "raw_count": 51,
+  "raw_count": 54,
   "items": [
+    {
+      "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+      "summary": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T12:59:39+02:00",
+      "coverage": [
+        {
+          "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+          "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "fef23a4a75a6da43"
+    },
     {
       "title": "Cea mai rece noapte din această toamnă. La Brașov au fost -5,7 grade, iar la Predeal -8,6 grade",
       "summary": "România a avut cea mai rece noapte din această toamnă. La Brașov s-au înregistrat -5,7 grade, iar la Predeal -8,6 grade. Vezi prognoza ANM.",
@@ -73,6 +92,81 @@
         }
       ],
       "story_id": "9980d846f7bd040f"
+    },
+    {
+      "title": "„Retroparada Toamnei” aduce astăzi mașinile de epocă în centrul Brașovului",
+      "summary": "Azi, Piața Sfatului din Brașov găzduiește Retroparada Toamnei. Admirați gratuit 100 de mașini de epocă, între orele 11:00 și 15:00.",
+      "content_terms": [
+        "adevarat",
+        "aer",
+        "apartinand",
+        "aproximativ",
+        "asteptati",
+        "auto",
+        "automobile",
+        "bijuter",
+        "clasice",
+        "club",
+        "colectionari",
+        "deschisa",
+        "devenit",
+        "diferite",
+        "eveniment",
+        "expozitia",
+        "expozitional",
+        "expuse",
+        "gratuit",
+        "inchiderea",
+        "industria",
+        "inima",
+        "interval",
+        "istorice",
+        "iubitor",
+        "larg",
+        "liber",
+        "marcand",
+        "marci",
+        "muzeu",
+        "oficiala",
+        "orar",
+        "organizat",
+        "participe",
+        "pasionat",
+        "patru",
+        "perioade",
+        "piata",
+        "poate",
+        "public",
+        "referinta",
+        "reprezentand",
+        "retromobil",
+        "retroparada",
+        "roti",
+        "semnificatie",
+        "sezon",
+        "sfat",
+        "speciala",
+        "toamnei",
+        "traditie",
+        "transforma",
+        "unor",
+        "variate",
+        "vizitata"
+      ],
+      "streets": [],
+      "references": [],
+      "url": "https://www.brasov.net/retroparada-toamnei-aduce-astazi-masinile-de-epoca-in-centrul-brasovului/",
+      "source": "Brașov.net",
+      "category": "🔥 Local",
+      "published": "2026-11-08T11:39:48+02:00",
+      "coverage": [
+        {
+          "title": "„Retroparada Toamnei” aduce astăzi mașinile de epocă în centrul Brașovului",
+          "url": "https://www.brasov.net/retroparada-toamnei-aduce-astazi-masinile-de-epoca-in-centrul-brasovului/",
+          "source": "Brașov.net"
+        }
+      ],
+      "story_id": "74f452930737c83c"
     },
     {
       "title": "Corona Brașov, victorii de 3 puncte la Bucureşti",
@@ -951,6 +1045,11 @@
           "title": "Creștere Semnificativă a Traficului la Aeroportul Brașov",
           "url": "https://www.zmbv.ro/crestere-semnificativa-a-traficului-la-aeroportul-brasov/07/11/2026/121764/",
           "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Aeroportul Brașov raportează o creștere cu 48% a pasagerilor în octombrie",
+          "url": "https://www.brasov.net/aeroportul-brasov-raporteaza-o-crestere-cu-48-a-pasagerilor-in-octombrie/",
+          "source": "Brașov.net"
         }
       ],
       "story_id": "1a44c1c8642cf087"
