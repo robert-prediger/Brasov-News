@@ -1,8 +1,8 @@
 {
-  "updated": "08.11.2026, 22:00",
-  "count": 48,
+  "updated": "08.11.2026, 23:00",
+  "count": 45,
   "dedupe_version": 6,
-  "raw_count": 59,
+  "raw_count": 54,
   "items": [
     {
       "title": "PNL îi pregătește procese lui Nicolae Ciucă și Lucian Bode. Fosta conducere, vizată pentru contractele care au adus datorii partidului",
@@ -537,94 +537,6 @@
         }
       ],
       "story_id": "d6f7231698e1c0aa"
-    },
-    {
-      "title": "Aproape 40 de amenzi și trei permise reținute, în urma unei acțiuni de amploare a polițiștilor în Făgăraș și localitățile din jur",
-      "summary": "Acțiune cu efective mărite a polițiștilor în Făgăraș, Șercaia, Părău, Voila și Cincu. Au fost aplicate aproape 40 de amenzi, de peste 12.000 de lei.",
-      "content_terms": [
-        "abateri",
-        "actiunea",
-        "agent",
-        "alcool",
-        "alta",
-        "aplicat",
-        "aproape",
-        "cadr",
-        "cincu",
-        "comise",
-        "conduc",
-        "constatat",
-        "contra",
-        "contraventionale",
-        "controal",
-        "daca",
-        "dar",
-        "desfasurat",
-        "directie",
-        "fagaras",
-        "fapt",
-        "identificarea",
-        "importanta",
-        "influenta",
-        "infractiun",
-        "legale",
-        "linistea",
-        "municipi",
-        "obiective",
-        "ordinea",
-        "organizata",
-        "parau",
-        "patrimoni",
-        "persoan",
-        "politie",
-        "politiei",
-        "politist",
-        "prevederile",
-        "prevenirea",
-        "principal",
-        "psihoactive",
-        "publica",
-        "rurala",
-        "rutiera",
-        "sanctiuni",
-        "sectiei",
-        "sercaia",
-        "siguranta",
-        "sofer",
-        "substant",
-        "totala",
-        "tulbura",
-        "urma",
-        "urmarit",
-        "valoare",
-        "verificar",
-        "verificat",
-        "violenta",
-        "vizat",
-        "voila"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/messages/t/1240975384850209",
-        "https://newsbv.ro?s=influen%C8%9Ba+alcoolului"
-      ],
-      "url": "https://newsbv.ro/actiune-politie-fagaras-amenzi-permise-retinute/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-11-08T17:20:16+02:00",
-      "coverage": [
-        {
-          "title": "Aproape 40 de amenzi și trei permise reținute, în urma unei acțiuni de amploare a polițiștilor în Făgăraș și localitățile din jur",
-          "url": "https://newsbv.ro/actiune-politie-fagaras-amenzi-permise-retinute/",
-          "source": "NewsBV"
-        },
-        {
-          "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
-          "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "dcdaa2a6d007c3cb"
     },
     {
       "title": "Volei - Corona Brașov câștigă la București și urcă pe podium!",
@@ -1933,25 +1845,6 @@
       "story_id": "22b65507f7975683"
     },
     {
-      "title": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
-      "summary": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://bizbrasov.ro/2026/11/08/noapte-de-iarna-brasov/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-11-08T10:47:48+02:00",
-      "coverage": [
-        {
-          "title": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
-          "url": "https://bizbrasov.ro/2026/11/08/noapte-de-iarna-brasov/",
-          "source": "BizBrașov"
-        }
-      ],
-      "story_id": "7d5929704d812fe1"
-    },
-    {
       "title": "George Scripcaru - despre o nouă „gaură” lăsată de Allen Coliban în bugetul Brașovului: Peste 164.000 de lei cheltuieli de judecată în procesul parcărilor",
       "summary": "Primarul Brașovului, George Scripcaru, a atras atenția asupra noilor costuri financiare pe care Municipalitatea trebuie să le suporte din cauza deciziilor fostei administrații conduse de Allen Coliban. Potrivit edilului, instanța a decis recent că Primăria Brașov este obligată să plătească 164.840 de lei reprezentând cheltuieli de judecată în litigiul intentat de administrația Coliban împotriva concesionarului …",
       "content_terms": [
@@ -2849,11 +2742,6 @@
           "title": "Creștere Semnificativă a Traficului la Aeroportul Brașov",
           "url": "https://www.zmbv.ro/crestere-semnificativa-a-traficului-la-aeroportul-brasov/07/11/2026/121764/",
           "source": "Ziarul Metropolitan Brașov"
-        },
-        {
-          "title": "Aeroportul Brașov raportează o creștere cu 48% a pasagerilor în octombrie",
-          "url": "https://www.brasov.net/aeroportul-brasov-raporteaza-o-crestere-cu-48-a-pasagerilor-in-octombrie/",
-          "source": "Brașov.net"
         }
       ],
       "story_id": "05ad750ac1fd553a"
@@ -3310,6 +3198,92 @@
         }
       ],
       "story_id": "0f15cb33ca66db7d"
+    },
+    {
+      "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
+      "summary": "",
+      "content_terms": [
+        "actiunea",
+        "activitati",
+        "alcool",
+        "antisociale",
+        "aplicate",
+        "auto",
+        "autovehicule",
+        "avut",
+        "blocada",
+        "cadr",
+        "cincu",
+        "circulatie",
+        "comise",
+        "comportament",
+        "comun",
+        "conducator",
+        "consum",
+        "contra",
+        "contraventionale",
+        "controal",
+        "controale",
+        "cresterea",
+        "dar",
+        "depistarea",
+        "desfasurat",
+        "efectuat",
+        "fagaras",
+        "fapt",
+        "identificarea",
+        "implicati",
+        "infractiun",
+        "jud",
+        "legitimat",
+        "loc",
+        "municipi",
+        "noiembrie",
+        "orele",
+        "parau",
+        "participat",
+        "patrimoni",
+        "plan",
+        "politie",
+        "politiei",
+        "politist",
+        "politisti",
+        "prevenirea",
+        "rand",
+        "regulile",
+        "respecta",
+        "rurala",
+        "rutiere",
+        "sanctiuni",
+        "sectiei",
+        "sercaia",
+        "sigurantei",
+        "sofer",
+        "testari",
+        "totala",
+        "totodata",
+        "urma",
+        "valoare",
+        "verificar",
+        "verificat",
+        "violenta",
+        "vizat",
+        "voila"
+      ],
+      "streets": [],
+      "references": [],
+      "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-11-07T15:05:27+02:00",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
+          "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "fbaad8b98674f646"
     },
     {
       "title": "Președintele Nicușor Dan, pe lista celor executați silit de Primăria Predeal pentru o datorie de 280 de lei pe care o are la impozitul pe terenul deținut în orașul stațiune",
@@ -3933,105 +3907,6 @@
         }
       ],
       "story_id": "6b54ff2c5ece3470"
-    },
-    {
-      "title": "VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
-      "summary": "VIDEO La Râșnov,VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF „bufetul pentru urși” se închide. Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://bizbrasov.ro/2026/11/07/rasnov-bufetul-pentru-ursi/",
-      "source": "BizBrașov",
-      "category": "🏙️ Oraș & administrație",
-      "published": "2026-11-07T10:25:25+02:00",
-      "coverage": [
-        {
-          "title": "VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
-          "url": "https://bizbrasov.ro/2026/11/07/rasnov-bufetul-pentru-ursi/",
-          "source": "BizBrașov"
-        }
-      ],
-      "story_id": "22a15c6c86ad44c2"
-    },
-    {
-      "title": "Polițistul care, băut la volan, a accidentat mortal un tânăr în Poiana Brașov, a fost condamnat",
-      "summary": "Polițistul care, băut la volan, a ucis un tânăr în Poiana Brașov, a fost condamnat Polițistul Vlad Roșca, care a provocat moartea studentului Andrei Șerban Ionescu și rănirea gravă a prietenei acestuia, a fost condamnat de Judecătoria Brașov la 4 ani, 4 luni și 20 de zile de închisoare cu executa",
-      "content_terms": [
-        "acces",
-        "accident",
-        "acestea",
-        "acestuia",
-        "actiuni",
-        "alcoolemie",
-        "andrei",
-        "avea",
-        "baut",
-        "cadr",
-        "circulat",
-        "condamnat",
-        "deces",
-        "drum",
-        "executare",
-        "grav",
-        "grava",
-        "iasi",
-        "impact",
-        "inchisoare",
-        "informatica",
-        "interzis",
-        "ionescu",
-        "ipj",
-        "judecatoria",
-        "lovindu",
-        "luni",
-        "noiembrie",
-        "numai",
-        "olimpic",
-        "patru",
-        "pedeapsa",
-        "poiana",
-        "politist",
-        "prietena",
-        "prietenei",
-        "prima",
-        "primit",
-        "proba",
-        "provocat",
-        "putin",
-        "ranirea",
-        "ranita",
-        "rezultanta",
-        "rosca",
-        "sange",
-        "seara",
-        "serban",
-        "servici",
-        "speciale",
-        "student",
-        "tanar",
-        "ucis",
-        "urcat",
-        "urma",
-        "vlad",
-        "volan"
-      ],
-      "streets": [],
-      "references": [
-        "https://google.com/preferences/source?q=https%3A%2F%2Fwww.monitorulexpres.ro",
-        "https://news.google.com/publications/CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Ym1sMGIzSjFiR1Y0Y0hKbGN5NXlieWdBUAE?hl=ro&gl=RO&ceid=RO%3Aro"
-      ],
-      "url": "https://www.monitorulexpres.ro/2026/11/07/politistul-care-baut-la-volan-a-ucis-un-tanar-in-poiana-brasov-a-fost-condamnat/",
-      "source": "Monitorul Expres",
-      "category": "🔥 Local",
-      "published": "2026-11-07T10:21:02+02:00",
-      "coverage": [
-        {
-          "title": "Polițistul care, băut la volan, a accidentat mortal un tânăr în Poiana Brașov, a fost condamnat",
-          "url": "https://www.monitorulexpres.ro/2026/11/07/politistul-care-baut-la-volan-a-ucis-un-tanar-in-poiana-brasov-a-fost-condamnat/",
-          "source": "Monitorul Expres"
-        }
-      ],
-      "story_id": "9fadf8b3f779afed"
     }
   ]
 }
