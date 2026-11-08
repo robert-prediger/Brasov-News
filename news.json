@@ -1,9 +1,171 @@
 {
-  "updated": "08.11.2026, 17:00",
-  "count": 46,
+  "updated": "08.11.2026, 18:00",
+  "count": 54,
   "dedupe_version": 6,
-  "raw_count": 57,
+  "raw_count": 69,
   "items": [
+    {
+      "title": "Aproape 40 de amenzi și trei permise reținute, în urma unei acțiuni de amploare a polițiștilor în Făgăraș și localitățile din jur",
+      "summary": "Acțiune cu efective mărite a polițiștilor în Făgăraș, Șercaia, Părău, Voila și Cincu. Au fost aplicate aproape 40 de amenzi, de peste 12.000 de lei.",
+      "content_terms": [
+        "abateri",
+        "actiunea",
+        "agent",
+        "alcool",
+        "alta",
+        "aplicat",
+        "aproape",
+        "cadr",
+        "cincu",
+        "comise",
+        "conduc",
+        "constatat",
+        "contra",
+        "contraventionale",
+        "controal",
+        "daca",
+        "dar",
+        "desfasurat",
+        "directie",
+        "fagaras",
+        "fapt",
+        "identificarea",
+        "importanta",
+        "influenta",
+        "infractiun",
+        "legale",
+        "linistea",
+        "municipi",
+        "obiective",
+        "ordinea",
+        "organizata",
+        "parau",
+        "patrimoni",
+        "persoan",
+        "politie",
+        "politiei",
+        "politist",
+        "prevederile",
+        "prevenirea",
+        "principal",
+        "psihoactive",
+        "publica",
+        "rurala",
+        "rutiera",
+        "sanctiuni",
+        "sectiei",
+        "sercaia",
+        "siguranta",
+        "sofer",
+        "substant",
+        "totala",
+        "tulbura",
+        "urma",
+        "urmarit",
+        "valoare",
+        "verificar",
+        "verificat",
+        "violenta",
+        "vizat",
+        "voila"
+      ],
+      "streets": [],
+      "references": [
+        "https://facebook.com/messages/t/1240975384850209",
+        "https://newsbv.ro?s=influen%C8%9Ba+alcoolului"
+      ],
+      "url": "https://newsbv.ro/actiune-politie-fagaras-amenzi-permise-retinute/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-11-08T17:20:16+02:00",
+      "coverage": [
+        {
+          "title": "Aproape 40 de amenzi și trei permise reținute, în urma unei acțiuni de amploare a polițiștilor în Făgăraș și localitățile din jur",
+          "url": "https://newsbv.ro/actiune-politie-fagaras-amenzi-permise-retinute/",
+          "source": "NewsBV"
+        },
+        {
+          "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
+          "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "dcdaa2a6d007c3cb"
+    },
+    {
+      "title": "Volei - Corona Brașov câștigă la București și urcă pe podium!",
+      "summary": "Volei |Corona Brașov, victorie clară la București!",
+      "content_terms": [
+        "aaro",
+        "acumulate",
+        "bucuresti",
+        "clasament",
+        "constantinescu",
+        "controlat",
+        "corona",
+        "craiova",
+        "cupa",
+        "deplasarea",
+        "dinamo",
+        "divizia",
+        "doua",
+        "dusan",
+        "egalitate",
+        "elev",
+        "impus",
+        "ion",
+        "laurentiu",
+        "lica",
+        "locul",
+        "masculin",
+        "meci",
+        "miercuri",
+        "nikula",
+        "noiembrie",
+        "obtinut",
+        "ocupa",
+        "ocupate",
+        "partida",
+        "patru",
+        "politehnica",
+        "pozit",
+        "prim",
+        "principal",
+        "programata",
+        "puncte",
+        "rapid",
+        "realizatori",
+        "retur",
+        "romaniei",
+        "sala",
+        "scm",
+        "scor",
+        "seturi",
+        "stiinta",
+        "stojsavlevic",
+        "universitatea",
+        "urmeaza",
+        "victorie",
+        "volei"
+      ],
+      "streets": [],
+      "references": [
+        "https://google.com/preferences/source?q=https%3A%2F%2Fwww.monitorulexpres.ro",
+        "https://news.google.com/publications/CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Ym1sMGIzSjFiR1Y0Y0hKbGN5NXlieWdBUAE?hl=ro&gl=RO&ceid=RO%3Aro"
+      ],
+      "url": "https://www.monitorulexpres.ro/2026/11/08/volei-corona-brasov-castiga-la-bucuresti-si-urca-pe-podium/",
+      "source": "Monitorul Expres",
+      "category": "⚽ Sport",
+      "published": "2026-11-08T17:19:47+02:00",
+      "coverage": [
+        {
+          "title": "Volei - Corona Brașov câștigă la București și urcă pe podium!",
+          "url": "https://www.monitorulexpres.ro/2026/11/08/volei-corona-brasov-castiga-la-bucuresti-si-urca-pe-podium/",
+          "source": "Monitorul Expres"
+        }
+      ],
+      "story_id": "81364b2bf839e8fb"
+    },
     {
       "title": "Furt de cupru dintr-un parc fotovoltaic din Făgăraș",
       "summary": "Furt de cupru dintr-un parc fotovoltaic din Făgăraș",
@@ -158,6 +320,11 @@
           "source": "MyTex"
         },
         {
+          "title": "VIDEO Trei adolescenți au furat aproape 2.000 de metri de cablu din cupru dintr-un parc fotovoltaic din Făgăraș. Polițiștii i-au luat din pat azi-dimineață",
+          "url": "https://bizbrasov.ro/2026/11/08/adolescenti-furat-cablu-cupru/",
+          "source": "BizBrașov"
+        },
+        {
           "title": "VIDEO. Furt de proporții la Făgăraș! Trei tineri, cu vârste între 15 și 18 ani, suspectați că au furat 2.000 de metri de cablu din cupru dintr-un parc fotovoltaic",
           "url": "https://transilvania365.ro/video-furt-de-proportii-la-fagaras-trei-tineri-cu-varste-intre-15-si-18-ani-suspectati-ca-au-furat-2-000-de-metri-de-cablu-din-cupru-dintr-un-parc-fotovoltaic/",
           "source": "Transilvania365"
@@ -274,6 +441,25 @@
       "story_id": "ed6d6457e014323a"
     },
     {
+      "title": "O familie din Cristian a transformat o cafenea 5 to go din Râșnov într-un loc de întâlnire pentru comunitate. Afacerea a ajuns la vânzări de 800.000 de lei",
+      "summary": "O familie din Cristian a transformat o cafenea 5 to go din Râșnov într-un loc de întâlnire pentru comunitate. Afacerea a ajuns la vânzări de 800.000 de lei",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/08/familie-5-to-go-rasnov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T15:42:03+02:00",
+      "coverage": [
+        {
+          "title": "O familie din Cristian a transformat o cafenea 5 to go din Râșnov într-un loc de întâlnire pentru comunitate. Afacerea a ajuns la vânzări de 800.000 de lei",
+          "url": "https://bizbrasov.ro/2026/11/08/familie-5-to-go-rasnov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "9544996c26ff51b9"
+    },
+    {
       "title": "FOTO. Șofer de TIR prins băut la volan, în județul Brașov! Alcoolemie de 0,69 mg/l în aerul expirat. Polițiștii i-au întocmit dosar penal",
       "summary": "Un șofer de autocamion, în vârstă de 44 de ani, din orașul Covasna, a fost depistat de polițiștii rutieri brașoveni conducând sub influența alcoolului.",
       "content_terms": [],
@@ -296,6 +482,25 @@
         }
       ],
       "story_id": "c0d388d5ef4ceee3"
+    },
+    {
+      "title": "Șofer de camion băut bine la volan, descoperit de polițiștii brașoveni aseară",
+      "summary": "Șofer de camion băut bine la volan, descoperit de polițiștii brașoveni aseară",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/08/sofer-camion-politistii-brasoveni/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T15:21:58+02:00",
+      "coverage": [
+        {
+          "title": "Șofer de camion băut bine la volan, descoperit de polițiștii brașoveni aseară",
+          "url": "https://bizbrasov.ro/2026/11/08/sofer-camion-politistii-brasoveni/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "38b98f8dd5c450aa"
     },
     {
       "title": "Nu îi mai votați pentru Parlament! Brașovul, fără autostradă, după 20 de ani de promisiuni! Am avut și avem parlamentari care au dezamăgit!",
@@ -397,6 +602,118 @@
         }
       ],
       "story_id": "854eeef295a76fb3"
+    },
+    {
+      "title": "Brașovul începe să simtă efectele „turistificării”. Centrul istoric devine tot mai mult un spațiu pentru vizitatori, iar localnicii îl ocolesc",
+      "summary": "Brașovul începe să simtă efectele „turistificării”. Centrul istoric devine tot mai mult un spațiu pentru vizitatori, iar localnicii îl ocolesc",
+      "content_terms": [
+        "activitatile",
+        "aglomeratia",
+        "ajung",
+        "ajunge",
+        "ajuns",
+        "aleaga",
+        "alte",
+        "apartine",
+        "aproximativ",
+        "barcelona",
+        "castiga",
+        "catre",
+        "cautate",
+        "cazare",
+        "centr",
+        "comerciale",
+        "comunitat",
+        "costa",
+        "dar",
+        "destinat",
+        "determina",
+        "detriment",
+        "dificultatile",
+        "dintre",
+        "economica",
+        "fenomen",
+        "fie",
+        "florenta",
+        "importanta",
+        "importante",
+        "incontestabila",
+        "innoptari",
+        "inregistrat",
+        "insa",
+        "inseamna",
+        "intalneasca",
+        "intrebare",
+        "istoric",
+        "jurul",
+        "liber",
+        "loc",
+        "locale",
+        "locuitori",
+        "masa",
+        "merg",
+        "milioane",
+        "mod",
+        "municipi",
+        "neaparat",
+        "nevo",
+        "nivel",
+        "numele",
+        "obisnuit",
+        "ofertei",
+        "orientate",
+        "parcare",
+        "petreaca",
+        "poarta",
+        "poate",
+        "preparate",
+        "presupune",
+        "pret",
+        "prieten",
+        "ramane",
+        "relatia",
+        "restaurant",
+        "ridica",
+        "ridicate",
+        "salata",
+        "schimba",
+        "servic",
+        "sosiri",
+        "spat",
+        "struct",
+        "succes",
+        "supraturism",
+        "timp",
+        "traditionale",
+        "transformarea",
+        "treptat",
+        "turism",
+        "turist",
+        "turistice",
+        "turistificare",
+        "unele",
+        "unii",
+        "vechi",
+        "vizitatori",
+        "zone"
+      ],
+      "streets": [],
+      "references": [
+        "https://bizbrasov.ro/2023/12/27/miercurea-brasovenilor-poiana-brasov-partii-deschise",
+        "https://en.wikipedia.org/wiki/Barcelona"
+      ],
+      "url": "https://bizbrasov.ro/2026/11/08/brasovul-centrul-istoric-localnicii/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T14:32:47+02:00",
+      "coverage": [
+        {
+          "title": "Brașovul începe să simtă efectele „turistificării”. Centrul istoric devine tot mai mult un spațiu pentru vizitatori, iar localnicii îl ocolesc",
+          "url": "https://bizbrasov.ro/2026/11/08/brasovul-centrul-istoric-localnicii/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "5055e4a7a44e5fcf"
     },
     {
       "title": "VIDEO. Retroparada Toamnei 2026 a umplut Piața Sfatului din Brașov! Mașinile de epocă au atras sute de vizitatori",
@@ -562,6 +879,25 @@
         }
       ],
       "story_id": "2b5de349ae0e2930"
+    },
+    {
+      "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+      "summary": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T12:59:39+02:00",
+      "coverage": [
+        {
+          "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
+          "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "fef23a4a75a6da43"
     },
     {
       "title": "Cea mai rece noapte din această toamnă. La Brașov au fost -5,7 grade, iar la Predeal -8,6 grade",
@@ -1104,6 +1440,25 @@
         }
       ],
       "story_id": "22b65507f7975683"
+    },
+    {
+      "title": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
+      "summary": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/08/noapte-de-iarna-brasov/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-08T10:47:48+02:00",
+      "coverage": [
+        {
+          "title": "Noapte de iarnă în România. Au fost -5,7 grade la Brașov, -9,9 grade la Întorsura Buzăului și -8,6 grade la Predeal",
+          "url": "https://bizbrasov.ro/2026/11/08/noapte-de-iarna-brasov/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "7d5929704d812fe1"
     },
     {
       "title": "George Scripcaru - despre o nouă „gaură” lăsată de Allen Coliban în bugetul Brașovului: Peste 164.000 de lei cheltuieli de judecată în procesul parcărilor",
@@ -2332,6 +2687,11 @@
           "title": "Brașoveanul Lucian Daghie: Aventură în trenul uriaș din Mauritania",
           "url": "https://www.zmbv.ro/brasoveanul-lucian-daghie-aventura-in-trenul-urias-din-mauritania/07/11/2026/121762/",
           "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Un brașovean a călătorit 13 ore în cel mai lung tren din lume. Globetrotterul Lucian Daghie a traversat deșertul mauritan pe un marfar cu 200 de vagoane",
+          "url": "https://bizbrasov.ro/2026/11/07/brasovean-cel-mai-lung-tren/",
+          "source": "BizBrașov"
         }
       ],
       "story_id": "ce1bf8d295d2d179"
@@ -2425,6 +2785,11 @@
           "title": "Nicușor Dan, Executat Silit pentru Datorii la Predeal",
           "url": "https://www.zmbv.ro/nicusor-dan-executat-silit-pentru-datorii-la-predeal/07/11/2026/121760/",
           "source": "Ziarul Metropolitan Brașov"
+        },
+        {
+          "title": "Președintele Nicușor Dan, pe lista celor executați silit de Primăria Predeal pentru o datorie de 280 de lei pe care o are la impozitul pe terenul deținut în orașul stațiune",
+          "url": "https://bizbrasov.ro/2026/11/07/presedintele-nicusor-dan-11/",
+          "source": "BizBrașov"
         }
       ],
       "story_id": "8dfa9b0cd2371b84"
@@ -3041,92 +3406,6 @@
       "story_id": "c472e2dbf24395e0"
     },
     {
-      "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
-      "summary": "",
-      "content_terms": [
-        "actiunea",
-        "activitati",
-        "alcool",
-        "antisociale",
-        "aplicate",
-        "auto",
-        "autovehicule",
-        "avut",
-        "blocada",
-        "cadr",
-        "cincu",
-        "circulatie",
-        "comise",
-        "comportament",
-        "comun",
-        "conducator",
-        "consum",
-        "contra",
-        "contraventionale",
-        "controal",
-        "controale",
-        "cresterea",
-        "dar",
-        "depistarea",
-        "desfasurat",
-        "efectuat",
-        "fagaras",
-        "fapt",
-        "identificarea",
-        "implicati",
-        "infractiun",
-        "jud",
-        "legitimat",
-        "loc",
-        "municipi",
-        "noiembrie",
-        "orele",
-        "parau",
-        "participat",
-        "patrimoni",
-        "plan",
-        "politie",
-        "politiei",
-        "politist",
-        "politisti",
-        "prevenirea",
-        "rand",
-        "regulile",
-        "respecta",
-        "rurala",
-        "rutiere",
-        "sanctiuni",
-        "sectiei",
-        "sercaia",
-        "sigurantei",
-        "sofer",
-        "testari",
-        "totala",
-        "totodata",
-        "urma",
-        "valoare",
-        "verificar",
-        "verificat",
-        "violenta",
-        "vizat",
-        "voila"
-      ],
-      "streets": [],
-      "references": [],
-      "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
-      "source": "MyTex",
-      "category": "🔥 Local",
-      "published": "2026-11-07T15:05:27+02:00",
-      "coverage": [
-        {
-          "title": "BRAȘOV - Acțiune BLOCADA în Făgăraș și patru comune din zonă! Amenzi de peste 12.000 de lei și permise reținute",
-          "url": "https://mytex.ro/expres/brasov-actiune-blocada-in-fagaras-si-patru-comune-din-zona-amenzi-de-peste-12-000-de-lei-si-permise-retinute/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "fbaad8b98674f646"
-    },
-    {
       "title": "Liga 4 Brașov, etapa a 11-a - Măgura Codlea defilează! Chimia Victoria și SR Brașov țin aproape",
       "summary": "Măgura Codlea continuă marșul din Liga 4 Brașov. Liderul campionatului a obținut o victorie categorică în deplasare, 8-0 cu Aripile Brașov, în etapa a 11-a. Chimia Victoria rămâne principala urmăritoare, după succesul cu ACS Prejmer, în timp ce SR Brașov a făcut spectacol la Hoghiz și a urcat pe pod",
       "content_terms": [
@@ -3243,6 +3522,25 @@
         }
       ],
       "story_id": "7f93da4b1de10926"
+    },
+    {
+      "title": "România va înlocui treptat elicopterele IAR-330 Puma din dotare cu 12 aparate Airbus H225M, care vin cu parametri tehnici mult mai moderni. Producția la IAR Ghimbav ar putea fi relansată",
+      "summary": "România va înlocui treptat elicopterele IAR-330 Puma din dotare cu 12 aparate Airbus H225M, care vin cu parametri tehnici mult mai moderni. Producția la IAR Ghimbav ar putea fi relansată",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/07/iar-330-puma-airbus-h225m/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-07T13:40:08+02:00",
+      "coverage": [
+        {
+          "title": "România va înlocui treptat elicopterele IAR-330 Puma din dotare cu 12 aparate Airbus H225M, care vin cu parametri tehnici mult mai moderni. Producția la IAR Ghimbav ar putea fi relansată",
+          "url": "https://bizbrasov.ro/2026/11/07/iar-330-puma-airbus-h225m/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "eaccfa18566471e1"
     },
     {
       "title": "Înșelăciune de 280.000 de euro, anchetată la Brașov! Opt percheziții în Cluj și Bistrița-Năsăud. Două persoane, reținute",
@@ -3508,6 +3806,25 @@
         }
       ],
       "story_id": "6b54ff2c5ece3470"
+    },
+    {
+      "title": "VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
+      "summary": "VIDEO La Râșnov,VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF „bufetul pentru urși” se închide. Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/07/rasnov-bufetul-pentru-ursi/",
+      "source": "BizBrașov",
+      "category": "🏙️ Oraș & administrație",
+      "published": "2026-11-07T10:25:25+02:00",
+      "coverage": [
+        {
+          "title": "VIDEO La Râșnov, „bufetul pentru urși” se închide. După ce a pus mii de metri de gard electric, Primăria instalează 15 containere și pubele anti-urs, în colaborare cu WWF",
+          "url": "https://bizbrasov.ro/2026/11/07/rasnov-bufetul-pentru-ursi/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "22a15c6c86ad44c2"
     },
     {
       "title": "Polițistul care, băut la volan, a accidentat mortal un tânăr în Poiana Brașov, a fost condamnat",
