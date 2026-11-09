@@ -1,8 +1,8 @@
 {
-  "updated": "09.11.2026, 23:00",
-  "count": 86,
+  "updated": "10.11.2026, 00:00",
+  "count": 85,
   "dedupe_version": 6,
-  "raw_count": 134,
+  "raw_count": 132,
   "items": [
     {
       "title": "Accident Rutier pe Strada Carpaților din Brașov",
@@ -7459,11 +7459,6 @@
           "title": "VIDEO. Retroparada Toamnei 2026 a umplut Piața Sfatului din Brașov! Mașinile de epocă au atras sute de vizitatori",
           "url": "https://transilvania365.ro/video-retroparada-toamnei-2026-a-umplut-piata-sfatului-din-brasov-masinile-de-epoca-au-atras-sute-de-vizitatori/",
           "source": "Transilvania365"
-        },
-        {
-          "title": "„Retroparada Toamnei” aduce astăzi mașinile de epocă în centrul Brașovului",
-          "url": "https://www.brasov.net/retroparada-toamnei-aduce-astazi-masinile-de-epoca-in-centrul-brasovului/",
-          "source": "Brașov.net"
         }
       ],
       "story_id": "d1e27b6c02c7f6d4"
@@ -7486,83 +7481,6 @@
         }
       ],
       "story_id": "fef23a4a75a6da43"
-    },
-    {
-      "title": "Corona Brașov, victorii de 3 puncte la Bucureşti",
-      "summary": "",
-      "content_terms": [
-        "alexandra",
-        "ambele",
-        "anastasiia",
-        "ariana",
-        "ariton",
-        "balae",
-        "brasovene",
-        "bucuresti",
-        "campionat",
-        "cocan",
-        "colesnicov",
-        "colibasi",
-        "corona",
-        "cso",
-        "daria",
-        "diana",
-        "disputate",
-        "doua",
-        "fata",
-        "feminin",
-        "fetele",
-        "format",
-        "formatiei",
-        "gabriela",
-        "impus",
-        "interne",
-        "jennifer",
-        "kraiduba",
-        "lider",
-        "locul",
-        "lungimi",
-        "maria",
-        "masculin",
-        "miercuri",
-        "mirela",
-        "nogueras",
-        "ocupa",
-        "partide",
-        "pirv",
-        "principala",
-        "punctat",
-        "puncte",
-        "realizatoare",
-        "runda",
-        "sala",
-        "secund",
-        "shahpazova",
-        "sport",
-        "stiinta",
-        "victorie",
-        "viitoare",
-        "volei",
-        "voluntari",
-        "zlatanova"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
-        "https://mytex.ro/sport/rinka-duijndam-a-avertizat-corona-brasov-inaintea-bataliei-din-ehf-european-league"
-      ],
-      "url": "https://mytex.ro/sport/corona-brasov-victorii-de-3-puncte-la-bucuresti/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-11-08T11:31:44+02:00",
-      "coverage": [
-        {
-          "title": "Corona Brașov, victorii de 3 puncte la Bucureşti",
-          "url": "https://mytex.ro/sport/corona-brasov-victorii-de-3-puncte-la-bucuresti/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "677126b573b927e0"
     }
   ]
 }
