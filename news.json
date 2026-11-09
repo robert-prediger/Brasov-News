@@ -1,9 +1,97 @@
 {
-  "updated": "09.11.2026, 19:00",
-  "count": 87,
+  "updated": "09.11.2026, 20:00",
+  "count": 88,
   "dedupe_version": 6,
-  "raw_count": 132,
+  "raw_count": 133,
   "items": [
+    {
+      "title": "BRAȘOV - Fum gros în zona Parcului Noua! Locuitorii reclamă poluare și cer intervenția autorităților",
+      "summary": "Nemulțumire în cartierul Noua din Brașov, după ce locuitorii spun că fumul provenit din zona restaurantului din parc le afectează calitatea aerului. O sesizare publicată de membrii comunității atrage atenția asupra unei situații care, potrivit acestora, s-ar repeta și pentru care cer intervenția autorităților. Într-un video postat pe grupul de Facebook Noua se observă un …",
+      "content_terms": [
+        "acestora",
+        "acolo",
+        "activitat",
+        "aerului",
+        "afecteaza",
+        "ala",
+        "arde",
+        "asupra",
+        "atentia",
+        "atrage",
+        "autoritat",
+        "calitatea",
+        "cartier",
+        "ceilalti",
+        "cer",
+        "chiar",
+        "comunitat",
+        "daca",
+        "facebook",
+        "fum",
+        "fumul",
+        "fumului",
+        "gros",
+        "grup",
+        "indreapta",
+        "interventia",
+        "intreaba",
+        "locuitor",
+        "luate",
+        "masuri",
+        "membr",
+        "nas",
+        "nemultumire",
+        "nemultumiti",
+        "nimic",
+        "nor",
+        "oamen",
+        "observa",
+        "oprire",
+        "padure",
+        "parc",
+        "pescarus",
+        "poate",
+        "poluar",
+        "postat",
+        "pot",
+        "potrivit",
+        "privinta",
+        "produce",
+        "provenit",
+        "publicata",
+        "repeta",
+        "restaurant",
+        "ridica",
+        "sesizare",
+        "singur",
+        "situat",
+        "spun",
+        "suportam",
+        "tragem",
+        "transmis",
+        "trebuie",
+        "unul",
+        "verificarea",
+        "vrea",
+        "zona"
+      ],
+      "streets": [],
+      "references": [
+        "https://facebook.com/share/g/1E3bwxXehi"
+      ],
+      "url": "https://mytex.ro/expres/brasov-fum-gros-in-zona-parcului-noua-locuitorii-reclama-poluare-si-cer-interventia-autoritatilor/",
+      "source": "MyTex",
+      "category": "🔥 Local",
+      "published": "2026-11-09T19:30:30+02:00",
+      "coverage": [
+        {
+          "title": "BRAȘOV - Fum gros în zona Parcului Noua! Locuitorii reclamă poluare și cer intervenția autorităților",
+          "url": "https://mytex.ro/expres/brasov-fum-gros-in-zona-parcului-noua-locuitorii-reclama-poluare-si-cer-interventia-autoritatilor/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "5fbed98333c3f3d5"
+    },
     {
       "title": "Dosarul „Compania Apa Brașov” se întoarce la DNA. Instanța a dispus restituirea cauzei în care este inculpat Șerban Todorică",
       "summary": "Tribunalul Brașov a restituit la DNA dosarul Compania Apa, în care sunt inculpați Șerban Todorică, Liviu Cocoș și alte cinci persoane. Decizia poate fi contestată în 3 zile.",
@@ -91,19 +179,22 @@
         "vorba"
       ],
       "streets": [],
-      "references": [],
-      "url": "https://newsbv.ro/dosarul-compania-apa-brasov-se-intoarce-la-dna-instanta-a-dispus-restituirea-cauzei-in-care-este-inculpat-serban-todorica/",
+      "references": [
+        "https://facebook.com/messages/t/1240975384850209",
+        "https://newsbv.ro?s=DNA"
+      ],
+      "url": "https://newsbv.ro/dosarul-compania-apa-brasov-se-intoarce-la-dna/",
       "source": "NewsBV",
       "category": "🔥 Local",
       "published": "2026-11-09T18:56:26+02:00",
       "coverage": [
         {
           "title": "Dosarul „Compania Apa Brașov” se întoarce la DNA. Instanța a dispus restituirea cauzei în care este inculpat Șerban Todorică",
-          "url": "https://newsbv.ro/dosarul-compania-apa-brasov-se-intoarce-la-dna-instanta-a-dispus-restituirea-cauzei-in-care-este-inculpat-serban-todorica/",
+          "url": "https://newsbv.ro/dosarul-compania-apa-brasov-se-intoarce-la-dna/",
           "source": "NewsBV"
         }
       ],
-      "story_id": "313deaa1973422ea"
+      "story_id": "b0da7c009f30c3a4"
     },
     {
       "title": "Brașov: Epopeea Tunelului Tâmpa - Între visul din ’30 și realitatea birocratică",
