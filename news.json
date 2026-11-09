@@ -1,8 +1,8 @@
 {
-  "updated": "10.11.2026, 00:00",
-  "count": 85,
+  "updated": "10.11.2026, 01:00",
+  "count": 84,
   "dedupe_version": 6,
-  "raw_count": 132,
+  "raw_count": 131,
   "items": [
     {
       "title": "Accident Rutier pe Strada Carpaților din Brașov",
@@ -7462,25 +7462,6 @@
         }
       ],
       "story_id": "d1e27b6c02c7f6d4"
-    },
-    {
-      "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
-      "summary": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-11-08T12:59:39+02:00",
-      "coverage": [
-        {
-          "title": "Procurorul brașovean Claudiu Sandu, mesaj dur după sancționarea a doi judecători care au condamnat un fost ministru : „Tace Guvernul, tace președintele, tac magistrații. Oare merită să renunțăm la onoare și la demnitate pentru bani?”",
-          "url": "https://bizbrasov.ro/2026/11/08/procurorul-claudiu-sandu-mesaj-dur/",
-          "source": "BizBrașov"
-        }
-      ],
-      "story_id": "fef23a4a75a6da43"
     }
   ]
 }
