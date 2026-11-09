@@ -1,8 +1,8 @@
 {
-  "updated": "09.11.2026, 04:00",
-  "count": 37,
+  "updated": "09.11.2026, 05:00",
+  "count": 36,
   "dedupe_version": 6,
-  "raw_count": 46,
+  "raw_count": 45,
   "items": [
     {
       "title": "PNL îi pregătește procese lui Nicolae Ciucă și Lucian Bode. Fosta conducere, vizată pentru contractele care au adus datorii partidului",
@@ -3135,88 +3135,6 @@
         }
       ],
       "story_id": "8e1dac47c447049e"
-    },
-    {
-      "title": "Corona Brașov, bătută de Băicoi. Vedetele Brașovului, umilinţă la Lilieşti",
-      "summary": "",
-      "content_terms": [
-        "acs",
-        "acumulate",
-        "antrenata",
-        "baicoi",
-        "cedat",
-        "clasament",
-        "clasate",
-        "constantin",
-        "constantinescu",
-        "corona",
-        "cso",
-        "directe",
-        "doua",
-        "echipa",
-        "egalitate",
-        "fiind",
-        "formatiei",
-        "gol",
-        "inceput",
-        "infrangere",
-        "intra",
-        "lider",
-        "liga",
-        "ligii",
-        "liliesti",
-        "marcat",
-        "marian",
-        "meci",
-        "meciuri",
-        "medias",
-        "mediesen",
-        "minut",
-        "nationala",
-        "partide",
-        "partidei",
-        "penibil",
-        "playoff",
-        "plina",
-        "poale",
-        "pozitie",
-        "prim",
-        "prima",
-        "punct",
-        "puncte",
-        "retur",
-        "rezultat",
-        "romaniei",
-        "rusinos",
-        "seria",
-        "seriei",
-        "singur",
-        "stoica",
-        "tampei",
-        "teleajen",
-        "teren",
-        "umplut",
-        "vedete",
-        "victorie"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
-        "https://hailafotbal.ro/rezultate/national/fotbal/2026-2027/superscore-liga-3/sezon-regular/serie-1/etapa-12",
-        "https://mytex.ro/sport/corona-brasov-incepe-operatiunea-chambray"
-      ],
-      "url": "https://mytex.ro/sport/corona-brasov-batuta-de-baicoi/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-11-07T16:14:27+02:00",
-      "coverage": [
-        {
-          "title": "Corona Brașov, bătută de Băicoi. Vedetele Brașovului, umilinţă la Lilieşti",
-          "url": "https://mytex.ro/sport/corona-brasov-batuta-de-baicoi/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "8c7c4f41f1cee248"
     }
   ]
 }
