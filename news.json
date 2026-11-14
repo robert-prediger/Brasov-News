@@ -1,8 +1,8 @@
 {
-  "updated": "14.11.2026, 22:00",
-  "count": 76,
+  "updated": "14.11.2026, 23:00",
+  "count": 73,
   "dedupe_version": 6,
-  "raw_count": 105,
+  "raw_count": 100,
   "items": [
     {
       "title": "VIDEO Tâlhărie în Brașov: un bărbat de 32 de ani a urmărit o femeie, a agresat-o, iar apoi i-a furat telefonul și geanta",
@@ -2104,16 +2104,6 @@
           "title": "Prelevare de organe și țesuturi la Spitalul Județean Brașov: Un bărbat de 55 de ani a oferit o nouă șansă la viață altor pacienți",
           "url": "https://bizbrasov.ro/2026/11/13/brasov-prelevare-de-organe-spitalul-brasov/",
           "source": "BizBrașov"
-        },
-        {
-          "title": "Un bărbat de 55 de ani din Brașov a oferit o nouă șansă la viață altor pacienți",
-          "url": "https://brasovstiri.ro/un-barbat-de-55-de-ani-din-brasov-a-oferit-o-noua-sansa-la-viata-altor-pacienti/",
-          "source": "Brașov Știri"
-        },
-        {
-          "title": "Un brașovean de 55 de ani a salvat mai multe vieți! Doi bărbați au primit rinichi noi, iar alți pacienți au șansa să-și recapete vederea, după ce familia a acceptat donarea de organe",
-          "url": "https://transilvania365.ro/un-brasovean-de-55-de-ani-a-salvat-mai-multe-vieti-doi-barbati-au-primit-rinichi-noi-iar-alti-pacienti-au-sansa-sa-si-recapete-vederea-dupa-ce-familia-a-acceptat-donarea-de-organe/",
-          "source": "Transilvania365"
         }
       ],
       "story_id": "2d281785cd4ac520"
@@ -6475,122 +6465,6 @@
         }
       ],
       "story_id": "e14e8537dacd7ee6"
-    },
-    {
-      "title": "Tranzacțiile imobiliare au scăzut cu peste 34% în județul Brașov, în timp ce piața națională a crescut",
-      "summary": "Piața imobiliară din județul Brașov a înregistrat o scădere semnificativă a numărului de tranzacții cu locuințe în luna octombrie 2026. Potrivit datelor Agenție…",
-      "content_terms": [
-        "aceeasi",
-        "agentiei",
-        "analizate",
-        "ancpi",
-        "anului",
-        "aproape",
-        "aproximativ",
-        "avans",
-        "bucuresti",
-        "cadastru",
-        "cluj",
-        "condit",
-        "consemnat",
-        "constanta",
-        "crestere",
-        "cresteri",
-        "datelor",
-        "decat",
-        "descendenta",
-        "ianuarie",
-        "imobiliara",
-        "individuale",
-        "inregistrat",
-        "inregistrate",
-        "interval",
-        "locuinte",
-        "luna",
-        "luni",
-        "mic",
-        "national",
-        "nationale",
-        "nivel",
-        "numar",
-        "observa",
-        "octombrie",
-        "perioada",
-        "piata",
-        "platforma",
-        "potrivit",
-        "prim",
-        "publicitate",
-        "putin",
-        "putine",
-        "raportate",
-        "realizate",
-        "scadere",
-        "semnificativa",
-        "similar",
-        "storia",
-        "tendinta",
-        "timis",
-        "timp",
-        "tranzact",
-        "trecut",
-        "unitati",
-        "zece"
-      ],
-      "streets": [],
-      "references": [
-        "https://agerpres.ro/ots/tranzactiile-cu-locuinte-au-crescut-in-octombrie-cu-20-in-bucuresti-si-cu-3-in-tara-comparativ-cu-oc--662452"
-      ],
-      "url": "https://brasovstiri.ro/tranzactiile-imobiliare-au-scazut-cu-peste-34-in-judetul-brasov-in-timp-ce-piata-nationala-a-crescut/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-11-13T10:53:52+02:00",
-      "coverage": [
-        {
-          "title": "Tranzacțiile imobiliare au scăzut cu peste 34% în județul Brașov, în timp ce piața națională a crescut",
-          "url": "https://brasovstiri.ro/tranzactiile-imobiliare-au-scazut-cu-peste-34-in-judetul-brasov-in-timp-ce-piata-nationala-a-crescut/",
-          "source": "Brașov Știri"
-        }
-      ],
-      "story_id": "7bd9c69df14b5d58"
-    },
-    {
-      "title": "Săcelenii sunt invitați să participe la consultarea publică privind viitorul spațiilor verzi din oraș",
-      "summary": "Locuitorii municipiului Săcele sunt invitați joi, 19 noiembrie 2026, începând cu ora 12:00, la o consultare publică organizată în Sala de consiliu a",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://transilvania365.ro/sacelenii-sunt-invitati-sa-participe-la-consultarea-publica-privind-viitorul-spatiilor-verzi-din-oras/",
-      "source": "Transilvania365",
-      "category": "🔥 Local",
-      "published": "2026-11-13T10:29:05+02:00",
-      "coverage": [
-        {
-          "title": "Săcelenii sunt invitați să participe la consultarea publică privind viitorul spațiilor verzi din oraș",
-          "url": "https://transilvania365.ro/sacelenii-sunt-invitati-sa-participe-la-consultarea-publica-privind-viitorul-spatiilor-verzi-din-oras/",
-          "source": "Transilvania365"
-        }
-      ],
-      "story_id": "f3212da71fc10480"
-    },
-    {
-      "title": "Schimbare la conducerea Prefecturii Brașov! Guvernul a numit un nou prefect",
-      "summary": "Guvernul României a decis, în ședința de joi, 12 noiembrie 2026, schimbarea conducerii Instituției Prefectului – Județul Brașov. Lucian-Victor Mija a fost numit…",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://brasovstiri.ro/schimbare-la-conducerea-prefecturii-brasov-guvernul-a-numit-un-nou-prefect/",
-      "source": "Brașov Știri",
-      "category": "🔥 Local",
-      "published": "2026-11-13T10:20:16+02:00",
-      "coverage": [
-        {
-          "title": "Schimbare la conducerea Prefecturii Brașov! Guvernul a numit un nou prefect",
-          "url": "https://brasovstiri.ro/schimbare-la-conducerea-prefecturii-brasov-guvernul-a-numit-un-nou-prefect/",
-          "source": "Brașov Știri"
-        }
-      ],
-      "story_id": "d9f90f3f6b74ac99"
     }
   ]
 }
