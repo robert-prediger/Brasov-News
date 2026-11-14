@@ -1,8 +1,8 @@
 {
-  "updated": "14.11.2026, 18:00",
-  "count": 86,
+  "updated": "14.11.2026, 19:00",
+  "count": 85,
   "dedupe_version": 6,
-  "raw_count": 121,
+  "raw_count": 119,
   "items": [
     {
       "title": "Liga 3, etapa 13 - Lovitură de lider! Corona Brașov a câștigat la Mediaș și a revenit în fruntea clasamentului",
@@ -2788,11 +2788,6 @@
           "title": "Scandalul deșeurilor îngropate lângă Brașov: 7 inculpați trimiși în judecată",
           "url": "https://newsbv.ro/scandalul-deseurilor-brasov/",
           "source": "NewsBV"
-        },
-        {
-          "title": "Afacerea cu deșeuri îngropate lângă centura Brașovului: Șapte inculpați, trimiși în judecată/ Primăria cere despăgubiri de peste 760.000 de lei",
-          "url": "https://bizbrasov.ro/2026/11/13/deseuri-centura-brasov-inculpati/",
-          "source": "BizBrașov"
         }
       ],
       "story_id": "b2a765a67b43ebc9"
@@ -7467,93 +7462,6 @@
         }
       ],
       "story_id": "7efc1b3a816f452c"
-    },
-    {
-      "title": "Bugetul Brașovului, afectat de deciziile Guvernului. Sorin Bâscă explică de ce administrația locală ajunge să suporte costul majorărilor de taxe",
-      "summary": "Sorin Bâscă explică impactul deciziilor Guvernului asupra bugetului Brașovului, diminuarea alocărilor financiare și presiunea majorărilor de taxe locale.",
-      "content_terms": [
-        "acestuia",
-        "administrat",
-        "administratiei",
-        "afectat",
-        "ajuns",
-        "alocar",
-        "aproximativ",
-        "astepta",
-        "asupra",
-        "basca",
-        "buget",
-        "cateva",
-        "central",
-        "cetaten",
-        "colectate",
-        "comerciale",
-        "consilier",
-        "contabil",
-        "culis",
-        "dan",
-        "deciz",
-        "despre",
-        "dificultatea",
-        "diminuarea",
-        "dintre",
-        "discutate",
-        "emisiunea",
-        "expert",
-        "explica",
-        "financiara",
-        "fiscale",
-        "guvern",
-        "importante",
-        "impozit",
-        "invitat",
-        "legea",
-        "local",
-        "locale",
-        "majorarea",
-        "mandat",
-        "milioane",
-        "moment",
-        "municipi",
-        "national",
-        "nivel",
-        "platit",
-        "potrivit",
-        "preluar",
-        "presiunea",
-        "prevazute",
-        "relatat",
-        "relatia",
-        "revin",
-        "sebastian",
-        "societatile",
-        "sorin",
-        "stabilite",
-        "subiect",
-        "suma",
-        "sumelor",
-        "venit",
-        "vorbit",
-        "zilei"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/messages/t/1240975384850209",
-        "https://newsbv.ro/sorin-basca-culisele-zilei-economia-brasovului",
-        "https://newsbv.ro/wp-content/uploads/2024/03/sorin-basca-la-culisele-zilei-cu-sebastian-dan.jpg"
-      ],
-      "url": "https://newsbv.ro/bugetul-brasovului-taxe-locale-sorin-basca/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-11-13T06:36:53+02:00",
-      "coverage": [
-        {
-          "title": "Bugetul Brașovului, afectat de deciziile Guvernului. Sorin Bâscă explică de ce administrația locală ajunge să suporte costul majorărilor de taxe",
-          "url": "https://newsbv.ro/bugetul-brasovului-taxe-locale-sorin-basca/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "969da5c233c5cc1b"
     }
   ]
 }
