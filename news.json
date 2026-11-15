@@ -1,9 +1,28 @@
 {
-  "updated": "15.11.2026, 09:00",
+  "updated": "15.11.2026, 10:00",
   "count": 48,
   "dedupe_version": 6,
-  "raw_count": 58,
+  "raw_count": 57,
   "items": [
+    {
+      "title": "Peste 1.500 de sportivi, de la 2 la 70+ ani, au alergat în semn de recunoștință pentru brașovenii care au avut curajul, acum 39 de ani, să strige ,,Jos comunismul!”",
+      "summary": "",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://transilvania365.ro/peste-1-500-de-sportivi-de-la-2-la-70-ani-au-alergat-in-semn-de-recunostinta-pentru-brasovenii-care-au-avut-curajul-acum-39-de-ani-sa-strige-jos-comunismul/",
+      "source": "Transilvania365",
+      "category": "⚽ Sport",
+      "published": "2026-11-15T09:56:59+02:00",
+      "coverage": [
+        {
+          "title": "Peste 1.500 de sportivi, de la 2 la 70+ ani, au alergat în semn de recunoștință pentru brașovenii care au avut curajul, acum 39 de ani, să strige ,,Jos comunismul!”",
+          "url": "https://transilvania365.ro/peste-1-500-de-sportivi-de-la-2-la-70-ani-au-alergat-in-semn-de-recunostinta-pentru-brasovenii-care-au-avut-curajul-acum-39-de-ani-sa-strige-jos-comunismul/",
+          "source": "Transilvania365"
+        }
+      ],
+      "story_id": "8028a52cec0caf47"
+    },
     {
       "title": "Poiana Brașov sparge topurile de Revelion: peste 10.000 de lei pentru 3 nopți. Merită banii o vacanță de sărbători în România sau plătim doar „taxa de stațiune”?",
       "summary": "",
@@ -453,11 +472,6 @@
           "title": "VIDEO Tâlhărie în Brașov: un bărbat de 32 de ani a urmărit o femeie, a agresat-o, iar apoi i-a furat telefonul și geanta",
           "url": "https://newsbv.ro/talharie-brasov-barbat/",
           "source": "NewsBV"
-        },
-        {
-          "title": "A urmărit-o pe stradă, a trântit-o la pământ și i-a furat geanta și telefonul! Tâlharul, prins lângă Gara Brașov și arestat 30 de zile",
-          "url": "https://transilvania365.ro/a-urmarit-o-pe-strada-a-trantit-o-la-pamant-si-i-a-furat-geanta-si-telefonul-talharul-prins-langa-gara-brasov-si-arestat-30-de-zile/",
-          "source": "Transilvania365"
         },
         {
           "title": "BRAȘOV - Femeie urmărită și tâlhărită pe stradă (VIDEO)! Agresorul a fost prins în zona Gării și arestat preventiv",
@@ -4274,103 +4288,6 @@
         }
       ],
       "story_id": "02920c66ee5c1ca5"
-    },
-    {
-      "title": "Reforma administrativă ignoră familiile din jurul Brașovului. Părinții își păstrează buletinul în oraș pentru școlile copiilor",
-      "summary": "Familiile care locuiesc în Sânpetru sau Tărlungeni își păstrează uneori domiciliul în Brașov pentru școlile copiilor. Reforma trebuie să țină cont de această realitate.",
-      "content_terms": [
-        "acestia",
-        "acolo",
-        "acte",
-        "administrativa",
-        "apropiat",
-        "arondarea",
-        "atunci",
-        "cand",
-        "casa",
-        "chiar",
-        "comasarea",
-        "comun",
-        "copil",
-        "dar",
-        "despre",
-        "dezbatere",
-        "dezvoltat",
-        "diferenta",
-        "dintre",
-        "discuta",
-        "domicili",
-        "dorinta",
-        "exista",
-        "famil",
-        "fenomen",
-        "gradinita",
-        "ignore",
-        "importanta",
-        "insa",
-        "inscrie",
-        "inscrierea",
-        "inteles",
-        "invatamant",
-        "isi",
-        "judet",
-        "jurul",
-        "legat",
-        "localitati",
-        "locuiesc",
-        "lucreaza",
-        "marilor",
-        "motiv",
-        "municipi",
-        "muta",
-        "neaparat",
-        "nevoite",
-        "numar",
-        "oficial",
-        "orase",
-        "organizeze",
-        "pare",
-        "parint",
-        "parte",
-        "pastreaza",
-        "poate",
-        "primar",
-        "realitate",
-        "redesenarea",
-        "reducerea",
-        "reorganizarea",
-        "rezidentiale",
-        "romaniei",
-        "sanpetru",
-        "scoala",
-        "scolara",
-        "tarlungeni",
-        "unde",
-        "unitati",
-        "usor",
-        "viata",
-        "vine",
-        "vorba",
-        "vorbeste",
-        "zona"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/messages/t/1240975384850209",
-        "https://newsbv.ro?s=T%C4%83rlungeni"
-      ],
-      "url": "https://newsbv.ro/reforma-administrativa-familii-satelit-brasov-scoli/",
-      "source": "NewsBV",
-      "category": "🔥 Local",
-      "published": "2026-11-13T21:28:06+02:00",
-      "coverage": [
-        {
-          "title": "Reforma administrativă ignoră familiile din jurul Brașovului. Părinții își păstrează buletinul în oraș pentru școlile copiilor",
-          "url": "https://newsbv.ro/reforma-administrativa-familii-satelit-brasov-scoli/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "7098feb1d559ae36"
     }
   ]
 }
