@@ -1,9 +1,87 @@
 {
-  "updated": "15.11.2026, 14:00",
-  "count": 42,
+  "updated": "15.11.2026, 15:00",
+  "count": 43,
   "dedupe_version": 6,
-  "raw_count": 53,
+  "raw_count": 54,
   "items": [
+    {
+      "title": "Aproape 2.000 de firme radiate în Brașov în primele nouă luni din 2026. Județul, printre cele mai afectate din țară",
+      "summary": "1.939 de firme au fost radiate în Brașov în primele nouă luni din 2026, cu 1,17% mai puține decât în 2025. La nivel național s-au înregistrat 61.181 de radieri.",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://newsbv.ro/firme-radiate-brasov-primele-noua-luni-2026/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-11-15T14:53:04+02:00",
+      "coverage": [
+        {
+          "title": "Aproape 2.000 de firme radiate în Brașov în primele nouă luni din 2026. Județul, printre cele mai afectate din țară",
+          "url": "https://newsbv.ro/firme-radiate-brasov-primele-noua-luni-2026/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "40b5380ce2f1cf62"
+    },
+    {
+      "title": "Corona Braşov - Chambray Touraine, cu casa închisă. Meciul se vede şi la TV",
+      "summary": "Corona Braşov şi Chambray Touraine se vor duela diseară, de la ora 19.00, la Sala Sporturilor „D.P. Colibaşi”, pentru un loc în grupele EHF European League la handbal feminin. Fanii braşovenii vor umple diseară tribunele, interesul pentru această confruntare fiind uriaş. Astfel, partida se va disputa cu casa închisă, biletele fiind epuiuzate online. Corona Braşov …",
+      "content_terms": [
+        "astfel",
+        "bilet",
+        "calificari",
+        "casa",
+        "chambray",
+        "colibasi",
+        "confruntare",
+        "corona",
+        "diseara",
+        "disputa",
+        "duela",
+        "ehf",
+        "epuiuzate",
+        "european",
+        "fanii",
+        "feminin",
+        "fiind",
+        "grup",
+        "handbal",
+        "inchisa",
+        "interes",
+        "juca",
+        "league",
+        "loc",
+        "meci",
+        "online",
+        "out",
+        "partida",
+        "runda",
+        "sala",
+        "sold",
+        "sport",
+        "touraine",
+        "tribun",
+        "umple",
+        "urias"
+      ],
+      "streets": [],
+      "references": [
+        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
+        "https://mytex.ro/sport/corona-brasov-cu-calificarea-pe-masa"
+      ],
+      "url": "https://mytex.ro/sport/corona-brasov-chambray-cu-casa-inchisa-sold-out/",
+      "source": "MyTex",
+      "category": "⚽ Sport",
+      "published": "2026-11-15T14:42:14+02:00",
+      "coverage": [
+        {
+          "title": "Corona Braşov - Chambray Touraine, cu casa închisă. Meciul se vede şi la TV",
+          "url": "https://mytex.ro/sport/corona-brasov-chambray-cu-casa-inchisa-sold-out/",
+          "source": "MyTex"
+        }
+      ],
+      "story_id": "4b391aa5cd35c5a0"
+    },
     {
       "title": "Cupa Continentală - Corona Brașov, în fața unui meci de totul sau nimic la Asiago",
       "summary": "Cupa Continentală | Corona Brașov, în fața unui meci de totul sau nimic la Asiago",
@@ -3784,90 +3862,6 @@
         }
       ],
       "story_id": "f807dae28b992c15"
-    },
-    {
-      "title": "Documentarul „Brașov 1987. 2 ani prea devreme”, proiecţie specială la Cinema One. Intrarea este gratuită",
-      "summary": "Muzeul Judetean de Istorie Brasov vă invita să participați la proiecția filmului documentar „Brașov 1987. 2 ani prea devreme”, dedicat comemorării evenimentelor din 15 noiembrie 1987.",
-      "content_terms": [
-        "acelor",
-        "anticomunista",
-        "astfel",
-        "asupra",
-        "avea",
-        "cadr",
-        "casa",
-        "cinema",
-        "colaborare",
-        "comemorar",
-        "coresi",
-        "debuta",
-        "dedicat",
-        "descoperim",
-        "descoperind",
-        "devreme",
-        "dialoga",
-        "dintre",
-        "documentar",
-        "eveniment",
-        "evenimente",
-        "film",
-        "importantei",
-        "impreuna",
-        "incinta",
-        "intalni",
-        "invita",
-        "istoric",
-        "istorice",
-        "istorie",
-        "judetean",
-        "liviu",
-        "loc",
-        "luni",
-        "moment",
-        "muze",
-        "noiembrie",
-        "ocazia",
-        "one",
-        "parte",
-        "participant",
-        "participat",
-        "personale",
-        "perspective",
-        "prea",
-        "productie",
-        "proiectia",
-        "proiectiei",
-        "realizat",
-        "reamintim",
-        "regizor",
-        "resort",
-        "revolta",
-        "shopping",
-        "tofan",
-        "trait",
-        "tvr",
-        "ului",
-        "unica"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/muzeuljudeteandeistoriebrasov",
-        "https://newsbv.ro?s=cinema+one",
-        "https://newsbv.ro?s=coresi+shopping+resort",
-        "https://newsbv.ro?s=film"
-      ],
-      "url": "https://newsbv.ro/brasov-1987-2-ani-prea-devreme-proiectie-cinema-one/",
-      "source": "NewsBV",
-      "category": "🎭 Evenimente & timp liber",
-      "published": "2026-11-14T06:34:18+02:00",
-      "coverage": [
-        {
-          "title": "Documentarul „Brașov 1987. 2 ani prea devreme”, proiecţie specială la Cinema One. Intrarea este gratuită",
-          "url": "https://newsbv.ro/brasov-1987-2-ani-prea-devreme-proiectie-cinema-one/",
-          "source": "NewsBV"
-        }
-      ],
-      "story_id": "1a25cf36de3ff459"
     }
   ]
 }
