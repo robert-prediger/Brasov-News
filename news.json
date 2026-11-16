@@ -1,9 +1,85 @@
 {
-  "updated": "16.11.2026, 07:00",
-  "count": 31,
+  "updated": "16.11.2026, 08:00",
+  "count": 32,
   "dedupe_version": 6,
-  "raw_count": 37,
+  "raw_count": 36,
   "items": [
+    {
+      "title": "Concertul de Crăciun al Operei Brașov, în trei reprezentaţii. Biletele se pun în vânzare de astăzi, 16 noiembrie",
+      "summary": "Opera Braşov a pregătit trei spectacole dedicate sărbătorilor de iarnă sub genericul „Crăciun la Operă!”.",
+      "content_terms": [
+        "ajun",
+        "alaturi",
+        "alcatuit",
+        "anatoly",
+        "balet",
+        "bilet",
+        "bucuriei",
+        "cantece",
+        "colinde",
+        "concert",
+        "consecutive",
+        "corul",
+        "craciun",
+        "cvintet",
+        "dar",
+        "decembrie",
+        "dedicat",
+        "dedicate",
+        "emotie",
+        "festiva",
+        "iarna",
+        "incarcate",
+        "institutiei",
+        "international",
+        "luni",
+        "multa",
+        "muzica",
+        "noiembrie",
+        "opera",
+        "operei",
+        "orchestra",
+        "pline",
+        "pregatit",
+        "prezentat",
+        "program",
+        "puse",
+        "repertori",
+        "reuni",
+        "romanesti",
+        "sarbatoare",
+        "sarbator",
+        "scena",
+        "seri",
+        "solist",
+        "spectacol",
+        "traditionale",
+        "trei",
+        "vanzare",
+        "vocal",
+        "zilele"
+      ],
+      "streets": [],
+      "references": [
+        "https://bilet.ro",
+        "https://facebook.com/operabrasovoficial?locale=ro_RO",
+        "https://newsbv.ro?s=concert+de+craciun",
+        "https://newsbv.ro?s=cvintetul+anatoly",
+        "https://newsbv.ro?s=opera+brasov"
+      ],
+      "url": "https://newsbv.ro/concertul-de-craciun-operei-brasov-trei-reprezentatii/",
+      "source": "NewsBV",
+      "category": "🔥 Local",
+      "published": "2026-11-16T07:37:51+02:00",
+      "coverage": [
+        {
+          "title": "Concertul de Crăciun al Operei Brașov, în trei reprezentaţii. Biletele se pun în vânzare de astăzi, 16 noiembrie",
+          "url": "https://newsbv.ro/concertul-de-craciun-operei-brasov-trei-reprezentatii/",
+          "source": "NewsBV"
+        }
+      ],
+      "story_id": "167b1e9a789a14cf"
+    },
     {
       "title": "Fosta fabrică de încălțăminte TINO din Brașov - pe lista marilor reconversii urbane pregătite de dezvoltatorul Speedwell",
       "summary": "",
@@ -812,11 +888,6 @@
         {
           "title": "Corona Brașov a scris o nouă filă de istorie în hocheiul românesc. „Lupii” au demolat campioana Italiei şi merg în turneul final al Cupei Continentale. Chapeau bas!",
           "url": "https://mytex.ro/sport/corona-brasov-o-noua-fila-de-istorie/",
-          "source": "MyTex"
-        },
-        {
-          "title": "Corona Brașov, înfrângere şi cu Nomad Astana. „Lupii” păstrează şanse de calificare în turneul final al Cupei Continentale",
-          "url": "https://mytex.ro/sport/corona-brasov-infrangere-si-cu-nomad-astana/",
           "source": "MyTex"
         }
       ],
@@ -2423,11 +2494,6 @@
           "title": "Bărbat arestat preventiv la Brașov după ce ar fi tâlhărit o femeie pe stradă",
           "url": "https://www.monitorulexpres.ro/2026/11/15/barbat-arestat-preventiv-la-brasov-dupa-ce-ar-fi-talharit-o-femeie-pe-strada/",
           "source": "Monitorul Expres"
-        },
-        {
-          "title": "VIDEO Tâlhărie în Brașov: un bărbat de 32 de ani a urmărit o femeie, a agresat-o, iar apoi i-a furat telefonul și geanta",
-          "url": "https://newsbv.ro/talharie-brasov-barbat/",
-          "source": "NewsBV"
         }
       ],
       "story_id": "010fa0daf3b5652d"
