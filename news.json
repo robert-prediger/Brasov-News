@@ -1,8 +1,8 @@
 {
-  "updated": "17.11.2026, 02:00",
-  "count": 72,
+  "updated": "17.11.2026, 03:00",
+  "count": 71,
   "dedupe_version": 6,
-  "raw_count": 106,
+  "raw_count": 105,
   "items": [
     {
       "title": "Căminul Cultural Ghimbav devine centru cultural modern",
@@ -6521,65 +6521,6 @@
         }
       ],
       "story_id": "6597eea77c522b67"
-    },
-    {
-      "title": "Corona Braşov - Chambray Touraine, cu casa închisă. Meciul se vede şi la TV",
-      "summary": "Corona Braşov şi Chambray Touraine se vor duela diseară, de la ora 19.00, la Sala Sporturilor „D.P. Colibaşi”, pentru un loc în grupele EHF European League la handbal feminin. Fanii braşovenii vor umple diseară tribunele, interesul pentru această confruntare fiind uriaş. Astfel, partida se va disputa cu casa închisă, biletele fiind epuiuzate online. Corona Braşov …",
-      "content_terms": [
-        "astfel",
-        "bilet",
-        "calificari",
-        "casa",
-        "chambray",
-        "colibasi",
-        "confruntare",
-        "corona",
-        "diseara",
-        "disputa",
-        "duela",
-        "ehf",
-        "epuiuzate",
-        "european",
-        "fanii",
-        "feminin",
-        "fiind",
-        "grup",
-        "handbal",
-        "inchisa",
-        "interes",
-        "juca",
-        "league",
-        "loc",
-        "meci",
-        "online",
-        "out",
-        "partida",
-        "runda",
-        "sala",
-        "sold",
-        "sport",
-        "touraine",
-        "tribun",
-        "umple",
-        "urias"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
-        "https://mytex.ro/sport/corona-brasov-cu-calificarea-pe-masa"
-      ],
-      "url": "https://mytex.ro/sport/corona-brasov-chambray-cu-casa-inchisa-sold-out/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-11-15T14:42:14+02:00",
-      "coverage": [
-        {
-          "title": "Corona Braşov - Chambray Touraine, cu casa închisă. Meciul se vede şi la TV",
-          "url": "https://mytex.ro/sport/corona-brasov-chambray-cu-casa-inchisa-sold-out/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "4b391aa5cd35c5a0"
     }
   ]
 }
