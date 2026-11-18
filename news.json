@@ -1,9 +1,28 @@
 {
-  "updated": "18.11.2026, 04:00",
-  "count": 69,
+  "updated": "18.11.2026, 05:00",
+  "count": 68,
   "dedupe_version": 6,
-  "raw_count": 103,
+  "raw_count": 102,
   "items": [
+    {
+      "title": "FOTO Secretele argintarilor brașoveni: Povestea breslei care lucra podoabe pentru Constantin Brâncoveanu",
+      "summary": "Secretele argintarilor brașoveni: Povestea breslei care lucra podoabe pentru Constantin Brâncoveanu",
+      "content_terms": [],
+      "streets": [],
+      "references": [],
+      "url": "https://bizbrasov.ro/2026/11/18/brasoveni-secretele-argintarilor-breslei/",
+      "source": "BizBrașov",
+      "category": "🔥 Local",
+      "published": "2026-11-18T04:59:00+02:00",
+      "coverage": [
+        {
+          "title": "FOTO Secretele argintarilor brașoveni: Povestea breslei care lucra podoabe pentru Constantin Brâncoveanu",
+          "url": "https://bizbrasov.ro/2026/11/18/brasoveni-secretele-argintarilor-breslei/",
+          "source": "BizBrașov"
+        }
+      ],
+      "story_id": "2fc4e327c7b6d086"
+    },
     {
       "title": "Cutremur puternic în România! Seism de 5,7 grade în Vrancea, resimțit și la Brașov. L-ati simțit?",
       "summary": "Un cutremur cu magnitudinea de 5,7 grade pe scara Richter s-a produs miercuri, 18 noiembrie 2026, la ora 02:48, în zona seismică Vrancea. Seismul a avut loc",
@@ -566,6 +585,11 @@
           "title": "Hutchinson pregătește noi disponibilizări la fabrica din Cristian. 112 angajați ar putea rămâne fără locuri de muncă",
           "url": "https://www.brasov.net/hutchinson-pregateste-noi-disponibilizari-la-fabrica-din-cristian-112-angajati-ar-putea-ramane-fara-locuri-de-munca/",
           "source": "Brașov.net"
+        },
+        {
+          "title": "Fabrica Hutchinson din Brașov pregătește o nouă rundă de disponibilizări. Peste 100 de angajați, vizați",
+          "url": "https://bizbrasov.ro/2026/11/17/fabrica-hutchinson-brasov-concediati/",
+          "source": "BizBrașov"
         },
         {
           "title": "Disponibilizări colective la Hutchinson, în Cristian: 112 angajați ar putea rămâne fără locuri de muncă",
@@ -3050,11 +3074,6 @@
           "title": "„Carmen”, capodopera lui Georges Bizet, revine pe scena Operei Brașov",
           "url": "https://www.monitorulexpres.ro/2026/11/17/carmen-capodopera-lui-georges-bizet-revine-pe-scena-operei-brasov/",
           "source": "Monitorul Expres"
-        },
-        {
-          "title": "„Carmen” se joacă cu casa închisă, în două reprezentații, la Opera Brașov",
-          "url": "https://bizbrasov.ro/2026/11/16/carmen-se-joaca-cu-casa-inchisa-opera/",
-          "source": "BizBrașov"
         }
       ],
       "story_id": "2c159476a42d755d"
@@ -3384,25 +3403,6 @@
         }
       ],
       "story_id": "9a4e16ef7b4bd945"
-    },
-    {
-      "title": "Bărbat de 51 de ani din Codlea, încarcerat pentru 10 ani după o condamnare pentru viol",
-      "summary": "",
-      "content_terms": [],
-      "streets": [],
-      "references": [],
-      "url": "https://bizbrasov.ro/2026/11/17/codlea-incarcerat-barbat-viol-10-ani/",
-      "source": "BizBrașov",
-      "category": "🔥 Local",
-      "published": "2026-11-17T11:30:25+02:00",
-      "coverage": [
-        {
-          "title": "Bărbat de 51 de ani din Codlea, încarcerat pentru 10 ani după o condamnare pentru viol",
-          "url": "https://bizbrasov.ro/2026/11/17/codlea-incarcerat-barbat-viol-10-ani/",
-          "source": "BizBrașov"
-        }
-      ],
-      "story_id": "9c1d67c03cba1fcf"
     },
     {
       "title": "Creșa din Cristian: Investiție de 4 Milioane de Euro",
@@ -6536,71 +6536,6 @@
         }
       ],
       "story_id": "3ec2fcccb1a3ab85"
-    },
-    {
-      "title": "Corona Brașov, în urna a patra la tragerea la sorţi a grupelor EHF European League. Adversarele posibile...",
-      "summary": "Corona Brașov va fi în urna a patra la tragerea la sorţi a grupelor EHF European League la handbal feminin. Evenimentul va avea loc joi, de la ora 12.00 şi va fi transmis pe YouTube @thehomeofhandball. Corona Brașov, în urna a patra la tragerea la sorţi a grupelor EHF European League. Adversarele posibile… FOTO: Facebook …",
-      "content_terms": [
-        "avea",
-        "bourgogne",
-        "braila",
-        "corona",
-        "costa",
-        "croatia",
-        "danemarca",
-        "del",
-        "dijon",
-        "dunarea",
-        "dvsc",
-        "ehf",
-        "european",
-        "eveniment",
-        "feminin",
-        "franta",
-        "germania",
-        "grup",
-        "handbal",
-        "handbold",
-        "ikast",
-        "jda",
-        "joi",
-        "league",
-        "loc",
-        "lokomotiva",
-        "malaga",
-        "patra",
-        "savehof",
-        "sol",
-        "sorti",
-        "spania",
-        "suedia",
-        "thehomeofhandball",
-        "thuringer",
-        "tragerea",
-        "transmis",
-        "ungaria",
-        "urna",
-        "youtube",
-        "zagreb"
-      ],
-      "streets": [],
-      "references": [
-        "https://facebook.com/CSMCoronaBrasov?locale=ro_RO",
-        "https://facebook.com/ehfeuropeanleague",
-        "https://mytex.ro/sport/corona-brasov-in-grupele-ehf-european-league"
-      ],
-      "url": "https://mytex.ro/sport/corona-brasov-in-urna-a-patra-la-tragerea-la-sorti/",
-      "source": "MyTex",
-      "category": "⚽ Sport",
-      "published": "2026-11-16T16:54:00+02:00",
-      "coverage": [
-        {
-          "title": "Corona Brașov, în urna a patra la tragerea la sorţi a grupelor EHF European League. Adversarele posibile...",
-          "url": "https://mytex.ro/sport/corona-brasov-in-urna-a-patra-la-tragerea-la-sorti/",
-          "source": "MyTex"
-        }
-      ],
-      "story_id": "9228c40d8296fdfd"
     }
   ]
 }
